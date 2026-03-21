@@ -1,21 +1,13 @@
 <map id="BattleAnimationReaction" name="BattleAnimationReaction">
-<area shape="rect" id="Node000001" title=" " alt="" coords="345,355,531,380"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="336,5,460,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="453,34,471,43,487,56,498,72,502,91,502,281,498,308,483,332,458,357,454,353,479,329,493,306,497,280,497,92,493,74,483,60,468,48,451,38"/>
-<area shape="rect" id="Node000003" href="$classKeyboardInputManager.html" title=" " alt="" coords="269,267,442,292"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="413,42,426,75,437,116,441,161,438,184,431,205,420,225,405,242,375,268,371,264,401,239,415,222,426,203,433,182,435,161,432,117,421,77,408,44"/>
-<area shape="rect" id="Node000004" href="$classInputTimeMapper.html" title="Maps input&#45;system timestamps to FMOD timeline time using DSP clock. Keeps a rolling sample of (inputT..." alt="" coords="115,179,252,204"/>
-<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="323,34,241,54,208,67,188,82,177,105,175,132,182,178,177,179,169,132,172,104,184,78,206,62,240,49,322,29"/>
-<area shape="rect" id="Node000005" href="$classFmodMusicController.html" title=" " alt="" coords="199,80,360,105"/>
-<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="368,40,300,82,297,78,366,36"/>
-<area shape="rect" id="Node000008" href="$classNotes_1_1Lane_1_1LaneRouter.html" title="레인별 &quot;가장 먼저 생성된 노트 1개만&quot; 판정 활성화. (0.1초 내 두 노트가 같은 레인에서 동시에 터지는 문제 해결)" alt="" coords="254,129,427,155"/>
-<area shape="poly" id="edge11_Node000008_Node000002" title=" " alt="" coords="396,45,387,75,374,107,355,131,351,128,369,104,382,73,391,44"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="368,304,385,329,416,352,413,357,381,333,364,307"/>
-<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="203,213,234,240,263,254,294,264,292,269,261,259,231,245,199,217"/>
-<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="229,113,205,131,192,155,187,179,182,178,187,153,201,128,226,109"/>
-<area shape="rect" id="Node000006" href="$classNoteSettings.html" title=" " alt="" coords="17,80,123,105"/>
-<area shape="poly" id="edge8_Node000004_Node000006" title=" " alt="" coords="73,119,77,137,87,153,103,167,124,176,121,181,101,171,83,156,73,139,68,120"/>
-<area shape="rect" id="Node000007" title=" " alt="" coords="5,5,135,31"/>
-<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="73,45,73,80,67,80,67,45"/>
-<area shape="poly" id="edge10_Node000003_Node000008" title=" " alt="" coords="346,168,357,266,351,267,341,169"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="163,269,348,295"/>
+<area shape="rect" id="Node000002" href="$classKeyboardInputManager.html" title=" " alt="" coords="169,181,342,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,221,258,269,253,269,253,221"/>
+<area shape="rect" id="Node000003" href="$classInputTimeMapper.html" title="Maps input&#45;system timestamps to FMOD timeline time using DSP clock. Keeps a rolling sample of (inputT..." alt="" coords="96,93,233,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="183,128,206,155,238,179,234,183,203,159,179,132"/>
+<area shape="rect" id="Node000004" href="$classFmodMusicController.html" title=" " alt="" coords="5,5,167,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="108,39,156,91,152,95,104,43"/>
+<area shape="rect" id="Node000005" href="$classNoteSettings.html" title=" " alt="" coords="191,5,298,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="227,43,178,95,174,91,223,39"/>
+<area shape="rect" id="Node000006" href="$classNotes_1_1Lane_1_1LaneRouter.html" title="레인별 &quot;가장 먼저 생성된 노트 1개만&quot; 판정 활성화. (0.1초 내 두 노트가 같은 레인에서 동시에 터지는 문제 해결)" alt="" coords="258,93,431,119"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="325,130,270,183,266,179,321,126"/>
 </map>

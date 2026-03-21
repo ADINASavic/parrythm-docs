@@ -1,9 +1,7 @@
 <map id="Notes.Square.SquareVisualBase" name="Notes.Square.SquareVisualBase">
-<area shape="rect" id="Node000001" title=" " alt="" coords="100,79,331,104"/>
-<area shape="rect" id="Node000003" href="$classNotes_1_1Square_1_1SquareVisualNormal.html" title=" " alt="" coords="5,152,204,192"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,114,133,154,130,150,186,110"/>
-<area shape="rect" id="Node000004" href="$classNotes_1_1Square_1_1SquareVisualTrail.html" title=" " alt="" coords="228,152,427,192"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="245,110,302,150,299,154,242,114"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="153,5,277,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,44,218,79,213,79,213,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="100,5,331,31"/>
+<area shape="rect" id="Node000002" href="$classNotes_1_1Square_1_1SquareVisualNormal.html" title=" " alt="" coords="5,79,204,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,41,133,81,130,76,186,36"/>
+<area shape="rect" id="Node000003" href="$classNotes_1_1Square_1_1SquareVisualTrail.html" title=" " alt="" coords="228,79,427,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="245,36,302,76,299,81,242,41"/>
 </map>

@@ -1,8 +1,5 @@
 <map id="TextExitHoldIndicator" name="TextExitHoldIndicator">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,168,167,193"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="19,5,143,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,44,88,168,83,168,79,45"/>
-<area shape="rect" id="Node000003" href="$classFmodMusicController.html" title=" " alt="" coords="103,80,264,105"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="110,37,168,78,165,82,107,41"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,116,101,169,98,165,158,112"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,93,167,119"/>
+<area shape="rect" id="Node000002" href="$classFmodMusicController.html" title=" " alt="" coords="5,5,167,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,45,89,93,83,93,83,45"/>
 </map>

@@ -1,8 +1,5 @@
 <map id="CameraTweenTrack" name="CameraTweenTrack">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,168,153,193"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="12,5,136,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,44,82,168,76,168,72,45"/>
-<area shape="rect" id="Node000003" href="$classFixed16x9Camera.html" title=" " alt="" coords="95,80,234,105"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="101,37,151,77,148,82,97,41"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,117,93,169,89,166,141,113"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,93,153,119"/>
+<area shape="rect" id="Node000002" href="$classFixed16x9Camera.html" title=" " alt="" coords="10,5,149,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,45,82,93,77,93,77,45"/>
 </map>

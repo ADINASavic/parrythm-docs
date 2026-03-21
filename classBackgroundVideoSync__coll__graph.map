@@ -1,8 +1,5 @@
 <map id="BackgroundVideoSync" name="BackgroundVideoSync">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,168,172,193"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="21,5,145,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,44,91,168,86,168,82,45"/>
-<area shape="rect" id="Node000003" href="$classFmodMusicController.html" title=" " alt="" coords="105,80,267,105"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="113,37,171,78,168,82,110,41"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,116,104,169,100,165,161,112"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,93,172,119"/>
+<area shape="rect" id="Node000002" href="$classFmodMusicController.html" title=" " alt="" coords="8,5,169,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,45,91,93,86,93,86,45"/>
 </map>

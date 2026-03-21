@@ -1,15 +1,9 @@
 <map id="Notes.Square.SquareVisualLong" name="Notes.Square.SquareVisualLong">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,256,235,281"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="87,5,211,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,45,129,168,123,256,118,255,124,168,142,44"/>
-<area shape="rect" id="Node000003" href="$classNotes_1_1Square_1_1SquareNoteTimeline.html" title=" " alt="" coords="139,168,386,193"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="155,44,163,74,177,104,210,140,245,166,242,170,206,144,172,107,158,76,150,45"/>
-<area shape="rect" id="Node000004" href="$classFmodMusicController.html" title=" " alt="" coords="187,80,349,105"/>
-<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="182,36,250,78,248,82,179,40"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,203,141,258,138,253,231,198"/>
-<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="269,119,266,168,261,167,264,119"/>
-<area shape="rect" id="Node000005" href="$classNoteSettings.html" title=" " alt="" coords="373,80,480,105"/>
-<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="394,114,286,170,284,165,391,109"/>
-<area shape="rect" id="Node000006" title=" " alt="" coords="362,5,491,31"/>
-<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="429,45,429,80,424,80,424,45"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="50,181,279,207"/>
+<area shape="rect" id="Node000002" href="$classNotes_1_1Square_1_1SquareNoteTimeline.html" title=" " alt="" coords="41,93,288,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,133,167,181,162,181,162,133"/>
+<area shape="rect" id="Node000003" href="$classFmodMusicController.html" title=" " alt="" coords="5,5,167,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="108,39,156,91,152,95,104,43"/>
+<area shape="rect" id="Node000004" href="$classNoteSettings.html" title=" " alt="" coords="191,5,298,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="227,43,178,95,174,91,223,39"/>
 </map>

@@ -1,11 +1,7 @@
 <map id="CircleNoteInit" name="CircleNoteInit">
-<area shape="rect" id="Node000001" title=" " alt="" coords="109,168,220,193"/>
-<area shape="rect" id="Node000002" href="$classFmodMusicController.html" title=" " alt="" coords="5,80,167,105"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,114,156,166,152,169,104,117"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="24,5,148,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,45,89,80,83,80,83,45"/>
-<area shape="rect" id="Node000004" href="$classNoteSettings.html" title=" " alt="" coords="191,80,298,105"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="227,117,178,169,174,166,223,114"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="180,5,309,31"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="247,45,247,80,242,80,242,45"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="109,93,220,119"/>
+<area shape="rect" id="Node000002" href="$classFmodMusicController.html" title=" " alt="" coords="5,5,167,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,39,156,91,152,95,104,43"/>
+<area shape="rect" id="Node000003" href="$classNoteSettings.html" title=" " alt="" coords="191,5,298,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,43,178,95,174,91,223,39"/>
 </map>
