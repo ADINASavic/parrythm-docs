@@ -1,9 +1,0 @@
-<map id="FMOD.Studio.System.loadBankFile" name="FMOD.Studio.System.loadBankFile">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,253,70"/>
-<area shape="rect" id="Node000002" href="$classFMOD_1_1StringHelper_1_1ThreadSafeEncoding.html#ab70a9e17e9e5d8cb538d2f5ccb8ce5cc" title=" " alt="" coords="301,5,549,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,42,287,38,288,43,247,47"/>
-<area shape="rect" id="Node000003" href="$classFMOD_1_1StringHelper.html#a9affc786ba136449cca2d2bea1759dc2" title=" " alt="" coords="325,69,526,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,67,311,74,310,80,247,73"/>
-<area shape="rect" id="Node000004" href="$classFMOD_1_1StringHelper_1_1ThreadSafeEncoding.html#a1f8a8af1da0acd7601b4348db9088c4f" title=" " alt="" coords="597,69,792,109"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="526,87,584,87,584,92,526,92"/>
-</map>

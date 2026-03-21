@@ -1,8 +1,0 @@
-<map id="FMODUnity.FMODRuntimeManagerOnGUIHelper" name="FMODUnity.FMODRuntimeManagerOnGUIHelper">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,168,256,208"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="63,5,187,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,44,133,168,127,168,123,44"/>
-<area shape="rect" id="Node000003" href="$classFMODUnity_1_1RuntimeManager.html" title=" " alt="" coords="147,80,357,105"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="159,35,233,77,230,82,156,40"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,116,157,170,154,166,225,111"/>
-</map>

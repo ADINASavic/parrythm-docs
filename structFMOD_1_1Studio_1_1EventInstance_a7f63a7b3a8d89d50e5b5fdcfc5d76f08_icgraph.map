@@ -1,7 +1,0 @@
-<map id="FMOD.Studio.EventInstance.release" name="FMOD.Studio.EventInstance.release">
-<area shape="rect" id="Node000001" title=" " alt="" coords="531,5,785,31"/>
-<area shape="rect" id="Node000002" href="$classSongPreviewPlayer.html#aa94509036378ff60e0e3bf53c87f53cf" title=" " alt="" coords="232,5,483,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="517,21,483,21,483,15,517,15"/>
-<area shape="rect" id="Node000003" href="$classSongPreviewPlayer.html#aa18177497573096e940c63a2cc793184" title=" " alt="" coords="5,5,184,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="218,21,184,21,184,15,218,15"/>
-</map>

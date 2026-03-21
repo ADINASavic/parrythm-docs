@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['judge_0',['Judge',['../classJudge.html',1,'']]]
+  ['keyboardinputmanager_0',['KeyboardInputManager',['../classKeyboardInputManager.html',1,'']]]
 ];

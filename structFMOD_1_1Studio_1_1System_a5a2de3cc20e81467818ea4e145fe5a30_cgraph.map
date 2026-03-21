@@ -1,9 +1,0 @@
-<map id="FMOD.Studio.System.loadCommandReplay" name="FMOD.Studio.System.loadCommandReplay">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,264,77"/>
-<area shape="rect" id="Node000002" href="$classFMOD_1_1StringHelper_1_1ThreadSafeEncoding.html#ab70a9e17e9e5d8cb538d2f5ccb8ce5cc" title=" " alt="" coords="312,5,560,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,41,298,37,298,43,265,46"/>
-<area shape="rect" id="Node000003" href="$classFMOD_1_1StringHelper.html#a9affc786ba136449cca2d2bea1759dc2" title=" " alt="" coords="335,69,537,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="265,68,322,75,321,80,264,74"/>
-<area shape="rect" id="Node000004" href="$classFMOD_1_1StringHelper_1_1ThreadSafeEncoding.html#a1f8a8af1da0acd7601b4348db9088c4f" title=" " alt="" coords="608,69,803,109"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="537,87,594,87,594,92,537,92"/>
-</map>

@@ -1,23 +1,4 @@
 var searchData=
 [
-  ['easeutil_0',['EaseUtil',['../classEaseUtil.html',1,'']]],
-  ['editorbankref_1',['EditorBankRef',['../classFMODUnity_1_1EditorBankRef.html',1,'FMODUnity']]],
-  ['editoreventref_2',['EditorEventRef',['../classFMODUnity_1_1EditorEventRef.html',1,'FMODUnity']]],
-  ['editorparamref_3',['EditorParamRef',['../classFMODUnity_1_1EditorParamRef.html',1,'FMODUnity']]],
-  ['editorsettings_4',['EditorSettings',['../classFMODUnity_1_1EditorSettings.html',1,'FMODUnity']]],
-  ['editorutils_5',['EditorUtils',['../classFMODUnity_1_1EditorUtils.html',1,'FMODUnity']]],
-  ['emitterref_6',['EmitterRef',['../classFMODUnity_1_1EmitterRef.html',1,'FMODUnity']]],
-  ['error_7',['Error',['../classFMOD_1_1Error.html',1,'FMOD']]],
-  ['errorcallback_5finfo_8',['ERRORCALLBACK_INFO',['../structFMOD_1_1ERRORCALLBACK__INFO.html',1,'FMOD']]],
-  ['eventbrowser_9',['EventBrowser',['../classFMODUnity_1_1EventBrowser.html',1,'FMODUnity']]],
-  ['eventcache_10',['EventCache',['../classFMODUnity_1_1EventCache.html',1,'FMODUnity']]],
-  ['eventdescription_11',['EventDescription',['../structFMOD_1_1Studio_1_1EventDescription.html',1,'FMOD::Studio']]],
-  ['eventhandler_12',['EventHandler',['../classFMODUnity_1_1EventHandler.html',1,'FMODUnity']]],
-  ['eventinstance_13',['EventInstance',['../structFMOD_1_1Studio_1_1EventInstance.html',1,'FMOD::Studio']]],
-  ['eventmanager_14',['EventManager',['../classFMODUnity_1_1EventManager.html',1,'FMODUnity']]],
-  ['eventnotfoundexception_15',['EventNotFoundException',['../classFMODUnity_1_1EventNotFoundException.html',1,'FMODUnity']]],
-  ['eventrefattribute_16',['EventRefAttribute',['../classFMODUnity_1_1EventRefAttribute.html',1,'FMODUnity']]],
-  ['eventreference_17',['EventReference',['../structFMODUnity_1_1EventReference.html',1,'FMODUnity']]],
-  ['eventreferencedrawer_18',['EventReferenceDrawer',['../classFMODUnity_1_1EventReferenceDrawer.html',1,'FMODUnity']]],
-  ['eventreferenceupdater_19',['EventReferenceUpdater',['../classFMODUnity_1_1EventReferenceUpdater.html',1,'FMODUnity']]]
+  ['easeutil_0',['EaseUtil',['../classEaseUtil.html',1,'']]]
 ];

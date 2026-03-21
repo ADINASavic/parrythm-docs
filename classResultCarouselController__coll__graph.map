@@ -1,11 +1,7 @@
 <map id="ResultCarouselController" name="ResultCarouselController">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,271,189,296"/>
-<area shape="rect" id="Node000002" href="$classCarouselController.html" title="Generic carousel UI controller for horizontal scrolling card selection. Handles visual layout,..." alt="" coords="26,196,169,221"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,236,100,270,95,270,95,236"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="14,93,138,119"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="84,131,98,195,92,197,79,133"/>
-<area shape="rect" id="Node000004" href="$structFMODUnity_1_1EventReference.html" title=" " alt="" coords="163,93,365,119"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="235,128,118,198,115,194,232,123"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="233,5,295,31"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="267,45,267,93,261,93,261,45"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,152,189,177"/>
+<area shape="rect" id="Node000002" href="$classCarouselController.html" title="Generic carousel UI controller for horizontal scrolling card selection. Handles visual layout,..." alt="" coords="26,79,169,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,118,100,152,95,152,95,118"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="35,5,159,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="100,44,100,79,95,79,95,44"/>
 </map>

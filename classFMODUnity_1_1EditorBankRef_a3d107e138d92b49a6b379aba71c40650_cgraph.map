@@ -1,8 +1,0 @@
-<map id="FMODUnity.EditorBankRef.SetPath" name="FMODUnity.EditorBankRef.SetPath">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,200,75"/>
-<area shape="rect" id="Node000002" href="$classFMODUnity_1_1EditorBankRef.html#a7811144fe3f113ab813c004158947939" title=" " alt="" coords="248,5,443,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,40,234,36,235,41,201,46"/>
-<area shape="rect" id="Node000003" href="$classFMODUnity_1_1RuntimeUtils.html#a22903cb7e4f01d57c9cc86464bc33c7f" title=" " alt="" coords="491,35,701,75"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="200,54,248,55,443,55,477,54,477,60,443,60,248,60,200,59"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="443,34,477,38,477,43,443,39"/>
-</map>

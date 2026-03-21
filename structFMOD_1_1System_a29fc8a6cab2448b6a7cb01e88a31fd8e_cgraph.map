@@ -1,9 +1,0 @@
-<map id="FMOD.System.createChannelGroup" name="FMOD.System.createChannelGroup">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,219,77"/>
-<area shape="rect" id="Node000002" href="$classFMOD_1_1StringHelper_1_1ThreadSafeEncoding.html#ab70a9e17e9e5d8cb538d2f5ccb8ce5cc" title=" " alt="" coords="267,5,515,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,42,253,39,253,44,219,48"/>
-<area shape="rect" id="Node000003" href="$classFMOD_1_1StringHelper.html#a9affc786ba136449cca2d2bea1759dc2" title=" " alt="" coords="290,69,491,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,67,276,74,276,79,219,72"/>
-<area shape="rect" id="Node000004" href="$classFMOD_1_1StringHelper_1_1ThreadSafeEncoding.html#a1f8a8af1da0acd7601b4348db9088c4f" title=" " alt="" coords="563,69,757,109"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="492,87,549,87,549,92,492,92"/>
-</map>

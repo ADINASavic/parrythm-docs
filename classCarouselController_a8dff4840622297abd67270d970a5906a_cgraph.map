@@ -1,6 +1,0 @@
-<map id="CarouselController.PlayMoveSE" name="CarouselController.PlayMoveSE">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,232,62"/>
-<area shape="rect" id="Node000002" href="$classFMODUnity_1_1RuntimeManager.html#a3e5d2f5a4452c630056c7cecbc6a6c3b" title=" " alt="" coords="280,29,495,69"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,47,266,47,266,52,232,52"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="338,30,335,20,343,10,360,5,387,3,418,5,435,13,433,18,417,11,387,8,361,10,346,15,340,21,343,28"/>
-</map>

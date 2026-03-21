@@ -1,8 +1,0 @@
-<map id="FMODUnity.EditorUtils.GetParentFolder" name="FMODUnity.EditorUtils.GetParentFolder">
-<area shape="rect" id="Node000001" title=" " alt="" coords="511,29,705,69"/>
-<area shape="rect" id="Node000002" href="$classFMODUnity_1_1EditorUtils.html#a8927c00f8fc209a1575f77a7b1b7e6d2" title=" " alt="" coords="248,29,463,69"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="497,52,463,52,463,47,497,47"/>
-<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="398,18,383,11,355,8,331,10,316,15,311,21,314,28,309,30,306,20,313,10,330,5,355,3,384,6,400,13"/>
-<area shape="rect" id="Node000003" href="$classFMODUnity_1_1EditorSettings.html#a6eacac91a7a9409412baa24c615f7d02" title=" " alt="" coords="5,29,200,69"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="235,52,200,52,200,47,235,47"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="FMODUnity.EventBrowser.ChooseBank" name="FMODUnity.EventBrowser.ChooseBank">
-<area shape="rect" id="Node000001" title=" " alt="" coords="271,45,544,70"/>
-<area shape="rect" id="Node000002" href="$classFMODUnity_1_1BankRefDrawer.html#a79253b214c46ba6c61695d3241e0dea8" title=" " alt="" coords="12,5,216,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="277,46,216,39,217,34,278,41"/>
-<area shape="rect" id="Node000003" href="$classFMODUnity_1_1StudioBankLoaderEditor.html#aced9a3c59f852a3c90a45a6e1090f646" title=" " alt="" coords="5,69,223,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="277,74,223,80,223,75,277,69"/>
-</map>

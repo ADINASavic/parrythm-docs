@@ -1,34 +1,29 @@
 <map id="SliderNote" name="SliderNote">
-<area shape="rect" id="Node000001" title=" " alt="" coords="485,559,576,584"/>
-<area shape="rect" id="Node000002" href="$classNoteBase.html" title=" " alt="" coords="416,471,501,496"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="479,505,523,556,519,560,475,508"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="449,93,573,119"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="587,115,627,127,663,145,689,171,697,188,700,207,700,397,694,407,678,417,626,437,502,474,501,469,624,432,675,412,690,403,695,396,695,208,692,189,685,174,660,149,625,132,586,120"/>
-<area shape="rect" id="Node000004" href="$classJudge.html" title=" " alt="" coords="208,245,267,271"/>
-<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="459,126,381,155,340,175,300,198,271,223,249,247,245,243,267,219,297,194,337,170,379,150,457,121"/>
-<area shape="rect" id="Node000009" href="$classInputRouter.html" title=" " alt="" coords="409,383,508,408"/>
-<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="512,133,506,196,495,271,479,335,465,383,460,382,474,334,489,270,500,195,506,132"/>
-<area shape="rect" id="Node000010" href="$classFmodMusicController.html" title=" " alt="" coords="311,196,473,221"/>
-<area shape="poly" id="edge12_Node000010_Node000003" title=" " alt="" coords="489,129,407,198,404,194,485,125"/>
-<area shape="rect" id="Node000011" href="$classInputTimeMapper.html" title="Maps input&#45;system timestamps to FMOD timeline time using DSP clock. Keeps a rolling sample of (inputT..." alt="" coords="522,295,659,320"/>
-<area shape="poly" id="edge16_Node000011_Node000003" title=" " alt="" coords="526,130,532,142,567,228,589,293,584,295,562,230,527,144,521,132"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="240,285,244,320,256,358,270,387,285,408,303,426,329,444,372,464,416,474,415,480,371,469,327,449,299,430,280,412,266,390,251,360,239,321,235,285"/>
-<area shape="poly" id="edge14_Node000009_Node000004" title=" " alt="" coords="252,281,280,321,298,340,319,356,364,376,410,387,409,392,362,382,316,361,294,344,276,324,248,284"/>
-<area shape="rect" id="Node000005" href="$structFMODUnity_1_1EventReference.html" title=" " alt="" coords="5,93,208,119"/>
-<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="113,131,119,151,129,171,149,194,172,214,216,243,213,247,168,218,145,197,124,173,114,153,108,133"/>
-<area shape="poly" id="edge13_Node000010_Node000005" title=" " alt="" coords="153,121,361,193,359,199,151,126"/>
-<area shape="rect" id="Node000006" title=" " alt="" coords="75,5,138,31"/>
-<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="109,45,109,93,104,93,104,45"/>
-<area shape="rect" id="Node000007" href="$classNoteSettings.html" title=" " alt="" coords="749,196,856,221"/>
-<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="804,236,799,283,785,341,760,400,741,426,718,449,700,458,676,464,618,469,559,470,514,473,502,475,501,470,513,468,559,465,618,464,675,458,698,453,714,444,737,423,755,397,780,340,794,282,799,235"/>
-<area shape="poly" id="edge18_Node000011_Node000007" title=" " alt="" coords="766,229,617,297,615,292,764,225"/>
-<area shape="rect" id="Node000008" title=" " alt="" coords="738,93,867,119"/>
-<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="805,133,805,196,800,196,800,133"/>
-<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="461,422,461,470,456,470,456,422"/>
-<area shape="poly" id="edge19_Node000002_Node000010" title=" " alt="" coords="390,235,386,270,384,314,388,361,400,407,422,442,447,469,443,472,418,446,395,409,382,362,378,314,380,270,385,235"/>
-<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="402,234,429,319,456,382,451,384,424,321,396,235"/>
-<area shape="poly" id="edge17_Node000011_Node000010" title=" " alt="" coords="429,225,568,292,566,297,427,230"/>
-<area shape="poly" id="edge15_Node000009_Node000011" title=" " alt="" coords="563,330,478,385,475,380,560,325"/>
-<area shape="rect" id="Node000012" title=" " alt="" coords="525,471,584,496"/>
-<area shape="poly" id="edge20_Node000001_Node000012" title=" " alt="" coords="550,510,537,559,531,557,545,509"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="208,432,299,457"/>
+<area shape="rect" id="Node000002" href="$classNoteBase.html" title=" " alt="" coords="139,344,224,369"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,378,245,430,241,433,198,382"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="119,5,243,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,24,71,31,39,44,16,63,10,76,8,92,8,270,11,289,21,305,35,318,53,329,96,343,139,350,138,355,95,348,51,334,32,323,17,309,6,291,3,270,3,91,5,75,12,60,36,39,69,26,105,19"/>
+<area shape="rect" id="Node000004" href="$classJudge.html" title=" " alt="" coords="85,168,144,193"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="171,44,165,56,121,169,116,167,160,54,166,42"/>
+<area shape="rect" id="Node000007" href="$classInputRouter.html" title=" " alt="" coords="132,256,231,281"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="184,45,184,255,179,255,179,45"/>
+<area shape="rect" id="Node000008" href="$classFmodMusicController.html" title=" " alt="" coords="219,80,381,105"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="214,36,282,78,280,82,211,40"/>
+<area shape="rect" id="Node000009" href="$classInputTimeMapper.html" title="Maps input&#45;system timestamps to FMOD timeline time using DSP clock. Keeps a rolling sample of (inputT..." alt="" coords="365,168,502,193"/>
+<area shape="poly" id="edge13_Node000009_Node000003" title=" " alt="" coords="258,22,292,29,329,40,364,56,395,78,412,99,424,124,435,167,429,168,419,126,408,102,392,82,361,60,327,45,291,34,256,27"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="99,205,80,242,77,261,81,280,95,300,114,317,154,342,151,346,111,322,91,304,76,282,71,262,75,240,94,203"/>
+<area shape="poly" id="edge11_Node000007_Node000004" title=" " alt="" coords="116,207,124,231,136,244,152,254,149,258,133,248,119,233,111,208"/>
+<area shape="rect" id="Node000005" href="$classNoteSettings.html" title=" " alt="" coords="471,80,577,105"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="531,119,530,157,526,177,517,195,496,216,464,238,381,281,290,319,216,346,214,341,288,314,379,276,462,233,493,212,512,192,521,175,525,156,525,119"/>
+<area shape="poly" id="edge15_Node000009_Node000005" title=" " alt="" coords="488,115,466,131,451,150,441,169,436,167,447,147,462,127,484,110"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="459,5,589,31"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="527,45,527,80,521,80,521,45"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="184,295,184,343,179,343,179,295"/>
+<area shape="poly" id="edge16_Node000002_Node000008" title=" " alt="" coords="297,120,270,227,251,283,233,322,220,335,205,346,202,342,216,331,228,318,247,281,265,226,292,118"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="307,119,309,145,307,175,300,206,285,234,261,253,232,264,230,259,258,248,281,230,295,204,302,174,303,145,301,119"/>
+<area shape="poly" id="edge14_Node000009_Node000008" title=" " alt="" coords="324,112,363,142,408,166,405,170,360,146,321,117"/>
+<area shape="poly" id="edge12_Node000007_Node000009" title=" " alt="" coords="399,202,321,235,231,259,230,254,319,229,397,197"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="248,344,307,369"/>
+<area shape="poly" id="edge17_Node000001_Node000010" title=" " alt="" coords="273,383,259,432,254,431,268,382"/>
 </map>

@@ -1,7 +1,0 @@
-var classFMOD_1_1CONSTANTS =
-[
-    [ "MAX_CHANNEL_WIDTH", "classFMOD_1_1CONSTANTS.html#a70c465f447ef0b0e4a677a4501ab14d0", null ],
-    [ "MAX_LISTENERS", "classFMOD_1_1CONSTANTS.html#aab9c79951c81cd83f7cf9aa0eaa5b22b", null ],
-    [ "MAX_SYSTEMS", "classFMOD_1_1CONSTANTS.html#a97cd6831133f0c17f4a85b7302efd972", null ],
-    [ "REVERB_MAXINSTANCES", "classFMOD_1_1CONSTANTS.html#a4207844d479291dfd313179c3b6881a1", null ]
-];

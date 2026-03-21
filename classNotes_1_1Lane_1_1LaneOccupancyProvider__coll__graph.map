@@ -1,26 +1,22 @@
 <map id="Notes.Lane.LaneOccupancyProvider" name="Notes.Lane.LaneOccupancyProvider">
-<area shape="rect" id="Node000001" title=" " alt="" coords="395,471,596,511"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="440,93,564,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="571,120,603,133,633,151,654,176,660,191,662,207,662,397,656,423,640,445,617,461,590,473,588,468,614,456,636,441,651,421,657,396,657,208,655,192,649,178,629,155,601,138,569,125"/>
-<area shape="rect" id="Node000003" href="$classKeyboardInputManager.html" title=" " alt="" coords="409,383,582,408"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="524,128,561,178,579,210,593,245,594,258,593,271,592,297,584,321,570,341,552,359,517,385,514,380,549,355,566,338,580,319,587,296,587,270,589,258,587,246,574,213,557,181,519,131"/>
-<area shape="rect" id="Node000004" href="$classInputTimeMapper.html" title="Maps input&#45;system timestamps to FMOD timeline time using DSP clock. Keeps a rolling sample of (inputT..." alt="" coords="281,295,419,320"/>
-<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="487,132,361,296,357,293,482,129"/>
-<area shape="rect" id="Node000005" href="$classFmodMusicController.html" title=" " alt="" coords="189,196,351,221"/>
-<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="434,125,382,145,363,159,345,174,298,198,296,194,342,170,360,155,379,140,432,120"/>
-<area shape="rect" id="Node000010" href="$classNotes_1_1Lane_1_1LaneRouter.html" title="레인별 &quot;가장 먼저 생성된 노트 1개만&quot; 판정 활성화. (0.1초 내 두 노트가 같은 레인에서 동시에 터지는 문제 해결)" alt="" coords="415,245,589,271"/>
-<area shape="poly" id="edge13_Node000010_Node000002" title=" " alt="" coords="505,133,505,245,499,245,499,133"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="498,422,498,470,493,470,493,422"/>
-<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="367,329,394,357,419,370,446,380,444,385,417,375,391,361,363,333"/>
-<area shape="poly" id="edge14_Node000001_Node000005" title=" " alt="" coords="238,231,226,247,223,258,226,270,244,306,268,339,297,369,328,396,393,439,451,468,449,473,391,443,325,400,293,373,264,343,240,309,221,272,217,258,221,244,234,228"/>
-<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="295,229,309,244,345,293,341,296,305,247,292,233"/>
-<area shape="rect" id="Node000006" href="$structFMODUnity_1_1EventReference.html" title=" " alt="" coords="159,93,362,119"/>
-<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="257,132,255,152,257,171,266,195,261,197,251,173,250,152,252,132"/>
-<area shape="rect" id="Node000007" title=" " alt="" coords="229,5,292,31"/>
-<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="263,45,263,93,258,93,258,45"/>
-<area shape="rect" id="Node000008" href="$classNoteSettings.html" title=" " alt="" coords="45,196,151,221"/>
-<area shape="poly" id="edge10_Node000004_Node000008" title=" " alt="" coords="138,224,246,268,315,292,313,297,244,273,136,229"/>
-<area shape="rect" id="Node000009" title=" " alt="" coords="5,93,135,119"/>
-<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="79,131,97,195,92,197,74,133"/>
-<area shape="poly" id="edge12_Node000003_Node000010" title=" " alt="" coords="503,284,499,383,493,382,498,284"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="314,355,515,395"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="190,5,314,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="328,25,383,34,436,48,475,66,487,78,492,91,492,281,488,304,476,324,445,356,441,353,472,321,483,302,487,280,487,92,483,81,472,71,434,53,382,40,327,30"/>
+<area shape="rect" id="Node000003" href="$classKeyboardInputManager.html" title=" " alt="" coords="160,267,333,292"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="247,45,232,116,227,160,229,204,236,238,245,266,240,267,231,239,224,204,222,160,226,115,242,44"/>
+<area shape="rect" id="Node000004" href="$classInputTimeMapper.html" title="Maps input&#45;system timestamps to FMOD timeline time using DSP clock. Keeps a rolling sample of (inputT..." alt="" coords="239,179,377,204"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="262,43,281,104,306,178,301,179,276,106,257,45"/>
+<area shape="rect" id="Node000005" href="$classFmodMusicController.html" title=" " alt="" coords="290,80,451,105"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="284,36,353,78,350,82,282,40"/>
+<area shape="rect" id="Node000008" href="$classNotes_1_1Lane_1_1LaneRouter.html" title="레인별 &quot;가장 먼저 생성된 노트 1개만&quot; 판정 활성화. (0.1초 내 두 노트가 같은 레인에서 동시에 터지는 문제 해결)" alt="" coords="5,129,179,155"/>
+<area shape="poly" id="edge11_Node000008_Node000002" title=" " alt="" coords="215,39,184,57,138,96,104,131,100,127,135,92,181,52,212,34"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="281,296,382,352,379,357,278,301"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="294,217,257,268,253,265,289,214"/>
+<area shape="poly" id="edge12_Node000001_Node000005" title=" " alt="" coords="388,117,393,129,408,192,416,256,418,354,413,355,410,257,403,193,388,130,383,119"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="358,118,318,180,313,177,354,115"/>
+<area shape="rect" id="Node000006" href="$classNoteSettings.html" title=" " alt="" coords="527,80,633,105"/>
+<area shape="poly" id="edge8_Node000004_Node000006" title=" " alt="" coords="536,112,341,181,339,176,534,107"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="515,5,645,31"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="583,45,583,80,577,80,577,45"/>
+<area shape="poly" id="edge10_Node000003_Node000008" title=" " alt="" coords="96,168,100,186,109,202,130,224,155,241,207,264,205,269,152,245,126,228,105,206,95,188,91,169"/>
 </map>

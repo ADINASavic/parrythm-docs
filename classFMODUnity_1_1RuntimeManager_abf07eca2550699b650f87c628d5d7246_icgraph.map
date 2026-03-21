@@ -1,7 +1,0 @@
-<map id="FMODUnity.RuntimeManager.UnloadBank" name="FMODUnity.RuntimeManager.UnloadBank">
-<area shape="rect" id="Node000001" title=" " alt="" coords="273,37,488,77"/>
-<area shape="rect" id="Node000002" href="$classFMODUnity_1_1StudioBankLoader.html#a7bad8cc786172c4ae9b41b66c56023e3" title=" " alt="" coords="5,5,225,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,45,225,41,226,36,260,40"/>
-<area shape="rect" id="Node000003" href="$classFMODUnity_1_1RuntimeManager.html#abd4abe5083ebafa7a7e63f506c17d50a" title=" " alt="" coords="8,69,223,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="260,75,223,79,222,74,260,69"/>
-</map>

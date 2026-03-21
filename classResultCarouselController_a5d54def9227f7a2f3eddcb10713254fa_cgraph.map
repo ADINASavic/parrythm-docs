@@ -1,8 +1,5 @@
 <map id="ResultCarouselController.OnIndexConfirmed" name="ResultCarouselController.OnIndexConfirmed">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,192,69"/>
-<area shape="rect" id="Node000002" href="$classCarouselController.html#a545b5c3b9a9c9b500356180c60ebf777" title=" " alt="" coords="240,37,481,62"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,47,226,47,226,52,192,52"/>
-<area shape="rect" id="Node000003" href="$classFMODUnity_1_1RuntimeManager.html#a3e5d2f5a4452c630056c7cecbc6a6c3b" title=" " alt="" coords="529,29,744,69"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="481,47,515,47,515,52,481,52"/>
-<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="586,30,583,20,591,10,609,5,637,3,668,5,686,13,684,18,667,11,637,8,610,10,594,15,588,21,591,28"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,192,45"/>
+<area shape="rect" id="Node000002" href="$classCarouselController.html#a545b5c3b9a9c9b500356180c60ebf777" title=" " alt="" coords="240,13,481,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,23,226,23,226,28,192,28"/>
 </map>

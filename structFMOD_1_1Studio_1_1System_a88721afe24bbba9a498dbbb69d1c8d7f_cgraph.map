@@ -1,9 +1,0 @@
-<map id="FMOD.Studio.System.getBus" name="FMOD.Studio.System.getBus">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,215,70"/>
-<area shape="rect" id="Node000002" href="$classFMOD_1_1StringHelper_1_1ThreadSafeEncoding.html#ab70a9e17e9e5d8cb538d2f5ccb8ce5cc" title=" " alt="" coords="263,5,511,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,43,249,39,249,44,215,48"/>
-<area shape="rect" id="Node000003" href="$classFMOD_1_1StringHelper.html#a9affc786ba136449cca2d2bea1759dc2" title=" " alt="" coords="286,69,487,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,67,272,73,272,79,215,72"/>
-<area shape="rect" id="Node000004" href="$classFMOD_1_1StringHelper_1_1ThreadSafeEncoding.html#a1f8a8af1da0acd7601b4348db9088c4f" title=" " alt="" coords="559,69,753,109"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="488,87,545,87,545,92,488,92"/>
-</map>

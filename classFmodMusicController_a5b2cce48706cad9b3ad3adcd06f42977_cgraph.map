@@ -1,19 +1,5 @@
 <map id="FmodMusicController.PlayWhenReady" name="FmodMusicController.PlayWhenReady">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,181,197,221"/>
-<area shape="rect" id="Node000002" href="$classFMODUnity_1_1RuntimeManager.html#a3e5d2f5a4452c630056c7cecbc6a6c3b" title=" " alt="" coords="537,29,752,69"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,179,245,148,400,105,541,70,542,75,401,110,246,153,156,184"/>
-<area shape="rect" id="Node000003" href="$classFmodMusicController.html#aa9cb79a2c424c80605ded74cee10f7e3" title=" " alt="" coords="257,163,471,189"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="197,189,243,185,243,190,198,195"/>
-<area shape="rect" id="Node000006" href="$structFMOD_1_1Studio_1_1EventInstance.html#a9d02e462c4dea9d92e9c6b20c0818b14" title=" " alt="" coords="531,245,758,285"/>
-<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="198,210,518,248,517,253,197,215"/>
-<area shape="rect" id="Node000007" href="$structFMOD_1_1Studio_1_1EventInstance.html#a85e8bd074e09c26f247f565dfbdfd55c" title=" " alt="" coords="245,265,483,290"/>
-<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="167,219,246,243,302,259,301,264,245,248,165,224"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="593,30,590,20,598,10,616,5,645,3,677,5,695,13,693,18,676,11,645,8,617,10,601,15,595,21,598,28"/>
-<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="383,161,447,121,530,79,549,71,551,76,532,84,449,126,386,165"/>
-<area shape="rect" id="Node000004" href="$structFMOD_1_1Studio_1_1EventInstance.html#a5d72ef8cad6fc2211e8ecae3f951ff2a" title=" " alt="" coords="531,93,759,133"/>
-<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="421,161,540,134,541,139,422,166"/>
-<area shape="rect" id="Node000005" href="$classFMODUnity_1_1RuntimeManager.html#aaf3a7111e087e29e2f764911e4813803" title=" " alt="" coords="537,181,752,221"/>
-<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="472,183,524,188,523,193,471,188"/>
-<area shape="poly" id="edge8_Node000003_Node000006" title=" " alt="" coords="422,186,484,206,532,231,552,239,551,244,530,236,482,210,421,191"/>
-<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="593,182,590,172,598,162,616,157,645,155,677,157,695,165,693,170,676,163,645,160,617,162,601,167,595,173,598,180"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,197,45"/>
+<area shape="rect" id="Node000002" href="$classFmodMusicController.html#aa9cb79a2c424c80605ded74cee10f7e3" title=" " alt="" coords="245,13,460,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,23,232,23,232,28,197,28"/>
 </map>

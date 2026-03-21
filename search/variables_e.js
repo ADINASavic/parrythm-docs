@@ -1,22 +1,10 @@
 var searchData=
 [
-  ['occupancy_0',['occupancy',['../classNotes_1_1Square_1_1SquareNoteJudge.html#aa065fec573133fbcefca8022e835e22b',1,'Notes.Square.SquareNoteJudge.occupancy'],['../classNoteSpawner.html#a61516b7059d617484d64317f97ceb2c1',1,'NoteSpawner.occupancy']]],
-  ['offset_1',['offset',['../structFMOD_1_1ASYNCREADINFO.html#af2ec9c12953c65982a0b7a6ced08c11b',1,'FMOD::ASYNCREADINFO']]],
-  ['onbuildended_2',['OnBuildEnded',['../classFMODUnity_1_1BuildStatusWatcher.html#a6a184685d8c28fb7aa63574f4ae382d3',1,'FMODUnity::BuildStatusWatcher']]],
-  ['onbuildstarted_3',['OnBuildStarted',['../classFMODUnity_1_1BuildStatusWatcher.html#a9225eb505e4c338a64c3190cce93e9aa',1,'FMODUnity::BuildStatusWatcher']]],
-  ['opencallback_4',['opencallback',['../structFMOD_1_1Studio_1_1BANK__INFO.html#ac785e36db6eae653155238b1d37b1c39',1,'FMOD::Studio::BANK_INFO']]],
-  ['outerradiusmultiplier_5',['outerRadiusMultiplier',['../classSliderNoteVisual.html#ac3d4a550efd72e8d629097c71d3da0fc',1,'SliderNoteVisual']]],
-  ['outlineinneroverlapmultiplier_6',['outlineInnerOverlapMultiplier',['../classSliderNoteVisual.html#aefc1f863d258750da85ece21c4f4ea7c',1,'SliderNoteVisual']]],
-  ['outlinesoftnessmultiplier_7',['outlineSoftnessMultiplier',['../classSliderNoteVisual.html#a963c3ccf37b9992a5dc847e71a930b6e',1,'SliderNoteVisual']]],
-  ['outlinesortingoffset_8',['outlineSortingOffset',['../classCircleNoteVisual.html#a5f1a4e17390611f15ec154ce57db051c',1,'CircleNoteVisual']]],
-  ['outlinesortingorder_9',['outlineSortingOrder',['../classSliderNoteVisual.html#a56b77fc696e322d5eeb77fd8a680179e',1,'SliderNoteVisual']]],
-  ['outlinethicknessmultiplier_10',['outlineThicknessMultiplier',['../classSliderNoteVisual.html#a57787c2897d15c257ba20d69f4691c96',1,'SliderNoteVisual']]],
-  ['outputhandle_11',['outputhandle',['../structFMOD_1_1Studio_1_1COMMAND__INFO.html#a5e846e136544e2085f57779c325dfa6f',1,'FMOD::Studio::COMMAND_INFO']]],
-  ['outputtype_12',['outputtype',['../structFMOD_1_1Studio_1_1COMMAND__INFO.html#a824d8e90bbdc577f1f7615e0a20bb93b',1,'FMOD::Studio::COMMAND_INFO']]],
-  ['overlay_13',['Overlay',['../classFMODUnity_1_1Platform_1_1PropertyStorage.html#aae5e7638000b3c592736eb8818538e45',1,'FMODUnity::Platform::PropertyStorage']]],
-  ['overlayfontsize_14',['OverlayFontSize',['../classFMODUnity_1_1Platform_1_1PropertyStorage.html#a6749deb888d44a4a5f65417600f84146',1,'FMODUnity::Platform::PropertyStorage']]],
-  ['overlayposition_15',['OverlayPosition',['../classFMODUnity_1_1Platform_1_1PropertyStorage.html#a8ba596c36f034c9c2ea07b040c8b3389',1,'FMODUnity::Platform::PropertyStorage']]],
-  ['overrideattenuation_16',['OverrideAttenuation',['../classFMODUnity_1_1StudioEventEmitter.html#a9066b86be72bf972386ec07474d221ef',1,'FMODUnity::StudioEventEmitter']]],
-  ['overridemaxdistance_17',['OverrideMaxDistance',['../classFMODUnity_1_1StudioEventEmitter.html#a9a39986aa804e1c0d11cf627aea86ebc',1,'FMODUnity::StudioEventEmitter']]],
-  ['overridemindistance_18',['OverrideMinDistance',['../classFMODUnity_1_1StudioEventEmitter.html#a049038c2dd77b2ad54da0e14a1b03d19',1,'FMODUnity::StudioEventEmitter']]]
+  ['occupancy_0',['occupancy',['../classNoteSpawner.html#a61516b7059d617484d64317f97ceb2c1',1,'NoteSpawner.occupancy'],['../classNotes_1_1Square_1_1SquareNoteJudge.html#aa065fec573133fbcefca8022e835e22b',1,'Notes.Square.SquareNoteJudge.occupancy']]],
+  ['outerradiusmultiplier_1',['outerRadiusMultiplier',['../classSliderNoteVisual.html#ac3d4a550efd72e8d629097c71d3da0fc',1,'SliderNoteVisual']]],
+  ['outlineinneroverlapmultiplier_2',['outlineInnerOverlapMultiplier',['../classSliderNoteVisual.html#aefc1f863d258750da85ece21c4f4ea7c',1,'SliderNoteVisual']]],
+  ['outlinesoftnessmultiplier_3',['outlineSoftnessMultiplier',['../classSliderNoteVisual.html#a963c3ccf37b9992a5dc847e71a930b6e',1,'SliderNoteVisual']]],
+  ['outlinesortingoffset_4',['outlineSortingOffset',['../classCircleNoteVisual.html#a5f1a4e17390611f15ec154ce57db051c',1,'CircleNoteVisual']]],
+  ['outlinesortingorder_5',['outlineSortingOrder',['../classSliderNoteVisual.html#a56b77fc696e322d5eeb77fd8a680179e',1,'SliderNoteVisual']]],
+  ['outlinethicknessmultiplier_6',['outlineThicknessMultiplier',['../classSliderNoteVisual.html#a57787c2897d15c257ba20d69f4691c96',1,'SliderNoteVisual']]]
 ];

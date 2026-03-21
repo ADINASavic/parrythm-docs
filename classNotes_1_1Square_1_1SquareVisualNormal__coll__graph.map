@@ -1,21 +1,17 @@
 <map id="Notes.Square.SquareVisualNormal" name="Notes.Square.SquareVisualNormal">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,447,204,487"/>
-<area shape="rect" id="Node000002" href="$classNotes_1_1Square_1_1SquareVisualBase.html" title=" " alt="" coords="35,372,174,397"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,411,107,447,102,447,102,411"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="21,93,145,119"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="88,132,106,372,101,372,83,132"/>
-<area shape="rect" id="Node000004" href="$classNotes_1_1Square_1_1SquareNoteTimeline.html" title=" " alt="" coords="124,284,371,309"/>
-<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="98,129,126,173,161,220,198,255,233,282,230,286,195,259,157,223,121,176,94,132"/>
-<area shape="rect" id="Node000005" href="$classFmodMusicController.html" title=" " alt="" coords="172,196,333,221"/>
-<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="121,123,154,140,237,194,235,198,151,145,118,127"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="218,319,125,374,123,369,215,314"/>
-<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="254,235,251,284,245,283,248,235"/>
-<area shape="rect" id="Node000006" href="$structFMODUnity_1_1EventReference.html" title=" " alt="" coords="170,93,373,119"/>
-<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="269,133,257,196,252,196,264,132"/>
-<area shape="rect" id="Node000007" title=" " alt="" coords="240,5,303,31"/>
-<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="274,45,274,93,269,93,269,45"/>
-<area shape="rect" id="Node000008" href="$classNoteSettings.html" title=" " alt="" coords="383,196,490,221"/>
-<area shape="poly" id="edge9_Node000004_Node000008" title=" " alt="" coords="400,230,274,286,272,281,398,225"/>
-<area shape="rect" id="Node000009" title=" " alt="" coords="397,93,527,119"/>
-<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="458,133,442,197,437,195,453,131"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,331,204,371"/>
+<area shape="rect" id="Node000002" href="$classNotes_1_1Square_1_1SquareVisualBase.html" title=" " alt="" coords="35,256,174,281"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,295,107,331,102,331,102,295"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="72,5,196,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="132,45,114,168,108,256,102,255,109,168,127,44"/>
+<area shape="rect" id="Node000004" href="$classNotes_1_1Square_1_1SquareNoteTimeline.html" title=" " alt="" coords="124,168,371,193"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="140,44,148,74,162,104,195,140,230,166,226,170,191,144,157,107,143,76,135,45"/>
+<area shape="rect" id="Node000005" href="$classFmodMusicController.html" title=" " alt="" coords="172,80,333,105"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="166,36,235,78,232,82,164,40"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="218,203,125,258,123,253,215,198"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="254,119,251,168,245,167,248,119"/>
+<area shape="rect" id="Node000006" href="$classNoteSettings.html" title=" " alt="" coords="358,80,465,105"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="378,114,271,170,268,165,376,109"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="347,5,476,31"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="414,45,414,80,409,80,409,45"/>
 </map>

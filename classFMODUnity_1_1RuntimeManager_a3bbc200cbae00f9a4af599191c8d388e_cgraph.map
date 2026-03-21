@@ -1,7 +1,0 @@
-<map id="FMODUnity.RuntimeManager.AttachInstanceToGameObject" name="FMODUnity.RuntimeManager.AttachInstanceToGameObject">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,220,45"/>
-<area shape="rect" id="Node000002" href="$classFMODUnity_1_1RuntimeUtils.html#a974e72d0d683d5843a211edcfd17dc96" title=" " alt="" coords="268,5,479,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,23,254,23,254,28,220,28"/>
-<area shape="rect" id="Node000003" href="$classFMODUnity_1_1RuntimeUtils.html#aecd3eff05e9fb5408781e8599878a9a2" title=" " alt="" coords="527,5,729,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="479,23,513,23,513,28,479,28"/>
-</map>

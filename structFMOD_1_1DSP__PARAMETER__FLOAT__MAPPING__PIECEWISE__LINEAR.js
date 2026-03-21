@@ -1,6 +1,0 @@
-var structFMOD_1_1DSP__PARAMETER__FLOAT__MAPPING__PIECEWISE__LINEAR =
-[
-    [ "numpoints", "structFMOD_1_1DSP__PARAMETER__FLOAT__MAPPING__PIECEWISE__LINEAR.html#a004801802907d5760757e80fb0cc64e8", null ],
-    [ "pointparamvalues", "structFMOD_1_1DSP__PARAMETER__FLOAT__MAPPING__PIECEWISE__LINEAR.html#a9491f5eb024387d14c970b279fabc7c7", null ],
-    [ "pointpositions", "structFMOD_1_1DSP__PARAMETER__FLOAT__MAPPING__PIECEWISE__LINEAR.html#a242660833d9883f786deaf6b0bb01b4f", null ]
-];

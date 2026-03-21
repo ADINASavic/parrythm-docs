@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['quad_0',['quad',['../namespaceFMOD.html#aa0732e7e8efd3b96b526a7f2f8479634ac88da92039291f825814816096db2ea2',1,'FMOD.QUAD'],['../namespaceFMOD.html#ae295945ff00acb5f2e5ef0b3f217f5e2ac88da92039291f825814816096db2ea2',1,'FMOD.QUAD']]],
-  ['quit_1',['Quit',['../classMenuController.html#a5126c94a0389fb14d0988147888c148ea0d82790b0612935992bd564a17ce37d6',1,'MenuController']]]
+  ['seconds_0',['Seconds',['../classLevelChartData.html#a0b5ea89b64e3c7efb60288b5593edca9a8f19a8c7566af54ea8981029730e5465',1,'LevelChartData']]],
+  ['selectsongs_1',['SelectSongs',['../classMenuController.html#a5126c94a0389fb14d0988147888c148eaae3ce8878096d44aeb158dca5253e030',1,'MenuController']]],
+  ['settings_2',['Settings',['../classMenuController.html#a5126c94a0389fb14d0988147888c148eaf4f70727dc34561dfde1a3c529b6205c',1,'MenuController']]],
+  ['slider_3',['Slider',['../classLevelChartData.html#ada812263c42510ed1c0fb9c2eb528a3fa2d9b9a764fb0be4be10e1b2fce63f561',1,'LevelChartData']]]
 ];
