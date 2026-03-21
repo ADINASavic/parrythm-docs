@@ -1,0 +1,9 @@
+<map id="FMODUnity.StagingSystem.UpdateStep.CacheDetails" name="FMODUnity.StagingSystem.UpdateStep.CacheDetails">
+<area shape="rect" id="Node000001" title=" " alt="" coords="788,5,989,45"/>
+<area shape="rect" id="Node000002" href="$classFMODUnity_1_1StagingSystem.html#a23c782ca6a581650f15aca3c990a8e27" title=" " alt="" coords="539,5,740,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="774,28,740,28,740,23,774,23"/>
+<area shape="rect" id="Node000003" href="$classFMODUnity_1_1StagingSystem.html#a0ed5549c0af5ab8469a5ee355415f343" title=" " alt="" coords="289,5,491,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="525,28,491,28,491,23,525,23"/>
+<area shape="rect" id="Node000004" href="$classFMODUnity_1_1SetupWizardWindow.html#a86a0c7dd87d2977cf285b6229a310796" title=" " alt="" coords="5,5,241,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="276,28,242,28,242,23,276,23"/>
+</map>

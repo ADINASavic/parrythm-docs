@@ -1,0 +1,9 @@
+<map id="Fixed16x9Camera.GetViewportRectPixels" name="Fixed16x9Camera.GetViewportRectPixels">
+<area shape="rect" id="Node000001" title=" " alt="" coords="501,37,725,77"/>
+<area shape="rect" id="Node000002" href="$classFixed16x9Camera.html#ad7a16ee8bc4686b3e9511c93e72e3080" title=" " alt="" coords="252,5,453,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="487,45,453,40,454,35,488,39"/>
+<area shape="rect" id="Node000003" href="$classFixed16x9Camera.html#a81c8451dec4a3b6ceb91ec3b68ce6f03" title=" " alt="" coords="253,69,452,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="488,75,453,80,452,75,487,70"/>
+<area shape="rect" id="Node000004" href="$classFixed16x9Camera.html#ad6276d018337d4eb6054a1d5c6c5ef73" title=" " alt="" coords="5,69,204,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="240,92,204,92,204,87,240,87"/>
+</map>

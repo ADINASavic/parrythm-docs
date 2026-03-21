@@ -1,0 +1,7 @@
+<map id="ChartTimelineRuntime.JudgeSec" name="ChartTimelineRuntime.JudgeSec">
+<area shape="rect" id="Node000001" title=" " alt="" coords="269,35,501,60"/>
+<area shape="rect" id="Node000002" href="$classGridNoteHandler.html#ae3482f87f309414b5269dd646d507b6d" title=" " alt="" coords="23,5,203,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,36,203,30,204,25,256,31"/>
+<area shape="rect" id="Node000003" href="$classChartTimelineRuntime.html#abb61579883e9e1f568f50c36e3531870" title=" " alt="" coords="5,55,221,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="256,63,222,67,221,62,255,58"/>
+</map>

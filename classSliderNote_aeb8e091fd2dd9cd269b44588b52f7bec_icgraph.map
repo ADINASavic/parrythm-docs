@@ -1,0 +1,7 @@
+<map id="SliderNote.ApplyGapGuide" name="SliderNote.ApplyGapGuide">
+<area shape="rect" id="Node000001" title=" " alt="" coords="484,5,679,31"/>
+<area shape="rect" id="Node000002" href="$classNoteSpawner.html#a04597846c1d46248236cb6b1f7541c12" title=" " alt="" coords="244,5,436,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="471,21,436,21,436,15,471,15"/>
+<area shape="rect" id="Node000003" href="$classSliderNoteHandler.html#a11968495f5e72ef382681ef50c0afc64" title=" " alt="" coords="5,5,196,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="230,21,196,21,196,15,230,15"/>
+</map>

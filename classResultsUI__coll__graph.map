@@ -1,0 +1,12 @@
+<map id="ResultsUI" name="ResultsUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="47,284,131,309"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,129,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,133,90,283,85,284,68,133"/>
+<area shape="rect" id="Node000003" href="$classJudge.html" title=" " alt="" coords="105,196,163,221"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="85,129,129,195,124,197,80,132"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,235,97,285,93,282,119,233"/>
+<area shape="rect" id="Node000004" href="$structFMODUnity_1_1EventReference.html" title=" " alt="" coords="154,93,357,119"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="233,129,149,198,146,194,229,125"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="224,5,287,31"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="258,45,258,93,253,93,253,45"/>
+</map>

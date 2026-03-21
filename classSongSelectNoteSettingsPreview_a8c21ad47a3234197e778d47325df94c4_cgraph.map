@@ -1,0 +1,5 @@
+<map id="SongSelectNoteSettingsPreview.Refresh" name="SongSelectNoteSettingsPreview.Refresh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,239,45"/>
+<area shape="rect" id="Node000002" href="$classNoteSettingsIO.html#ab61b9ef5a846cd96c8955a99e67fd64b" title="Returns runtime settings by cloning baseline and applying user partial overrides. Call this from game..." alt="" coords="287,13,517,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,23,273,23,273,28,239,28"/>
+</map>

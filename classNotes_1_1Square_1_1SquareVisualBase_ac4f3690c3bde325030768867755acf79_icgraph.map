@@ -1,0 +1,9 @@
+<map id="Notes.Square.SquareVisualBase.ApplyBaseColors" name="Notes.Square.SquareVisualBase.ApplyBaseColors">
+<area shape="rect" id="Node000001" title=" " alt="" coords="533,37,732,77"/>
+<area shape="rect" id="Node000002" href="$classNotes_1_1Square_1_1SquareVisualBase.html#a563e627ff8aa649486b34048761ff25f" title=" " alt="" coords="287,5,485,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="520,45,485,41,486,36,520,40"/>
+<area shape="rect" id="Node000003" href="$classNotes_1_1Square_1_1SquareVisualBase.html#a860aa072d59f10d119421a049cc0ca88" title=" " alt="" coords="287,69,485,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="520,75,486,79,485,74,520,69"/>
+<area shape="rect" id="Node000004" href="$classNotes_1_1Square_1_1SquareNoteVisual.html#a619e8d81b2338c1b46f1672daf65d961" title=" " alt="" coords="5,69,239,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="273,92,239,92,239,87,273,87"/>
+</map>

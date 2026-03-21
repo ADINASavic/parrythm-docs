@@ -1,0 +1,17 @@
+<map id="FMODUnity.RuntimeManager.CreateInstance" name="FMODUnity.RuntimeManager.CreateInstance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,175,220,215"/>
+<area shape="rect" id="Node000002" href="$structFMOD_1_1Studio_1_1EventDescription.html#a5686aeb4f0c8e743a24b7794bf463fa1" title=" " alt="" coords="268,5,535,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,173,186,114,224,82,267,55,282,48,284,53,269,60,227,86,189,118,133,176"/>
+<area shape="rect" id="Node000003" href="$classFMODUnity_1_1RuntimeManager.html#a56796e3b8cf923a08deb130bb5a8a2fa" title=" " alt="" coords="294,93,509,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,172,267,143,300,134,301,139,269,148,174,177"/>
+<area shape="rect" id="Node000004" href="$structFMOD_1_1Studio_1_1EventDescription.html#a80e80b6aee7abc0a4e11109b6593fcd2" title=" " alt="" coords="274,182,529,207"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="220,192,260,192,260,197,220,197"/>
+<area shape="rect" id="Node000005" href="$structFMOD_1_1Studio_1_1EventInstance.html#a9ddc8dd0f262b92e879ae37221fa4737" title=" " alt="" coords="284,232,519,272"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="215,212,287,227,286,232,214,217"/>
+<area shape="rect" id="Node000006" href="$classFMODUnity_1_1RuntimeUtils.html#a974e72d0d683d5843a211edcfd17dc96" title=" " alt="" coords="296,296,507,336"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="144,213,201,248,269,282,291,289,289,294,267,286,198,252,141,217"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="349,94,346,84,354,74,373,69,401,67,434,69,452,77,450,82,433,75,401,72,374,74,357,79,351,85,354,92"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="356,184,346,174,351,164,370,157,401,155,442,160,453,165,457,171,452,173,450,169,441,165,401,161,371,163,354,168,351,173,360,180"/>
+<area shape="rect" id="Node000007" href="$classFMODUnity_1_1RuntimeUtils.html#aecd3eff05e9fb5408781e8599878a9a2" title=" " alt="" coords="583,296,785,336"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="507,313,569,313,569,319,507,319"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="NoteBase.DoGood" name="NoteBase.DoGood">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,147,31"/>
+<area shape="rect" id="Node000002" href="$classJudge.html#a3ac356c9438fcb089cdab7462a2c5554" title=" " alt="" coords="195,5,335,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,15,181,15,181,21,147,21"/>
+<area shape="rect" id="Node000003" href="$classJudge.html#a420d7d313b02df052975a6bb8a4fbcab" title=" " alt="" coords="383,5,528,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="335,15,369,15,369,21,335,21"/>
+<area shape="rect" id="Node000004" href="$interfaceIGaugeCommand.html#a3e15d283316f614ee46582c8fa2d5c1a" title=" " alt="" coords="576,5,823,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="528,15,562,15,562,21,528,21"/>
+</map>

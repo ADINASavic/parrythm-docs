@@ -1,0 +1,21 @@
+<map id="FMODUnity.EditorUtils.GetMetering" name="FMODUnity.EditorUtils.GetMetering">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,177,200,217"/>
+<area shape="rect" id="Node000002" href="$classFMODUnity_1_1EditorUtils.html#af9aad6a3e5c920a17a645cc9c9457191" title=" " alt="" coords="264,33,475,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,175,176,129,210,104,247,83,263,76,265,81,249,88,213,109,179,133,126,179"/>
+<area shape="rect" id="Node000005" href="$structFMOD_1_1ChannelGroup.html#a8b27214e36ff3c1280ab0ff29144842a" title=" " alt="" coords="265,98,474,123"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="144,175,193,153,247,133,282,124,284,129,249,139,195,158,146,180"/>
+<area shape="rect" id="Node000006" href="$structFMOD_1_1System.html#aa03f6c1ce05970455094eb25af983443" title=" " alt="" coords="250,148,489,188"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="200,184,236,180,237,185,200,189"/>
+<area shape="rect" id="Node000007" href="$structFMOD_1_1DSP.html#aea1a9c6ca03fdb46a6f3a506e5fe0679" title=" " alt="" coords="270,213,469,238"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="200,205,257,211,256,216,200,210"/>
+<area shape="rect" id="Node000009" href="$structFMOD_1_1System.html#a991aa0b7999f27f24bf832aec287492f" title=" " alt="" coords="248,262,491,287"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="154,215,249,248,282,256,281,262,247,253,152,220"/>
+<area shape="rect" id="Node000010" href="$structFMOD_1_1System.html#a33b75777c0363c614826cca922b54d32" title=" " alt="" coords="255,312,483,352"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="128,215,182,257,249,298,267,305,265,310,247,302,179,261,125,220"/>
+<area shape="rect" id="Node000003" href="$classFMODUnity_1_1RuntimeUtils.html#acb5b93753c7743b5ac72abdd2eebf3da" title=" " alt="" coords="539,5,769,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="475,40,525,35,525,41,475,46"/>
+<area shape="rect" id="Node000004" href="$classFMOD_1_1Error.html#aaf08aed6f877103189fe20a60dcc87ce" title=" " alt="" coords="585,70,723,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="475,62,571,72,571,77,475,67"/>
+<area shape="rect" id="Node000008" href="$structFMOD_1_1DSP.html#a5c06ec2536f742c22ba98932290ca8f8" title=" " alt="" coords="567,205,741,245"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="469,223,553,223,553,228,469,228"/>
+</map>

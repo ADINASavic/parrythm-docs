@@ -1,0 +1,21 @@
+<map id="IGaugeCommand.ApplyJudgement" name="IGaugeCommand.ApplyJudgement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="707,55,953,80"/>
+<area shape="rect" id="Node000002" href="$classJudge.html#aa5b8edd89f89abe73579ddfcd63ebee0" title=" " alt="" coords="476,5,659,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="748,55,635,33,636,28,749,49"/>
+<area shape="rect" id="Node000003" href="$classJudge.html#a3b0911bb0e6bccb849ca9ecff10df572" title=" " alt="" coords="478,55,657,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="693,70,657,70,657,65,693,65"/>
+<area shape="rect" id="Node000004" href="$classJudge.html#a420d7d313b02df052975a6bb8a4fbcab" title=" " alt="" coords="495,104,640,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="749,85,636,107,635,101,748,80"/>
+<area shape="rect" id="Node000005" href="$classJudge.html#a3ac356c9438fcb089cdab7462a2c5554" title=" " alt="" coords="288,104,428,129"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="480,119,428,119,428,114,480,114"/>
+<area shape="rect" id="Node000006" href="$classNoteBase.html#aa3070cce12df6f48a2038a9f57a543a5" title=" " alt="" coords="52,5,193,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="328,98,288,70,239,44,193,31,195,26,241,40,290,65,331,93"/>
+<area shape="rect" id="Node000007" href="$classNoteBase.html#ab83244e39ec074fc78d312c22d46bf7b" title=" " alt="" coords="54,55,191,80"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="285,104,239,94,185,83,187,77,241,89,286,98"/>
+<area shape="rect" id="Node000008" href="$classNoteBase.html#ae16675afc9557b2500201e8e86c56b25" title=" " alt="" coords="46,104,199,129"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="274,119,199,119,199,114,274,114"/>
+<area shape="rect" id="Node000009" href="$classCircleNote.html#ab00ba6a2b08806b61badfbadad0160b0" title=" " alt="" coords="5,153,240,179"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="284,135,185,156,184,151,283,130"/>
+<area shape="rect" id="Node000010" href="$classSliderNote.html#a65d82b1828370cb7d6a488488e372ae8" title=" " alt="" coords="13,203,233,228"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="331,140,290,167,241,192,201,205,200,200,239,188,287,163,328,135"/>
+</map>

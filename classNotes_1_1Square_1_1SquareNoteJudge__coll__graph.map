@@ -1,0 +1,38 @@
+<map id="Notes.Square.SquareNoteJudge" name="Notes.Square.SquareNoteJudge">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1855,159,2080,185"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="190,253,314,278"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="265,239,308,175,339,136,376,97,418,61,465,31,516,10,570,3,1634,3,1686,8,1736,21,1784,41,1829,65,1905,116,1954,157,1950,161,1902,120,1827,70,1782,46,1734,26,1685,13,1634,8,570,8,517,15,467,35,421,65,380,101,343,139,313,178,270,242"/>
+<area shape="rect" id="Node000003" href="$classNotes_1_1Square_1_1SquareNoteTimeline.html" title=" " alt="" coords="873,98,1120,123"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="271,240,316,197,345,175,376,158,440,133,508,115,576,103,645,95,775,90,885,95,885,101,775,96,645,100,577,108,509,120,442,138,378,162,348,180,319,201,275,244"/>
+<area shape="rect" id="Node000004" href="$classFmodMusicController.html" title=" " alt="" coords="491,329,652,354"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="298,281,378,307,491,329,490,334,377,312,297,286"/>
+<area shape="rect" id="Node000009" href="$classNotes_1_1Lane_1_1LaneOccupancyProvider.html" title=" " alt="" coords="1532,303,1733,343"/>
+<area shape="poly" id="edge11_Node000009_Node000002" title=" " alt="" coords="282,284,333,318,402,356,442,373,484,387,527,397,570,400,1340,400,1408,394,1476,379,1536,360,1586,340,1588,345,1538,365,1477,384,1409,399,1340,405,570,405,526,402,482,392,440,378,400,361,330,323,279,288"/>
+<area shape="rect" id="Node000010" href="$classKeyboardInputManager.html" title=" " alt="" coords="1252,241,1425,266"/>
+<area shape="poly" id="edge13_Node000010_Node000002" title=" " alt="" coords="327,250,377,241,526,214,591,203,676,195,831,188,953,194,1074,210,1228,232,1268,238,1267,243,1228,237,1073,215,952,199,831,193,676,200,592,209,527,219,378,247,328,255"/>
+<area shape="rect" id="Node000011" href="$classInputTimeMapper.html" title="Maps input&#45;system timestamps to FMOD timeline time using DSP clock. Keeps a rolling sample of (inputT..." alt="" coords="928,283,1065,309"/>
+<area shape="poly" id="edge15_Node000011_Node000002" title=" " alt="" coords="328,266,928,291,928,296,327,271"/>
+<area shape="rect" id="Node000012" href="$classNotes_1_1Lane_1_1LaneRouter.html" title="레인별 &quot;가장 먼저 생성된 노트 1개만&quot; 판정 활성화. (0.1초 내 두 노트가 같은 레인에서 동시에 터지는 문제 해결)" alt="" coords="676,245,849,270"/>
+<area shape="poly" id="edge19_Node000012_Node000002" title=" " alt="" coords="328,261,676,256,676,261,328,267"/>
+<area shape="rect" id="Node000013" href="$classJudge.html" title=" " alt="" coords="542,442,601,467"/>
+<area shape="poly" id="edge22_Node000013_Node000002" title=" " alt="" coords="268,289,312,353,343,387,379,415,420,434,465,445,542,452,541,458,464,450,419,439,376,420,339,391,307,357,264,292"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1134,117,1855,162,1854,168,1134,122"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="590,316,627,278,675,240,721,216,760,204,799,193,848,176,969,121,971,126,850,181,801,198,761,209,723,221,677,245,631,282,594,319"/>
+<area shape="poly" id="edge20_Node000009_Node000004" title=" " alt="" coords="666,341,676,341,849,341,1227,333,1532,324,1532,329,1227,338,849,347,676,347,666,347"/>
+<area shape="poly" id="edge16_Node000011_Node000004" title=" " alt="" coords="665,336,755,331,849,321,938,306,939,311,850,327,755,336,666,341"/>
+<area shape="rect" id="Node000005" href="$structFMODUnity_1_1EventReference.html" title=" " alt="" coords="151,502,353,527"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="287,493,545,352,548,356,290,498"/>
+<area shape="poly" id="edge23_Node000013_Node000005" title=" " alt="" coords="296,530,333,541,376,549,422,551,466,541,495,526,521,506,558,466,562,469,525,510,498,531,468,547,422,556,376,554,332,546,295,535"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,502,68,527"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="82,512,151,512,151,517,82,517"/>
+<area shape="rect" id="Node000007" href="$classNoteSettings.html" title=" " alt="" coords="518,43,625,69"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="638,59,850,83,928,95,927,101,849,88,638,64"/>
+<area shape="poly" id="edge17_Node000011_Node000007" title=" " alt="" coords="610,72,677,103,728,116,771,121,811,131,831,143,851,162,860,176,864,189,864,214,863,239,867,251,875,262,900,279,929,289,927,294,897,284,871,266,862,253,858,240,858,214,859,190,855,178,847,166,828,148,809,136,770,126,727,122,675,108,608,77"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="187,43,317,69"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="331,53,518,53,518,59,331,59"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="1689,295,1937,182,1939,187,1692,299"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="1407,267,1547,300,1546,305,1406,272"/>
+<area shape="poly" id="edge14_Node000010_Node000011" title=" " alt="" coords="1078,284,1228,265,1252,262,1252,268,1228,271,1079,289"/>
+<area shape="poly" id="edge18_Node000010_Node000012" title=" " alt="" coords="863,253,1144,251,1252,250,1252,256,1144,256,863,259"/>
+<area shape="poly" id="edge21_Node000001_Node000013" title=" " alt="" coords="614,452,995,452,1634,452,1665,450,1694,443,1751,418,1802,382,1847,339,1886,293,1917,249,1957,183,1962,186,1922,252,1890,296,1851,342,1805,386,1753,423,1696,448,1666,455,1634,457,995,457,614,457"/>
+</map>

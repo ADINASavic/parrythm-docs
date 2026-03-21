@@ -1,0 +1,31 @@
+<map id="FMODUnity.Platform.PropertyStorage" name="FMODUnity.Platform.PropertyStorage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="731,260,945,300"/>
+<area shape="rect" id="Node000002" href="$classFMODUnity_1_1Platform_1_1PropertyBool.html" title=" " alt="" coords="305,43,548,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="562,44,637,55,674,66,708,83,733,101,755,122,790,171,816,220,832,259,827,261,811,222,786,174,751,126,729,105,705,88,672,71,636,60,561,50"/>
+<area shape="rect" id="Node000003" href="$classFMODUnity_1_1Platform_1_1Property.html" title=" " alt="" coords="38,43,223,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="237,53,305,53,305,59,237,59"/>
+<area shape="rect" id="Node000004" href="$classFMODUnity_1_1Platform_1_1PropertyInt.html" title=" " alt="" coords="311,141,542,166"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="512,166,549,176,573,185,640,200,670,205,708,216,757,236,801,257,798,262,755,241,706,221,669,211,639,205,571,191,547,181,510,172"/>
+<area shape="rect" id="Node000005" href="$classFMODUnity_1_1Platform_1_1Property.html" title=" " alt="" coords="69,141,193,166"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="206,151,311,151,311,156,206,156"/>
+<area shape="rect" id="Node000006" href="$classFMODUnity_1_1Platform_1_1PropertyScreenPosition.html" title=" " alt="" coords="319,191,534,231"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="548,228,731,259,730,265,547,234"/>
+<area shape="rect" id="Node000007" href="$classFMODUnity_1_1Platform_1_1Property.html" title=" " alt="" coords="29,198,232,223"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="246,208,319,208,319,213,246,213"/>
+<area shape="rect" id="Node000008" href="$classFMODUnity_1_1Platform_1_1PropertyString.html" title=" " alt="" coords="319,255,534,295"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="548,276,572,276,730,277,730,283,572,281,548,281"/>
+<area shape="rect" id="Node000009" href="$classFMODUnity_1_1Platform_1_1Property.html" title=" " alt="" coords="59,262,203,287"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="216,272,319,272,319,277,216,277"/>
+<area shape="rect" id="Node000010" href="$classFMODUnity_1_1Platform_1_1PropertySpeakerMode.html" title=" " alt="" coords="319,319,534,359"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="548,320,706,297,730,294,731,299,707,303,549,325"/>
+<area shape="rect" id="Node000011" href="$classFMODUnity_1_1Platform_1_1Property.html" title=" " alt="" coords="5,326,256,351"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="270,336,319,336,319,341,270,341"/>
+<area shape="rect" id="Node000012" href="$classFMODUnity_1_1Platform_1_1PropertyStringList.html" title=" " alt="" coords="319,383,534,423"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="547,388,626,373,706,351,760,326,806,298,809,303,763,330,708,356,627,379,548,393"/>
+<area shape="rect" id="Node000013" href="$classFMODUnity_1_1Platform_1_1Property.html" title=" " alt="" coords="32,390,229,415"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="243,400,319,400,319,405,243,405"/>
+<area shape="rect" id="Node000014" href="$classFMODUnity_1_1Platform_1_1PropertyCallbackHandler.html" title=" " alt="" coords="319,447,534,487"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="547,453,627,435,668,422,705,404,741,381,773,352,820,298,824,302,777,356,744,385,708,409,669,427,629,440,548,458"/>
+<area shape="rect" id="Node000015" href="$classFMODUnity_1_1Platform_1_1Property.html" title=" " alt="" coords="29,447,233,487"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="246,464,319,464,319,469,246,469"/>
+</map>

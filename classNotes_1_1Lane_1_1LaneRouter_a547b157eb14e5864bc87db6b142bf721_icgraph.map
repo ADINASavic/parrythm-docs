@@ -1,0 +1,11 @@
+<map id="Notes.Lane.LaneRouter.Register" name="Notes.Lane.LaneRouter.Register">
+<area shape="rect" id="Node000001" title=" " alt="" coords="472,31,703,56"/>
+<area shape="rect" id="Node000002" href="$classNoteSpawner.html#a1fe7a7218c433b964bc24eba5634db50" title=" " alt="" coords="239,5,422,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="458,33,422,30,422,24,458,28"/>
+<area shape="rect" id="Node000004" href="$classNoteSpawner.html#a4906be9f42f731a6391b03eef08561ed" title=" " alt="" coords="237,55,424,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="458,58,424,61,424,56,458,53"/>
+<area shape="rect" id="Node000003" href="$classGridNoteHandler.html#ae3482f87f309414b5269dd646d507b6d" title=" " alt="" coords="7,5,187,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="225,21,187,21,187,15,225,15"/>
+<area shape="rect" id="Node000005" href="$classLongNoteHandler.html#a731192bd5058e8ecae66f3f5d51237ab" title=" " alt="" coords="5,55,189,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="223,70,190,70,190,65,223,65"/>
+</map>

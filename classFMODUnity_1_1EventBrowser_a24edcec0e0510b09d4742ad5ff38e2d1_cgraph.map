@@ -1,0 +1,13 @@
+<map id="FMODUnity.EventBrowser.OnEnable" name="FMODUnity.EventBrowser.OnEnable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,216,107"/>
+<area shape="rect" id="Node000002" href="$classFMODUnity_1_1EditorUtils.html#a3ed1703fcfca094a71ebcfb6b1dc5739" title=" " alt="" coords="272,35,475,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,71,258,66,259,71,217,76"/>
+<area shape="rect" id="Node000006" href="$classFMODUnity_1_1EventBrowser_1_1TreeView_1_1State.html#ab23662e120324891d7cbffbe6417b763" title=" " alt="" coords="264,99,483,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="217,97,251,101,250,106,216,102"/>
+<area shape="rect" id="Node000003" href="$classFMODUnity_1_1EditorUtils.html#af9aad6a3e5c920a17a645cc9c9457191" title=" " alt="" coords="531,35,741,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="475,52,517,52,517,57,475,57"/>
+<area shape="rect" id="Node000004" href="$classFMODUnity_1_1RuntimeUtils.html#acb5b93753c7743b5ac72abdd2eebf3da" title=" " alt="" coords="789,5,1020,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="741,41,776,37,776,42,742,46"/>
+<area shape="rect" id="Node000005" href="$classFMOD_1_1Error.html#aaf08aed6f877103189fe20a60dcc87ce" title=" " alt="" coords="835,70,974,95"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="742,63,822,71,822,77,741,68"/>
+</map>

@@ -1,0 +1,27 @@
+var classFMOD_1_1PRESET =
+[
+    [ "ALLEY", "classFMOD_1_1PRESET.html#a4da51f2600a1c038a04647325c7713a1", null ],
+    [ "ARENA", "classFMOD_1_1PRESET.html#acde80a8345c707c7f3df71670c06716d", null ],
+    [ "AUDITORIUM", "classFMOD_1_1PRESET.html#ae490944fdd4e2cc3baea2e82d425d6c7", null ],
+    [ "BATHROOM", "classFMOD_1_1PRESET.html#aa1baf1d0a506b811d5a914fecf6d4419", null ],
+    [ "CARPETTEDHALLWAY", "classFMOD_1_1PRESET.html#ab00bc9d1e75236bc4cfe6b8a7f1955c6", null ],
+    [ "CAVE", "classFMOD_1_1PRESET.html#a4b0a7dac93f9f5eecf5b90e250c08cf7", null ],
+    [ "CITY", "classFMOD_1_1PRESET.html#a148217b955b41ce4853a96cdfbfff1b9", null ],
+    [ "CONCERTHALL", "classFMOD_1_1PRESET.html#ae86e3115b83079fd27aa7301954d9d3a", null ],
+    [ "FOREST", "classFMOD_1_1PRESET.html#ae2e55de2f958ba39e853d5f00cf5adab", null ],
+    [ "GENERIC", "classFMOD_1_1PRESET.html#a278c39a93034cdf2092728b2af39a883", null ],
+    [ "HALLWAY", "classFMOD_1_1PRESET.html#ab03f3b2f75d45ca67a1904d2ed051264", null ],
+    [ "HANGAR", "classFMOD_1_1PRESET.html#a06ff25958ac447b28c9b2bd1d2b968af", null ],
+    [ "LIVINGROOM", "classFMOD_1_1PRESET.html#a1816472cd37476ded50f6539e2f74a74", null ],
+    [ "MOUNTAINS", "classFMOD_1_1PRESET.html#a423a485c6d240e705c110c31ed0d9b21", null ],
+    [ "OFF", "classFMOD_1_1PRESET.html#a97c0406d633e3fa3159c9f4787d5144b", null ],
+    [ "PADDEDCELL", "classFMOD_1_1PRESET.html#a8ab601e61b8a92d984f838999ac3e5ff", null ],
+    [ "PARKINGLOT", "classFMOD_1_1PRESET.html#a68fbe6cc90e5a4b82ffb49512ce42191", null ],
+    [ "PLAIN", "classFMOD_1_1PRESET.html#a2b657d2b5240f359752ad6058a8f86c8", null ],
+    [ "QUARRY", "classFMOD_1_1PRESET.html#a47482de1ffe1d96cf26443d831d42008", null ],
+    [ "ROOM", "classFMOD_1_1PRESET.html#a8381d1df80b9f43f77a54a100ffc116d", null ],
+    [ "SEWERPIPE", "classFMOD_1_1PRESET.html#ada14a6238378e3f2c615bbf62408627e", null ],
+    [ "STONECORRIDOR", "classFMOD_1_1PRESET.html#a3b8d220ad2fb00869e90177bca64fc6c", null ],
+    [ "STONEROOM", "classFMOD_1_1PRESET.html#ad9b05728a49866ebfc5d822a392b4001", null ],
+    [ "UNDERWATER", "classFMOD_1_1PRESET.html#aaba513a279a8993c88ddf076ce2dabcf", null ]
+];

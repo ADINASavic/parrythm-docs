@@ -1,0 +1,9 @@
+<map id="FMOD.System.getPluginInfo" name="FMOD.System.getPluginInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,211,70"/>
+<area shape="rect" id="Node000002" href="$classFMOD_1_1StringHelper.html#a9affc786ba136449cca2d2bea1759dc2" title=" " alt="" coords="271,5,473,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,42,257,37,258,42,211,48"/>
+<area shape="rect" id="Node000004" href="$classFMOD_1_1StringHelper_1_1ThreadSafeEncoding.html#a41e4b376e550dda55bac868b6f39a5bd" title=" " alt="" coords="259,69,485,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="211,67,245,71,245,77,210,72"/>
+<area shape="rect" id="Node000003" href="$classFMOD_1_1StringHelper_1_1ThreadSafeEncoding.html#a1f8a8af1da0acd7601b4348db9088c4f" title=" " alt="" coords="533,5,728,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="473,23,519,23,519,28,473,28"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="FMODUnity.EventReferenceDrawer.OnGUI" name="FMODUnity.EventReferenceDrawer.OnGUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,101,208,141"/>
+<area shape="rect" id="Node000002" href="$classFMODUnity_1_1EventBrowser.html#a5bb00810f0b5e9d322d46bae22f5b90a" title=" " alt="" coords="256,5,496,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,99,255,55,280,47,281,52,257,60,151,104"/>
+<area shape="rect" id="Node000003" href="$classFMODUnity_1_1EventBrowser.html#afebd741724db61aa2607b60e0ce62b5e" title=" " alt="" coords="259,69,493,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,107,246,102,246,107,208,112"/>
+<area shape="rect" id="Node000004" href="$classFMODUnity_1_1EditorUtils.html#abe5dd0f73cc20828acd8f604112e824e" title=" " alt="" coords="275,133,477,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="208,131,261,137,261,142,208,136"/>
+<area shape="rect" id="Node000005" href="$classFMODUnity_1_1EventBrowser.html#acd77a9e66173b59b3172eab2d09621d7" title=" " alt="" coords="263,197,489,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="151,139,257,183,281,191,280,196,255,188,149,144"/>
+<area shape="rect" id="Node000006" href="$classFMODUnity_1_1EditorUtils.html#a3ed1703fcfca094a71ebcfb6b1dc5739" title=" " alt="" coords="544,197,747,237"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="490,215,530,215,530,220,490,220"/>
+<area shape="rect" id="Node000007" href="$classFMODUnity_1_1EditorUtils.html#af9aad6a3e5c920a17a645cc9c9457191" title=" " alt="" coords="795,197,1005,237"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="747,215,781,215,781,220,747,220"/>
+<area shape="rect" id="Node000008" href="$classFMODUnity_1_1RuntimeUtils.html#acb5b93753c7743b5ac72abdd2eebf3da" title=" " alt="" coords="1053,168,1284,208"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1005,203,1040,199,1040,205,1006,208"/>
+<area shape="rect" id="Node000009" href="$classFMOD_1_1Error.html#aaf08aed6f877103189fe20a60dcc87ce" title=" " alt="" coords="1099,233,1238,258"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="1006,226,1086,234,1086,239,1005,231"/>
+</map>

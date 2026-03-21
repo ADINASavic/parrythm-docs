@@ -1,0 +1,64 @@
+<map id="그래픽컬한 클래스 계통도" name="그래픽컬한 클래스 계통도">
+<area shape="rect" id="Node000000" title=" " alt="" coords="59,169,171,195"/>
+<area shape="rect" id="Node000001" href="$classFMODUnity_1_1BankRefreshWindow.html" title=" " alt="" coords="273,5,508,31"/>
+<area shape="poly" id="edge8_Node000000_Node000001" title=" " alt="" coords="134,157,191,97,230,66,272,40,301,28,303,33,275,44,233,70,195,101,138,161"/>
+<area shape="rect" id="Node000002" href="$classFMODUnity_1_1CreateEventPopup.html" title=" " alt="" coords="281,55,500,80"/>
+<area shape="poly" id="edge9_Node000000_Node000002" title=" " alt="" coords="145,159,202,124,272,90,314,78,315,83,274,95,205,129,148,164"/>
+<area shape="rect" id="Node000003" href="$classFMODUnity_1_1EventBrowser.html" title=" " alt="" coords="296,317,485,343"/>
+<area shape="poly" id="edge10_Node000000_Node000003" title=" " alt="" coords="140,202,198,253,235,280,274,302,309,315,308,320,272,307,232,284,195,258,137,206"/>
+<area shape="rect" id="Node000028" href="$classFMODUnity_1_1EventReferenceUpdater.html" title=" " alt="" coords="289,105,492,145"/>
+<area shape="poly" id="edge11_Node000000_Node000028" title=" " alt="" coords="184,165,293,142,294,147,186,170"/>
+<area shape="rect" id="Node000027" href="$classFMODUnity_1_1FileReorganizer.html" title=" " alt="" coords="291,268,491,293"/>
+<area shape="poly" id="edge12_Node000000_Node000027" title=" " alt="" coords="153,199,209,226,274,253,319,265,318,270,272,258,207,231,151,204"/>
+<area shape="rect" id="Node000029" href="$classFMODUnity_1_1FindAndReplace.html" title=" " alt="" coords="289,169,492,195"/>
+<area shape="poly" id="edge13_Node000000_Node000029" title=" " alt="" coords="185,179,289,179,289,185,185,185"/>
+<area shape="rect" id="Node000030" href="$classFMODUnity_1_1SetupWizardWindow.html" title=" " alt="" coords="274,219,507,244"/>
+<area shape="poly" id="edge14_Node000000_Node000030" title=" " alt="" coords="186,192,320,216,319,221,185,197"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,317,225,343"/>
+<area shape="poly" id="edge15_Node000004_Node000003" title=" " alt="" coords="239,327,296,327,296,333,239,333"/>
+<area shape="poly" id="edge17_Node000004_Node000027" title=" " alt="" coords="200,312,318,291,319,296,201,318"/>
+<area shape="rect" id="Node000005" href="$classFMODUnity_1_1EventCache.html" title=" " alt="" coords="303,367,479,392"/>
+<area shape="poly" id="edge16_Node000004_Node000005" title=" " alt="" coords="201,342,319,364,318,369,200,348"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="51,555,180,580"/>
+<area shape="poly" id="edge21_Node000006_Node000005" title=" " alt="" coords="131,541,187,471,227,434,272,402,302,390,304,395,275,407,230,438,191,475,135,545"/>
+<area shape="rect" id="Node000007" href="$classFMODUnity_1_1EditorBankRef.html" title=" " alt="" coords="295,580,487,605"/>
+<area shape="poly" id="edge18_Node000006_Node000007" title=" " alt="" coords="194,572,295,581,294,587,194,577"/>
+<area shape="rect" id="Node000008" href="$classFMODUnity_1_1EditorEventRef.html" title=" " alt="" coords="293,629,489,655"/>
+<area shape="poly" id="edge19_Node000006_Node000008" title=" " alt="" coords="167,582,274,614,326,627,325,632,273,619,166,587"/>
+<area shape="rect" id="Node000009" href="$classFMODUnity_1_1EditorParamRef.html" title=" " alt="" coords="291,679,491,704"/>
+<area shape="poly" id="edge20_Node000006_Node000009" title=" " alt="" coords="145,586,203,626,274,664,313,676,312,681,272,668,200,630,142,590"/>
+<area shape="rect" id="Node000010" href="$classFMODUnity_1_1Platform.html" title=" " alt="" coords="313,728,468,753"/>
+<area shape="poly" id="edge22_Node000006_Node000010" title=" " alt="" coords="137,589,194,652,232,685,275,713,314,728,312,733,272,718,229,689,190,656,133,593"/>
+<area shape="rect" id="Node000024" href="$classFMODUnity_1_1PlatformCallbackHandler.html" title=" " alt="" coords="285,417,496,457"/>
+<area shape="poly" id="edge36_Node000006_Node000024" title=" " alt="" coords="143,544,201,505,272,466,304,454,306,459,274,471,203,510,146,549"/>
+<area shape="rect" id="Node000025" href="$classFMODUnity_1_1Settings.html" title=" " alt="" coords="315,481,467,507"/>
+<area shape="poly" id="edge37_Node000006_Node000025" title=" " alt="" coords="166,548,273,515,322,504,323,509,274,521,167,553"/>
+<area shape="rect" id="Node000026" href="$classNoteSettings.html" title=" " alt="" coords="337,531,444,556"/>
+<area shape="poly" id="edge38_Node000006_Node000026" title=" " alt="" coords="194,558,337,545,337,551,194,563"/>
+<area shape="rect" id="Node000011" href="$classFMODUnity_1_1PlatformAndroid.html" title=" " alt="" coords="566,456,771,481"/>
+<area shape="poly" id="edge23_Node000010_Node000011" title=" " alt="" coords="480,730,506,713,525,687,533,660,533,632,529,604,526,576,526,547,534,519,554,491,569,479,573,483,558,495,539,521,531,548,531,576,535,604,538,632,538,661,530,689,510,717,483,735"/>
+<area shape="rect" id="Node000012" href="$classFMODUnity_1_1PlatformAppleTV.html" title=" " alt="" coords="564,505,773,531"/>
+<area shape="poly" id="edge24_Node000010_Node000012" title=" " alt="" coords="480,730,506,713,522,693,529,672,529,629,530,584,537,562,554,540,570,529,573,533,558,544,542,564,535,585,535,629,534,673,527,696,510,717,483,734"/>
+<area shape="rect" id="Node000013" href="$classFMODUnity_1_1PlatformDefault.html" title=" " alt="" coords="567,555,770,580"/>
+<area shape="poly" id="edge25_Node000010_Node000013" title=" " alt="" coords="480,729,506,713,519,699,526,684,529,653,533,621,541,605,554,589,572,578,575,582,558,593,545,608,538,622,535,654,531,686,523,702,510,717,482,733"/>
+<area shape="rect" id="Node000014" href="$classFMODUnity_1_1PlatformGroup.html" title=" " alt="" coords="571,604,766,629"/>
+<area shape="poly" id="edge26_Node000010_Node000014" title=" " alt="" coords="480,726,506,713,522,696,529,677,537,657,554,639,576,627,578,632,558,643,542,660,534,679,527,699,510,717,483,731"/>
+<area shape="rect" id="Node000015" href="$classFMODUnity_1_1PlatformIOS.html" title=" " alt="" coords="580,653,757,679"/>
+<area shape="poly" id="edge27_Node000010_Node000015" title=" " alt="" coords="477,722,507,713,531,700,555,688,593,676,595,681,557,692,533,705,509,718,478,727"/>
+<area shape="rect" id="Node000016" href="$classFMODUnity_1_1PlatformLinux.html" title=" " alt="" coords="573,703,764,728"/>
+<area shape="poly" id="edge28_Node000010_Node000016" title=" " alt="" coords="482,730,573,721,573,727,482,735"/>
+<area shape="rect" id="Node000017" href="$classFMODUnity_1_1PlatformMac.html" title=" " alt="" coords="577,752,760,777"/>
+<area shape="poly" id="edge29_Node000010_Node000017" title=" " alt="" coords="482,746,577,754,577,759,481,751"/>
+<area shape="rect" id="Node000018" href="$classFMODUnity_1_1PlatformMobileLow.html" title=" " alt="" coords="556,801,781,827"/>
+<area shape="poly" id="edge30_Node000010_Node000018" title=" " alt="" coords="447,755,557,786,609,799,608,804,555,791,445,760"/>
+<area shape="rect" id="Node000020" href="$classFMODUnity_1_1PlatformPlayInEditor.html" title=" " alt="" coords="571,851,766,891"/>
+<area shape="poly" id="edge32_Node000010_Node000020" title=" " alt="" coords="423,759,484,797,557,836,592,849,590,854,555,840,481,802,420,763"/>
+<area shape="rect" id="Node000021" href="$classFMODUnity_1_1PlatformVisionOS.html" title=" " alt="" coords="562,916,775,941"/>
+<area shape="poly" id="edge33_Node000010_Node000021" title=" " alt="" coords="411,763,470,832,511,870,557,901,587,913,585,918,555,906,508,874,467,836,407,766"/>
+<area shape="rect" id="Node000022" href="$classFMODUnity_1_1PlatformWebGL.html" title=" " alt="" coords="569,965,769,991"/>
+<area shape="poly" id="edge34_Node000010_Node000022" title=" " alt="" coords="406,765,429,806,463,857,506,908,531,931,557,950,583,963,581,968,555,955,527,935,502,912,459,860,425,809,402,767"/>
+<area shape="rect" id="Node000023" href="$classFMODUnity_1_1PlatformWindows.html" title=" " alt="" coords="561,1015,776,1040"/>
+<area shape="poly" id="edge35_Node000010_Node000023" title=" " alt="" coords="403,765,423,816,455,880,500,945,527,975,557,1000,581,1012,579,1017,555,1004,524,978,496,949,451,882,418,818,398,767"/>
+<area shape="rect" id="Node000019" href="$classFMODUnity_1_1PlatformMobileHigh.html" title=" " alt="" coords="829,801,1059,827"/>
+<area shape="poly" id="edge31_Node000018_Node000019" title=" " alt="" coords="795,811,829,811,829,817,795,817"/>
+</map>

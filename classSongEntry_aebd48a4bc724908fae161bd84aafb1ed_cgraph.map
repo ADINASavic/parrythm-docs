@@ -1,0 +1,9 @@
+<map id="SongEntry.LoadPersonalBestScores" name="SongEntry.LoadPersonalBestScores">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,212,75"/>
+<area shape="rect" id="Node000002" href="$classScoreAPI.html#a0bb8e758933ace072c385040e31b8b08" title=" " alt="" coords="285,5,497,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,41,271,35,272,40,213,47"/>
+<area shape="rect" id="Node000003" href="$classPlayerNameSettings.html#a92788555e53866f9db87635413167d50" title=" " alt="" coords="260,70,523,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,62,250,66,249,71,212,68"/>
+<area shape="rect" id="Node000004" href="$classPlayerNameSettings.html#ae56713014f5429a8d004d063e578fd62" title=" " alt="" coords="571,63,801,103"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="523,80,557,80,557,85,523,85"/>
+</map>

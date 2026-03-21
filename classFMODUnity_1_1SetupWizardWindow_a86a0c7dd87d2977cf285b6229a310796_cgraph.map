@@ -1,0 +1,11 @@
+<map id="FMODUnity.SetupWizardWindow.Startup" name="FMODUnity.SetupWizardWindow.Startup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,241,77"/>
+<area shape="rect" id="Node000002" href="$classFMODUnity_1_1SetupWizardWindow.html#ae8f7b8e026f9921d1c8e5917c4b00c56" title=" " alt="" coords="289,5,525,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,41,275,38,276,43,242,47"/>
+<area shape="rect" id="Node000003" href="$classFMODUnity_1_1StagingSystem.html#a0ed5549c0af5ab8469a5ee355415f343" title=" " alt="" coords="307,69,508,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,68,293,74,293,79,241,73"/>
+<area shape="rect" id="Node000004" href="$classFMODUnity_1_1StagingSystem.html#a23c782ca6a581650f15aca3c990a8e27" title=" " alt="" coords="573,69,775,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="508,87,560,87,560,92,508,92"/>
+<area shape="rect" id="Node000005" href="$classFMODUnity_1_1StagingSystem_1_1UpdateStep.html#a899bd27446655d1a9e993ef406fff153" title=" " alt="" coords="823,69,1024,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="775,87,809,87,809,92,775,92"/>
+</map>

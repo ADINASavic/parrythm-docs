@@ -1,0 +1,18 @@
+<map id="FMODUnity.EventManager.EventFromGUID" name="FMODUnity.EventManager.EventFromGUID">
+<area shape="rect" id="Node000001" title=" " alt="" coords="851,199,1084,239"/>
+<area shape="rect" id="Node000002" href="$classFMODUnity_1_1EventManager.html#a19afd049aec82cbe0ccec57a05872572" title=" " alt="" coords="569,72,803,112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="908,195,731,115,733,110,910,191"/>
+<area shape="rect" id="Node000003" href="$classFMODUnity_1_1StudioEventEmitterEditor.html#af0d497ce6f482a59eb66bc0141e07195" title=" " alt="" coords="5,112,231,152"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="837,216,578,199,428,185,278,167,209,155,210,150,279,162,428,180,579,194,837,211"/>
+<area shape="rect" id="Node000006" href="$classFMODUnity_1_1StudioParameterTriggerEditor.html#aa0f1571a7ea4b3d9776ab7a08f912f2e" title=" " alt="" coords="581,227,791,267"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="837,234,791,239,791,234,837,229"/>
+<area shape="rect" id="Node000007" href="$classFMODUnity_1_1StudioEventEmitterEditor.html#abacc82ad4564e0c6ea9ccf85d186878f" title=" " alt="" coords="573,291,799,331"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="903,246,803,281,764,293,763,288,802,276,901,241"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="634,69,580,46,521,28,453,15,399,9,346,12,279,28,239,45,201,68,142,114,139,110,198,63,236,40,278,23,345,7,399,3,454,10,522,23,582,41,636,64"/>
+<area shape="rect" id="Node000004" href="$classFMODUnity_1_1EventManager.html#a89d092ded2047ce643d9546142f14714" title=" " alt="" coords="279,38,521,64"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="555,76,488,66,489,61,556,71"/>
+<area shape="rect" id="Node000005" href="$classFMODUnity_1_1EditorUtils.html#a04a39c26c59b846696b7508bd45cb727" title=" " alt="" coords="291,112,509,152"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="556,113,510,120,509,114,555,108"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="277,135,231,135,231,130,277,130"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="448,101,431,94,400,91,373,93,356,98,350,104,353,111,348,113,345,102,353,93,372,88,400,86,432,88,450,96"/>
+</map>

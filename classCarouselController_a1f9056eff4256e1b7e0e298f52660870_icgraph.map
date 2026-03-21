@@ -1,0 +1,19 @@
+<map id="CarouselController.MoveFocus" name="CarouselController.MoveFocus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="540,205,759,230"/>
+<area shape="rect" id="Node000002" href="$classResultCarouselController.html#ab57e178b9722eb0c63315af90e4319c8" title=" " alt="" coords="276,5,463,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="629,195,573,127,534,91,491,60,462,46,464,42,493,55,537,86,577,123,633,191"/>
+<area shape="rect" id="Node000003" href="$classSettingsCarouselController.html#aa57901cd8adf522b02fd0a78292a6bfc" title=" " alt="" coords="270,69,469,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="619,199,561,161,491,124,458,112,460,107,493,119,564,156,622,195"/>
+<area shape="rect" id="Node000004" href="$classResultCarouselController.html#a02bc1df9c56425c13e4bcbc15d42aff8" title=" " alt="" coords="276,133,463,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="579,204,457,176,458,171,580,199"/>
+<area shape="rect" id="Node000005" href="$classSettingsCarouselController.html#a0e048e8ed9c65e1fe1d26d64dc488223" title=" " alt="" coords="270,197,469,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="526,220,469,220,469,215,526,215"/>
+<area shape="rect" id="Node000006" href="$classCanvasSongSelectMenuController.html#a71f0dd47e271682e04515963d46031b2" title=" " alt="" coords="247,261,492,301"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="580,236,458,264,457,259,579,231"/>
+<area shape="rect" id="Node000007" href="$classCanvasSongSelectMenuController.html#ac2cf19b293bdb19a19d65c98eee71080" title=" " alt="" coords="247,325,492,365"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="622,240,564,278,493,316,460,328,458,323,491,311,561,274,619,236"/>
+<area shape="rect" id="Node000008" href="$classCarouselController.html#a7c2b4d42609b715d1e090147c7bd7417" title=" " alt="" coords="273,389,466,429"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="633,243,577,311,537,348,493,380,467,392,465,387,491,375,534,344,573,308,629,240"/>
+<area shape="rect" id="Node000009" href="$classCarouselController.html#a41090efc530be339fb87e9b40500e8ca" title=" " alt="" coords="5,397,199,422"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="259,412,199,412,199,407,259,407"/>
+</map>

@@ -1,0 +1,27 @@
+var classCanvasSongSelectMenuController =
+[
+    [ "CanProcessInput", "classCanvasSongSelectMenuController.html#a67e9e73d9921f5d606d9c8a1643c6506", null ],
+    [ "CollectCards", "classCanvasSongSelectMenuController.html#af4d8bd4794c4e900419f6ce61fa98ab9", null ],
+    [ "ConfigureCard", "classCanvasSongSelectMenuController.html#aabfcf7a3a1511a92f6782812819e6f9b", null ],
+    [ "OnClickDifficultyLeft", "classCanvasSongSelectMenuController.html#a5b5c3826380224c04c13f905c11b0c2f", null ],
+    [ "OnClickDifficultyRight", "classCanvasSongSelectMenuController.html#a26708bb539474c3f14490c8b8302d9fd", null ],
+    [ "OnClickEnter", "classCanvasSongSelectMenuController.html#aade48e4a11b56d716ba48daa4c74b0c9", null ],
+    [ "OnClickSongLeft", "classCanvasSongSelectMenuController.html#a71f0dd47e271682e04515963d46031b2", null ],
+    [ "OnClickSongRight", "classCanvasSongSelectMenuController.html#ac2cf19b293bdb19a19d65c98eee71080", null ],
+    [ "OnClickSortNext", "classCanvasSongSelectMenuController.html#a11d0392d986bdd77d3a4ee8e2b4d1428", null ],
+    [ "OnClickSortPrev", "classCanvasSongSelectMenuController.html#a35e611654fd38f55cf99862d11945a50", null ],
+    [ "OnIndexChanged", "classCanvasSongSelectMenuController.html#acce724ffe0ba63c290c6c534c7c894de", null ],
+    [ "OnIndexConfirmed", "classCanvasSongSelectMenuController.html#ade8da1e68dda69c8bda99910032f4263", null ],
+    [ "UpdateCardFocusState", "classCanvasSongSelectMenuController.html#a5ba6bc5d6f58d282942b885f58141059", null ],
+    [ "UpdateCustomInput", "classCanvasSongSelectMenuController.html#af1a3fb7386c5529b4b6e6aded958e574", null ],
+    [ "cardPrefab", "classCanvasSongSelectMenuController.html#a6cba2d1bf8782d4babd319b1f9420e88", null ],
+    [ "difficultyStrip", "classCanvasSongSelectMenuController.html#af911d56215fc6fcebd273cffa85b92cd", null ],
+    [ "ingameSceneLoader", "classCanvasSongSelectMenuController.html#aab2eea9a62256930eac4dba193a96a10", null ],
+    [ "previewPlayer", "classCanvasSongSelectMenuController.html#a0b7f38c0bb96981e7f06cdef7cd1e069", null ],
+    [ "quickSpeedButton", "classCanvasSongSelectMenuController.html#a19db07427235b4733121c6c046de5375", null ],
+    [ "settingsCarouselController", "classCanvasSongSelectMenuController.html#a090c8d5d168dfab0a0f8c09e152e6a5f", null ],
+    [ "sortCurrentText", "classCanvasSongSelectMenuController.html#af15c0131361d56a28ac2b9024417d170", null ],
+    [ "sortCurrentText2", "classCanvasSongSelectMenuController.html#a543993d8426bd692a48abe48c6a5491c", null ],
+    [ "sortNextText", "classCanvasSongSelectMenuController.html#a1bb55648f3c995ee765c6849d04f0162", null ],
+    [ "sortPrevText", "classCanvasSongSelectMenuController.html#ada37f8a393f808115b42165e9b065b90", null ]
+];

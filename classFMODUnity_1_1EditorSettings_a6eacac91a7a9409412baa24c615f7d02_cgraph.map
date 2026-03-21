@@ -1,0 +1,10 @@
+<map id="FMODUnity.EditorSettings.CreateSettingsAsset" name="FMODUnity.EditorSettings.CreateSettingsAsset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,49,200,89"/>
+<area shape="rect" id="Node000002" href="$classFMODUnity_1_1EditorSettings.html#a0ebae24884a3caaf0527926a7be93981" title=" " alt="" coords="258,5,453,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,50,244,42,245,47,201,55"/>
+<area shape="rect" id="Node000003" href="$classFMODUnity_1_1EditorUtils.html#a8927c00f8fc209a1575f77a7b1b7e6d2" title=" " alt="" coords="248,93,463,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,84,235,90,234,95,200,89"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="309,94,306,84,313,74,330,69,355,67,384,70,400,77,398,82,383,75,355,72,331,74,316,79,311,85,314,92"/>
+<area shape="rect" id="Node000004" href="$classFMODUnity_1_1EditorUtils.html#ae67f82589830167e96786c87919d9486" title=" " alt="" coords="511,93,705,133"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="463,111,497,111,497,116,463,116"/>
+</map>

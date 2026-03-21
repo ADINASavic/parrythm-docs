@@ -1,0 +1,9 @@
+<map id="FMOD.Studio.TIMELINE_NESTED_BEAT_PROPERTIES" name="FMOD.Studio.TIMELINE_NESTED_BEAT_PROPERTIES">
+<area shape="rect" id="Node000001" title=" " alt="" coords="97,183,303,223"/>
+<area shape="rect" id="Node000002" href="$structFMOD_1_1GUID.html" title=" " alt="" coords="33,87,133,113"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,120,180,180,176,185,105,124"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,160,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,44,85,87,80,87,80,44"/>
+<area shape="rect" id="Node000004" href="$structFMOD_1_1Studio_1_1TIMELINE__BEAT__PROPERTIES.html" title=" " alt="" coords="157,80,329,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="232,134,210,184,206,182,227,131"/>
+</map>

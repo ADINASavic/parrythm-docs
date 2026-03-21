@@ -1,0 +1,16 @@
+<map id="FMODUnity.RuntimeManager.CreateInstance" name="FMODUnity.RuntimeManager.CreateInstance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,61,220,101"/>
+<area shape="rect" id="Node000002" href="$classFMODUnity_1_1RuntimeManager.html#a3e5d2f5a4452c630056c7cecbc6a6c3b" title=" " alt="" coords="268,29,483,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,66,254,61,255,67,220,71"/>
+<area shape="rect" id="Node000003" href="$classFMODUnity_1_1RuntimeManager.html#ad63a13545b739e8cea586d8f9fe7c149" title=" " alt="" coords="268,93,483,133"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="220,92,255,96,254,101,220,97"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="329,30,326,20,334,10,350,5,375,3,404,6,420,13,418,18,403,11,375,8,351,10,337,15,332,21,334,28"/>
+<area shape="rect" id="Node000004" href="$structFMOD_1_1Studio_1_1Util.html#a41a5fe4910149be49645b67e3ef8bb3a" title=" " alt="" coords="531,101,719,126"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="483,111,517,111,517,116,483,116"/>
+<area shape="rect" id="Node000005" href="$classFMOD_1_1StringHelper_1_1ThreadSafeEncoding.html#ab70a9e17e9e5d8cb538d2f5ccb8ce5cc" title=" " alt="" coords="767,61,1015,101"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="719,99,753,95,753,101,719,105"/>
+<area shape="rect" id="Node000006" href="$classFMOD_1_1StringHelper.html#a9affc786ba136449cca2d2bea1759dc2" title=" " alt="" coords="790,125,991,165"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="719,122,776,129,776,134,719,127"/>
+<area shape="rect" id="Node000007" href="$classFMOD_1_1StringHelper_1_1ThreadSafeEncoding.html#a1f8a8af1da0acd7601b4348db9088c4f" title=" " alt="" coords="1063,125,1257,165"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="992,143,1049,143,1049,148,992,148"/>
+</map>

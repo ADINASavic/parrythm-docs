@@ -1,0 +1,11 @@
+<map id="SettingsCarouselController" name="SettingsCarouselController">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,271,201,296"/>
+<area shape="rect" id="Node000002" href="$classCarouselController.html" title="Generic carousel UI controller for horizontal scrolling card selection. Handles visual layout,..." alt="" coords="32,196,175,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,236,106,270,101,270,101,236"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="20,93,144,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,131,104,195,98,197,85,133"/>
+<area shape="rect" id="Node000004" href="$structFMODUnity_1_1EventReference.html" title=" " alt="" coords="169,93,371,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="241,128,124,198,121,194,238,123"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="239,5,301,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="273,45,273,93,267,93,267,45"/>
+</map>

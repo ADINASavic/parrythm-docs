@@ -1,0 +1,8 @@
+<map id="SettingsCardPlaySettings" name="SettingsCardPlaySettings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,168,192,193"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="31,5,155,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,44,101,168,96,168,92,45"/>
+<area shape="rect" id="Node000003" href="$classButtonQuickSpeedSetting.html" title=" " alt="" coords="115,80,303,105"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="125,36,192,78,189,82,122,40"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,116,115,170,112,166,182,112"/>
+</map>

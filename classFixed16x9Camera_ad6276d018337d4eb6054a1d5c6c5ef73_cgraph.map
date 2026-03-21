@@ -1,0 +1,7 @@
+<map id="Fixed16x9Camera.TargetPxToWorld" name="Fixed16x9Camera.TargetPxToWorld">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,204,45"/>
+<area shape="rect" id="Node000002" href="$classFixed16x9Camera.html#a81c8451dec4a3b6ceb91ec3b68ce6f03" title=" " alt="" coords="252,5,451,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,23,238,23,238,28,204,28"/>
+<area shape="rect" id="Node000003" href="$classFixed16x9Camera.html#aa3157be0b1a46f77db4dae4a31a5b568" title=" " alt="" coords="499,5,723,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="451,23,485,23,485,28,451,28"/>
+</map>

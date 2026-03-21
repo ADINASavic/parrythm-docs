@@ -1,0 +1,11 @@
+<map id="FMODUnity.StudioEventEmitter.OnDestroy" name="FMODUnity.StudioEventEmitter.OnDestroy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,233,77"/>
+<area shape="rect" id="Node000002" href="$classFMODUnity_1_1RuntimeManager.html#a0d115631a7fe0768ec839854b4c6f3a7" title=" " alt="" coords="281,5,519,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,42,268,38,268,43,234,47"/>
+<area shape="rect" id="Node000003" href="$classFMODUnity_1_1StudioEventEmitter.html#a450f7969f649a748ab064bbbf0f9ddbd" title=" " alt="" coords="286,69,514,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,68,273,72,272,77,233,73"/>
+<area shape="rect" id="Node000004" href="$classFMODUnity_1_1StudioEventEmitter.html#a85d6f21422bd3c4bf29f448ec0f4a1df" title=" " alt="" coords="567,51,823,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="514,77,554,73,554,79,514,82"/>
+<area shape="rect" id="Node000005" href="$classFMODUnity_1_1StudioEventEmitter.html#a2663bd2f2e9443dcdf49b1c1486bf71b" title=" " alt="" coords="567,101,824,126"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="514,96,553,99,553,104,514,101"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="PlayerNameSettings.GetPlayerName" name="PlayerNameSettings.GetPlayerName">
+<area shape="rect" id="Node000001" title=" " alt="" coords="513,42,776,67"/>
+<area shape="rect" id="Node000002" href="$classSongEntry.html#aebd48a4bc724908fae161bd84aafb1ed" title=" " alt="" coords="259,5,465,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="509,43,465,39,466,33,509,38"/>
+<area shape="rect" id="Node000003" href="$classResultsUI.html#a0600888a4ba89f6b0029a630af47cfdd" title=" " alt="" coords="281,70,443,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="503,71,444,77,443,72,503,66"/>
+<area shape="rect" id="Node000004" href="$classChartEndWatcher.html#a86c9c6b91e78f3e73494e3120dfa9c0b" title=" " alt="" coords="5,70,211,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="267,85,211,85,211,80,267,80"/>
+</map>

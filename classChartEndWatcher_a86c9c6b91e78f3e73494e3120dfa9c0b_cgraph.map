@@ -1,0 +1,29 @@
+<map id="ChartEndWatcher.TriggerEnd" name="ChartEndWatcher.TriggerEnd">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,303,211,329"/>
+<area shape="rect" id="Node000002" href="$classResultsUI.html#a0600888a4ba89f6b0029a630af47cfdd" title=" " alt="" coords="274,185,437,210"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,301,314,214,316,219,137,306"/>
+<area shape="rect" id="Node000010" href="$classFmodMusicController.html#abe65c2379d10ac4d0519221738031981" title=" " alt="" coords="259,389,452,414"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="147,326,306,382,304,387,145,331"/>
+<area shape="rect" id="Node000003" href="$classParrythmInputRuntime_1_1StateOverrideHandle.html#ae28a7d0e57ee17e0269a26fabdf5feb5" title=" " alt="" coords="528,5,735,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="364,183,416,121,455,85,499,55,514,47,517,52,501,60,458,90,420,125,368,186"/>
+<area shape="rect" id="Node000004" href="$classScoreAPI.html#ad129b52229d111e6bff53314a4202364" title=" " alt="" coords="540,70,723,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="371,182,426,144,461,123,499,106,528,96,529,101,501,110,464,128,429,148,374,187"/>
+<area shape="rect" id="Node000005" href="$classSongEntry.html#aec1b81c52a3ee8b2de1f1d98caa9a870" title=" " alt="" coords="532,120,731,160"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="417,182,521,160,522,165,418,187"/>
+<area shape="rect" id="Node000006" href="$classPlayerNameSettings.html#a92788555e53866f9db87635413167d50" title=" " alt="" coords="500,185,763,210"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="437,195,486,195,486,200,437,200"/>
+<area shape="rect" id="Node000008" href="$classSongEntry.html#a0f321645640290817e246ced18def6bf" title=" " alt="" coords="533,235,729,275"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="418,207,522,229,521,234,417,213"/>
+<area shape="rect" id="Node000009" href="$classScoreAPI.html#ab72356cc7bd1d16b7c097306cb38974f" title=" " alt="" coords="529,299,733,325"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="374,208,429,246,464,267,501,284,529,293,528,298,499,289,461,272,426,251,371,212"/>
+<area shape="rect" id="Node000007" href="$classPlayerNameSettings.html#ae56713014f5429a8d004d063e578fd62" title=" " alt="" coords="811,177,1041,217"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="763,195,797,195,797,200,763,200"/>
+<area shape="rect" id="Node000011" href="$structFMOD_1_1Studio_1_1EventInstance.html#a6febd3da4b1769417c122cc686703a20" title=" " alt="" coords="522,349,741,389"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="452,387,508,381,509,386,453,393"/>
+<area shape="rect" id="Node000013" href="$structFMOD_1_1Studio_1_1EventInstance.html#a9d02e462c4dea9d92e9c6b20c0818b14" title=" " alt="" coords="518,413,745,453"/>
+<area shape="poly" id="edge12_Node000010_Node000013" title=" " alt="" coords="453,410,505,416,504,421,452,415"/>
+<area shape="rect" id="Node000014" href="$structFMOD_1_1Studio_1_1EventInstance.html#a5ea04d86644f82f541c476a688d7ada7" title=" " alt="" coords="514,478,749,503"/>
+<area shape="poly" id="edge13_Node000010_Node000014" title=" " alt="" coords="382,412,436,438,501,463,537,472,536,478,499,468,434,442,380,417"/>
+<area shape="rect" id="Node000012" href="$structFMOD_1_1Studio_1_1EventInstance.html#aea8b05f9d7a476c95e50fd97f71a3e2c" title=" " alt="" coords="811,349,1041,389"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="741,367,797,367,797,372,741,372"/>
+</map>

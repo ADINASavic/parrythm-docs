@@ -1,0 +1,12 @@
+<map id="FMODUnity.EditorUtils.UpdateParamsOnEmitter" name="FMODUnity.EditorUtils.UpdateParamsOnEmitter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,224,109"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="64,70,61,60,69,50,87,45,115,43,146,45,163,53,161,58,145,51,115,48,88,50,72,55,66,61,69,68"/>
+<area shape="rect" id="Node000002" href="$classFMODUnity_1_1EventManager.html#a19afd049aec82cbe0ccec57a05872572" title=" " alt="" coords="272,69,505,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,87,258,87,258,92,224,92"/>
+<area shape="rect" id="Node000003" href="$classFMODUnity_1_1EventManager.html#a049f1541e20b506649928d114bedf335" title=" " alt="" coords="553,5,787,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="477,67,568,46,569,51,478,72"/>
+<area shape="rect" id="Node000004" href="$classFMODUnity_1_1EventManager.html#a8e65b4298a3963f2154054116849a86c" title=" " alt="" coords="553,69,787,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="505,87,540,87,540,92,505,92"/>
+<area shape="rect" id="Node000005" href="$structFMOD_1_1GUID.html#a79eb0b8943c008d6df72d590c9e36096" title=" " alt="" coords="601,134,739,159"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="488,107,594,129,593,134,487,112"/>
+</map>

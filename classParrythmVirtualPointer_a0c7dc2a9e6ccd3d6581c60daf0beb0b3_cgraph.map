@@ -1,0 +1,7 @@
+<map id="ParrythmVirtualPointer.Enable" name="ParrythmVirtualPointer.Enable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,223,38"/>
+<area shape="rect" id="Node000002" href="$classParrythmVirtualPointer.html#a5321056429496fa487ba584ac7e68fef" title=" " alt="" coords="271,5,493,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,23,257,23,257,28,223,28"/>
+<area shape="rect" id="Node000003" href="$classNoteSettingsIO.html#ab61b9ef5a846cd96c8955a99e67fd64b" title="Returns runtime settings by cloning baseline and applying user partial overrides. Call this from game..." alt="" coords="541,13,772,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="494,23,527,23,527,28,494,28"/>
+</map>

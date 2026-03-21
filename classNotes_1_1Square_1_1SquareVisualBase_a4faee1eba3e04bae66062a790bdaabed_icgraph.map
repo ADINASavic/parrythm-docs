@@ -1,0 +1,17 @@
+<map id="Notes.Square.SquareVisualBase.SetSquare" name="Notes.Square.SquareVisualBase.SetSquare">
+<area shape="rect" id="Node000001" title=" " alt="" coords="533,133,732,173"/>
+<area shape="rect" id="Node000002" href="$classNotes_1_1Square_1_1SquareVisualBase.html#a563e627ff8aa649486b34048761ff25f" title=" " alt="" coords="287,5,485,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="593,127,542,93,484,60,456,48,458,43,487,55,545,88,596,123"/>
+<area shape="rect" id="Node000003" href="$classNotes_1_1Square_1_1SquareVisualBase.html#a860aa072d59f10d119421a049cc0ca88" title=" " alt="" coords="287,69,485,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="541,132,463,112,464,107,542,127"/>
+<area shape="rect" id="Node000005" href="$classNotes_1_1Square_1_1SquareVisualNormal.html#aeb99fa8e246bd160b53cae12e4f7ff6b" title=" " alt="" coords="287,133,485,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="519,156,486,156,486,151,519,151"/>
+<area shape="rect" id="Node000006" href="$classNotes_1_1Square_1_1SquareVisualTrail.html#a64285f2186a306aa91320615ece1b79a" title=" " alt="" coords="287,197,485,237"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="542,179,464,200,463,195,541,174"/>
+<area shape="rect" id="Node000007" href="$classNotes_1_1Square_1_1SquareVisualBase.html#aad05492db6fbe4314d7e4764e7354233" title=" " alt="" coords="287,261,485,301"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="596,184,545,219,487,252,458,264,456,259,484,247,542,214,593,180"/>
+<area shape="rect" id="Node000004" href="$classNotes_1_1Square_1_1SquareNoteVisual.html#a619e8d81b2338c1b46f1672daf65d961" title=" " alt="" coords="5,69,239,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="273,92,239,92,239,87,273,87"/>
+<area shape="rect" id="Node000008" href="$classNotes_1_1Square_1_1SquareVisualBase.html#a6c4ad5ddf548469c4bf36623b85d3aca" title=" " alt="" coords="23,261,221,301"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="273,284,222,284,222,279,273,279"/>
+</map>

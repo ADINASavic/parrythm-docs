@@ -1,0 +1,9 @@
+<map id="CarouselController.OnIndexConfirmed" name="CarouselController.OnIndexConfirmed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="733,5,933,45"/>
+<area shape="rect" id="Node000002" href="$classCarouselController.html#a5bf8073a587046e4fc1c09024ccd78dd" title=" " alt="" coords="488,5,685,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="720,28,685,28,685,23,720,23"/>
+<area shape="rect" id="Node000003" href="$classCarouselController.html#a9708d51e0bf3498930bb073a225814f8" title=" " alt="" coords="247,5,440,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="474,28,440,28,440,23,474,23"/>
+<area shape="rect" id="Node000004" href="$classCarouselController.html#a41090efc530be339fb87e9b40500e8ca" title=" " alt="" coords="5,13,199,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="233,28,199,28,199,23,233,23"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="LongNoteHandler.Handle" name="LongNoteHandler.Handle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,189,80"/>
+<area shape="rect" id="Node000002" href="$classChartTimelineRuntime.html#a50901598716fc4dbc27c8541a7802ec6" title=" " alt="" coords="241,5,460,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,52,271,31,272,36,164,57"/>
+<area shape="rect" id="Node000003" href="$classNoteSpawner.html#a4906be9f42f731a6391b03eef08561ed" title=" " alt="" coords="257,55,444,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,65,244,65,244,70,190,70"/>
+<area shape="rect" id="Node000007" href="$classChartTimelineRuntime.html#abf36066d5e2260193cf958c96b063154" title=" " alt="" coords="237,104,464,129"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="164,77,272,99,271,104,163,83"/>
+<area shape="rect" id="Node000004" href="$classGridManager.html#a9351dbf062ddaf0ca2c4a699fdbd4015" title="Returns the center world position of a grid cell (x, y)." alt="" coords="523,31,732,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="444,57,509,51,509,56,444,62"/>
+<area shape="rect" id="Node000005" href="$classNotes_1_1Lane_1_1LaneRouter.html#a547b157eb14e5864bc87db6b142bf721" title=" " alt="" coords="512,80,743,105"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="444,73,499,78,498,84,444,78"/>
+<area shape="rect" id="Node000006" href="$classNotes_1_1Lane_1_1LaneUtil.html#a692caa4ea04561a7d8c875c776af76fc" title=" " alt="" coords="791,73,973,113"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="743,90,777,90,777,95,743,95"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Judge.ApplyResult" name="Judge.ApplyResult">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,145,31"/>
+<area shape="rect" id="Node000002" href="$classJudge.html#a420d7d313b02df052975a6bb8a4fbcab" title=" " alt="" coords="193,5,339,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,15,180,15,180,21,146,21"/>
+<area shape="rect" id="Node000003" href="$interfaceIGaugeCommand.html#a3e15d283316f614ee46582c8fa2d5c1a" title=" " alt="" coords="387,5,633,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="339,15,373,15,373,21,339,21"/>
+</map>

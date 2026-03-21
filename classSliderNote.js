@@ -1,0 +1,27 @@
+var classSliderNote =
+[
+    [ "ApplyGapGuide", "classSliderNote.html#aeb8e091fd2dd9cd269b44588b52f7bec", null ],
+    [ "GetHeadLocalPositionAtStart", "classSliderNote.html#af63970c5c2f6a1dbe57d08d73e1ba13a", null ],
+    [ "InputUpdate", "classSliderNote.html#a0c6edc363da0f3f6f7e756f9e6cf96f6", null ],
+    [ "RebuildPathGeometry", "classSliderNote.html#ac8ba1caf52141955e8816a21a64e6762", null ],
+    [ "SetRawPathWorld", "classSliderNote.html#a18ecd177b306ce4c8e503dcefdc1944f", null ],
+    [ "TryStartFromRouter", "classSliderNote.html#a65d82b1828370cb7d6a488488e372ae8", null ],
+    [ "ActiveSliders", "classSliderNote.html#a8e655bca0a2bf28435efede4f4ca0049", null ],
+    [ "bulletRadiusScale", "classSliderNote.html#ab13871970a8ee9dc289271aa7710ebb7", null ],
+    [ "colliderSpacing", "classSliderNote.html#a8d404f44c827596cec28078cee59de17", null ],
+    [ "curved", "classSliderNote.html#a8cf51f3315a9078596e9b46f9c3aabee", null ],
+    [ "curveSamplesPerSegment", "classSliderNote.html#a9ac506a420c0940b9f1ed87797ce7003", null ],
+    [ "debugHeadColor", "classSliderNote.html#a481be6dcbef84153db60b03fd6fb8e6e", null ],
+    [ "debugPathColor", "classSliderNote.html#a65a7d942f7a6f5f893dd3dbbf7e2cc18", null ],
+    [ "debugRuntimeVisuals", "classSliderNote.html#a2b15a1e36341fbea6d0891d8e0d1492d", null ],
+    [ "debugSampleColor", "classSliderNote.html#af113a22b0101086b2b1de72e31960443", null ],
+    [ "durationOverride", "classSliderNote.html#a792ea0d1728a8fa5b2a2db6744ebc805", null ],
+    [ "maxBulletColliders", "classSliderNote.html#afa43f470b594b060c9fd7b9a97c17d8a", null ],
+    [ "simultaneousLeadFillColor", "classSliderNote.html#a366fc6bcc4b1e2844659af837a5558b6", null ],
+    [ "startTime", "classSliderNote.html#a8ea9a39e2d6401acedde5d53d0bc40a2", null ],
+    [ "useSampledBulletChecks", "classSliderNote.html#a93e3496ae2488fcdcaab6021118df9e9", null ],
+    [ "useSimultaneousLeadFill", "classSliderNote.html#a9365d9010eda7b12c5354d69c61a42e6", null ],
+    [ "HasFinalized", "classSliderNote.html#a1731808032ca6989b465844a647c7e6c", null ],
+    [ "HasStarted", "classSliderNote.html#ad8436fc2d48a22216b622eb012ab68cc", null ],
+    [ "OnFinalize", "classSliderNote.html#a2e994ae408566b5cdadb3adc48db1fc2", null ]
+];

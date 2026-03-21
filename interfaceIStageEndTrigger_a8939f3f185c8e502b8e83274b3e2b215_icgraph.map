@@ -1,0 +1,7 @@
+<map id="IStageEndTrigger.TriggerEnd" name="IStageEndTrigger.TriggerEnd">
+<area shape="rect" id="Node000001" title=" " alt="" coords="528,5,731,31"/>
+<area shape="rect" id="Node000002" href="$classGaugeManager.html#a04c1c0605753e4e14e54a0ebc39da754" title=" " alt="" coords="284,5,480,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="514,21,480,21,480,15,514,15"/>
+<area shape="rect" id="Node000003" href="$classGaugeManager.html#a31883008fbe131f5077cc627f646b929" title=" " alt="" coords="5,5,236,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="271,21,236,21,236,15,271,15"/>
+</map>

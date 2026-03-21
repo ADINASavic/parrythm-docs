@@ -1,0 +1,13 @@
+<map id="ScoreAPI.GetLetterGrade" name="ScoreAPI.GetLetterGrade">
+<area shape="rect" id="Node000001" title=" " alt="" coords="803,38,985,63"/>
+<area shape="rect" id="Node000002" href="$classSongCard.html#a06a28c3c58857ebae15621eb51d9c09e" title=" " alt="" coords="552,13,755,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="788,42,755,39,755,33,789,37"/>
+<area shape="rect" id="Node000005" href="$classResultsUI.html#a0600888a4ba89f6b0029a630af47cfdd" title=" " alt="" coords="572,62,735,87"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="789,64,735,69,735,64,788,59"/>
+<area shape="rect" id="Node000003" href="$classSongCard.html#a2523028659860266fe7ba20141a01041" title=" " alt="" coords="330,13,473,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="538,28,473,28,473,23,538,23"/>
+<area shape="rect" id="Node000004" href="$classCanvasSongSelectMenuController.html#aabfcf7a3a1511a92f6782812819e6f9b" title=" " alt="" coords="5,5,251,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="316,28,251,28,251,23,316,23"/>
+<area shape="rect" id="Node000006" href="$classChartEndWatcher.html#a86c9c6b91e78f3e73494e3120dfa9c0b" title=" " alt="" coords="299,62,504,87"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="558,77,504,77,504,72,558,72"/>
+</map>

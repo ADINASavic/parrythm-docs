@@ -1,0 +1,7 @@
+<map id="SongPreviewPlayer.StopWithFade" name="SongPreviewPlayer.StopWithFade">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,244,38"/>
+<area shape="rect" id="Node000002" href="$structFMOD_1_1Studio_1_1EventInstance.html#a6febd3da4b1769417c122cc686703a20" title=" " alt="" coords="292,5,511,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,23,278,23,278,28,244,28"/>
+<area shape="rect" id="Node000003" href="$structFMOD_1_1Studio_1_1EventInstance.html#aea8b05f9d7a476c95e50fd97f71a3e2c" title=" " alt="" coords="559,5,789,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="511,23,545,23,545,28,511,28"/>
+</map>

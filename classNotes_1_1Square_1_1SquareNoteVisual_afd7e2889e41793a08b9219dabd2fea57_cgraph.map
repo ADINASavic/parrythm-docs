@@ -1,0 +1,9 @@
+<map id="Notes.Square.SquareNoteVisual.PlayMiss" name="Notes.Square.SquareNoteVisual.PlayMiss">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,239,109"/>
+<area shape="rect" id="Node000002" href="$classNotes_1_1Square_1_1SquareVisualLong.html#a40339775451b98f59ce3aace61c3a2bb" title=" " alt="" coords="287,5,485,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,67,289,46,291,51,206,72"/>
+<area shape="rect" id="Node000003" href="$classNotes_1_1Square_1_1SquareVisualNormal.html#a6172f445a8f94dbd0675e96761da9aff" title=" " alt="" coords="287,69,485,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,87,273,87,273,92,239,92"/>
+<area shape="rect" id="Node000004" href="$classNotes_1_1Square_1_1SquareVisualTrail.html#ac79f85c832c2042963c9f451b31c9c3c" title=" " alt="" coords="287,133,485,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="206,107,291,128,289,133,205,112"/>
+</map>

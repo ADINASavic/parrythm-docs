@@ -1,0 +1,19 @@
+<map id="FMODUnity.RuntimeUtils.To3DAttributes" name="FMODUnity.RuntimeUtils.To3DAttributes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="531,165,741,205"/>
+<area shape="rect" id="Node000002" href="$classFMODUnity_1_1RuntimeManager.html#afee8a0062b287ac49a42fa0e580eae14" title=" " alt="" coords="268,5,483,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="605,157,550,107,517,82,481,60,455,48,457,43,484,55,520,77,554,103,608,154"/>
+<area shape="rect" id="Node000004" href="$classFMODUnity_1_1RuntimeManager.html#a3bbc200cbae00f9a4af599191c8d388e" title=" " alt="" coords="268,69,483,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="577,162,482,124,446,112,448,107,484,119,579,157"/>
+<area shape="rect" id="Node000005" href="$classFMODUnity_1_1RuntimeManager.html#a6f9afe415be755da1f341f8480b20a27" title=" " alt="" coords="268,133,483,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="517,173,483,169,483,164,517,168"/>
+<area shape="rect" id="Node000006" href="$classFMODUnity_1_1RuntimeManager.html#a737af64afb5c74200bc13b46fbf60d13" title=" " alt="" coords="268,197,483,237"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="517,203,483,207,483,202,517,197"/>
+<area shape="rect" id="Node000007" href="$classFMODUnity_1_1RuntimeManager.html#a1b9f533546a9bc238739ee6e410f27d6" title=" " alt="" coords="268,261,483,301"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="579,213,484,252,448,264,446,259,482,247,577,208"/>
+<area shape="rect" id="Node000008" href="$classFMODUnity_1_1RuntimeManager.html#a9aa8aaa500f8748defc05b370f5f56d2" title=" " alt="" coords="268,325,483,365"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="608,217,554,267,520,293,484,316,457,328,455,323,481,311,517,289,550,263,605,213"/>
+<area shape="rect" id="Node000003" href="$classFMODUnity_1_1RuntimeManager.html#ade0a9997eebfac34156666d7a04858ad" title=" " alt="" coords="5,5,220,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="255,28,220,28,220,23,255,23"/>
+<area shape="rect" id="Node000009" href="$classFMODUnity_1_1RuntimeManager.html#ae5908500c41af74729cb23192ef0d5ea" title=" " alt="" coords="5,325,220,365"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="255,348,220,348,220,343,255,343"/>
+</map>

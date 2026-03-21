@@ -1,0 +1,7 @@
+<map id="FmodMusicController.Stop" name="FmodMusicController.Stop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="259,31,452,56"/>
+<area shape="rect" id="Node000002" href="$classChartPlayerFMOD.html#a78ddf7616821fd19392fd488efd0c7d5" title=" " alt="" coords="23,5,193,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,35,193,29,194,24,245,29"/>
+<area shape="rect" id="Node000003" href="$classChartEndWatcher.html#a86c9c6b91e78f3e73494e3120dfa9c0b" title=" " alt="" coords="5,55,211,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="245,57,211,60,211,55,244,51"/>
+</map>

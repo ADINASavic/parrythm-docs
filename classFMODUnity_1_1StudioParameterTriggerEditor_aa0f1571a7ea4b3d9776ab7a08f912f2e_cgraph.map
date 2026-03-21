@@ -1,0 +1,7 @@
+<map id="FMODUnity.StudioParameterTriggerEditor.OnInspectorGUI" name="FMODUnity.StudioParameterTriggerEditor.OnInspectorGUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,215,77"/>
+<area shape="rect" id="Node000002" href="$classFMODUnity_1_1EditorUtils.html#a0c749782ca5b8bc5c23c434e4950a22e" title=" " alt="" coords="277,5,482,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,42,263,36,263,42,215,48"/>
+<area shape="rect" id="Node000003" href="$classFMODUnity_1_1EventManager.html#a049f1541e20b506649928d114bedf335" title=" " alt="" coords="263,69,496,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,67,249,71,249,77,214,72"/>
+</map>

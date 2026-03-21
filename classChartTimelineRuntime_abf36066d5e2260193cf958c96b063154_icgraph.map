@@ -1,0 +1,9 @@
+<map id="ChartTimelineRuntime.StartSec" name="ChartTimelineRuntime.StartSec">
+<area shape="rect" id="Node000001" title=" " alt="" coords="269,55,496,80"/>
+<area shape="rect" id="Node000002" href="$classLongNoteHandler.html#a731192bd5058e8ecae66f3f5d51237ab" title=" " alt="" coords="21,5,205,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="299,55,183,33,184,28,300,50"/>
+<area shape="rect" id="Node000003" href="$classSliderNoteHandler.html#a11968495f5e72ef382681ef50c0afc64" title=" " alt="" coords="18,55,209,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,70,209,70,209,65,255,65"/>
+<area shape="rect" id="Node000004" href="$classChartTimelineRuntime.html#abb61579883e9e1f568f50c36e3531870" title=" " alt="" coords="5,105,221,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="309,86,208,107,207,102,308,80"/>
+</map>

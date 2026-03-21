@@ -1,0 +1,20 @@
+<map id="FMODUnity.EventManager.CopyToStreamingAssets" name="FMODUnity.EventManager.CopyToStreamingAssets">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,216,235,256"/>
+<area shape="rect" id="Node000002" href="$classFMODUnity_1_1EditorBankRef.html#a7811144fe3f113ab813c004158947939" title=" " alt="" coords="311,5,505,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,214,191,140,234,98,281,62,308,48,310,53,284,66,237,102,195,144,137,217"/>
+<area shape="rect" id="Node000003" href="$classFMODUnity_1_1RuntimeUtils.html#a22903cb7e4f01d57c9cc86464bc33c7f" title=" " alt="" coords="581,35,792,75"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="138,214,197,158,238,129,282,106,334,91,406,78,567,61,568,66,407,84,335,96,284,110,240,134,201,163,141,218"/>
+<area shape="rect" id="Node000004" href="$classFMODUnity_1_1RuntimeUtils.html#a60e95c1a47a428aac14dc076b98a1ac3" title=" " alt="" coords="293,120,523,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="166,213,282,169,309,161,310,166,284,175,168,218"/>
+<area shape="rect" id="Node000005" href="$classFMODUnity_1_1RuntimeUtils.html#a6d4851b4ba95bbe85a6166efcfc8cfda" title=" " alt="" coords="293,184,523,224"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="235,221,279,216,279,221,235,226"/>
+<area shape="rect" id="Node000006" href="$classFMODUnity_1_1RuntimeUtils.html#ab9441b050d0ea06a0c83db2c92f35417" title=" " alt="" coords="293,248,523,288"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="235,246,279,251,279,256,235,251"/>
+<area shape="rect" id="Node000007" href="$classFMODUnity_1_1RuntimeUtils.html#a9ab7c4e0610964d1cc2ac2e21bb2e851" title=" " alt="" coords="293,312,523,352"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="168,254,284,297,310,306,309,311,282,303,166,259"/>
+<area shape="rect" id="Node000008" href="$classFMODUnity_1_1EditorSettings.html#af6a925dc6e512f464ccd193fc9628152" title=" " alt="" coords="311,376,505,416"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="143,254,203,308,242,337,284,362,300,369,298,374,281,366,239,341,199,312,139,258"/>
+<area shape="rect" id="Node000009" href="$classFMODUnity_1_1EventManager.html#a7c813a25a5f14de4f07c1274384efedf" title=" " alt="" coords="283,440,533,480"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="135,255,158,292,191,338,234,386,284,426,295,432,292,437,281,430,230,390,187,342,153,295,130,258"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="506,33,568,39,567,45,505,38"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="CarouselController" name="CarouselController">
+<area shape="rect" id="Node000001" title="Generic carousel UI controller for horizontal scrolling card selection. Handles visual layout,..." alt="" coords="177,80,320,105"/>
+<area shape="rect" id="Node000003" href="$classCanvasSongSelectMenuController.html" title=" " alt="" coords="368,5,611,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="287,71,367,39,411,28,413,33,369,45,289,76"/>
+<area shape="rect" id="Node000004" href="$classResultCarouselController.html" title=" " alt="" coords="397,55,581,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="333,81,397,74,397,80,334,86"/>
+<area shape="rect" id="Node000005" href="$classSampleCarouselController.html" title="Template example of a CarouselController child class. Use this as a reference when creating your own ..." alt="" coords="393,104,585,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="334,98,394,104,393,110,334,104"/>
+<area shape="rect" id="Node000006" href="$classSettingsCarouselController.html" title=" " alt="" coords="391,153,587,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="290,109,369,139,413,151,412,156,367,145,288,114"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,129,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,90,177,90,177,95,143,95"/>
+</map>

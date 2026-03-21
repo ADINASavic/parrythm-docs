@@ -1,0 +1,11 @@
+<map id="FMOD.System.createSound" name="FMOD.System.createSound">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,205,70"/>
+<area shape="rect" id="Node000002" href="$structFMOD_1_1System.html#acaeb5380facc7fd7c2c990e03c5841cf" title=" " alt="" coords="253,45,453,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,55,240,55,240,60,205,60"/>
+<area shape="rect" id="Node000003" href="$classFMOD_1_1StringHelper_1_1ThreadSafeEncoding.html#ab70a9e17e9e5d8cb538d2f5ccb8ce5cc" title=" " alt="" coords="501,5,749,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="453,43,487,39,488,44,454,48"/>
+<area shape="rect" id="Node000004" href="$classFMOD_1_1StringHelper.html#a9affc786ba136449cca2d2bea1759dc2" title=" " alt="" coords="525,69,726,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="454,66,511,73,510,79,453,72"/>
+<area shape="rect" id="Node000005" href="$classFMOD_1_1StringHelper_1_1ThreadSafeEncoding.html#a1f8a8af1da0acd7601b4348db9088c4f" title=" " alt="" coords="797,69,992,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="726,87,784,87,784,92,726,92"/>
+</map>

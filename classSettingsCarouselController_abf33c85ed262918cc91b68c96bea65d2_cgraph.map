@@ -1,0 +1,10 @@
+<map id="SettingsCarouselController.UpdateCustomInput" name="SettingsCarouselController.UpdateCustomInput">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,204,75"/>
+<area shape="rect" id="Node000002" href="$classSettingsCarouselController.html#a87eef7da76dd8e49e1c033f48a8cdc61" title=" " alt="" coords="273,5,472,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,41,260,35,260,40,204,46"/>
+<area shape="rect" id="Node000003" href="$classCarouselController.html#a545b5c3b9a9c9b500356180c60ebf777" title=" " alt="" coords="252,70,493,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,62,238,66,238,71,204,68"/>
+<area shape="rect" id="Node000004" href="$classFMODUnity_1_1RuntimeManager.html#a3e5d2f5a4452c630056c7cecbc6a6c3b" title=" " alt="" coords="541,63,756,103"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="493,80,527,80,527,85,493,85"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="598,63,595,53,603,44,621,38,649,36,680,39,698,46,696,51,679,44,649,41,622,43,606,48,600,54,603,61"/>
+</map>

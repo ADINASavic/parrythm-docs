@@ -1,0 +1,14 @@
+<map id="CarouselController.UpdateNavigationInput" name="CarouselController.UpdateNavigationInput">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,199,103"/>
+<area shape="rect" id="Node000002" href="$classCarouselController.html#a1f9056eff4256e1b7e0e298f52660870" title=" " alt="" coords="247,70,465,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,80,233,80,233,85,199,85"/>
+<area shape="rect" id="Node000003" href="$classCarouselController.html#a15569d0299e4b9d9db9436bc9a7f01a7" title=" " alt="" coords="527,5,727,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="416,67,518,46,519,51,417,73"/>
+<area shape="rect" id="Node000004" href="$classCarouselController.html#a8dff4840622297abd67270d970a5906a" title=" " alt="" coords="513,70,740,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="466,80,500,80,500,85,466,85"/>
+<area shape="rect" id="Node000006" href="$classCarouselController.html#afbef08291aff7890520877b0dd72d9de" title=" " alt="" coords="527,120,726,160"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="417,93,519,115,518,120,416,98"/>
+<area shape="rect" id="Node000005" href="$classFMODUnity_1_1RuntimeManager.html#a3e5d2f5a4452c630056c7cecbc6a6c3b" title=" " alt="" coords="788,63,1003,103"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="740,80,774,80,774,85,740,85"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="846,63,843,53,851,44,868,38,895,36,926,39,943,46,941,51,925,44,895,41,869,43,854,48,848,54,851,61"/>
+</map>

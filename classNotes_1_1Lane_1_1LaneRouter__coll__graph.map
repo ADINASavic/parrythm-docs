@@ -1,0 +1,5 @@
+<map id="Notes.Lane.LaneRouter" name="Notes.Lane.LaneRouter">
+<area shape="rect" id="Node000001" title="레인별 &quot;가장 먼저 생성된 노트 1개만&quot; 판정 활성화. (0.1초 내 두 노트가 같은 레인에서 동시에 터지는 문제 해결)" alt="" coords="5,79,179,104"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="30,5,154,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,44,95,79,89,79,89,44"/>
+</map>

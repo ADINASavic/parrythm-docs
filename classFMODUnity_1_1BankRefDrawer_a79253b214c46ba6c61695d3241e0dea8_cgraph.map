@@ -1,0 +1,7 @@
+<map id="FMODUnity.BankRefDrawer.OnGUI" name="FMODUnity.BankRefDrawer.OnGUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,209,67"/>
+<area shape="rect" id="Node000002" href="$classFMODUnity_1_1EventBrowser.html#a2d056c98aafdb175a901a19d47b7fea4" title=" " alt="" coords="257,5,531,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,34,256,29,256,35,210,40"/>
+<area shape="rect" id="Node000003" href="$classFMODUnity_1_1EditorUtils.html#abe5dd0f73cc20828acd8f604112e824e" title=" " alt="" coords="293,55,495,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,55,279,61,279,67,209,60"/>
+</map>

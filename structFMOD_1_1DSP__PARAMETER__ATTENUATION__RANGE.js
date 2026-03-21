@@ -1,0 +1,5 @@
+var structFMOD_1_1DSP__PARAMETER__ATTENUATION__RANGE =
+[
+    [ "max", "structFMOD_1_1DSP__PARAMETER__ATTENUATION__RANGE.html#a990c767b5fcd06dc2e115359d5645657", null ],
+    [ "min", "structFMOD_1_1DSP__PARAMETER__ATTENUATION__RANGE.html#a13f75467c593deae1689ce1b83faff20", null ]
+];

@@ -1,0 +1,7 @@
+<map id="Notes.Lane.LaneOccupancyProvider.IsGhostNow" name="Notes.Lane.LaneOccupancyProvider.IsGhostNow">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,207,67"/>
+<area shape="rect" id="Node000002" href="$classKeyboardInputManager.html#a448e22792b2b936af8b92f6ead339955" title=" " alt="" coords="255,5,505,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,34,247,30,248,35,207,39"/>
+<area shape="rect" id="Node000003" href="$classNotes_1_1Lane_1_1LaneUtil.html#a3776f25de5f91efb1e3617949c8e9d79" title=" " alt="" coords="286,55,474,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,55,273,62,272,67,207,60"/>
+</map>

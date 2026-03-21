@@ -1,0 +1,14 @@
+<map id="FMOD.Studio.EventInstance.start" name="FMOD.Studio.EventInstance.start">
+<area shape="rect" id="Node000001" title=" " alt="" coords="747,27,984,52"/>
+<area shape="rect" id="Node000002" href="$classFmodMusicController.html#ae392296428bf176b5c7f10f2d6ffe84d" title=" " alt="" coords="245,5,437,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="783,27,698,17,562,12,438,15,438,10,562,7,699,11,784,22"/>
+<area shape="rect" id="Node000003" href="$classSongPreviewPlayer.html#aa18177497573096e940c63a2cc793184" title=" " alt="" coords="513,27,692,52"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="733,42,692,42,692,37,733,37"/>
+<area shape="rect" id="Node000004" href="$classFmodMusicController.html#a5b2cce48706cad9b3ad3adcd06f42977" title=" " alt="" coords="507,77,699,117"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="794,58,695,79,694,74,793,52"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="521,75,384,33,385,28,523,70"/>
+<area shape="rect" id="Node000005" href="$classChartPlayerFMOD.html#a702556e0be6da0dd235a8b50d217a63a" title=" " alt="" coords="224,84,459,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="493,99,459,99,459,94,493,94"/>
+<area shape="rect" id="Node000006" href="$classChartPlayerFMOD.html#a2bf93b4a6d9d5ebbfbbf217b54d87844" title=" " alt="" coords="5,84,176,109"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="210,99,176,99,176,94,210,94"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="CanvasSongSelectMenuController.ConfigureCard" name="CanvasSongSelectMenuController.ConfigureCard">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,251,63"/>
+<area shape="rect" id="Node000002" href="$classSongCard.html#a2523028659860266fe7ba20141a01041" title=" " alt="" coords="299,31,441,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,41,284,41,284,46,251,46"/>
+<area shape="rect" id="Node000003" href="$classSongEntry.html#a6d8abc5cc959f9b22b34a231129bfad4" title=" " alt="" coords="495,5,686,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="441,33,481,28,482,33,442,38"/>
+<area shape="rect" id="Node000004" href="$classSongCard.html#a06a28c3c58857ebae15621eb51d9c09e" title=" " alt="" coords="489,55,692,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="442,48,476,52,475,57,441,54"/>
+<area shape="rect" id="Node000005" href="$classDifficultyColorPalette.html#ad3263234dbf14b78a2cef8426e4911c4" title=" " alt="" coords="746,5,933,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="655,52,761,31,762,36,656,57"/>
+<area shape="rect" id="Node000006" href="$classScoreAPI.html#ad129b52229d111e6bff53314a4202364" title=" " alt="" coords="748,55,931,80"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="692,65,735,65,735,70,692,70"/>
+<area shape="rect" id="Node000007" href="$classSongEntry.html#aec1b81c52a3ee8b2de1f1d98caa9a870" title=" " alt="" coords="740,105,939,145"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="647,77,739,99,738,104,646,83"/>
+</map>

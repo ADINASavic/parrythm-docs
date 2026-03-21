@@ -1,0 +1,13 @@
+<map id="FMOD.Studio.System.setAdvancedSettings" name="FMOD.Studio.System.setAdvancedSettings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,253,109"/>
+<area shape="rect" id="Node000002" href="$classFMOD_1_1StringHelper.html#a9affc786ba136449cca2d2bea1759dc2" title=" " alt="" coords="328,5,529,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,67,321,46,322,51,224,72"/>
+<area shape="rect" id="Node000004" href="$classFMOD_1_1StringHelper_1_1ThreadSafeEncoding.html#affa8c179548c9c5ea290366b83de7212" title=" " alt="" coords="301,69,556,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="253,87,288,87,288,92,253,92"/>
+<area shape="rect" id="Node000006" href="$structFMOD_1_1Studio_1_1System.html#addaf4027bca47e8f8b7f61990c6c7424" title=" " alt="" coords="305,133,553,173"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="224,107,322,128,321,133,223,112"/>
+<area shape="rect" id="Node000003" href="$classFMOD_1_1StringHelper_1_1ThreadSafeEncoding.html#a1f8a8af1da0acd7601b4348db9088c4f" title=" " alt="" coords="631,5,825,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="530,23,617,23,617,28,530,28"/>
+<area shape="rect" id="Node000005" href="$classFMOD_1_1StringHelper_1_1ThreadSafeEncoding.html#ab70a9e17e9e5d8cb538d2f5ccb8ce5cc" title=" " alt="" coords="604,69,852,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="556,87,591,87,591,92,556,92"/>
+</map>

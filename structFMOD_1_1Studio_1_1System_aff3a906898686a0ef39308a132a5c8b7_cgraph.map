@@ -1,0 +1,9 @@
+<map id="FMOD.Studio.System.startCommandCapture" name="FMOD.Studio.System.startCommandCapture">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,200,77"/>
+<area shape="rect" id="Node000002" href="$classFMOD_1_1StringHelper_1_1ThreadSafeEncoding.html#ab70a9e17e9e5d8cb538d2f5ccb8ce5cc" title=" " alt="" coords="248,5,496,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,43,234,39,234,44,201,48"/>
+<area shape="rect" id="Node000003" href="$classFMOD_1_1StringHelper.html#a9affc786ba136449cca2d2bea1759dc2" title=" " alt="" coords="271,69,473,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,66,258,73,257,78,200,72"/>
+<area shape="rect" id="Node000004" href="$classFMOD_1_1StringHelper_1_1ThreadSafeEncoding.html#a1f8a8af1da0acd7601b4348db9088c4f" title=" " alt="" coords="544,69,739,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="473,87,530,87,530,92,473,92"/>
+</map>

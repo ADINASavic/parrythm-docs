@@ -1,0 +1,15 @@
+<map id="FMODUnity.StudioEventEmitter" name="FMODUnity.StudioEventEmitter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="129,185,355,211"/>
+<area shape="rect" id="Node000002" href="$classFMODUnity_1_1EventHandler.html" title=" " alt="" coords="12,95,123,121"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,126,154,159,210,183,208,188,151,164,95,131"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,129,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="70,44,70,95,65,95,65,44"/>
+<area shape="rect" id="Node000004" href="$structFMODUnity_1_1EventReference.html" title=" " alt="" coords="311,95,514,121"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="379,129,266,188,263,183,377,125"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="381,5,444,31"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="368,22,323,26,272,38,224,60,203,76,186,95,180,106,180,118,190,142,209,165,229,183,225,187,205,169,185,145,175,119,175,105,181,92,199,72,221,55,270,33,322,21,367,17"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="415,44,415,95,410,95,410,44"/>
+<area shape="rect" id="Node000006" href="$classFMODUnity_1_1ParamRef.html" title=" " alt="" coords="538,95,701,121"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="453,34,593,93,591,98,451,38"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="575,128,452,164,325,188,324,183,451,159,573,123"/>
+</map>

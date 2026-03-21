@@ -1,0 +1,9 @@
+<map id="FMOD.Studio.System.lookupID" name="FMOD.Studio.System.lookupID">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,227,70"/>
+<area shape="rect" id="Node000002" href="$classFMOD_1_1StringHelper_1_1ThreadSafeEncoding.html#ab70a9e17e9e5d8cb538d2f5ccb8ce5cc" title=" " alt="" coords="275,5,523,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,42,261,38,261,44,227,47"/>
+<area shape="rect" id="Node000003" href="$classFMOD_1_1StringHelper.html#a9affc786ba136449cca2d2bea1759dc2" title=" " alt="" coords="298,69,499,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,67,285,74,284,79,226,72"/>
+<area shape="rect" id="Node000004" href="$classFMOD_1_1StringHelper_1_1ThreadSafeEncoding.html#a1f8a8af1da0acd7601b4348db9088c4f" title=" " alt="" coords="571,69,765,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="500,87,557,87,557,92,500,92"/>
+</map>

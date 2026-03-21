@@ -1,0 +1,7 @@
+<map id="ApproachCircleVisual.SetGuideBoost" name="ApproachCircleVisual.SetGuideBoost">
+<area shape="rect" id="Node000001" title=" " alt="" coords="488,5,673,45"/>
+<area shape="rect" id="Node000002" href="$classCircleNote.html#aafe3575b4b92e7d7fc59edf676661fc6" title=" " alt="" coords="245,13,440,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="474,28,440,28,440,23,474,23"/>
+<area shape="rect" id="Node000003" href="$classNoteSpawner.html#aec9c0e38ac6dbe2a93bf5584f96989d8" title=" " alt="" coords="5,13,197,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="232,28,197,28,197,23,232,23"/>
+</map>

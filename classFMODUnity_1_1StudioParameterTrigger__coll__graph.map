@@ -1,0 +1,21 @@
+<map id="FMODUnity.StudioParameterTrigger" name="FMODUnity.StudioParameterTrigger">
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,361,229,401"/>
+<area shape="rect" id="Node000002" href="$classFMODUnity_1_1EventHandler.html" title=" " alt="" coords="12,95,123,121"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,133,125,361,119,362,70,135"/>
+<area shape="rect" id="Node000005" href="$classFMODUnity_1_1StudioEventEmitter.html" title=" " alt="" coords="269,185,495,211"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="122,122,255,159,341,183,340,188,253,164,120,127"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,129,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="70,44,70,95,65,95,65,44"/>
+<area shape="rect" id="Node000004" href="$classFMODUnity_1_1EmitterRef.html" title=" " alt="" coords="297,273,467,299"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="339,306,179,364,177,359,337,301"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="385,225,385,273,379,273,379,225"/>
+<area shape="rect" id="Node000006" href="$structFMODUnity_1_1EventReference.html" title=" " alt="" coords="147,95,350,121"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="257,133,264,147,273,159,293,173,316,183,314,188,291,178,270,163,259,150,252,135"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="367,5,429,31"/>
+<area shape="poly" id="edge10_Node000005_Node000007" title=" " alt="" coords="398,45,386,185,380,185,393,44"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="368,40,270,98,267,93,365,35"/>
+<area shape="rect" id="Node000008" href="$classFMODUnity_1_1ParamRef.html" title=" " alt="" coords="538,95,701,121"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="441,33,591,93,589,98,439,38"/>
+<area shape="poly" id="edge11_Node000004_Node000008" title=" " alt="" coords="601,132,559,171,509,213,454,248,406,275,403,271,452,244,506,209,556,167,597,128"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="560,127,488,149,404,188,402,183,486,144,558,122"/>
+</map>
