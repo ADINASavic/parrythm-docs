@@ -1,6 +1,6 @@
 <map id="ResultsUI.ShowAsync" name="ResultsUI.ShowAsync">
 <area shape="rect" id="Node000001" title=" " alt="" coords="5,157,168,182"/>
-<area shape="rect" id="Node000002" href="$classParrythmInputRuntime_1_1StateOverrideHandle.html#ae28a7d0e57ee17e0269a26fabdf5feb5" title=" " alt="" coords="244,5,451,45"/>
+<area shape="rect" id="Node000002" href="$classParrythmInputRuntime_1_1StateOverrideHandle.html#ae28a7d0e57ee17e0269a26fabdf5feb5" title="자신이 나타내는 override를 해제한다. 중복 호출은 무시한다." alt="" coords="244,5,451,45"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,155,145,106,178,78,215,55,230,48,233,53,217,60,181,83,148,110,101,158"/>
 <area shape="rect" id="Node000003" href="$classScoreAPI.html#ad129b52229d111e6bff53314a4202364" title=" " alt="" coords="256,70,439,95"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="109,154,157,129,215,105,250,96,251,101,217,111,159,134,112,159"/>

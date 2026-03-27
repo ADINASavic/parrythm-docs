@@ -1,9 +1,9 @@
 <map id="그래픽컬한 클래스 계통도" name="그래픽컬한 클래스 계통도">
 <area shape="rect" id="Node000000" title=" " alt="" coords="5,63,104,88"/>
-<area shape="rect" id="Node000001" href="$classParrythmInputActions.html" title=" " alt="" coords="174,5,337,31"/>
+<area shape="rect" id="Node000001" href="$classParrythmInputActions.html" title="런타임 InputActionAsset을 역할별 액션 맵으로 감싸는 래퍼." alt="" coords="174,5,337,31"/>
 <area shape="poly" id="edge65_Node000000_Node000001" title=" " alt="" coords="104,56,151,41,199,28,200,33,153,46,105,61"/>
-<area shape="rect" id="Node000002" href="$classParrythmInputRuntime_1_1StateOverrideHandle.html" title=" " alt="" coords="152,55,359,95"/>
+<area shape="rect" id="Node000002" href="$classParrythmInputRuntime_1_1StateOverrideHandle.html" title="PushStateOverride로 추가한 override의 수명을 관리하는 핸들." alt="" coords="152,55,359,95"/>
 <area shape="poly" id="edge66_Node000000_Node000002" title=" " alt="" coords="118,73,152,73,152,78,118,78"/>
-<area shape="rect" id="Node000003" href="$classParrythmVirtualPointer.html" title=" " alt="" coords="170,120,341,145"/>
+<area shape="rect" id="Node000003" href="$classParrythmVirtualPointer.html" title="시스템 마우스 입력을 Input System 내부의 가상 마우스 장치로 복제하는 컨트롤러다." alt="" coords="170,120,341,145"/>
 <area shape="poly" id="edge67_Node000000_Node000003" title=" " alt="" coords="105,90,153,105,200,117,199,122,151,110,104,95"/>
 </map>

@@ -1,5 +1,7 @@
 var NAVTREEINDEX5 =
 {
+"classResultCarouselController.html":[1,0,65],
+"classResultCarouselController.html#a02bc1df9c56425c13e4bcbc15d42aff8":[1,0,65,2],
 "classResultCarouselController.html#a05e5ea55657de8120075428af76acb0b":[1,0,65,4],
 "classResultCarouselController.html#a22ea06c1b4b0bf91b2e00f49f05c9ba1":[1,0,65,6],
 "classResultCarouselController.html#a2eefae7fbac85d0056bd8e5c0d5134db":[1,0,65,5],
@@ -56,14 +58,15 @@ var NAVTREEINDEX5 =
 "classSettingsCardOffset.html#ac8cbfb51bbfd1b97faf672ad9fe0057f":[1,0,71,4],
 "classSettingsCardPlaySettings.html":[1,0,73],
 "classSettingsCardPlaySettings.html#a04164eb55253e6dada40756a5f8698f3":[1,0,73,0],
-"classSettingsCardPlaySettings.html#a08ab4d4ec53f83c317fbe19b20d75a41":[1,0,73,14],
+"classSettingsCardPlaySettings.html#a08ab4d4ec53f83c317fbe19b20d75a41":[1,0,73,15],
 "classSettingsCardPlaySettings.html#a0ccf09339e1b0a795684307129aa1c36":[1,0,73,12],
 "classSettingsCardPlaySettings.html#a203a653c140cb0885979958b1a0ebb89":[1,0,73,13],
 "classSettingsCardPlaySettings.html#a221541961db63d4d3d4d52beeee65500":[1,0,73,5],
+"classSettingsCardPlaySettings.html#a23c99daa3d3b3ae0394bd8438f72b71d":[1,0,73,14],
 "classSettingsCardPlaySettings.html#a50e582db1cdfa8c81312125644bb5c24":[1,0,73,10],
 "classSettingsCardPlaySettings.html#a56eea841812a86cb7c7a75bdce3fe6ba":[1,0,73,8],
 "classSettingsCardPlaySettings.html#a85cb861e2da3f418c0b2a35c25753a36":[1,0,73,11],
-"classSettingsCardPlaySettings.html#a97f7784f6475fa4452fecb976580c81a":[1,0,73,15],
+"classSettingsCardPlaySettings.html#a97f7784f6475fa4452fecb976580c81a":[1,0,73,16],
 "classSettingsCardPlaySettings.html#aa6f89a8a8b5789233a818aebf79f77b9":[1,0,73,6],
 "classSettingsCardPlaySettings.html#ac0598130ad9f6f4e644794e422d17bbf":[1,0,73,9],
 "classSettingsCardPlaySettings.html#ac0dd832efe7172a402c2057ff6335cda":[1,0,73,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX5 =
 "dir_0cb24bd15d0ac34c8fe36efd57623041.html":[2,0,0,0,0],
 "dir_1b5094f4ed63e6e1e6b7b16e67b6c4ed.html":[2,0,0,0,5],
 "dir_2d93cf395bb32e119d131216679658c5.html":[2,0,0,0,5,0],
-"dir_330f33a3088e977f0919d5b7ac74036e.html":[2,0,0,0,2],
-"dir_35842b31d022dcbdd5cea816c41ef326.html":[2,0,0,0,4],
-"dir_4d5635bfd3bd8003de6f2e04dc48af57.html":[2,0,0,0,6],
-"dir_4e91b6be60b69fcf89f86815cc92bf25.html":[2,0,0,0,7]
+"dir_330f33a3088e977f0919d5b7ac74036e.html":[2,0,0,0,2]
 };

@@ -67,7 +67,7 @@ var searchData=
   ['goodstart_64',['GoodStart',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#abefe31904bbabb071b0d8ec7445e2efe',1,'Notes::Square::SquareNoteTimeline']]],
   ['goodtext_65',['goodText',['../classResultsUI.html#ac13b1d6225cac2669eb26e08356ec390',1,'ResultsUI']]],
   ['goodwindow_66',['GoodWindow',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#aa29135fe307a70bc1772aac8c193546f',1,'Notes::Square::SquareNoteTimeline']]],
-  ['grid_67',['grid',['../classChartPlayerFMOD.html#a13d1adbfd62b2cfaf55b6531b7cdad49',1,'ChartPlayerFMOD.grid'],['../classLevelChartData.html#ada812263c42510ed1c0fb9c2eb528a3fa5174d1309f275ba6f275db3af9eb3e18',1,'LevelChartData.Grid']]],
+  ['grid_67',['grid',['../classLevelChartData.html#ada812263c42510ed1c0fb9c2eb528a3fa5174d1309f275ba6f275db3af9eb3e18',1,'LevelChartData.Grid'],['../classChartPlayerFMOD.html#a13d1adbfd62b2cfaf55b6531b7cdad49',1,'ChartPlayerFMOD.grid']]],
   ['gridappearlead_68',['gridAppearLead',['../classNoteSettings.html#a35b7546ffd220bc8b461f8341441a172',1,'NoteSettings']]],
   ['gridcolor_69',['gridColor',['../classGridManager.html#af5e60e6f4554ba198c9e4be158d5cf89',1,'GridManager']]],
   ['griddrawer_70',['GridDrawer',['../classGridDrawer.html',1,'']]],
@@ -91,7 +91,7 @@ var searchData=
   ['gridw_88',['GridW',['../classNotes_1_1Lane_1_1LaneUtil.html#a711f803f1a4fce245c2752ee49cda387',1,'Notes::Lane::LaneUtil']]],
   ['gridz_89',['gridZ',['../classGridDrawer.html#aa6ed0412b9a54a8bd6065e3289a54b27',1,'GridDrawer']]],
   ['growing_90',['Growing',['../classNotes_1_1Square_1_1SquareVisualBase.html#a5f0d4c5e181a0bc3c681c3b588c41ca7a545e303beabc266f9c55f08c03784f35',1,'Notes::Square::SquareVisualBase']]],
-  ['growspeed_91',['growspeed',['../classNoteSettings.html#a5370daef3d5f69dc6c8d03d794ccfd59',1,'NoteSettings.growSpeed'],['../classNoteSettingsOverrideDTO.html#a5dd4e1952690a068b49986e614891632',1,'NoteSettingsOverrideDTO.growSpeed'],['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a25e5d13a52134be90340bb0ac775f95c',1,'Notes.Square.SquareNoteTimeline.GrowSpeed']]],
+  ['growspeed_91',['growspeed',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a25e5d13a52134be90340bb0ac775f95c',1,'Notes.Square.SquareNoteTimeline.GrowSpeed'],['../classNoteSettings.html#a5370daef3d5f69dc6c8d03d794ccfd59',1,'NoteSettings.growSpeed'],['../classNoteSettingsOverrideDTO.html#a5dd4e1952690a068b49986e614891632',1,'NoteSettingsOverrideDTO.growSpeed']]],
   ['growtimeinput_92',['growTimeInput',['../classSettingsCardPlaySettings.html#a50e582db1cdfa8c81312125644bb5c24',1,'SettingsCardPlaySettings']]],
   ['growtimeslider_93',['growTimeSlider',['../classSettingsCardPlaySettings.html#a85cb861e2da3f418c0b2a35c25753a36',1,'SettingsCardPlaySettings']]]
 ];

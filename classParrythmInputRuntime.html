@@ -106,11 +106,15 @@ $(document).ready(function(){initNavTree('classParrythmInputRuntime.html',''); i
 </div><!--header-->
 <div class="contents">
 
+<p>런타임 입력 상태를 총괄하는 관리자.  
+ <a href="classParrythmInputRuntime.html#details">더 자세히 ...</a></p>
+
 <p>MonoBehaviour를(을) 상속했습니다.</p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 클래스</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParrythmInputRuntime_1_1StateOverrideHandle.html">StateOverrideHandle</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">PushStateOverride로 추가한 override의 수명을 관리하는 핸들.  <a href="classParrythmInputRuntime_1_1StateOverrideHandle.html#details">더 자세히 ...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
@@ -120,46 +124,63 @@ Public 타입</h2></td></tr>
 , <a class="el" href="classParrythmInputRuntime.html#a39e7be1636be7a3de12e0bfdadcbd1aba6288740a1cd0de37312619df3b6ddcf3">Gameplay</a>
 , <a class="el" href="classParrythmInputRuntime.html#a39e7be1636be7a3de12e0bfdadcbd1abafd69c5cf902969e6fb71d043085ddee6">Results</a>
  }</td></tr>
+<tr class="memdesc:a39e7be1636be7a3de12e0bfdadcbd1ab"><td class="mdescLeft">&#160;</td><td class="mdescRight">오버라이드가 없을 때 적용되는 기본 입력 상태이다. 현재 씬 문맥에 따라 어떤 액션 맵을 활성화할지 결정한다.  <a href="classParrythmInputRuntime.html#a39e7be1636be7a3de12e0bfdadcbd1ab">더 자세히 ...</a><br /></td></tr>
 <tr class="separator:a39e7be1636be7a3de12e0bfdadcbd1ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2673a675e177e6d950eac0376ed5c2b3" id="r_a2673a675e177e6d950eac0376ed5c2b3"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParrythmInputRuntime.html#a2673a675e177e6d950eac0376ed5c2b3">InputStateOverrideMode</a> { <a class="el" href="classParrythmInputRuntime.html#a2673a675e177e6d950eac0376ed5c2b3a6adf97f83acf6453d4a6a4b1070f3754">None</a>
 , <a class="el" href="classParrythmInputRuntime.html#a2673a675e177e6d950eac0376ed5c2b3acedd5142f453990b3b6382e888caa402">UiOnlyLocked</a>
 , <a class="el" href="classParrythmInputRuntime.html#a2673a675e177e6d950eac0376ed5c2b3a45370579ab48b0d996d9de79a5755cab">FullyLocked</a>
  }</td></tr>
+<tr class="memdesc:a2673a675e177e6d950eac0376ed5c2b3"><td class="mdescLeft">&#160;</td><td class="mdescRight">기본 씬 상태보다 우선 적용되는 임시 입력 오버라이드 모드이다. 특정 상황에서 UI만 허용하거나 전체 입력을 막는 데 사용한다.  <a href="classParrythmInputRuntime.html#a2673a675e177e6d950eac0376ed5c2b3">더 자세히 ...</a><br /></td></tr>
 <tr class="separator:a2673a675e177e6d950eac0376ed5c2b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public 멤버 함수</h2></td></tr>
 <tr class="memitem:a38a5462bd7699f5029dd77220b856d02" id="r_a38a5462bd7699f5029dd77220b856d02"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParrythmInputRuntime.html#a38a5462bd7699f5029dd77220b856d02">EnterOutgameState</a> ()</td></tr>
+<tr class="memdesc:a38a5462bd7699f5029dd77220b856d02"><td class="mdescLeft">&#160;</td><td class="mdescRight">기본 입력 상태를 Outgame으로 전환한다.  <br /></td></tr>
 <tr class="separator:a38a5462bd7699f5029dd77220b856d02"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae4244ab62ab304967e56c7bfc29d1ca1" id="r_ae4244ab62ab304967e56c7bfc29d1ca1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParrythmInputRuntime.html#ae4244ab62ab304967e56c7bfc29d1ca1">EnterGameplayState</a> ()</td></tr>
+<tr class="memdesc:ae4244ab62ab304967e56c7bfc29d1ca1"><td class="mdescLeft">&#160;</td><td class="mdescRight">기본 입력 상태를 Gameplay로 전환한다.  <br /></td></tr>
 <tr class="separator:ae4244ab62ab304967e56c7bfc29d1ca1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae3f628def55f99dec16d904f9821b4c5" id="r_ae3f628def55f99dec16d904f9821b4c5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParrythmInputRuntime.html#ae3f628def55f99dec16d904f9821b4c5">EnterResultsState</a> ()</td></tr>
+<tr class="memdesc:ae3f628def55f99dec16d904f9821b4c5"><td class="mdescLeft">&#160;</td><td class="mdescRight">기본 입력 상태를 Results로 전환한다.  <br /></td></tr>
 <tr class="separator:ae3f628def55f99dec16d904f9821b4c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a50feaba3f03bec571ca83cd07919428c" id="r_a50feaba3f03bec571ca83cd07919428c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classParrythmInputRuntime_1_1StateOverrideHandle.html">StateOverrideHandle</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParrythmInputRuntime.html#a50feaba3f03bec571ca83cd07919428c">PushStateOverride</a> (<a class="el" href="classParrythmInputRuntime.html#a2673a675e177e6d950eac0376ed5c2b3">InputStateOverrideMode</a> mode, string reason=null)</td></tr>
+<tr class="memdesc:a50feaba3f03bec571ca83cd07919428c"><td class="mdescLeft">&#160;</td><td class="mdescRight">임시 입력 override를 추가한다.  <br /></td></tr>
 <tr class="separator:a50feaba3f03bec571ca83cd07919428c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a550a41131bf4d5899a4d1d8fcd4dc01a" id="r_a550a41131bf4d5899a4d1d8fcd4dc01a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classParrythmInputRuntime_1_1StateOverrideHandle.html">StateOverrideHandle</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParrythmInputRuntime.html#a550a41131bf4d5899a4d1d8fcd4dc01a">PushUiOnlyLock</a> (string reason=null)</td></tr>
+<tr class="memdesc:a550a41131bf4d5899a4d1d8fcd4dc01a"><td class="mdescLeft">&#160;</td><td class="mdescRight">UI만 허용하는 임시 잠금 오버라이드를 추가한다. 텍스트 입력 중이거나 모달 UI가 떠 있을 때 사용한다.  <br /></td></tr>
 <tr class="separator:a550a41131bf4d5899a4d1d8fcd4dc01a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa77395fb22fa52f6c8ff4dbd04141975" id="r_aa77395fb22fa52f6c8ff4dbd04141975"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classParrythmInputRuntime_1_1StateOverrideHandle.html">StateOverrideHandle</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParrythmInputRuntime.html#aa77395fb22fa52f6c8ff4dbd04141975">PushFullyLockedState</a> (string reason=null)</td></tr>
+<tr class="memdesc:aa77395fb22fa52f6c8ff4dbd04141975"><td class="mdescLeft">&#160;</td><td class="mdescRight">모든 액션 맵을 비활성화하는 임시 잠금 오버라이드를 추가한다.  <br /></td></tr>
 <tr class="separator:aa77395fb22fa52f6c8ff4dbd04141975"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="properties" name="properties"></a>
 속성</h2></td></tr>
 <tr class="memitem:a3db7d946c0ec5d26f4c9203863ba01ef" id="r_a3db7d946c0ec5d26f4c9203863ba01ef"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="classParrythmInputRuntime.html">ParrythmInputRuntime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParrythmInputRuntime.html#a3db7d946c0ec5d26f4c9203863ba01ef">Instance</a><code> [get]</code></td></tr>
+<tr class="memdesc:a3db7d946c0ec5d26f4c9203863ba01ef"><td class="mdescLeft">&#160;</td><td class="mdescRight">현재 활성 런타임 인스턴스를 반환한다. 캐시가 비어 있으면 로드된 씬에서 찾아 캐시에 저장한다.  <br /></td></tr>
 <tr class="separator:a3db7d946c0ec5d26f4c9203863ba01ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab21c3d2b62982c981d673483b45d7965" id="r_ab21c3d2b62982c981d673483b45d7965"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="classParrythmInputRuntime.html">ParrythmInputRuntime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParrythmInputRuntime.html#ab21c3d2b62982c981d673483b45d7965">InstanceOrNull</a><code> [get]</code></td></tr>
+<tr class="memdesc:ab21c3d2b62982c981d673483b45d7965"><td class="mdescLeft">&#160;</td><td class="mdescRight">현재 활성 런타임 인스턴스를 반환한다. 필요 시 지연 탐색을 수행한다.  <br /></td></tr>
 <tr class="separator:ab21c3d2b62982c981d673483b45d7965"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6840122ff84c99142acce9453ed8e0fc" id="r_a6840122ff84c99142acce9453ed8e0fc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classParrythmInputActions.html">ParrythmInputActions</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParrythmInputRuntime.html#a6840122ff84c99142acce9453ed8e0fc">Actions</a><code> [get]</code></td></tr>
+<tr class="memdesc:a6840122ff84c99142acce9453ed8e0fc"><td class="mdescLeft">&#160;</td><td class="mdescRight">런타임 복제본 asset을 감싼 액션 래퍼.  <br /></td></tr>
 <tr class="separator:a6840122ff84c99142acce9453ed8e0fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa5efbf19ecc6aa2767d4a1cfc7c6193f" id="r_aa5efbf19ecc6aa2767d4a1cfc7c6193f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classParrythmVirtualPointer.html">ParrythmVirtualPointer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParrythmInputRuntime.html#aa5efbf19ecc6aa2767d4a1cfc7c6193f">VirtualPointer</a><code> [get]</code></td></tr>
 <tr class="separator:aa5efbf19ecc6aa2767d4a1cfc7c6193f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aaceb71798e5369fad9104d10b1016450" id="r_aaceb71798e5369fad9104d10b1016450"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classParrythmInputRuntime.html#a39e7be1636be7a3de12e0bfdadcbd1ab">InputSceneState</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParrythmInputRuntime.html#aaceb71798e5369fad9104d10b1016450">CurrentState</a><code> [get]</code></td></tr>
+<tr class="memdesc:aaceb71798e5369fad9104d10b1016450"><td class="mdescLeft">&#160;</td><td class="mdescRight">오버라이드가 없다고 가정했을 때 적용될 기본 씬 입력 상태를 반환한다.  <br /></td></tr>
 <tr class="separator:aaceb71798e5369fad9104d10b1016450"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3267dbb5a792665b5865930d25d72e3a" id="r_a3267dbb5a792665b5865930d25d72e3a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classParrythmInputRuntime.html#a2673a675e177e6d950eac0376ed5c2b3">InputStateOverrideMode</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParrythmInputRuntime.html#a3267dbb5a792665b5865930d25d72e3a">CurrentOverrideMode</a><code> [get]</code></td></tr>
+<tr class="memdesc:a3267dbb5a792665b5865930d25d72e3a"><td class="mdescLeft">&#160;</td><td class="mdescRight">현재 적용 중인 최상단 override 모드. override가 없으면 None.  <br /></td></tr>
 <tr class="separator:a3267dbb5a792665b5865930d25d72e3a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac7908863f99669793ffd28ad776a63ef" id="r_ac7908863f99669793ffd28ad776a63ef"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParrythmInputRuntime.html#ac7908863f99669793ffd28ad776a63ef">HasStateOverride</a><code> [get]</code></td></tr>
 <tr class="separator:ac7908863f99669793ffd28ad776a63ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">멤버 열거형 문서화</h2>
+<a name="details" id="details"></a><h2 class="groupheader">상세한 설명</h2>
+<div class="textblock"><p>런타임 입력 상태를 총괄하는 관리자. </p>
+<p>입력 액션 에셋의 복제본을 소유하고, 현재 씬 상태와 임시 override를 바탕으로 어떤 ActionMap 조합을 활성화할지 결정한다.</p>
+<p>또한 UI 입력 모듈과 virtual pointer를 동일한 런타임 액션 에셋에 연결한다. </p>
+</div><h2 class="groupheader">멤버 열거형 문서화</h2>
 <a id="a39e7be1636be7a3de12e0bfdadcbd1ab" name="a39e7be1636be7a3de12e0bfdadcbd1ab"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a39e7be1636be7a3de12e0bfdadcbd1ab">&#9670;&#160;</a></span>InputSceneState</h2>
 
@@ -171,8 +192,11 @@ Public 멤버 함수</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>오버라이드가 없을 때 적용되는 기본 입력 상태이다. 현재 씬 문맥에 따라 어떤 액션 맵을 활성화할지 결정한다. </p>
 <table class="fieldtable">
-<tr><th colspan="2">열거형 멤버</th></tr><tr><td class="fieldname"><a id="a39e7be1636be7a3de12e0bfdadcbd1aba88183b946cc5f0e8c96b2e66e1c74a7e" name="a39e7be1636be7a3de12e0bfdadcbd1aba88183b946cc5f0e8c96b2e66e1c74a7e"></a>Unknown&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">열거형 멤버</th></tr><tr><td class="fieldname"><a id="a39e7be1636be7a3de12e0bfdadcbd1aba88183b946cc5f0e8c96b2e66e1c74a7e" name="a39e7be1636be7a3de12e0bfdadcbd1aba88183b946cc5f0e8c96b2e66e1c74a7e"></a>Unknown&#160;</td><td class="fielddoc"><p>아직 씬 기반 입력 상태가 결정되지 않았다. </p>
+</td></tr>
 <tr><td class="fieldname"><a id="a39e7be1636be7a3de12e0bfdadcbd1aba464b8b48b2ec2a87501c1861ca04efc5" name="a39e7be1636be7a3de12e0bfdadcbd1aba464b8b48b2ec2a87501c1861ca04efc5"></a>Outgame&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a39e7be1636be7a3de12e0bfdadcbd1aba6288740a1cd0de37312619df3b6ddcf3" name="a39e7be1636be7a3de12e0bfdadcbd1aba6288740a1cd0de37312619df3b6ddcf3"></a>Gameplay&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a39e7be1636be7a3de12e0bfdadcbd1abafd69c5cf902969e6fb71d043085ddee6" name="a39e7be1636be7a3de12e0bfdadcbd1abafd69c5cf902969e6fb71d043085ddee6"></a>Results&#160;</td><td class="fielddoc"></td></tr>
@@ -191,8 +215,11 @@ Public 멤버 함수</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>기본 씬 상태보다 우선 적용되는 임시 입력 오버라이드 모드이다. 특정 상황에서 UI만 허용하거나 전체 입력을 막는 데 사용한다. </p>
 <table class="fieldtable">
-<tr><th colspan="2">열거형 멤버</th></tr><tr><td class="fieldname"><a id="a2673a675e177e6d950eac0376ed5c2b3a6adf97f83acf6453d4a6a4b1070f3754" name="a2673a675e177e6d950eac0376ed5c2b3a6adf97f83acf6453d4a6a4b1070f3754"></a>None&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">열거형 멤버</th></tr><tr><td class="fieldname"><a id="a2673a675e177e6d950eac0376ed5c2b3a6adf97f83acf6453d4a6a4b1070f3754" name="a2673a675e177e6d950eac0376ed5c2b3a6adf97f83acf6453d4a6a4b1070f3754"></a>None&#160;</td><td class="fielddoc"><p>오버라이드가 없으므로 현재 씬 상태에 따라 입력 구성이 결정된다. </p>
+</td></tr>
 <tr><td class="fieldname"><a id="a2673a675e177e6d950eac0376ed5c2b3acedd5142f453990b3b6382e888caa402" name="a2673a675e177e6d950eac0376ed5c2b3acedd5142f453990b3b6382e888caa402"></a>UiOnlyLocked&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a2673a675e177e6d950eac0376ed5c2b3a45370579ab48b0d996d9de79a5755cab" name="a2673a675e177e6d950eac0376ed5c2b3a45370579ab48b0d996d9de79a5755cab"></a>FullyLocked&#160;</td><td class="fielddoc"></td></tr>
 </table>
@@ -223,6 +250,8 @@ Public 멤버 함수</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>기본 입력 상태를 Gameplay로 전환한다. </p>
+
 </div>
 </div>
 <a id="a38a5462bd7699f5029dd77220b856d02" name="a38a5462bd7699f5029dd77220b856d02"></a>
@@ -247,6 +276,8 @@ Public 멤버 함수</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>기본 입력 상태를 Outgame으로 전환한다. </p>
 
 </div>
 </div>
@@ -273,6 +304,8 @@ Public 멤버 함수</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>기본 입력 상태를 Results로 전환한다. </p>
+
 </div>
 </div>
 <a id="aa77395fb22fa52f6c8ff4dbd04141975" name="aa77395fb22fa52f6c8ff4dbd04141975"></a>
@@ -298,13 +331,22 @@ Public 멤버 함수</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>모든 액션 맵을 비활성화하는 임시 잠금 오버라이드를 추가한다. </p>
+<dl class="params"><dt>매개변수</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">reason</td><td>선택적 디버그용 사유 문자열</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>반환값</dt><dd>추가된 오버라이드를 해제할 수 있는 핸들</dd></dl>
 <div class="dynheader">
 이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
 <div class="dyncontent">
 <div class="center"><img src="classParrythmInputRuntime_aa77395fb22fa52f6c8ff4dbd04141975_cgraph.png" border="0" usemap="#aclassParrythmInputRuntime_aa77395fb22fa52f6c8ff4dbd04141975_cgraph" alt=""/></div>
 <map name="aclassParrythmInputRuntime_aa77395fb22fa52f6c8ff4dbd04141975_cgraph" id="aclassParrythmInputRuntime_aa77395fb22fa52f6c8ff4dbd04141975_cgraph">
-<area shape="rect" title=" " alt="" coords="5,5,209,45"/>
-<area shape="rect" href="classParrythmInputRuntime.html#a50feaba3f03bec571ca83cd07919428c" title=" " alt="" coords="257,5,461,45"/>
+<area shape="rect" title="모든 액션 맵을 비활성화하는 임시 잠금 오버라이드를 추가한다." alt="" coords="5,5,209,45"/>
+<area shape="rect" href="classParrythmInputRuntime.html#a50feaba3f03bec571ca83cd07919428c" title="임시 입력 override를 추가한다." alt="" coords="257,5,461,45"/>
 <area shape="poly" title=" " alt="" coords="209,23,244,23,244,28,209,28"/>
 </map>
 </div>
@@ -344,15 +386,26 @@ Public 멤버 함수</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>임시 입력 override를 추가한다. </p>
+<p>override는 stack처럼 동작하며, 가장 최근에 추가된 항목이 우선 적용된다. 반환된 handle을 Dispose하면 해당 override만 해제된다.</p>
+<dl class="params"><dt>매개변수</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">mode</td><td>적용할 오버라이드 모드</td></tr>
+    <tr><td class="paramname">reason</td><td>선택적 디버그용 사유 문자열</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>반환값</dt><dd>추가된 오버라이드를 해제할 수 있는 핸들</dd></dl>
 <div class="dynheader">
 이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
 <div class="dyncontent">
 <div class="center"><img src="classParrythmInputRuntime_a50feaba3f03bec571ca83cd07919428c_icgraph.png" border="0" usemap="#aclassParrythmInputRuntime_a50feaba3f03bec571ca83cd07919428c_icgraph" alt=""/></div>
 <map name="aclassParrythmInputRuntime_a50feaba3f03bec571ca83cd07919428c_icgraph" id="aclassParrythmInputRuntime_a50feaba3f03bec571ca83cd07919428c_icgraph">
-<area shape="rect" title=" " alt="" coords="257,37,461,77"/>
-<area shape="rect" href="classParrythmInputRuntime.html#aa77395fb22fa52f6c8ff4dbd04141975" title=" " alt="" coords="5,5,209,45"/>
+<area shape="rect" title="임시 입력 override를 추가한다." alt="" coords="257,37,461,77"/>
+<area shape="rect" href="classParrythmInputRuntime.html#aa77395fb22fa52f6c8ff4dbd04141975" title="모든 액션 맵을 비활성화하는 임시 잠금 오버라이드를 추가한다." alt="" coords="5,5,209,45"/>
 <area shape="poly" title=" " alt="" coords="244,45,209,41,210,36,244,40"/>
-<area shape="rect" href="classParrythmInputRuntime.html#a550a41131bf4d5899a4d1d8fcd4dc01a" title=" " alt="" coords="5,69,209,109"/>
+<area shape="rect" href="classParrythmInputRuntime.html#a550a41131bf4d5899a4d1d8fcd4dc01a" title="UI만 허용하는 임시 잠금 오버라이드를 추가한다. 텍스트 입력 중이거나 모달 UI가 떠 있을 때 사용한다." alt="" coords="5,69,209,109"/>
 <area shape="poly" title=" " alt="" coords="244,75,210,79,209,74,244,69"/>
 </map>
 </div>
@@ -382,13 +435,22 @@ Public 멤버 함수</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>UI만 허용하는 임시 잠금 오버라이드를 추가한다. 텍스트 입력 중이거나 모달 UI가 떠 있을 때 사용한다. </p>
+<dl class="params"><dt>매개변수</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">reason</td><td>선택적 디버그용 사유 문자열</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>반환값</dt><dd>추가된 오버라이드를 해제할 수 있는 핸들</dd></dl>
 <div class="dynheader">
 이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
 <div class="dyncontent">
 <div class="center"><img src="classParrythmInputRuntime_a550a41131bf4d5899a4d1d8fcd4dc01a_cgraph.png" border="0" usemap="#aclassParrythmInputRuntime_a550a41131bf4d5899a4d1d8fcd4dc01a_cgraph" alt=""/></div>
 <map name="aclassParrythmInputRuntime_a550a41131bf4d5899a4d1d8fcd4dc01a_cgraph" id="aclassParrythmInputRuntime_a550a41131bf4d5899a4d1d8fcd4dc01a_cgraph">
-<area shape="rect" title=" " alt="" coords="5,5,209,45"/>
-<area shape="rect" href="classParrythmInputRuntime.html#a50feaba3f03bec571ca83cd07919428c" title=" " alt="" coords="257,5,461,45"/>
+<area shape="rect" title="UI만 허용하는 임시 잠금 오버라이드를 추가한다. 텍스트 입력 중이거나 모달 UI가 떠 있을 때 사용한다." alt="" coords="5,5,209,45"/>
+<area shape="rect" href="classParrythmInputRuntime.html#a50feaba3f03bec571ca83cd07919428c" title="임시 입력 override를 추가한다." alt="" coords="257,5,461,45"/>
 <area shape="poly" title=" " alt="" coords="209,23,244,23,244,28,209,28"/>
 </map>
 </div>
@@ -416,6 +478,8 @@ Public 멤버 함수</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>런타임 복제본 asset을 감싼 액션 래퍼. </p>
+
 </div>
 </div>
 <a id="a3267dbb5a792665b5865930d25d72e3a" name="a3267dbb5a792665b5865930d25d72e3a"></a>
@@ -438,6 +502,8 @@ Public 멤버 함수</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>현재 적용 중인 최상단 override 모드. override가 없으면 None. </p>
+
 </div>
 </div>
 <a id="aaceb71798e5369fad9104d10b1016450" name="aaceb71798e5369fad9104d10b1016450"></a>
@@ -459,6 +525,8 @@ Public 멤버 함수</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>오버라이드가 없다고 가정했을 때 적용될 기본 씬 입력 상태를 반환한다. </p>
 
 </div>
 </div>
@@ -504,6 +572,8 @@ Public 멤버 함수</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>현재 활성 런타임 인스턴스를 반환한다. 캐시가 비어 있으면 로드된 씬에서 찾아 캐시에 저장한다. </p>
+
 </div>
 </div>
 <a id="ab21c3d2b62982c981d673483b45d7965" name="ab21c3d2b62982c981d673483b45d7965"></a>
@@ -525,6 +595,8 @@ Public 멤버 함수</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>현재 활성 런타임 인스턴스를 반환한다. 필요 시 지연 탐색을 수행한다. </p>
 
 </div>
 </div>

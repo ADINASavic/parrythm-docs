@@ -7,7 +7,7 @@ var searchData=
   ['targetpxtoscreen_4',['TargetPxToScreen',['../classFixed16x9Camera.html#a81c8451dec4a3b6ceb91ec3b68ce6f03',1,'Fixed16x9Camera']]],
   ['targetpxtoworld_5',['TargetPxToWorld',['../classFixed16x9Camera.html#ad6276d018337d4eb6054a1d5c6c5ef73',1,'Fixed16x9Camera']]],
   ['targetrt_6',['targetRT',['../classBackgroundVideoSync.html#a47eecb2465acf3a0595b7b395719bb9c',1,'BackgroundVideoSync']]],
-  ['targetsize_7',['targetsize',['../classNoteSettings.html#a6d3c11f7856689137fc3203aec533f76',1,'NoteSettings.targetSize'],['../classNoteSettingsOverrideDTO.html#a731028b835b067aef265be6e27884638',1,'NoteSettingsOverrideDTO.targetSize'],['../classNotes_1_1Square_1_1SquareNoteTimeline.html#af84824705adc78b144fb43f2e07c0735',1,'Notes.Square.SquareNoteTimeline.TargetSize']]],
+  ['targetsize_7',['targetsize',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#af84824705adc78b144fb43f2e07c0735',1,'Notes.Square.SquareNoteTimeline.TargetSize'],['../classNoteSettings.html#a6d3c11f7856689137fc3203aec533f76',1,'NoteSettings.targetSize'],['../classNoteSettingsOverrideDTO.html#a731028b835b067aef265be6e27884638',1,'NoteSettingsOverrideDTO.targetSize']]],
   ['targetwidth_8',['targetWidth',['../classFixed16x9Camera.html#a07d86c9c8760eedeb7a4daadab992662',1,'Fixed16x9Camera']]],
   ['tempomap_9',['tempoMap',['../classLevelChartData.html#a39ae62808a0d3f07626f410b6c2ccc79',1,'LevelChartData']]],
   ['tempomapenabled_10',['tempoMapEnabled',['../classLevelChartData.html#a5b1c382c0bd6d136f4f5a4ec9a1cdbd2',1,'LevelChartData']]],

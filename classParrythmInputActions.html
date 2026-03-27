@@ -105,22 +105,30 @@ $(document).ready(function(){initNavTree('classParrythmInputActions.html',''); i
 </div><!--header-->
 <div class="contents">
 
+<p>런타임 InputActionAsset을 역할별 액션 맵으로 감싸는 래퍼.  
+ <a href="classParrythmInputActions.html#details">더 자세히 ...</a></p>
+
 <p>IDisposable를(을) 상속했습니다.</p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 클래스</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParrythmInputActions_1_1IngameGameplayActions.html">IngameGameplayActions</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">인게임 플레이 로직에서 직접 소비하는 액션 맵 래퍼.  <a href="classParrythmInputActions_1_1IngameGameplayActions.html#details">더 자세히 ...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParrythmInputActions_1_1OutgameMenuActions.html">OutgameMenuActions</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">아웃게임 메뉴 내비게이션에서 사용하는 액션 맵 래퍼.  <a href="classParrythmInputActions_1_1OutgameMenuActions.html#details">더 자세히 ...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParrythmInputActions_1_1ResultsMenuActions.html">ResultsMenuActions</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">결과 화면 내비게이션에서 사용하는 액션 맵 래퍼. /summary&gt;  <a href="classParrythmInputActions_1_1ResultsMenuActions.html#details">더 자세히 ...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParrythmInputActions_1_1UIActions.html">UIActions</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Unity UI(EventSystem)가 소비하는 UI 액션 맵 래퍼.  <a href="classParrythmInputActions_1_1UIActions.html#details">더 자세히 ...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public 멤버 함수</h2></td></tr>
 <tr class="memitem:a355b5043ff3572042a360a2a16c18005" id="r_a355b5043ff3572042a360a2a16c18005"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParrythmInputActions.html#a355b5043ff3572042a360a2a16c18005">ParrythmInputActions</a> (InputActionAsset asset)</td></tr>
+<tr class="memdesc:a355b5043ff3572042a360a2a16c18005"><td class="mdescLeft">&#160;</td><td class="mdescRight">런타임에서 사용할 InputActionAsset 복제본을 받아 각 액션 맵과 액션 참조를 초기화한다.  <br /></td></tr>
 <tr class="separator:a355b5043ff3572042a360a2a16c18005"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a69303cfae513f23cc63fd932859ff888" id="r_a69303cfae513f23cc63fd932859ff888"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParrythmInputActions.html#a69303cfae513f23cc63fd932859ff888">Dispose</a> ()</td></tr>
 <tr class="separator:a69303cfae513f23cc63fd932859ff888"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -138,7 +146,10 @@ Public 멤버 함수</h2></td></tr>
 <tr class="memitem:ad82375363c79e6d962a355fb58b6678c" id="r_ad82375363c79e6d962a355fb58b6678c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classParrythmInputActions_1_1ResultsMenuActions.html">ResultsMenuActions</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParrythmInputActions.html#ad82375363c79e6d962a355fb58b6678c">ResultsMenu</a><code> [get]</code></td></tr>
 <tr class="separator:ad82375363c79e6d962a355fb58b6678c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">생성자 &amp; 소멸자 문서화</h2>
+<a name="details" id="details"></a><h2 class="groupheader">상세한 설명</h2>
+<div class="textblock"><p>런타임 InputActionAsset을 역할별 액션 맵으로 감싸는 래퍼. </p>
+<p>문자열 기반 Action 검색을 생성 시점에 한 번으로 제한하고, 이후에는 타입 안전한 프로퍼티를 통해 접근할 수 있게 한다. </p>
+</div><h2 class="groupheader">생성자 &amp; 소멸자 문서화</h2>
 <a id="a355b5043ff3572042a360a2a16c18005" name="a355b5043ff3572042a360a2a16c18005"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a355b5043ff3572042a360a2a16c18005">&#9670;&#160;</a></span>ParrythmInputActions()</h2>
 
@@ -162,6 +173,15 @@ Public 멤버 함수</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>런타임에서 사용할 InputActionAsset 복제본을 받아 각 액션 맵과 액션 참조를 초기화한다. </p>
+<p>이 인스턴스는 전달받은 asset을 소유하며, Dispose 시 함께 정리된다.</p>
+<dl class="params"><dt>매개변수</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">asset</td><td>런타임에서 사용할 입력 액션 에셋 복제본</td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>

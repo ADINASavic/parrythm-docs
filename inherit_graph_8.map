@@ -1,6 +1,6 @@
 <map id="그래픽컬한 클래스 계통도" name="그래픽컬한 클래스 계통도">
 <area shape="rect" id="Node000000" title=" " alt="" coords="5,55,140,80"/>
-<area shape="rect" id="Node000001" href="$classInputFieldFocusRelay.html" title=" " alt="" coords="231,55,391,80"/>
+<area shape="rect" id="Node000001" href="$classInputFieldFocusRelay.html" title="텍스트 입력 중 메뉴 내비게이션 입력이 함께 처리되지 않도록 TMP_InputField의 focus 상태를 owner에 전달하는 브릿지." alt="" coords="231,55,391,80"/>
 <area shape="poly" id="edge2_Node000000_Node000001" title=" " alt="" coords="154,65,231,65,231,70,154,70"/>
 <area shape="rect" id="Node000030" href="$interfaceIGaugeCommand.html" title=" " alt="" coords="5,104,140,129"/>
 <area shape="rect" id="Node000029" href="$classGaugeManager.html" title=" " alt="" coords="251,104,372,129"/>
@@ -86,7 +86,7 @@
 <area shape="poly" id="edge49_Node000003_Node000048" title=" " alt="" coords="78,1327,88,1538,110,1857,126,2019,144,2161,166,2269,178,2305,190,2327,203,2338,200,2342,186,2330,173,2308,161,2271,139,2162,121,2019,105,1857,83,1538,72,1327"/>
 <area shape="rect" id="Node000051" href="$classNotes_1_1Square_1_1SquareVisualLong.html" title=" " alt="" coords="197,2389,426,2415"/>
 <area shape="poly" id="edge52_Node000003_Node000051" title=" " alt="" coords="78,1327,87,1546,109,1881,124,2052,143,2202,165,2316,177,2354,190,2376,203,2387,200,2391,186,2380,172,2356,160,2317,138,2203,119,2052,104,1882,82,1547,72,1327"/>
-<area shape="rect" id="Node000052" href="$classParrythmInputRuntime.html" title=" " alt="" coords="227,2439,396,2464"/>
+<area shape="rect" id="Node000052" href="$classParrythmInputRuntime.html" title="런타임 입력 상태를 총괄하는 관리자." alt="" coords="227,2439,396,2464"/>
 <area shape="poly" id="edge53_Node000003_Node000052" title=" " alt="" coords="77,1327,87,1555,107,1906,123,2084,141,2242,164,2362,177,2402,190,2426,207,2439,227,2447,225,2452,204,2443,186,2429,172,2404,159,2363,136,2243,117,2085,102,1906,81,1555,72,1327"/>
 <area shape="rect" id="Node000053" href="$classPlayerSpriteController.html" title=" " alt="" coords="229,2488,394,2513"/>
 <area shape="poly" id="edge54_Node000003_Node000053" title=" " alt="" coords="77,1327,86,1565,106,1931,121,2118,140,2283,163,2408,176,2450,190,2475,208,2489,229,2497,227,2502,205,2493,186,2478,171,2452,158,2409,135,2284,116,2119,100,1932,80,1565,72,1327"/>

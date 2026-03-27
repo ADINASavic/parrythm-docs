@@ -14,6 +14,7 @@ var classSettingsCardPlaySettings =
     [ "growTimeSlider", "classSettingsCardPlaySettings.html#a85cb861e2da3f418c0b2a35c25753a36", null ],
     [ "mouseSensitivityInput", "classSettingsCardPlaySettings.html#a0ccf09339e1b0a795684307129aa1c36", null ],
     [ "mouseSensitivitySlider", "classSettingsCardPlaySettings.html#a203a653c140cb0885979958b1a0ebb89", null ],
+    [ "mouseUseSensitivityToggle", "classSettingsCardPlaySettings.html#a23c99daa3d3b3ae0394bd8438f72b71d", null ],
     [ "reloadButton", "classSettingsCardPlaySettings.html#a08ab4d4ec53f83c317fbe19b20d75a41", null ],
     [ "saveButton", "classSettingsCardPlaySettings.html#a97f7784f6475fa4452fecb976580c81a", null ]
 ];
