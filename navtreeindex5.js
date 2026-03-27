@@ -1,8 +1,5 @@
 var NAVTREEINDEX5 =
 {
-"classPlayerSpriteController.html#af832f3661093eac3cee245ccfd1ba337":[1,0,64,2],
-"classResultCarouselController.html":[1,0,65],
-"classResultCarouselController.html#a02bc1df9c56425c13e4bcbc15d42aff8":[1,0,65,2],
 "classResultCarouselController.html#a05e5ea55657de8120075428af76acb0b":[1,0,65,4],
 "classResultCarouselController.html#a22ea06c1b4b0bf91b2e00f49f05c9ba1":[1,0,65,6],
 "classResultCarouselController.html#a2eefae7fbac85d0056bd8e5c0d5134db":[1,0,65,5],
@@ -249,5 +246,8 @@ var NAVTREEINDEX5 =
 "dir_0cb24bd15d0ac34c8fe36efd57623041.html":[2,0,0,0,0],
 "dir_1b5094f4ed63e6e1e6b7b16e67b6c4ed.html":[2,0,0,0,5],
 "dir_2d93cf395bb32e119d131216679658c5.html":[2,0,0,0,5,0],
-"dir_330f33a3088e977f0919d5b7ac74036e.html":[2,0,0,0,2]
+"dir_330f33a3088e977f0919d5b7ac74036e.html":[2,0,0,0,2],
+"dir_35842b31d022dcbdd5cea816c41ef326.html":[2,0,0,0,4],
+"dir_4d5635bfd3bd8003de6f2e04dc48af57.html":[2,0,0,0,6],
+"dir_4e91b6be60b69fcf89f86815cc92bf25.html":[2,0,0,0,7]
 };

@@ -1,8 +1,5 @@
 var NAVTREEINDEX4 =
 {
-"classNotes_1_1Square_1_1SquareNoteVisual.html#a7d76226bd65e81fbf61d7aacbc78d1dc":[1,0,0,1,3,1],
-"classNotes_1_1Square_1_1SquareNoteVisual.html#a9307e2017bbbc0ea9cea9f640cabdd53":[0,0,0,1,3,4],
-"classNotes_1_1Square_1_1SquareNoteVisual.html#a9307e2017bbbc0ea9cea9f640cabdd53":[1,0,0,1,3,4],
 "classNotes_1_1Square_1_1SquareNoteVisual.html#ac8dabb6367dbda48fe716b2e3c520481":[1,0,0,1,3,2],
 "classNotes_1_1Square_1_1SquareNoteVisual.html#ac8dabb6367dbda48fe716b2e3c520481":[0,0,0,1,3,2],
 "classNotes_1_1Square_1_1SquareNoteVisual.html#afd7e2889e41793a08b9219dabd2fea57":[1,0,0,1,3,3],
@@ -249,5 +246,8 @@ var NAVTREEINDEX4 =
 "classPlayerSpriteController.html#a2039bffbde2740caf9c7c3c2b6b1ee3d":[1,0,64,0],
 "classPlayerSpriteController.html#a7f79f1acb53d476863d659fd52e905e1":[1,0,64,4],
 "classPlayerSpriteController.html#ab50a4b214299e9b14a4f1ee3f6d700a1":[1,0,64,6],
-"classPlayerSpriteController.html#abdfc00b9e4d1a425d49a1124df41dfb2":[1,0,64,5]
+"classPlayerSpriteController.html#abdfc00b9e4d1a425d49a1124df41dfb2":[1,0,64,5],
+"classPlayerSpriteController.html#af832f3661093eac3cee245ccfd1ba337":[1,0,64,2],
+"classResultCarouselController.html":[1,0,65],
+"classResultCarouselController.html#a02bc1df9c56425c13e4bcbc15d42aff8":[1,0,65,2]
 };

@@ -203,14 +203,11 @@ var NAVTREEINDEX0 =
 "classCameraTweenTrack.html#ad8499530abd2e9dff4b4b089a7196b0f":[1,0,10,1],
 "classCanvasGameIntroController.html":[1,0,11],
 "classCanvasGameIntroController.html#a106d8c1118939064d85053ab6600d264":[1,0,11,1],
-"classCanvasGameIntroController.html#a4834039bb9d1a5a3770f86150d07ee4a":[1,0,11,4],
-"classCanvasGameIntroController.html#a518db4bdb6e0951c0f6d30118ef663ee":[1,0,11,5],
+"classCanvasGameIntroController.html#a10dbb11a57d266c641a36ecd385510d8":[1,0,11,5],
 "classCanvasGameIntroController.html#a7ea1778c32b5a47249f1063bebc9f8f8":[1,0,11,0],
-"classCanvasGameIntroController.html#a830d0fbe276fbb6e7ee860b6177daf4c":[1,0,11,8],
 "classCanvasGameIntroController.html#a9bf09490638ebea41d8dc71227d86c78":[1,0,11,2],
-"classCanvasGameIntroController.html#aa9396de9c077578fdc01e6f6311e2bd1":[1,0,11,7],
-"classCanvasGameIntroController.html#aa99392acbe80ea8177127d25f22f2f1b":[1,0,11,3],
-"classCanvasGameIntroController.html#acad1a9d217d3ec8361ab06599228cde0":[1,0,11,6],
+"classCanvasGameIntroController.html#aa9396de9c077578fdc01e6f6311e2bd1":[1,0,11,4],
+"classCanvasGameIntroController.html#acad1a9d217d3ec8361ab06599228cde0":[1,0,11,3],
 "classCanvasSongIntroController.html":[1,0,12],
 "classCanvasSongIntroController.html#a14caafb94ff8a5b33a8496c6800e9c8c":[1,0,12,0],
 "classCanvasSongIntroController.html#a755578196ea6f6b117cf1bb123f903ba":[1,0,12,4],
@@ -249,5 +246,8 @@ var NAVTREEINDEX0 =
 "classCanvasSongSelectMenuController.html#af911d56215fc6fcebd273cffa85b92cd":[1,0,13,15],
 "classCarouselController.html":[1,0,14],
 "classCarouselController.html#a0d83abdb836aa2596baf86d577ce4900":[1,0,14,16],
-"classCarouselController.html#a0ebabcb8bc8375c1ad42ac20966e0f78":[1,0,14,37]
+"classCarouselController.html#a0ebabcb8bc8375c1ad42ac20966e0f78":[1,0,14,37],
+"classCarouselController.html#a0f228125f0e7e4508db2cd9be53b6c75":[1,0,14,3],
+"classCarouselController.html#a0f3924b590ade39d51dd42307a57846f":[1,0,14,14],
+"classCarouselController.html#a15569d0299e4b9d9db9436bc9a7f01a7":[1,0,14,6]
 };

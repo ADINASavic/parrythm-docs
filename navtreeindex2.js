@@ -1,8 +1,5 @@
 var NAVTREEINDEX2 =
 {
-"classGridManager.html#abe71c4da715afa0559996a46cfd8d30c":[1,0,35,2],
-"classGridManager.html#aef3faa321eb1a988f1136c29964c6391":[1,0,35,1],
-"classGridManager.html#af5e60e6f4554ba198c9e4be158d5cf89":[1,0,35,4],
 "classGridNoteHandler.html":[1,0,36],
 "classGridNoteHandler.html#a3663502dd1cfd9034f5460c000c43f64":[1,0,36,0],
 "classGridNoteHandler.html#ae3482f87f309414b5269dd646d507b6d":[1,0,36,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX2 =
 "classNoteSettings.html#a69a448d33ec6fedb934baa7abc26e022":[1,0,56,57],
 "classNoteSettings.html#a6c8ccf2805e7092370c5560bc82adedf":[1,0,56,43],
 "classNoteSettings.html#a6d3c11f7856689137fc3203aec533f76":[1,0,56,59],
-"classNoteSettings.html#a73bc8baebde1113030bf38ebac092256":[1,0,56,39]
+"classNoteSettings.html#a73bc8baebde1113030bf38ebac092256":[1,0,56,39],
+"classNoteSettings.html#a75d32b4b752e21d9ee5eaa67ee13e24b":[1,0,56,11],
+"classNoteSettings.html#a76ea2ae5f96bf632d1a654af4e035547":[1,0,56,23],
+"classNoteSettings.html#a7a4eed8702057b693d2e981686020a62":[1,0,56,22]
 };
