@@ -62,7 +62,7 @@
 <area shape="poly" id="edge34_Node000002_Node000019" title=" " alt="" coords="1774,972,1815,964,1854,952,1896,930,1930,905,1933,910,1899,934,1856,957,1816,970,1775,978"/>
 <area shape="rect" id="Node000020" href="$classFixed16x9Camera.html" title=" " alt="" coords="1265,970,1404,995"/>
 <area shape="poly" id="edge35_Node000019_Node000020" title=" " alt="" coords="1418,980,1613,980,1613,985,1418,985"/>
-<area shape="rect" id="Node000021" href="$classGridDrawer.html" title=" " alt="" coords="1639,1069,1735,1094"/>
+<area shape="rect" id="Node000021" href="$classGridDrawer.html" title="화면 해상도 및 카메라 설정에 맞춰 2D 그리드를 LineRenderer로 생성/관리하는 컴포넌트." alt="" coords="1639,1069,1735,1094"/>
 <area shape="poly" id="edge36_Node000002_Node000021" title=" " alt="" coords="1748,1075,1802,1063,1829,1052,1853,1038,1885,1007,1910,970,1940,906,1945,909,1915,973,1889,1010,1856,1042,1831,1057,1804,1068,1750,1080"/>
 <area shape="poly" id="edge40_Node000001_Node000022" title=" " alt="" coords="1043,106,1333,107,1949,107,2006,110,2049,118,2144,154,2208,186,2206,191,2142,158,2047,123,2005,115,1949,112,1333,112,1043,111"/>
 <area shape="rect" id="Node000023" href="$interfaceIStageEndTrigger.html" title=" " alt="" coords="599,109,729,134"/>

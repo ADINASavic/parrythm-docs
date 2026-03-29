@@ -102,6 +102,9 @@ $(document).ready(function(){initNavTree('classMeshUtil.html',''); initResizable
   <div class="headertitle"><div class="title">MeshUtil 클래스 참조</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p>2D 메쉬 및 LineRenderer 형상을 생성하는 공용 유틸리티.  
+ <a href="classMeshUtil.html#details">더 자세히 ...</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
 정적 Public 멤버 함수</h2></td></tr>
@@ -109,16 +112,34 @@ $(document).ready(function(){initNavTree('classMeshUtil.html',''); initResizable
 <tr class="separator:af773579f934e0c9e6247e55a623d2089"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2f3df4f32963cf5a175bac5597e3d037" id="r_a2f3df4f32963cf5a175bac5597e3d037"><td class="memItemLeft" align="right" valign="top">static Mesh&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMeshUtil.html#a2f3df4f32963cf5a175bac5597e3d037">BuildRingMesh</a> (int segments, float innerRadius, float outerRadius)</td></tr>
 <tr class="separator:a2f3df4f32963cf5a175bac5597e3d037"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1b2a4d59686a2f8ed23e4a368bae0ae5" id="r_a1b2a4d59686a2f8ed23e4a368bae0ae5"><td class="memItemLeft" align="right" valign="top">static Vector3[]&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMeshUtil.html#a1b2a4d59686a2f8ed23e4a368bae0ae5">BuildRoundedRectContour</a> (float width, float height, float cornerRadius, int cornerSegments)</td></tr>
+<tr class="memdesc:a1b2a4d59686a2f8ed23e4a368bae0ae5"><td class="mdescLeft">&#160;</td><td class="mdescRight">rounded rectangle 외곽선을 이루는 contour 점 목록을 생성한다.  <br /></td></tr>
+<tr class="separator:a1b2a4d59686a2f8ed23e4a368bae0ae5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0e3263ae13592257ce8a0524d53e82c7" id="r_a0e3263ae13592257ce8a0524d53e82c7"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMeshUtil.html#a0e3263ae13592257ce8a0524d53e82c7">SetRoundedRect</a> (LineRenderer lr, float width, float height, float cornerRadius, int cornerSegments)</td></tr>
+<tr class="memdesc:a0e3263ae13592257ce8a0524d53e82c7"><td class="mdescLeft">&#160;</td><td class="mdescRight">LineRenderer를 rounded rectangle 경로로 설정한다.  <br /></td></tr>
+<tr class="separator:a0e3263ae13592257ce8a0524d53e82c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a40048354fcfb668eaa0aac1ec50ac93c" id="r_a40048354fcfb668eaa0aac1ec50ac93c"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMeshUtil.html#a40048354fcfb668eaa0aac1ec50ac93c">BuildRoundedRectMesh</a> (Mesh mesh, float width, float height, float cornerRadius, int cornerSegments)</td></tr>
+<tr class="memdesc:a40048354fcfb668eaa0aac1ec50ac93c"><td class="mdescLeft">&#160;</td><td class="mdescRight">채워진 rounded rectangle 메쉬를 생성한다.  <br /></td></tr>
+<tr class="separator:a40048354fcfb668eaa0aac1ec50ac93c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad164afc31383df6e0f9d1e2298357e5d" id="r_ad164afc31383df6e0f9d1e2298357e5d"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMeshUtil.html#ad164afc31383df6e0f9d1e2298357e5d">BuildRoundedRectRingMesh</a> (Mesh mesh, float innerWidth, float innerHeight, float outerWidth, float outerHeight, float innerCornerRadius, float outerCornerRadius, int cornerSegments)</td></tr>
+<tr class="memdesc:ad164afc31383df6e0f9d1e2298357e5d"><td class="mdescLeft">&#160;</td><td class="mdescRight">rounded rectangle 외곽과 내부 경계를 이용해 링 메쉬를 생성한다.  <br /></td></tr>
+<tr class="separator:ad164afc31383df6e0f9d1e2298357e5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae42eec706778006763fa5a5411d09602" id="r_ae42eec706778006763fa5a5411d09602"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMeshUtil.html#ae42eec706778006763fa5a5411d09602">SetUnitCircle</a> (LineRenderer lr, int segments)</td></tr>
+<tr class="memdesc:ae42eec706778006763fa5a5411d09602"><td class="mdescLeft">&#160;</td><td class="mdescRight">반지름 1의 단위원 경로를 LineRenderer에 설정한다.  <br /></td></tr>
 <tr class="separator:ae42eec706778006763fa5a5411d09602"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8e964573954412dc9ce0d7c60820e454" id="r_a8e964573954412dc9ce0d7c60820e454"><td class="memItemLeft" align="right" valign="top">static Gradient&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMeshUtil.html#a8e964573954412dc9ce0d7c60820e454">SolidAlphaGradient</a> (Color c, float a)</td></tr>
+<tr class="memdesc:a8e964573954412dc9ce0d7c60820e454"><td class="mdescLeft">&#160;</td><td class="mdescRight">색상은 고정하고 alpha만 일정한 Gradient를 생성한다.  <br /></td></tr>
 <tr class="separator:a8e964573954412dc9ce0d7c60820e454"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad4f0a5fa647a0682630b6d705af15a47" id="r_ad4f0a5fa647a0682630b6d705af15a47"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMeshUtil.html#ad4f0a5fa647a0682630b6d705af15a47">BuildPolylineRibbonMesh</a> (IList&lt; Vector3 &gt; localPath, float halfWidth, Mesh mesh, int capSegments=12, float miterLimit=DEFAULT_MITER_LIMIT)</td></tr>
+<tr class="memdesc:ad4f0a5fa647a0682630b6d705af15a47"><td class="mdescLeft">&#160;</td><td class="mdescRight">폴리라인 주변에 채워진 소세지형 리본 메쉬를 생성한다.  <br /></td></tr>
 <tr class="separator:ad4f0a5fa647a0682630b6d705af15a47"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2d843e667aac6fefa16721acc766971c" id="r_a2d843e667aac6fefa16721acc766971c"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMeshUtil.html#a2d843e667aac6fefa16721acc766971c">BuildPolylineOutlineMesh</a> (IList&lt; Vector3 &gt; localPath, float innerHalfWidth, float outerHalfWidth, Mesh mesh, int capSegments=12, float miterLimit=DEFAULT_MITER_LIMIT)</td></tr>
+<tr class="memdesc:a2d843e667aac6fefa16721acc766971c"><td class="mdescLeft">&#160;</td><td class="mdescRight">폴리라인 주변의 outline band만 따로 생성한다.  <br /></td></tr>
 <tr class="separator:a2d843e667aac6fefa16721acc766971c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">멤버 함수 문서화</h2>
+<a name="details" id="details"></a><h2 class="groupheader">상세한 설명</h2>
+<div class="textblock"><p>2D 메쉬 및 LineRenderer 형상을 생성하는 공용 유틸리티. </p>
+</div><h2 class="groupheader">멤버 함수 문서화</h2>
 <a id="af773579f934e0c9e6247e55a623d2089" name="af773579f934e0c9e6247e55a623d2089"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#af773579f934e0c9e6247e55a623d2089">&#9670;&#160;</a></span>BuildDiscMesh()</h2>
 
@@ -213,6 +234,21 @@ $(document).ready(function(){initNavTree('classMeshUtil.html',''); initResizable
 </table>
 </div><div class="memdoc">
 
+<p>폴리라인 주변의 outline band만 따로 생성한다. </p>
+<dl class="params"><dt>매개변수</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">localPath</td><td>로컬 XY 평면 기준 경로 점 목록.</td></tr>
+    <tr><td class="paramname">innerHalfWidth</td><td>안쪽 반폭.</td></tr>
+    <tr><td class="paramname">outerHalfWidth</td><td>바깥 반폭.</td></tr>
+    <tr><td class="paramname">mesh</td><td>결과를 기록할 대상 메쉬.</td></tr>
+    <tr><td class="paramname">capSegments</td><td>양 끝 반원 cap 분할 수.</td></tr>
+    <tr><td class="paramname">miterLimit</td><td>join에서 허용할 최대 miter 비율.</td></tr>
+  </table>
+  </dd>
+</dl>
+<p>채워진 ribbon 전체가 아니라 바깥 띠 영역(outer - inner)만 생성한다. outline이 body / progress 메쉬를 덮지 않아야 할 때 사용한다.</p>
+<p>좌측 띠와 우측 띠를 별도로 만들고, 양 끝은 각각 band 형태의 반원 cap으로 닫는다. </p>
+
 </div>
 </div>
 <a id="ad4f0a5fa647a0682630b6d705af15a47" name="ad4f0a5fa647a0682630b6d705af15a47"></a>
@@ -267,6 +303,20 @@ $(document).ready(function(){initNavTree('classMeshUtil.html',''); initResizable
 </table>
 </div><div class="memdoc">
 
+<p>폴리라인 주변에 채워진 소세지형 리본 메쉬를 생성한다. </p>
+<dl class="params"><dt>매개변수</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">localPath</td><td>로컬 XY 평면 기준 경로 점 목록.</td></tr>
+    <tr><td class="paramname">halfWidth</td><td>리본 반폭.</td></tr>
+    <tr><td class="paramname">mesh</td><td>결과를 기록할 대상 메쉬.</td></tr>
+    <tr><td class="paramname">capSegments</td><td>양 끝 반원 cap 분할 수.</td></tr>
+    <tr><td class="paramname">miterLimit</td><td>join에서 허용할 최대 miter 비율.</td></tr>
+  </table>
+  </dd>
+</dl>
+<p>카메라를 향하는 2D ribbon을 생성하며, 양 끝은 path 두께와 같은 반원 cap으로 마감한다.</p>
+<p>join은 offset line 교점을 기반으로 계산하여 꺾이는 지점에서도 두께가 최대한 유지되도록 한다. </p>
+
 </div>
 </div>
 <a id="a2f3df4f32963cf5a175bac5597e3d037" name="a2f3df4f32963cf5a175bac5597e3d037"></a>
@@ -311,6 +361,360 @@ $(document).ready(function(){initNavTree('classMeshUtil.html',''); initResizable
 
 </div>
 </div>
+<a id="a1b2a4d59686a2f8ed23e4a368bae0ae5" name="a1b2a4d59686a2f8ed23e4a368bae0ae5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1b2a4d59686a2f8ed23e4a368bae0ae5">&#9670;&#160;</a></span>BuildRoundedRectContour()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static Vector3[] MeshUtil.BuildRoundedRectContour </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>width</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>height</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>cornerRadius</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>cornerSegments</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>rounded rectangle 외곽선을 이루는 contour 점 목록을 생성한다. </p>
+<dl class="params"><dt>매개변수</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">width</td><td>사각형 전체 너비.</td></tr>
+    <tr><td class="paramname">height</td><td>사각형 전체 높이.</td></tr>
+    <tr><td class="paramname">cornerRadius</td><td>모서리 반지름.</td></tr>
+    <tr><td class="paramname">cornerSegments</td><td>모서리 1개당 분할 수.</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>반환값</dt><dd>시계 방향으로 배치된 contour 정점 배열.</dd></dl>
+<p>radius가 매우 작거나 segment가 부족하면 단순 직사각형 4점만 반환한다. rounded rect mesh 생성과 LineRenderer 경로 생성의 공통 기반으로 사용된다. </p>
+<div class="dynheader">
+이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classMeshUtil_a1b2a4d59686a2f8ed23e4a368bae0ae5_icgraph.png" border="0" usemap="#aclassMeshUtil_a1b2a4d59686a2f8ed23e4a368bae0ae5_icgraph" alt=""/></div>
+<map name="aclassMeshUtil_a1b2a4d59686a2f8ed23e4a368bae0ae5_icgraph" id="aclassMeshUtil_a1b2a4d59686a2f8ed23e4a368bae0ae5_icgraph">
+<area shape="rect" title="rounded rectangle 외곽선을 이루는 contour 점 목록을 생성한다." alt="" coords="543,23,745,63"/>
+<area shape="rect" href="classMeshUtil.html#a40048354fcfb668eaa0aac1ec50ac93c" title="채워진 rounded rectangle 메쉬를 생성한다." alt="" coords="256,5,495,31"/>
+<area shape="poly" title=" " alt="" coords="529,35,495,32,495,27,529,30"/>
+<area shape="rect" href="classMeshUtil.html#ad164afc31383df6e0f9d1e2298357e5d" title="rounded rectangle 외곽과 내부 경계를 이용해 링 메쉬를 생성한다." alt="" coords="5,23,208,63"/>
+<area shape="poly" title=" " alt="" coords="528,46,208,46,208,41,528,41"/>
+<area shape="poly" title=" " alt="" coords="243,33,209,36,208,31,242,28"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a40048354fcfb668eaa0aac1ec50ac93c" name="a40048354fcfb668eaa0aac1ec50ac93c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a40048354fcfb668eaa0aac1ec50ac93c">&#9670;&#160;</a></span>BuildRoundedRectMesh()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void MeshUtil.BuildRoundedRectMesh </td>
+          <td>(</td>
+          <td class="paramtype">Mesh&#160;</td>
+          <td class="paramname"><em>mesh</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>width</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>height</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>cornerRadius</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>cornerSegments</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>채워진 rounded rectangle 메쉬를 생성한다. </p>
+<dl class="params"><dt>매개변수</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">mesh</td><td>결과를 기록할 대상 메쉬.</td></tr>
+    <tr><td class="paramname">width</td><td>사각형 전체 너비.</td></tr>
+    <tr><td class="paramname">height</td><td>사각형 전체 높이.</td></tr>
+    <tr><td class="paramname">cornerRadius</td><td>모서리 반지름.</td></tr>
+    <tr><td class="paramname">cornerSegments</td><td>모서리 1개당 분할 수.</td></tr>
+  </table>
+  </dd>
+</dl>
+<p>중심 정점 하나와 contour를 이용한 fan triangulation으로 구성한다. 기존 내용은 항상 지우고 다시 작성한다. </p>
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classMeshUtil_a40048354fcfb668eaa0aac1ec50ac93c_cgraph.png" border="0" usemap="#aclassMeshUtil_a40048354fcfb668eaa0aac1ec50ac93c_cgraph" alt=""/></div>
+<map name="aclassMeshUtil_a40048354fcfb668eaa0aac1ec50ac93c_cgraph" id="aclassMeshUtil_a40048354fcfb668eaa0aac1ec50ac93c_cgraph">
+<area shape="rect" title="채워진 rounded rectangle 메쉬를 생성한다." alt="" coords="5,13,244,38"/>
+<area shape="rect" href="classMeshUtil.html#a1b2a4d59686a2f8ed23e4a368bae0ae5" title="rounded rectangle 외곽선을 이루는 contour 점 목록을 생성한다." alt="" coords="292,5,495,45"/>
+<area shape="poly" title=" " alt="" coords="244,23,278,23,278,28,244,28"/>
+</map>
+</div>
+<div class="dynheader">
+이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classMeshUtil_a40048354fcfb668eaa0aac1ec50ac93c_icgraph.png" border="0" usemap="#aclassMeshUtil_a40048354fcfb668eaa0aac1ec50ac93c_icgraph" alt=""/></div>
+<map name="aclassMeshUtil_a40048354fcfb668eaa0aac1ec50ac93c_icgraph" id="aclassMeshUtil_a40048354fcfb668eaa0aac1ec50ac93c_icgraph">
+<area shape="rect" title="채워진 rounded rectangle 메쉬를 생성한다." alt="" coords="256,13,495,38"/>
+<area shape="rect" href="classMeshUtil.html#ad164afc31383df6e0f9d1e2298357e5d" title="rounded rectangle 외곽과 내부 경계를 이용해 링 메쉬를 생성한다." alt="" coords="5,5,208,45"/>
+<area shape="poly" title=" " alt="" coords="242,28,208,28,208,23,242,23"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="ad164afc31383df6e0f9d1e2298357e5d" name="ad164afc31383df6e0f9d1e2298357e5d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad164afc31383df6e0f9d1e2298357e5d">&#9670;&#160;</a></span>BuildRoundedRectRingMesh()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void MeshUtil.BuildRoundedRectRingMesh </td>
+          <td>(</td>
+          <td class="paramtype">Mesh&#160;</td>
+          <td class="paramname"><em>mesh</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>innerWidth</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>innerHeight</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>outerWidth</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>outerHeight</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>innerCornerRadius</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>outerCornerRadius</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>cornerSegments</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>rounded rectangle 외곽과 내부 경계를 이용해 링 메쉬를 생성한다. </p>
+<dl class="params"><dt>매개변수</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">mesh</td><td>결과를 기록할 대상 메쉬.</td></tr>
+    <tr><td class="paramname">innerWidth</td><td>내부 사각형 너비.</td></tr>
+    <tr><td class="paramname">innerHeight</td><td>내부 사각형 높이.</td></tr>
+    <tr><td class="paramname">outerWidth</td><td>외곽 사각형 너비.</td></tr>
+    <tr><td class="paramname">outerHeight</td><td>외곽 사각형 높이.</td></tr>
+    <tr><td class="paramname">innerCornerRadius</td><td>내부 모서리 반지름.</td></tr>
+    <tr><td class="paramname">outerCornerRadius</td><td>외곽 모서리 반지름.</td></tr>
+    <tr><td class="paramname">cornerSegments</td><td>모서리 1개당 분할 수.</td></tr>
+  </table>
+  </dd>
+</dl>
+<p>Long square처럼 내부가 비어 있는 rounded rect 테두리를 만들 때 사용한다.</p>
+<p>내부 크기가 충분히 작으면 외곽만 채워진 사각형으로 처리한다. outer / inner contour의 대응 정점을 이어 두 개의 삼각형으로 각 구간을 채운다. </p>
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classMeshUtil_ad164afc31383df6e0f9d1e2298357e5d_cgraph.png" border="0" usemap="#aclassMeshUtil_ad164afc31383df6e0f9d1e2298357e5d_cgraph" alt=""/></div>
+<map name="aclassMeshUtil_ad164afc31383df6e0f9d1e2298357e5d_cgraph" id="aclassMeshUtil_ad164afc31383df6e0f9d1e2298357e5d_cgraph">
+<area shape="rect" title="rounded rectangle 외곽과 내부 경계를 이용해 링 메쉬를 생성한다." alt="" coords="5,5,208,45"/>
+<area shape="rect" href="classMeshUtil.html#a1b2a4d59686a2f8ed23e4a368bae0ae5" title="rounded rectangle 외곽선을 이루는 contour 점 목록을 생성한다." alt="" coords="543,5,745,45"/>
+<area shape="poly" title=" " alt="" coords="209,23,529,23,529,28,209,28"/>
+<area shape="rect" href="classMeshUtil.html#a40048354fcfb668eaa0aac1ec50ac93c" title="채워진 rounded rectangle 메쉬를 생성한다." alt="" coords="256,38,495,63"/>
+<area shape="poly" title=" " alt="" coords="208,32,242,35,242,41,208,38"/>
+<area shape="poly" title=" " alt="" coords="495,37,528,34,529,39,495,42"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a0e3263ae13592257ce8a0524d53e82c7" name="a0e3263ae13592257ce8a0524d53e82c7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0e3263ae13592257ce8a0524d53e82c7">&#9670;&#160;</a></span>SetRoundedRect()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void MeshUtil.SetRoundedRect </td>
+          <td>(</td>
+          <td class="paramtype">LineRenderer&#160;</td>
+          <td class="paramname"><em>lr</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>width</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>height</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>cornerRadius</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>cornerSegments</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>LineRenderer를 rounded rectangle 경로로 설정한다. </p>
+<dl class="params"><dt>매개변수</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">lr</td><td>설정할 LineRenderer.</td></tr>
+    <tr><td class="paramname">width</td><td>사각형 전체 너비.</td></tr>
+    <tr><td class="paramname">height</td><td>사각형 전체 높이.</td></tr>
+    <tr><td class="paramname">cornerRadius</td><td>모서리 반지름.</td></tr>
+    <tr><td class="paramname">cornerSegments</td><td>모서리 1개당 분할 수.</td></tr>
+  </table>
+  </dd>
+</dl>
+<p>loop를 강제로 활성화한다. radius가 충분히 작거나 segment가 부족하면 직사각형 4점 경로를 사용한다. </p>
+<div class="dynheader">
+이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classMeshUtil_a0e3263ae13592257ce8a0524d53e82c7_icgraph.png" border="0" usemap="#aclassMeshUtil_a0e3263ae13592257ce8a0524d53e82c7_icgraph" alt=""/></div>
+<map name="aclassMeshUtil_a0e3263ae13592257ce8a0524d53e82c7_icgraph" id="aclassMeshUtil_a0e3263ae13592257ce8a0524d53e82c7_icgraph">
+<area shape="rect" title="LineRenderer를 rounded rectangle 경로로 설정한다." alt="" coords="780,141,971,166"/>
+<area shape="rect" href="classNotes_1_1Square_1_1SquareVisualBase.html#a4faee1eba3e04bae66062a790bdaabed" title=" " alt="" coords="533,133,732,173"/>
+<area shape="poly" title=" " alt="" coords="766,156,732,156,732,151,766,151"/>
+<area shape="rect" href="classNotes_1_1Square_1_1SquareVisualBase.html#a563e627ff8aa649486b34048761ff25f" title=" " alt="" coords="287,5,485,45"/>
+<area shape="poly" title=" " alt="" coords="593,127,542,93,484,60,456,48,458,43,487,55,545,88,596,123"/>
+<area shape="rect" href="classNotes_1_1Square_1_1SquareVisualBase.html#a860aa072d59f10d119421a049cc0ca88" title="공통 색상, 상태, 크기를 초기값으로 복원한다. 타입 전환 직후나 재사용 시 호출된다." alt="" coords="287,69,485,109"/>
+<area shape="poly" title=" " alt="" coords="541,132,463,112,464,107,542,127"/>
+<area shape="rect" href="classNotes_1_1Square_1_1SquareVisualNormal.html#aeb99fa8e246bd160b53cae12e4f7ff6b" title=" " alt="" coords="287,133,485,173"/>
+<area shape="poly" title=" " alt="" coords="519,156,486,156,486,151,519,151"/>
+<area shape="rect" href="classNotes_1_1Square_1_1SquareVisualTrail.html#a64285f2186a306aa91320615ece1b79a" title=" " alt="" coords="287,197,485,237"/>
+<area shape="poly" title=" " alt="" coords="542,179,464,200,463,195,541,174"/>
+<area shape="rect" href="classNotes_1_1Square_1_1SquareVisualBase.html#aad05492db6fbe4314d7e4764e7354233" title=" " alt="" coords="287,261,485,301"/>
+<area shape="poly" title=" " alt="" coords="596,184,545,219,487,252,458,264,456,259,484,247,542,214,593,180"/>
+<area shape="rect" href="classNotes_1_1Square_1_1SquareNoteVisual.html#a619e8d81b2338c1b46f1672daf65d961" title="현재 type에 해당하는 시각 구현만 활성화한다." alt="" coords="5,69,239,109"/>
+<area shape="poly" title=" " alt="" coords="273,92,239,92,239,87,273,87"/>
+<area shape="rect" href="classNotes_1_1Square_1_1SquareVisualBase.html#a6c4ad5ddf548469c4bf36623b85d3aca" title=" " alt="" coords="23,261,221,301"/>
+<area shape="poly" title=" " alt="" coords="273,284,222,284,222,279,273,279"/>
+</map>
+</div>
+
+</div>
+</div>
 <a id="ae42eec706778006763fa5a5411d09602" name="ae42eec706778006763fa5a5411d09602"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ae42eec706778006763fa5a5411d09602">&#9670;&#160;</a></span>SetUnitCircle()</h2>
 
@@ -344,6 +748,16 @@ $(document).ready(function(){initNavTree('classMeshUtil.html',''); initResizable
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>반지름 1의 단위원 경로를 LineRenderer에 설정한다. </p>
+<dl class="params"><dt>매개변수</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">lr</td><td>설정할 LineRenderer.</td></tr>
+    <tr><td class="paramname">segments</td><td>원 둘레 분할 수.</td></tr>
+  </table>
+  </dd>
+</dl>
+<p>중심 스케일링 없이 단위 원을 만들며, 실제 크기 조절은 LineRenderer가 아니라 호출부 transform/사용처에서 처리한다. </p>
 
 </div>
 </div>
@@ -380,6 +794,16 @@ $(document).ready(function(){initNavTree('classMeshUtil.html',''); initResizable
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>색상은 고정하고 alpha만 일정한 Gradient를 생성한다. </p>
+<dl class="params"><dt>매개변수</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">c</td><td>기준 색상.</td></tr>
+    <tr><td class="paramname">a</td><td>전체 구간에 적용할 alpha 값.</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>반환값</dt><dd>색상은 일정하고 alpha만 고정된 Gradient.</dd></dl>
 
 </div>
 </div>

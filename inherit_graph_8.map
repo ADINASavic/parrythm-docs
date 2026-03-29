@@ -52,7 +52,7 @@
 <area shape="poly" id="edge28_Node000003_Node000027" title=" " alt="" coords="86,1325,101,1359,123,1398,153,1438,190,1470,209,1481,231,1488,229,1493,207,1486,186,1475,149,1441,119,1401,96,1361,81,1327"/>
 <area shape="rect" id="Node000028" href="$classGameBootstrap.html" title=" " alt="" coords="249,1535,373,1560"/>
 <area shape="poly" id="edge29_Node000003_Node000028" title=" " alt="" coords="82,1326,95,1369,116,1422,147,1476,167,1499,190,1520,218,1535,250,1543,248,1548,216,1540,186,1524,163,1503,143,1479,111,1425,90,1371,77,1328"/>
-<area shape="rect" id="Node000031" href="$classGridDrawer.html" title=" " alt="" coords="263,1584,359,1609"/>
+<area shape="rect" id="Node000031" href="$classGridDrawer.html" title="화면 해상도 및 카메라 설정에 맞춰 2D 그리드를 LineRenderer로 생성/관리하는 컴포넌트." alt="" coords="263,1584,359,1609"/>
 <area shape="poly" id="edge31_Node000003_Node000031" title=" " alt="" coords="80,1327,89,1379,109,1445,123,1479,141,1513,163,1543,190,1569,206,1580,225,1587,264,1594,263,1600,223,1592,204,1585,186,1573,159,1547,137,1515,119,1482,104,1447,84,1380,74,1328"/>
 <area shape="rect" id="Node000032" href="$classGridManager.html" title=" " alt="" coords="258,1633,365,1659"/>
 <area shape="poly" id="edge32_Node000003_Node000032" title=" " alt="" coords="78,1327,84,1387,102,1467,116,1509,135,1549,160,1586,190,1619,222,1636,258,1644,257,1649,220,1641,186,1623,155,1590,131,1552,111,1511,97,1468,79,1388,72,1327"/>
@@ -80,9 +80,9 @@
 <area shape="poly" id="edge46_Node000003_Node000045" title=" " alt="" coords="76,1327,77,1498,80,1621,88,1755,102,1888,122,2010,136,2064,151,2110,169,2149,190,2178,205,2190,202,2194,186,2181,165,2151,146,2112,131,2065,117,2011,96,1889,83,1755,75,1621,71,1498,71,1327"/>
 <area shape="rect" id="Node000046" href="$classNotes_1_1Square_1_1SquareNoteTimeline.html" title=" " alt="" coords="188,2241,435,2267"/>
 <area shape="poly" id="edge47_Node000003_Node000046" title=" " alt="" coords="78,1327,90,1519,114,1806,129,1951,148,2079,168,2175,179,2208,190,2227,205,2239,202,2243,186,2230,174,2210,163,2177,142,2080,124,1952,108,1806,85,1519,73,1327"/>
-<area shape="rect" id="Node000047" href="$classNotes_1_1Square_1_1SquareNoteVisual.html" title=" " alt="" coords="197,2291,426,2316"/>
+<area shape="rect" id="Node000047" href="$classNotes_1_1Square_1_1SquareNoteVisual.html" title="Square 노트 타입에 따라 적절한 시각 컴포넌트를 활성화하는 라우터." alt="" coords="197,2291,426,2316"/>
 <area shape="poly" id="edge48_Node000003_Node000047" title=" " alt="" coords="78,1327,89,1528,112,1831,128,1984,146,2119,167,2222,178,2256,190,2276,205,2288,202,2293,186,2280,173,2258,162,2223,141,2120,122,1985,107,1831,84,1528,73,1327"/>
-<area shape="rect" id="Node000048" href="$classNotes_1_1Square_1_1SquareVisualBase.html" title=" " alt="" coords="196,2340,427,2365"/>
+<area shape="rect" id="Node000048" href="$classNotes_1_1Square_1_1SquareVisualBase.html" title="Grid,Trail 노트의 공통 시각 처리 로직을 제공하는 베이스 클래스." alt="" coords="196,2340,427,2365"/>
 <area shape="poly" id="edge49_Node000003_Node000048" title=" " alt="" coords="78,1327,88,1538,110,1857,126,2019,144,2161,166,2269,178,2305,190,2327,203,2338,200,2342,186,2330,173,2308,161,2271,139,2162,121,2019,105,1857,83,1538,72,1327"/>
 <area shape="rect" id="Node000051" href="$classNotes_1_1Square_1_1SquareVisualLong.html" title=" " alt="" coords="197,2389,426,2415"/>
 <area shape="poly" id="edge52_Node000003_Node000051" title=" " alt="" coords="78,1327,87,1546,109,1881,124,2052,143,2202,165,2316,177,2354,190,2376,203,2387,200,2391,186,2380,172,2356,160,2317,138,2203,119,2052,104,1882,82,1547,72,1327"/>
@@ -122,7 +122,7 @@
 <area shape="poly" id="edge40_Node000038_Node000039" title=" " alt="" coords="367,1935,558,1919,559,1924,368,1940"/>
 <area shape="rect" id="Node000040" href="$classSliderNote.html" title=" " alt="" coords="559,1955,649,1980"/>
 <area shape="poly" id="edge41_Node000038_Node000040" title=" " alt="" coords="368,1944,559,1961,558,1966,367,1949"/>
-<area shape="rect" id="Node000049" href="$classNotes_1_1Square_1_1SquareVisualNormal.html" title=" " alt="" coords="505,2301,703,2341"/>
+<area shape="rect" id="Node000049" href="$classNotes_1_1Square_1_1SquareVisualNormal.html" title="기본 Square 노트의 시각 표현." alt="" coords="505,2301,703,2341"/>
 <area shape="poly" id="edge50_Node000048_Node000049" title=" " alt="" coords="440,2336,504,2329,505,2334,441,2341"/>
 <area shape="rect" id="Node000050" href="$classNotes_1_1Square_1_1SquareVisualTrail.html" title=" " alt="" coords="505,2365,703,2405"/>
 <area shape="poly" id="edge51_Node000048_Node000050" title=" " alt="" coords="441,2364,505,2371,504,2376,440,2369"/>

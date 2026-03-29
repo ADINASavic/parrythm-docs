@@ -5,6 +5,8 @@ var classNotes_1_1Square_1_1SquareVisualLong =
     [ "PlayMiss", "classNotes_1_1Square_1_1SquareVisualLong.html#a40339775451b98f59ce3aace61c3a2bb", null ],
     [ "PlayPerfect", "classNotes_1_1Square_1_1SquareVisualLong.html#af72ae26323959436b1ff987dc5afa77a", null ],
     [ "ResetVisual", "classNotes_1_1Square_1_1SquareVisualLong.html#af5396b491163f80f5f683837c45894e2", null ],
+    [ "cornerRadiusRatio", "classNotes_1_1Square_1_1SquareVisualLong.html#a67d583264306555ffa0c072d29c6e12e", null ],
+    [ "cornerSegments", "classNotes_1_1Square_1_1SquareVisualLong.html#ace3521bf1388d3d7d431c2ec92f5fd97", null ],
     [ "endHintColor", "classNotes_1_1Square_1_1SquareVisualLong.html#aa4058f7681cc26e63b3e2e1b80db52c8", null ],
     [ "endHintEnabled", "classNotes_1_1Square_1_1SquareVisualLong.html#aacd586a9c3f10f273eb3ae23bca13564", null ],
     [ "endHintMinAlpha", "classNotes_1_1Square_1_1SquareVisualLong.html#a7c9d1d5970cf33218029e8401a259e7e", null ],

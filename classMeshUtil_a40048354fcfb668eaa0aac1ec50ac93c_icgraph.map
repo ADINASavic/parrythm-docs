@@ -1,0 +1,5 @@
+<map id="MeshUtil.BuildRoundedRectMesh" name="MeshUtil.BuildRoundedRectMesh">
+<area shape="rect" id="Node000001" title="채워진 rounded rectangle 메쉬를 생성한다." alt="" coords="256,13,495,38"/>
+<area shape="rect" id="Node000002" href="$classMeshUtil.html#ad164afc31383df6e0f9d1e2298357e5d" title="rounded rectangle 외곽과 내부 경계를 이용해 링 메쉬를 생성한다." alt="" coords="5,5,208,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,28,208,28,208,23,242,23"/>
+</map>

@@ -1,5 +1,17 @@
 var NAVTREEINDEX5 =
 {
+"classPlayerNameSettings.html#a182bc461df04cf079b41113de76283a6":[1,0,63,2],
+"classPlayerNameSettings.html#a2bef7d99e9e3974412b666489f2cab6f":[1,0,63,3],
+"classPlayerNameSettings.html#a92788555e53866f9db87635413167d50":[1,0,63,1],
+"classPlayerNameSettings.html#ae56713014f5429a8d004d063e578fd62":[1,0,63,0],
+"classPlayerSpriteController.html":[1,0,64],
+"classPlayerSpriteController.html#a189483b1eb3d99d1f68131764f174f75":[1,0,64,1],
+"classPlayerSpriteController.html#a1a6bf558c3ee813aae4d57ce625a7481":[1,0,64,3],
+"classPlayerSpriteController.html#a2039bffbde2740caf9c7c3c2b6b1ee3d":[1,0,64,0],
+"classPlayerSpriteController.html#a7f79f1acb53d476863d659fd52e905e1":[1,0,64,4],
+"classPlayerSpriteController.html#ab50a4b214299e9b14a4f1ee3f6d700a1":[1,0,64,6],
+"classPlayerSpriteController.html#abdfc00b9e4d1a425d49a1124df41dfb2":[1,0,64,5],
+"classPlayerSpriteController.html#af832f3661093eac3cee245ccfd1ba337":[1,0,64,2],
 "classResultCarouselController.html":[1,0,65],
 "classResultCarouselController.html#a02bc1df9c56425c13e4bcbc15d42aff8":[1,0,65,2],
 "classResultCarouselController.html#a05e5ea55657de8120075428af76acb0b":[1,0,65,4],
@@ -237,17 +249,5 @@ var NAVTREEINDEX5 =
 "classUITrailGraphic.html#ac419e0194da8a7393bf03b638efe5d02":[1,0,88,1],
 "classUITrailGraphic.html#acf541b25d96c2c1052e0e0bfc503c260":[1,0,88,0],
 "classUITrailGraphic.html#ad92b3b6db69c5f2be45fdcfa067e12b0":[1,0,88,5],
-"classUITrailGraphic.html#ad96665eeee2ab32394d157249ba60308":[1,0,88,13],
-"classUITrailGraphic.html#af97d948a23e4b68c102cef36431a31ef":[1,0,88,8],
-"classUITrailGraphic.html#afc8c8352473fe710ecece28d3cf1fc0a":[1,0,88,10],
-"classVoiceEventHandler.html":[1,0,89],
-"classVoiceEventHandler.html#a129cca962eeaa75c38055f7927a1a177":[1,0,89,1],
-"classVoiceEventHandler.html#a2de1beb090dda02a86978b4a451ba3c7":[1,0,89,2],
-"classVoiceEventHandler.html#af9505e10b0c24089e1d7ada57f3dadb4":[1,0,89,0],
-"classes.html":[1,1],
-"dir_09191ba0fc1ac08f103f05d8bab771af.html":[2,0,0,0,3],
-"dir_0cb24bd15d0ac34c8fe36efd57623041.html":[2,0,0,0,0],
-"dir_1b5094f4ed63e6e1e6b7b16e67b6c4ed.html":[2,0,0,0,5],
-"dir_2d93cf395bb32e119d131216679658c5.html":[2,0,0,0,5,0],
-"dir_330f33a3088e977f0919d5b7ac74036e.html":[2,0,0,0,2]
+"classUITrailGraphic.html#ad96665eeee2ab32394d157249ba60308":[1,0,88,13]
 };

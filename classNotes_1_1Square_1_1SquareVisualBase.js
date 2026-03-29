@@ -20,6 +20,8 @@ var classNotes_1_1Square_1_1SquareVisualBase =
     [ "TickState", "classNotes_1_1Square_1_1SquareVisualBase.html#aad05492db6fbe4314d7e4764e7354233", null ],
     [ "Update", "classNotes_1_1Square_1_1SquareVisualBase.html#a6c4ad5ddf548469c4bf36623b85d3aca", null ],
     [ "afterglowDuration", "classNotes_1_1Square_1_1SquareVisualBase.html#af35403acaff7f90ddb261ff8a8211a4f", null ],
+    [ "cornerRadiusRatio", "classNotes_1_1Square_1_1SquareVisualBase.html#aefd6f549844e0fd61d778266b2a0746b", null ],
+    [ "cornerSegments", "classNotes_1_1Square_1_1SquareVisualBase.html#aa8eb256db792e5d2e62d2e1d32202e65", null ],
     [ "currentSize", "classNotes_1_1Square_1_1SquareVisualBase.html#a6c0926bb1c4c690c05222d5c998db532", null ],
     [ "flashColor", "classNotes_1_1Square_1_1SquareVisualBase.html#a10316c0973a3ec9ba85b0f2ebedb3c32", null ],
     [ "flashDuration", "classNotes_1_1Square_1_1SquareVisualBase.html#a2c635b6b4a9af972efb026c2ed4ee3ff", null ],

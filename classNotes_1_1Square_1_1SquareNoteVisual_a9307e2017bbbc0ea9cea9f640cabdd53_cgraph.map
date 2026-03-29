@@ -1,5 +1,5 @@
 <map id="Notes.Square.SquareNoteVisual.PlayPerfect" name="Notes.Square.SquareNoteVisual.PlayPerfect">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,239,109"/>
+<area shape="rect" id="Node000001" title="Perfect 판정 시 현재 타입에 맞는 시각 연출을 재생한다." alt="" coords="5,69,239,109"/>
 <area shape="rect" id="Node000002" href="$classNotes_1_1Square_1_1SquareVisualLong.html#af72ae26323959436b1ff987dc5afa77a" title=" " alt="" coords="287,5,485,45"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,67,289,46,291,51,206,72"/>
 <area shape="rect" id="Node000003" href="$classNotes_1_1Square_1_1SquareVisualNormal.html#a62989239d8f1b4d4204cd347b9e0471d" title=" " alt="" coords="287,69,485,109"/>

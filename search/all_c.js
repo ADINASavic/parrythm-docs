@@ -5,7 +5,7 @@ var searchData=
   ['matmain_2',['matMain',['../classNotes_1_1Square_1_1SquareVisualBase.html#a46b8562a65abd0927c197bb7eb8c0124',1,'Notes::Square::SquareVisualBase']]],
   ['maxbulletcolliders_3',['maxBulletColliders',['../classSliderNote.html#afa43f470b594b060c9fd7b9a97c17d8a',1,'SliderNote']]],
   ['maxgappixels_4',['maxGapPixels',['../classUITrailGraphic.html#af97d948a23e4b68c102cef36431a31ef',1,'UITrailGraphic']]],
-  ['maxgauge_5',['maxgauge',['../classGaugeManager.html#adef0659cbb82766eed1618ebd462cf92',1,'GaugeManager.MaxGauge'],['../classGaugeManager.html#ad1bc05b87fe6a5b5351e6357636597ff',1,'GaugeManager.maxGauge']]],
+  ['maxgauge_5',['maxgauge',['../classGaugeManager.html#ad1bc05b87fe6a5b5351e6357636597ff',1,'GaugeManager.maxGauge'],['../classGaugeManager.html#adef0659cbb82766eed1618ebd462cf92',1,'GaugeManager.MaxGauge']]],
   ['maxsimultaneousholds_6',['maxSimultaneousHolds',['../classKeyboardInputManager.html#a980857033d9156e37b243eb9f38ac464',1,'KeyboardInputManager']]],
   ['menuaction_7',['MenuAction',['../classMenuController.html#a5126c94a0389fb14d0988147888c148e',1,'MenuController']]],
   ['menucontroller_8',['MenuController',['../classMenuController.html',1,'']]],

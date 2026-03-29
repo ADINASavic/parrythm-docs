@@ -1,5 +1,5 @@
 <map id="Notes.Square.SquareNoteVisual.OnLongStarted" name="Notes.Square.SquareNoteVisual.OnLongStarted">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,239,45"/>
+<area shape="rect" id="Node000001" title="Long 노트의 실제 홀드 구간이 시작되었음을 알린다." alt="" coords="5,5,239,45"/>
 <area shape="rect" id="Node000002" href="$classNotes_1_1Square_1_1SquareVisualLong.html#a9bf021b5ce56f7f3208f2a9ae3c6d126" title=" " alt="" coords="287,5,485,45"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,23,273,23,273,28,239,28"/>
 </map>

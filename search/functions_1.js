@@ -7,8 +7,11 @@ var searchData=
   ['buildpolylineoutlinemesh_4',['BuildPolylineOutlineMesh',['../classMeshUtil.html#a2d843e667aac6fefa16721acc766971c',1,'MeshUtil']]],
   ['buildpolylineribbonmesh_5',['BuildPolylineRibbonMesh',['../classMeshUtil.html#ad4f0a5fa647a0682630b6d705af15a47',1,'MeshUtil']]],
   ['buildringmesh_6',['BuildRingMesh',['../classMeshUtil.html#a2f3df4f32963cf5a175bac5597e3d037',1,'MeshUtil']]],
-  ['bulletdocktodespawnsec_7',['BulletDockToDespawnSec',['../classChartTimelineRuntime.html#ac11843e580a329108ca31558e92cf2e9',1,'ChartTimelineRuntime']]],
-  ['bulletnotehandler_8',['BulletNoteHandler',['../classBulletNoteHandler.html#a4fb76d2c9269da33a9d2c3a8dd803cca',1,'BulletNoteHandler']]],
-  ['bulletstartsec_9',['BulletStartSec',['../classChartTimelineRuntime.html#ac79e690bde9181f35832d6f91a1a7d48',1,'ChartTimelineRuntime']]],
-  ['bullettodocksec_10',['BulletToDockSec',['../classChartTimelineRuntime.html#ae1677271f8ca4bb5f9055c12b8110ca3',1,'ChartTimelineRuntime']]]
+  ['buildroundedrectcontour_7',['BuildRoundedRectContour',['../classMeshUtil.html#a1b2a4d59686a2f8ed23e4a368bae0ae5',1,'MeshUtil']]],
+  ['buildroundedrectmesh_8',['BuildRoundedRectMesh',['../classMeshUtil.html#a40048354fcfb668eaa0aac1ec50ac93c',1,'MeshUtil']]],
+  ['buildroundedrectringmesh_9',['BuildRoundedRectRingMesh',['../classMeshUtil.html#ad164afc31383df6e0f9d1e2298357e5d',1,'MeshUtil']]],
+  ['bulletdocktodespawnsec_10',['BulletDockToDespawnSec',['../classChartTimelineRuntime.html#ac11843e580a329108ca31558e92cf2e9',1,'ChartTimelineRuntime']]],
+  ['bulletnotehandler_11',['BulletNoteHandler',['../classBulletNoteHandler.html#a4fb76d2c9269da33a9d2c3a8dd803cca',1,'BulletNoteHandler']]],
+  ['bulletstartsec_12',['BulletStartSec',['../classChartTimelineRuntime.html#ac79e690bde9181f35832d6f91a1a7d48',1,'ChartTimelineRuntime']]],
+  ['bullettodocksec_13',['BulletToDockSec',['../classChartTimelineRuntime.html#ae1677271f8ca4bb5f9055c12b8110ca3',1,'ChartTimelineRuntime']]]
 ];
