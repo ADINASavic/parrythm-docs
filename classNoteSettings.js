@@ -37,6 +37,7 @@ var classNoteSettings =
     [ "longStartColor", "classNoteSettings.html#a41998c32756669592d3c22a2aad6dabd", null ],
     [ "mouseSensitivity", "classNoteSettings.html#a9e62f4658f19a360eaeca46ec990abf8", null ],
     [ "mouseUseSensitivity", "classNoteSettings.html#a27c2535359cb02758d80829c6082c283", null ],
+    [ "perfectSfxVolume", "classNoteSettings.html#afe771d284fc8f7151472f2d5b8b7b7e1", null ],
     [ "simultaneousNoteAccentColor", "classNoteSettings.html#a619150076f0246d4d2242a7a04a37966", null ],
     [ "simultaneousNoteAccentEnabled", "classNoteSettings.html#a81e31616be366ffa50f60c42d94bd0d8", null ],
     [ "simultaneousNoteToleranceMs", "classNoteSettings.html#afba03017a1ffc5b7c5c715f864893a84", null ],

@@ -1,5 +1,7 @@
 var NAVTREEINDEX5 =
 {
+"classParrythmVirtualPointer.html#ae5378e2c3ecb076ffc84af6444f41cb2":[1,0,62,6],
+"classPlayerNameSettings.html":[1,0,63],
 "classPlayerNameSettings.html#a182bc461df04cf079b41113de76283a6":[1,0,63,2],
 "classPlayerNameSettings.html#a2bef7d99e9e3974412b666489f2cab6f":[1,0,63,3],
 "classPlayerNameSettings.html#a92788555e53866f9db87635413167d50":[1,0,63,1],
@@ -70,15 +72,16 @@ var NAVTREEINDEX5 =
 "classSettingsCardOffset.html#ac8cbfb51bbfd1b97faf672ad9fe0057f":[1,0,71,4],
 "classSettingsCardPlaySettings.html":[1,0,73],
 "classSettingsCardPlaySettings.html#a04164eb55253e6dada40756a5f8698f3":[1,0,73,0],
-"classSettingsCardPlaySettings.html#a08ab4d4ec53f83c317fbe19b20d75a41":[1,0,73,15],
+"classSettingsCardPlaySettings.html#a08ab4d4ec53f83c317fbe19b20d75a41":[1,0,73,17],
 "classSettingsCardPlaySettings.html#a0ccf09339e1b0a795684307129aa1c36":[1,0,73,12],
 "classSettingsCardPlaySettings.html#a203a653c140cb0885979958b1a0ebb89":[1,0,73,13],
 "classSettingsCardPlaySettings.html#a221541961db63d4d3d4d52beeee65500":[1,0,73,5],
 "classSettingsCardPlaySettings.html#a23c99daa3d3b3ae0394bd8438f72b71d":[1,0,73,14],
 "classSettingsCardPlaySettings.html#a50e582db1cdfa8c81312125644bb5c24":[1,0,73,10],
 "classSettingsCardPlaySettings.html#a56eea841812a86cb7c7a75bdce3fe6ba":[1,0,73,8],
+"classSettingsCardPlaySettings.html#a5f25f08212b581f525677a6c463fe22c":[1,0,73,16],
 "classSettingsCardPlaySettings.html#a85cb861e2da3f418c0b2a35c25753a36":[1,0,73,11],
-"classSettingsCardPlaySettings.html#a97f7784f6475fa4452fecb976580c81a":[1,0,73,16],
+"classSettingsCardPlaySettings.html#a97f7784f6475fa4452fecb976580c81a":[1,0,73,18],
 "classSettingsCardPlaySettings.html#aa6f89a8a8b5789233a818aebf79f77b9":[1,0,73,6],
 "classSettingsCardPlaySettings.html#ac0598130ad9f6f4e644794e422d17bbf":[1,0,73,9],
 "classSettingsCardPlaySettings.html#ac0dd832efe7172a402c2057ff6335cda":[1,0,73,4],
@@ -86,6 +89,7 @@ var NAVTREEINDEX5 =
 "classSettingsCardPlaySettings.html#ae3511bec735c4a11b06f8be54e47b597":[1,0,73,2],
 "classSettingsCardPlaySettings.html#ae4f3429f7583427ad0955e9f82d55dcd":[1,0,73,7],
 "classSettingsCardPlaySettings.html#af406c8d93fe1c73470d747f1b85adeb2":[1,0,73,3],
+"classSettingsCardPlaySettings.html#af97ec32fda89fdb3bc8e82e8f8f2a491":[1,0,73,15],
 "classSettingsCardPlayerSettings.html":[1,0,72],
 "classSettingsCardPlayerSettings.html#a1233b9d3bd2b23445e6cc6b4be3e04da":[1,0,72,2],
 "classSettingsCardPlayerSettings.html#a5f8ee386a7b2c90b9d42fd25614489a4":[1,0,72,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX5 =
 "classUITrailGraphic.html#a5fff1698baff1adff759249f2185ba92":[1,0,88,12],
 "classUITrailGraphic.html#a6bed1d01c862385905de200327568310":[1,0,88,4],
 "classUITrailGraphic.html#aac81663fb286858ef71671caf75b298e":[1,0,88,3],
-"classUITrailGraphic.html#ac23bbcc79cb0e248b38cdefd011b5b43":[1,0,88,11],
-"classUITrailGraphic.html#ac419e0194da8a7393bf03b638efe5d02":[1,0,88,1],
-"classUITrailGraphic.html#acf541b25d96c2c1052e0e0bfc503c260":[1,0,88,0],
-"classUITrailGraphic.html#ad92b3b6db69c5f2be45fdcfa067e12b0":[1,0,88,5],
-"classUITrailGraphic.html#ad96665eeee2ab32394d157249ba60308":[1,0,88,13]
+"classUITrailGraphic.html#ac23bbcc79cb0e248b38cdefd011b5b43":[1,0,88,11]
 };

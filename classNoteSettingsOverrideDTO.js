@@ -36,6 +36,7 @@ var classNoteSettingsOverrideDTO =
     [ "longStartColor", "classNoteSettingsOverrideDTO.html#aff18f4906cdcb6c132801822c6bd6f2c", null ],
     [ "mouseSensitivity", "classNoteSettingsOverrideDTO.html#a3e6830c0dc1c790932673ad1b500dab1", null ],
     [ "mouseUseSensitivity", "classNoteSettingsOverrideDTO.html#acafde9b2cda2bd9e9da88b9b2b55568f", null ],
+    [ "perfectSfxVolume", "classNoteSettingsOverrideDTO.html#ad0a20490ab941a73766f9a4396fa33c6", null ],
     [ "simultaneousNoteAccentColor", "classNoteSettingsOverrideDTO.html#ab729d9e04a1b66727c4a5cc0fe4dfac1", null ],
     [ "simultaneousNoteAccentEnabled", "classNoteSettingsOverrideDTO.html#a308f725d9c7e1a697e85c27f9680cad2", null ],
     [ "simultaneousNoteToleranceMs", "classNoteSettingsOverrideDTO.html#a77a1b18a368eb8f199b116ff8ca91cba", null ],

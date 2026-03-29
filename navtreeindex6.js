@@ -1,5 +1,9 @@
 var NAVTREEINDEX6 =
 {
+"classUITrailGraphic.html#ac419e0194da8a7393bf03b638efe5d02":[1,0,88,1],
+"classUITrailGraphic.html#acf541b25d96c2c1052e0e0bfc503c260":[1,0,88,0],
+"classUITrailGraphic.html#ad92b3b6db69c5f2be45fdcfa067e12b0":[1,0,88,5],
+"classUITrailGraphic.html#ad96665eeee2ab32394d157249ba60308":[1,0,88,13],
 "classUITrailGraphic.html#af97d948a23e4b68c102cef36431a31ef":[1,0,88,8],
 "classUITrailGraphic.html#afc8c8352473fe710ecece28d3cf1fc0a":[1,0,88,10],
 "classVoiceEventHandler.html":[1,0,89],
