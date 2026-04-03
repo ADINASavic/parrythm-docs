@@ -82,6 +82,7 @@ var hierarchy =
       [ "InputTimeMapper", "classInputTimeMapper.html", null ],
       [ "Judge", "classJudge.html", null ],
       [ "KeyboardInputManager", "classKeyboardInputManager.html", null ],
+      [ "MarqueeText", "classMarqueeText.html", null ],
       [ "MenuController", "classMenuController.html", null ],
       [ "NoteBase", "classNoteBase.html", [
         [ "CircleNote", "classCircleNote.html", null ],

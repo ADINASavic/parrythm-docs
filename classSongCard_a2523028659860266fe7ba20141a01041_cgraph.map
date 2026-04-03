@@ -1,9 +1,11 @@
 <map id="SongCard.SetEntry" name="SongCard.SetEntry">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,148,56"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,148,80"/>
 <area shape="rect" id="Node000002" href="$classSongEntry.html#a6d8abc5cc959f9b22b34a231129bfad4" title=" " alt="" coords="202,5,393,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,33,188,28,188,33,148,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,52,226,31,227,36,135,57"/>
 <area shape="rect" id="Node000003" href="$classSongCard.html#a06a28c3c58857ebae15621eb51d9c09e" title=" " alt="" coords="196,55,399,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,48,182,52,182,57,148,54"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,65,182,65,182,70,148,70"/>
+<area shape="rect" id="Node000007" href="$classMarqueeText.html#adddbe8cf8157a59567cd1f3250cb6b3b" title="텍스트를 설정하고 스크롤 상태를 초기화합니다. TMP_Text.text 대신 이 메서드를 사용하세요." alt="" coords="218,104,377,129"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="135,77,227,98,226,104,134,83"/>
 <area shape="rect" id="Node000004" href="$classDifficultyColorPalette.html#ad3263234dbf14b78a2cef8426e4911c4" title=" " alt="" coords="453,5,639,31"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="361,52,467,31,468,36,363,57"/>
 <area shape="rect" id="Node000005" href="$classScoreAPI.html#ad129b52229d111e6bff53314a4202364" title=" " alt="" coords="455,55,637,80"/>

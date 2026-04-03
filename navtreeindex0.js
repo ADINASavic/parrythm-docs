@@ -69,6 +69,7 @@ var NAVTREEINDEX0 =
 "LevelChartData_8cs.html":[2,0,0,0,7,0],
 "LevelChartJsonTool_8cs.html":[2,0,0,0,7,1],
 "LongNoteHandler_8cs.html":[2,0,0,0,0,1,4],
+"MarqueeText_8cs.html":[2,0,0,0,6,1,5],
 "MenuController_8cs.html":[2,0,0,0,4,0],
 "MeshUtil_8cs.html":[2,0,0,0,5,2,4],
 "NoteBase_8cs.html":[2,0,0,0,5,6],
@@ -99,7 +100,7 @@ var NAVTREEINDEX0 =
 "SliderNoteInit_8cs.html":[2,0,0,0,5,2,6],
 "SliderNoteVisual_8cs.html":[2,0,0,0,5,2,7],
 "SliderNote_8cs.html":[2,0,0,0,5,2,5],
-"SongCard_8cs.html":[2,0,0,0,6,1,5],
+"SongCard_8cs.html":[2,0,0,0,6,1,6],
 "SongPreviewPlayer_8cs.html":[2,0,0,0,6,6],
 "SongScanner_8cs.html":[2,0,0,0,1,4],
 "SongSelectNoteSettingsPreview_8cs.html":[2,0,0,0,4,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX0 =
 "classCarouselController.html#a0d83abdb836aa2596baf86d577ce4900":[1,0,14,16],
 "classCarouselController.html#a0ebabcb8bc8375c1ad42ac20966e0f78":[1,0,14,37],
 "classCarouselController.html#a0f228125f0e7e4508db2cd9be53b6c75":[1,0,14,3],
-"classCarouselController.html#a0f3924b590ade39d51dd42307a57846f":[1,0,14,14],
-"classCarouselController.html#a15569d0299e4b9d9db9436bc9a7f01a7":[1,0,14,6]
+"classCarouselController.html#a0f3924b590ade39d51dd42307a57846f":[1,0,14,14]
 };

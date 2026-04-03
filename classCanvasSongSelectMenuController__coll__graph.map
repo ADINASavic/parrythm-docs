@@ -1,24 +1,26 @@
 <map id="CanvasSongSelectMenuController" name="CanvasSongSelectMenuController">
-<area shape="rect" id="Node000001" title=" " alt="" coords="877,151,1120,176"/>
-<area shape="rect" id="Node000002" href="$classCarouselController.html" title="Generic carousel UI controller for horizontal scrolling card selection. Handles visual layout,..." alt="" coords="179,19,321,44"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="334,16,441,6,573,4,644,8,716,17,786,32,854,53,896,74,933,100,987,149,984,153,930,104,893,78,852,58,785,37,715,22,644,14,573,9,442,12,335,21"/>
-<area shape="rect" id="Node000010" href="$classSettingsCarouselController.html" title=" " alt="" coords="456,52,652,77"/>
-<area shape="poly" id="edge10_Node000010_Node000002" title=" " alt="" coords="335,38,456,51,456,57,335,43"/>
-<area shape="rect" id="Node000003" href="$classSongCard.html" title=" " alt="" coords="512,101,596,127"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="610,117,854,142,902,148,902,153,853,147,610,122"/>
-<area shape="rect" id="Node000004" href="$classSongEntry.html" title=" " alt="" coords="206,101,294,127"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="308,111,512,111,512,117,308,117"/>
-<area shape="rect" id="Node000005" href="$classSongMeta.html" title=" " alt="" coords="5,101,92,127"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="106,111,206,111,206,117,106,117"/>
-<area shape="rect" id="Node000006" href="$classSongPreviewPlayer.html" title=" " alt="" coords="481,151,627,176"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="641,161,877,161,877,166,641,166"/>
-<area shape="rect" id="Node000007" href="$classDifficultyStrip.html" title=" " alt="" coords="499,200,609,225"/>
-<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="623,204,853,181,910,173,911,179,854,186,624,210"/>
-<area shape="rect" id="Node000008" href="$classDifficultyBlock.html" title=" " alt="" coords="191,200,309,225"/>
-<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="322,210,499,210,499,215,322,215"/>
-<area shape="rect" id="Node000009" href="$classCanvasSongIntroController.html" title=" " alt="" coords="456,249,652,275"/>
-<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="665,251,757,239,853,220,917,198,970,174,973,179,919,203,854,225,758,245,666,257"/>
-<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="666,71,758,84,854,104,918,125,972,148,970,153,916,130,853,109,757,89,665,76"/>
-<area shape="rect" id="Node000011" href="$classButtonQuickSpeedSetting.html" title=" " alt="" coords="460,299,648,324"/>
-<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="661,308,756,297,805,286,852,270,893,249,930,223,984,174,987,178,933,227,896,254,854,275,807,291,757,302,662,314"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="888,149,1131,174"/>
+<area shape="rect" id="Node000002" href="$classCarouselController.html" title="Generic carousel UI controller for horizontal scrolling card selection. Handles visual layout,..." alt="" coords="179,25,321,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="335,20,444,8,578,3,650,7,724,15,796,29,865,51,906,71,944,98,998,146,994,150,941,102,904,76,863,56,794,34,723,20,650,12,578,9,444,13,336,25"/>
+<area shape="rect" id="Node000011" href="$classSettingsCarouselController.html" title=" " alt="" coords="467,50,663,75"/>
+<area shape="poly" id="edge11_Node000011_Node000002" title=" " alt="" coords="335,41,467,52,466,57,335,47"/>
+<area shape="rect" id="Node000003" href="$classSongCard.html" title=" " alt="" coords="523,99,607,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="621,114,864,140,913,146,912,151,864,145,620,120"/>
+<area shape="rect" id="Node000004" href="$classMarqueeText.html" title="텍스트가 마스크(부모 RectTransform) 너비보다 길 때 좌우로 마키 스크롤합니다. 부모 오브젝트에 RectMask2D 컴포넌트가 필요합니다...." alt="" coords="197,95,303,121"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="317,106,522,109,522,114,317,111"/>
+<area shape="rect" id="Node000005" href="$classSongEntry.html" title=" " alt="" coords="206,145,294,170"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="307,147,442,128,522,116,523,121,443,133,308,152"/>
+<area shape="rect" id="Node000006" href="$classSongMeta.html" title=" " alt="" coords="5,145,92,170"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="106,155,206,155,206,160,106,160"/>
+<area shape="rect" id="Node000007" href="$classSongPreviewPlayer.html" title=" " alt="" coords="491,149,638,174"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="652,159,888,159,888,164,652,164"/>
+<area shape="rect" id="Node000008" href="$classDifficultyStrip.html" title=" " alt="" coords="509,198,620,223"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="634,202,864,179,921,171,921,177,864,184,634,207"/>
+<area shape="rect" id="Node000009" href="$classDifficultyBlock.html" title=" " alt="" coords="191,198,309,223"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="322,208,509,208,509,213,322,213"/>
+<area shape="rect" id="Node000010" href="$classCanvasSongIntroController.html" title=" " alt="" coords="467,247,663,273"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="676,249,768,237,863,217,928,195,981,172,983,177,929,200,865,223,769,242,677,255"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="677,69,769,81,865,101,929,123,983,146,981,151,927,128,863,107,768,87,676,74"/>
+<area shape="rect" id="Node000012" href="$classButtonQuickSpeedSetting.html" title=" " alt="" coords="471,297,659,322"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="672,306,767,295,816,284,863,268,904,247,941,221,994,172,998,176,944,225,906,251,865,273,817,289,768,300,672,311"/>
 </map>

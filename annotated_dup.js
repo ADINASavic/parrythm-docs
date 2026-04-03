@@ -69,6 +69,7 @@ var annotated_dup =
     [ "LevelChartData", "classLevelChartData.html", "classLevelChartData" ],
     [ "LevelChartJsonTool", "classLevelChartJsonTool.html", "classLevelChartJsonTool" ],
     [ "LongNoteHandler", "classLongNoteHandler.html", "classLongNoteHandler" ],
+    [ "MarqueeText", "classMarqueeText.html", "classMarqueeText" ],
     [ "MenuController", "classMenuController.html", "classMenuController" ],
     [ "MeshUtil", "classMeshUtil.html", "classMeshUtil" ],
     [ "NoteBase", "classNoteBase.html", "classNoteBase" ],
