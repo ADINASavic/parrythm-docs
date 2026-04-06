@@ -1,6 +1,7 @@
 var classChartTimelineRuntime =
 [
     [ "ChartTimelineRuntime", "classChartTimelineRuntime.html#a948f3f7e84da87e3e2789c47a0a5a0ca", null ],
+    [ "BeatToSec", "classChartTimelineRuntime.html#a19054a642b482a2aa77e43d41f82e129", null ],
     [ "BulletDockToDespawnSec", "classChartTimelineRuntime.html#ac11843e580a329108ca31558e92cf2e9", null ],
     [ "BulletStartSec", "classChartTimelineRuntime.html#ac79e690bde9181f35832d6f91a1a7d48", null ],
     [ "BulletToDockSec", "classChartTimelineRuntime.html#ae1677271f8ca4bb5f9055c12b8110ca3", null ],

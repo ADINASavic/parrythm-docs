@@ -8,7 +8,6 @@ var classSliderNote =
     [ "TryStartFromRouter", "classSliderNote.html#a65d82b1828370cb7d6a488488e372ae8", null ],
     [ "ActiveSliders", "classSliderNote.html#a8e655bca0a2bf28435efede4f4ca0049", null ],
     [ "bulletRadiusScale", "classSliderNote.html#ab13871970a8ee9dc289271aa7710ebb7", null ],
-    [ "colliderSpacing", "classSliderNote.html#a8d404f44c827596cec28078cee59de17", null ],
     [ "curved", "classSliderNote.html#a8cf51f3315a9078596e9b46f9c3aabee", null ],
     [ "curveSamplesPerSegment", "classSliderNote.html#a9ac506a420c0940b9f1ed87797ce7003", null ],
     [ "debugHeadColor", "classSliderNote.html#a481be6dcbef84153db60b03fd6fb8e6e", null ],

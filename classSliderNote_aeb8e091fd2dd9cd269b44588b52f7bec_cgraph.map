@@ -1,5 +1,5 @@
 <map id="SliderNote.ApplyGapGuide" name="SliderNote.ApplyGapGuide">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,200,38"/>
-<area shape="rect" id="Node000002" href="$classSliderNoteVisual.html#a699874c56e0fd8b3ad6aad16d863192f" title=" " alt="" coords="248,5,457,45"/>
+<area shape="rect" id="Node000001" title="Applies an additive visual boost to guide&#45;related layers used for gap presentation." alt="" coords="5,13,200,38"/>
+<area shape="rect" id="Node000002" href="$classSliderNoteVisual.html#a699874c56e0fd8b3ad6aad16d863192f" title="Applies extra guide emphasis without allowing the guide to shrink below the configured minimum." alt="" coords="248,5,457,45"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,23,235,23,235,28,200,28"/>
 </map>

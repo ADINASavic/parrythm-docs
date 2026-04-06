@@ -128,10 +128,12 @@ var NAVTREEINDEX0 =
 "VoiceEventHandler_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e":[2,0,0,0,0,0,4,1],
 "annotated.html":[1,0],
 "classApproachCircleVisual.html":[1,0,1],
-"classApproachCircleVisual.html#a03ab16a13797fa2553892b15d6cb29c6":[1,0,1,1],
-"classApproachCircleVisual.html#a0d7218116a8e4b4d3c9cc29bc42151ad":[1,0,1,3],
-"classApproachCircleVisual.html#a1234c6c3883dd0758a4aa036b2c71dc4":[1,0,1,0],
-"classApproachCircleVisual.html#a8de8149bbc86a359a40b34125d6adcb5":[1,0,1,2],
+"classApproachCircleVisual.html#a03ab16a13797fa2553892b15d6cb29c6":[1,0,1,2],
+"classApproachCircleVisual.html#a0d7218116a8e4b4d3c9cc29bc42151ad":[1,0,1,5],
+"classApproachCircleVisual.html#a1234c6c3883dd0758a4aa036b2c71dc4":[1,0,1,1],
+"classApproachCircleVisual.html#a30c9b823a68592e706148ce6fe2d1872":[1,0,1,0],
+"classApproachCircleVisual.html#a3c118578b0172182d9bf4b7357b66bfe":[1,0,1,4],
+"classApproachCircleVisual.html#a8de8149bbc86a359a40b34125d6adcb5":[1,0,1,3],
 "classBackgroundVideoSync.html":[1,0,2],
 "classBackgroundVideoSync.html#a1d91e3f44bb6bee75b55e6ce7ceffee7":[1,0,2,1],
 "classBackgroundVideoSync.html#a1e11a60b2ad2ea3312b3e31446e06f63":[1,0,2,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX0 =
 "classCanvasSongSelectMenuController.html#af911d56215fc6fcebd273cffa85b92cd":[1,0,13,15],
 "classCarouselController.html":[1,0,14],
 "classCarouselController.html#a0d83abdb836aa2596baf86d577ce4900":[1,0,14,16],
-"classCarouselController.html#a0ebabcb8bc8375c1ad42ac20966e0f78":[1,0,14,37],
-"classCarouselController.html#a0f228125f0e7e4508db2cd9be53b6c75":[1,0,14,3],
-"classCarouselController.html#a0f3924b590ade39d51dd42307a57846f":[1,0,14,14]
+"classCarouselController.html#a0ebabcb8bc8375c1ad42ac20966e0f78":[1,0,14,37]
 };

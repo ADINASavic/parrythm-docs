@@ -1,0 +1,5 @@
+<map id="SliderNoteVisual.SetTimingGuide" name="SliderNoteVisual.SetTimingGuide">
+<area shape="rect" id="Node000001" title="Rebuilds the timing guide mesh that previews where the lead fill has currently advanced." alt="" coords="216,5,416,45"/>
+<area shape="rect" id="Node000002" href="$classSliderNoteVisual.html#a43d5d5f8680915b5e519a07219e48ada" title="Binds note settings, caches derived visual constants, and reapplies any existing path or progress sta..." alt="" coords="5,13,168,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,28,168,28,168,23,202,23"/>
+</map>

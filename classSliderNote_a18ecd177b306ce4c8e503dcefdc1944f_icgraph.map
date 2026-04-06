@@ -1,5 +1,5 @@
 <map id="SliderNote.SetRawPathWorld" name="SliderNote.SetRawPathWorld">
-<area shape="rect" id="Node000001" title=" " alt="" coords="484,5,692,31"/>
+<area shape="rect" id="Node000001" title="Replaces the authored world&#45;space path and rebuilds all runtime geometry derived from it." alt="" coords="484,5,692,31"/>
 <area shape="rect" id="Node000002" href="$classNoteSpawner.html#a04597846c1d46248236cb6b1f7541c12" title=" " alt="" coords="244,5,436,31"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="470,21,436,21,436,15,470,15"/>
 <area shape="rect" id="Node000003" href="$classSliderNoteHandler.html#a11968495f5e72ef382681ef50c0afc64" title=" " alt="" coords="5,5,196,31"/>

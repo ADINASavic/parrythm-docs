@@ -1,0 +1,7 @@
+<map id="ApproachCircleVisual.EnterFollowFillMode" name="ApproachCircleVisual.EnterFollowFillMode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="532,5,731,45"/>
+<area shape="rect" id="Node000002" href="$classSliderNoteVisual.html#adc7e48d20b0ff53fe3d5da36a91276e1" title="Switches the approach visual into the follow lead&#45;fill presentation used after the head is hit." alt="" coords="273,5,484,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="518,28,484,28,484,23,518,23"/>
+<area shape="rect" id="Node000003" href="$classSliderNote.html#a65d82b1828370cb7d6a488488e372ae8" title="Attempts to start the slider from router&#45;selected input near the head within the start judge window." alt="" coords="5,13,225,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="260,28,225,28,225,23,260,23"/>
+</map>

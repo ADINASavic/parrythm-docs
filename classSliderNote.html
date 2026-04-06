@@ -106,12 +106,15 @@ $(document).ready(function(){initNavTree('classSliderNote.html',''); initResizab
   <div class="headertitle"><div class="title">SliderNote 클래스 참조</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p>Owns slider path setup, follow-state judging, and final checkpoint resolution for slider notes.  
+ <a href="classSliderNote.html#details">더 자세히 ...</a></p>
 <div class="dynheader">
 SliderNote에 대한 상속 다이어그램 : </div>
 <div class="dyncontent">
 <div class="center"><img src="classSliderNote__inherit__graph.png" border="0" usemap="#aSliderNote_inherit__map" alt="Inheritance graph"/></div>
 <map name="aSliderNote_inherit__map" id="aSliderNote_inherit__map">
-<area shape="rect" title=" " alt="" coords="5,79,96,104"/>
+<area shape="rect" title="Owns slider path setup, follow&#45;state judging, and final checkpoint resolution for slider notes." alt="" coords="5,79,96,104"/>
 <area shape="rect" href="classNoteBase.html" title=" " alt="" coords="8,5,93,31"/>
 <area shape="poly" title=" " alt="" coords="53,44,53,79,48,79,48,44"/>
 </map>
@@ -121,7 +124,7 @@ SliderNote에 대한 협력 다이어그램:</div>
 <div class="dyncontent">
 <div class="center"><img src="classSliderNote__coll__graph.png" border="0" usemap="#aSliderNote_coll__map" alt="Collaboration graph"/></div>
 <map name="aSliderNote_coll__map" id="aSliderNote_coll__map">
-<area shape="rect" title=" " alt="" coords="272,344,363,369"/>
+<area shape="rect" title="Owns slider path setup, follow&#45;state judging, and final checkpoint resolution for slider notes." alt="" coords="272,344,363,369"/>
 <area shape="rect" href="classNoteBase.html" title=" " alt="" coords="275,269,360,295"/>
 <area shape="poly" title=" " alt="" coords="320,309,320,344,315,344,315,309"/>
 <area shape="rect" href="classJudge.html" title=" " alt="" coords="319,93,377,119"/>
@@ -144,39 +147,52 @@ SliderNote에 대한 협력 다이어그램:</div>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public 멤버 함수</h2></td></tr>
 <tr class="memitem:a18ecd177b306ce4c8e503dcefdc1944f" id="r_a18ecd177b306ce4c8e503dcefdc1944f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#a18ecd177b306ce4c8e503dcefdc1944f">SetRawPathWorld</a> (List&lt; Vector2 &gt; worldPts)</td></tr>
+<tr class="memdesc:a18ecd177b306ce4c8e503dcefdc1944f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Replaces the authored world-space path and rebuilds all runtime geometry derived from it.  <br /></td></tr>
 <tr class="separator:a18ecd177b306ce4c8e503dcefdc1944f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac8ba1caf52141955e8816a21a64e6762" id="r_ac8ba1caf52141955e8816a21a64e6762"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#ac8ba1caf52141955e8816a21a64e6762">RebuildPathGeometry</a> ()</td></tr>
+<tr class="memdesc:ac8ba1caf52141955e8816a21a64e6762"><td class="mdescLeft">&#160;</td><td class="mdescRight">Rebuilds the playable path, optionally smoothing the authored points first when curve mode is enabled.  <br /></td></tr>
 <tr class="separator:ac8ba1caf52141955e8816a21a64e6762"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a65d82b1828370cb7d6a488488e372ae8" id="r_a65d82b1828370cb7d6a488488e372ae8"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#a65d82b1828370cb7d6a488488e372ae8">TryStartFromRouter</a> (Vector3 world, float now)</td></tr>
+<tr class="memdesc:a65d82b1828370cb7d6a488488e372ae8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Attempts to start the slider from router-selected input near the head within the start judge window.  <br /></td></tr>
 <tr class="separator:a65d82b1828370cb7d6a488488e372ae8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0c6edc363da0f3f6f7e756f9e6cf96f6" id="r_a0c6edc363da0f3f6f7e756f9e6cf96f6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#a0c6edc363da0f3f6f7e756f9e6cf96f6">InputUpdate</a> (Vector3 world, float now, bool held)</td></tr>
+<tr class="memdesc:a0c6edc363da0f3f6f7e756f9e6cf96f6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Records the latest routed follow input sample for checkpoint judging.  <br /></td></tr>
 <tr class="separator:a0c6edc363da0f3f6f7e756f9e6cf96f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af63970c5c2f6a1dbe57d08d73e1ba13a" id="r_af63970c5c2f6a1dbe57d08d73e1ba13a"><td class="memItemLeft" align="right" valign="top">Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#af63970c5c2f6a1dbe57d08d73e1ba13a">GetHeadLocalPositionAtStart</a> ()</td></tr>
+<tr class="memdesc:af63970c5c2f6a1dbe57d08d73e1ba13a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the local-space slider head position used by the input router before follow begins.  <br /></td></tr>
 <tr class="separator:af63970c5c2f6a1dbe57d08d73e1ba13a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aeb8e091fd2dd9cd269b44588b52f7bec" id="r_aeb8e091fd2dd9cd269b44588b52f7bec"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#aeb8e091fd2dd9cd269b44588b52f7bec">ApplyGapGuide</a> (float alphaMul, float thicknessMul)</td></tr>
+<tr class="memdesc:aeb8e091fd2dd9cd269b44588b52f7bec"><td class="mdescLeft">&#160;</td><td class="mdescRight">Applies an additive visual boost to guide-related layers used for gap presentation.  <br /></td></tr>
 <tr class="separator:aeb8e091fd2dd9cd269b44588b52f7bec"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public 속성</h2></td></tr>
 <tr class="memitem:a8ea9a39e2d6401acedde5d53d0bc40a2" id="r_a8ea9a39e2d6401acedde5d53d0bc40a2"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#a8ea9a39e2d6401acedde5d53d0bc40a2">startTime</a></td></tr>
+<tr class="memdesc:a8ea9a39e2d6401acedde5d53d0bc40a2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Song time at which the slider head becomes judgeable.  <br /></td></tr>
 <tr class="separator:a8ea9a39e2d6401acedde5d53d0bc40a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a792ea0d1728a8fa5b2a2db6744ebc805" id="r_a792ea0d1728a8fa5b2a2db6744ebc805"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#a792ea0d1728a8fa5b2a2db6744ebc805">durationOverride</a> = -1f</td></tr>
+<tr class="memdesc:a792ea0d1728a8fa5b2a2db6744ebc805"><td class="mdescLeft">&#160;</td><td class="mdescRight">Optional per-note duration override supplied by the spawner. Negative values fall back to <a class="el" href="classNoteSettings.html#a29f9a60d01b7451f8df71a0f3a46c9cc">NoteSettings.sliderDuration</a>.  <br /></td></tr>
 <tr class="separator:a792ea0d1728a8fa5b2a2db6744ebc805"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9365d9010eda7b12c5354d69c61a42e6" id="r_a9365d9010eda7b12c5354d69c61a42e6"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#a9365d9010eda7b12c5354d69c61a42e6">useSimultaneousLeadFill</a></td></tr>
+<tr class="memdesc:a9365d9010eda7b12c5354d69c61a42e6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Uses the simultaneous-note lead fill styling instead of the default slider lead fill.  <br /></td></tr>
 <tr class="separator:a9365d9010eda7b12c5354d69c61a42e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a366fc6bcc4b1e2844659af837a5558b6" id="r_a366fc6bcc4b1e2844659af837a5558b6"><td class="memItemLeft" align="right" valign="top">Color&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#a366fc6bcc4b1e2844659af837a5558b6">simultaneousLeadFillColor</a></td></tr>
+<tr class="memdesc:a366fc6bcc4b1e2844659af837a5558b6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Lead fill color override applied when <a class="el" href="classSliderNote.html#a9365d9010eda7b12c5354d69c61a42e6" title="Uses the simultaneous-note lead fill styling instead of the default slider lead fill.">useSimultaneousLeadFill</a> is enabled.  <br /></td></tr>
 <tr class="separator:a366fc6bcc4b1e2844659af837a5558b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8cf51f3315a9078596e9b46f9c3aabee" id="r_a8cf51f3315a9078596e9b46f9c3aabee"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#a8cf51f3315a9078596e9b46f9c3aabee">curved</a> = false</td></tr>
+<tr class="memitem:a8cf51f3315a9078596e9b46f9c3aabee" id="r_a8cf51f3315a9078596e9b46f9c3aabee"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#a8cf51f3315a9078596e9b46f9c3aabee">curved</a></td></tr>
+<tr class="memdesc:a8cf51f3315a9078596e9b46f9c3aabee"><td class="mdescLeft">&#160;</td><td class="mdescRight">Smooths the authored path with Catmull-Rom interpolation before runtime sampling.  <br /></td></tr>
 <tr class="separator:a8cf51f3315a9078596e9b46f9c3aabee"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9ac506a420c0940b9f1ed87797ce7003" id="r_a9ac506a420c0940b9f1ed87797ce7003"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#a9ac506a420c0940b9f1ed87797ce7003">curveSamplesPerSegment</a> = 16</td></tr>
+<tr class="memdesc:a9ac506a420c0940b9f1ed87797ce7003"><td class="mdescLeft">&#160;</td><td class="mdescRight">Number of interpolation samples generated per authored segment when <a class="el" href="classSliderNote.html#a8cf51f3315a9078596e9b46f9c3aabee" title="Smooths the authored path with Catmull-Rom interpolation before runtime sampling.">curved</a> is enabled.  <br /></td></tr>
 <tr class="separator:a9ac506a420c0940b9f1ed87797ce7003"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab13871970a8ee9dc289271aa7710ebb7" id="r_ab13871970a8ee9dc289271aa7710ebb7"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#ab13871970a8ee9dc289271aa7710ebb7">bulletRadiusScale</a> = 1.0f</td></tr>
+<tr class="memdesc:ab13871970a8ee9dc289271aa7710ebb7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Scales the effective slider tube radius used for bullet overlap checks.  <br /></td></tr>
 <tr class="separator:ab13871970a8ee9dc289271aa7710ebb7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8d404f44c827596cec28078cee59de17" id="r_a8d404f44c827596cec28078cee59de17"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#a8d404f44c827596cec28078cee59de17">colliderSpacing</a> = 0.5f</td></tr>
-<tr class="separator:a8d404f44c827596cec28078cee59de17"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afa43f470b594b060c9fd7b9a97c17d8a" id="r_afa43f470b594b060c9fd7b9a97c17d8a"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#afa43f470b594b060c9fd7b9a97c17d8a">maxBulletColliders</a> = 40</td></tr>
+<tr class="memdesc:afa43f470b594b060c9fd7b9a97c17d8a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Maximum number of evenly spaced sample points used for sampled bullet overlap tests.  <br /></td></tr>
 <tr class="separator:afa43f470b594b060c9fd7b9a97c17d8a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a93e3496ae2488fcdcaab6021118df9e9" id="r_a93e3496ae2488fcdcaab6021118df9e9"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#a93e3496ae2488fcdcaab6021118df9e9">useSampledBulletChecks</a> = true</td></tr>
+<tr class="memdesc:a93e3496ae2488fcdcaab6021118df9e9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Checks sampled points before exact segment distance tests to preserve prior overlap feel.  <br /></td></tr>
 <tr class="separator:a93e3496ae2488fcdcaab6021118df9e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2b15a1e36341fbea6d0891d8e0d1492d" id="r_a2b15a1e36341fbea6d0891d8e0d1492d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#a2b15a1e36341fbea6d0891d8e0d1492d">debugRuntimeVisuals</a> = false</td></tr>
 <tr class="separator:a2b15a1e36341fbea6d0891d8e0d1492d"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -199,13 +215,16 @@ Public 속성</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-attribs" name="pub-static-attribs"></a>
 정적 Public 속성</h2></td></tr>
 <tr class="memitem:a8e655bca0a2bf28435efede4f4ca0049" id="r_a8e655bca0a2bf28435efede4f4ca0049"><td class="memItemLeft" align="right" valign="top">static readonly List&lt; <a class="el" href="classSliderNote.html">SliderNote</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#a8e655bca0a2bf28435efede4f4ca0049">ActiveSliders</a> = new()</td></tr>
+<tr class="memdesc:a8e655bca0a2bf28435efede4f4ca0049"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sliders that are currently enabled in the scene.  <br /></td></tr>
 <tr class="separator:a8e655bca0a2bf28435efede4f4ca0049"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="properties" name="properties"></a>
 속성</h2></td></tr>
 <tr class="memitem:ad8436fc2d48a22216b622eb012ab68cc" id="r_ad8436fc2d48a22216b622eb012ab68cc"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#ad8436fc2d48a22216b622eb012ab68cc">HasStarted</a><code> [get]</code></td></tr>
+<tr class="memdesc:ad8436fc2d48a22216b622eb012ab68cc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Whether the slider head was successfully hit and follow judging has started.  <br /></td></tr>
 <tr class="separator:ad8436fc2d48a22216b622eb012ab68cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1731808032ca6989b465844a647c7e6c" id="r_a1731808032ca6989b465844a647c7e6c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#a1731808032ca6989b465844a647c7e6c">HasFinalized</a><code> [get]</code></td></tr>
+<tr class="memdesc:a1731808032ca6989b465844a647c7e6c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Whether this slider has already produced its final result.  <br /></td></tr>
 <tr class="separator:a1731808032ca6989b465844a647c7e6c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header properties_classNoteBase"><td colspan="2" onclick="javascript:toggleInherit('properties_classNoteBase')"><img src="closed.png" alt="-"/>&#160;<a class="el" href="classNoteBase.html">NoteBase</a>(으)로부터 상속된 속성</td></tr>
 <tr class="memitem:a29449bad359a0f237b94efbe10a6e537 inherit properties_classNoteBase" id="r_a29449bad359a0f237b94efbe10a6e537"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classNoteBase.html#a29449bad359a0f237b94efbe10a6e537">IsJudged</a><code> [get]</code></td></tr>
@@ -216,6 +235,7 @@ Public 속성</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="events" name="events"></a>
 이벤트</h2></td></tr>
 <tr class="memitem:a2e994ae408566b5cdadb3adc48db1fc2" id="r_a2e994ae408566b5cdadb3adc48db1fc2"><td class="memItemLeft" align="right" valign="top">Action&lt; <a class="el" href="classSliderNote.html">SliderNote</a>, <a class="el" href="NoteResult_8cs.html#aa2413ae4a0961def874fde866d24f482">NoteResult</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#a2e994ae408566b5cdadb3adc48db1fc2">OnFinalize</a></td></tr>
+<tr class="memdesc:a2e994ae408566b5cdadb3adc48db1fc2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Raised once when the slider resolves to a final result.  <br /></td></tr>
 <tr class="separator:a2e994ae408566b5cdadb3adc48db1fc2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
@@ -233,7 +253,9 @@ Public 속성</h2></td></tr>
 <tr class="memitem:acb6d6f71c7213b562db924e57c3ce0e7 inherit pro_attribs_classNoteBase" id="r_acb6d6f71c7213b562db924e57c3ce0e7"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classNoteBase.html#acb6d6f71c7213b562db924e57c3ce0e7">judged</a></td></tr>
 <tr class="separator:acb6d6f71c7213b562db924e57c3ce0e7 inherit pro_attribs_classNoteBase"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">멤버 함수 문서화</h2>
+<a name="details" id="details"></a><h2 class="groupheader">상세한 설명</h2>
+<div class="textblock"><p>Owns slider path setup, follow-state judging, and final checkpoint resolution for slider notes. </p>
+</div><h2 class="groupheader">멤버 함수 문서화</h2>
 <a id="aeb8e091fd2dd9cd269b44588b52f7bec" name="aeb8e091fd2dd9cd269b44588b52f7bec"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#aeb8e091fd2dd9cd269b44588b52f7bec">&#9670;&#160;</a></span>ApplyGapGuide()</h2>
 
@@ -267,13 +289,22 @@ Public 속성</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Applies an additive visual boost to guide-related layers used for gap presentation. </p>
+<dl class="params"><dt>매개변수</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">alphaMul</td><td>Alpha multiplier applied to guide-related layers.</td></tr>
+    <tr><td class="paramname">thicknessMul</td><td>Thickness multiplier applied to guide-related meshes.</td></tr>
+  </table>
+  </dd>
+</dl>
 <div class="dynheader">
 이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
 <div class="dyncontent">
 <div class="center"><img src="classSliderNote_aeb8e091fd2dd9cd269b44588b52f7bec_cgraph.png" border="0" usemap="#aclassSliderNote_aeb8e091fd2dd9cd269b44588b52f7bec_cgraph" alt=""/></div>
 <map name="aclassSliderNote_aeb8e091fd2dd9cd269b44588b52f7bec_cgraph" id="aclassSliderNote_aeb8e091fd2dd9cd269b44588b52f7bec_cgraph">
-<area shape="rect" title=" " alt="" coords="5,13,200,38"/>
-<area shape="rect" href="classSliderNoteVisual.html#a699874c56e0fd8b3ad6aad16d863192f" title=" " alt="" coords="248,5,457,45"/>
+<area shape="rect" title="Applies an additive visual boost to guide&#45;related layers used for gap presentation." alt="" coords="5,13,200,38"/>
+<area shape="rect" href="classSliderNoteVisual.html#a699874c56e0fd8b3ad6aad16d863192f" title="Applies extra guide emphasis without allowing the guide to shrink below the configured minimum." alt="" coords="248,5,457,45"/>
 <area shape="poly" title=" " alt="" coords="200,23,235,23,235,28,200,28"/>
 </map>
 </div>
@@ -282,7 +313,7 @@ Public 속성</h2></td></tr>
 <div class="dyncontent">
 <div class="center"><img src="classSliderNote_aeb8e091fd2dd9cd269b44588b52f7bec_icgraph.png" border="0" usemap="#aclassSliderNote_aeb8e091fd2dd9cd269b44588b52f7bec_icgraph" alt=""/></div>
 <map name="aclassSliderNote_aeb8e091fd2dd9cd269b44588b52f7bec_icgraph" id="aclassSliderNote_aeb8e091fd2dd9cd269b44588b52f7bec_icgraph">
-<area shape="rect" title=" " alt="" coords="484,5,679,31"/>
+<area shape="rect" title="Applies an additive visual boost to guide&#45;related layers used for gap presentation." alt="" coords="484,5,679,31"/>
 <area shape="rect" href="classNoteSpawner.html#a04597846c1d46248236cb6b1f7541c12" title=" " alt="" coords="244,5,436,31"/>
 <area shape="poly" title=" " alt="" coords="471,21,436,21,436,15,471,15"/>
 <area shape="rect" href="classSliderNoteHandler.html#a11968495f5e72ef382681ef50c0afc64" title=" " alt="" coords="5,5,196,31"/>
@@ -314,6 +345,8 @@ Public 속성</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Returns the local-space slider head position used by the input router before follow begins. </p>
 
 </div>
 </div>
@@ -356,16 +389,16 @@ Public 속성</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="dynheader">
-이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
-<div class="dyncontent">
-<div class="center"><img src="classSliderNote_a0c6edc363da0f3f6f7e756f9e6cf96f6_cgraph.png" border="0" usemap="#aclassSliderNote_a0c6edc363da0f3f6f7e756f9e6cf96f6_cgraph" alt=""/></div>
-<map name="aclassSliderNote_a0c6edc363da0f3f6f7e756f9e6cf96f6_cgraph" id="aclassSliderNote_a0c6edc363da0f3f6f7e756f9e6cf96f6_cgraph">
-<area shape="rect" title=" " alt="" coords="5,5,180,31"/>
-<area shape="rect" href="classSliderNoteVisual.html#af225e15b4f0c9c8af6d4d37073dd158b" title=" " alt="" coords="228,5,417,31"/>
-<area shape="poly" title=" " alt="" coords="181,15,214,15,214,21,181,21"/>
-</map>
-</div>
+
+<p>Records the latest routed follow input sample for checkpoint judging. </p>
+<dl class="params"><dt>매개변수</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">world</td><td>Current input position in world space.</td></tr>
+    <tr><td class="paramname">now</td><td>Timestamp associated with the routed input sample.</td></tr>
+    <tr><td class="paramname">held</td><td>Whether the follow input is still actively held.</td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>
@@ -391,13 +424,15 @@ Public 속성</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Rebuilds the playable path, optionally smoothing the authored points first when curve mode is enabled. </p>
 <div class="dynheader">
 이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
 <div class="dyncontent">
 <div class="center"><img src="classSliderNote_ac8ba1caf52141955e8816a21a64e6762_icgraph.png" border="0" usemap="#aclassSliderNote_ac8ba1caf52141955e8816a21a64e6762_icgraph" alt=""/></div>
 <map name="aclassSliderNote_ac8ba1caf52141955e8816a21a64e6762_icgraph" id="aclassSliderNote_ac8ba1caf52141955e8816a21a64e6762_icgraph">
-<area shape="rect" title=" " alt="" coords="740,5,976,31"/>
-<area shape="rect" href="classSliderNote.html#a18ecd177b306ce4c8e503dcefdc1944f" title=" " alt="" coords="484,5,692,31"/>
+<area shape="rect" title="Rebuilds the playable path, optionally smoothing the authored points first when curve mode is enabled..." alt="" coords="740,5,976,31"/>
+<area shape="rect" href="classSliderNote.html#a18ecd177b306ce4c8e503dcefdc1944f" title="Replaces the authored world&#45;space path and rebuilds all runtime geometry derived from it." alt="" coords="484,5,692,31"/>
 <area shape="poly" title=" " alt="" coords="726,21,692,21,692,15,726,15"/>
 <area shape="rect" href="classNoteSpawner.html#a04597846c1d46248236cb6b1f7541c12" title=" " alt="" coords="244,5,436,31"/>
 <area shape="poly" title=" " alt="" coords="470,21,436,21,436,15,470,15"/>
@@ -431,13 +466,21 @@ Public 속성</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Replaces the authored world-space path and rebuilds all runtime geometry derived from it. </p>
+<dl class="params"><dt>매개변수</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">worldPts</td><td>Ordered world-space points that define the slider path.</td></tr>
+  </table>
+  </dd>
+</dl>
 <div class="dynheader">
 이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
 <div class="dyncontent">
 <div class="center"><img src="classSliderNote_a18ecd177b306ce4c8e503dcefdc1944f_cgraph.png" border="0" usemap="#aclassSliderNote_a18ecd177b306ce4c8e503dcefdc1944f_cgraph" alt=""/></div>
 <map name="aclassSliderNote_a18ecd177b306ce4c8e503dcefdc1944f_cgraph" id="aclassSliderNote_a18ecd177b306ce4c8e503dcefdc1944f_cgraph">
-<area shape="rect" title=" " alt="" coords="5,5,213,31"/>
-<area shape="rect" href="classSliderNote.html#ac8ba1caf52141955e8816a21a64e6762" title=" " alt="" coords="261,5,497,31"/>
+<area shape="rect" title="Replaces the authored world&#45;space path and rebuilds all runtime geometry derived from it." alt="" coords="5,5,213,31"/>
+<area shape="rect" href="classSliderNote.html#ac8ba1caf52141955e8816a21a64e6762" title="Rebuilds the playable path, optionally smoothing the authored points first when curve mode is enabled..." alt="" coords="261,5,497,31"/>
 <area shape="poly" title=" " alt="" coords="214,15,248,15,248,21,214,21"/>
 </map>
 </div>
@@ -446,7 +489,7 @@ Public 속성</h2></td></tr>
 <div class="dyncontent">
 <div class="center"><img src="classSliderNote_a18ecd177b306ce4c8e503dcefdc1944f_icgraph.png" border="0" usemap="#aclassSliderNote_a18ecd177b306ce4c8e503dcefdc1944f_icgraph" alt=""/></div>
 <map name="aclassSliderNote_a18ecd177b306ce4c8e503dcefdc1944f_icgraph" id="aclassSliderNote_a18ecd177b306ce4c8e503dcefdc1944f_icgraph">
-<area shape="rect" title=" " alt="" coords="484,5,692,31"/>
+<area shape="rect" title="Replaces the authored world&#45;space path and rebuilds all runtime geometry derived from it." alt="" coords="484,5,692,31"/>
 <area shape="rect" href="classNoteSpawner.html#a04597846c1d46248236cb6b1f7541c12" title=" " alt="" coords="244,5,436,31"/>
 <area shape="poly" title=" " alt="" coords="470,21,436,21,436,15,470,15"/>
 <area shape="rect" href="classSliderNoteHandler.html#a11968495f5e72ef382681ef50c0afc64" title=" " alt="" coords="5,5,196,31"/>
@@ -489,26 +532,36 @@ Public 속성</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Attempts to start the slider from router-selected input near the head within the start judge window. </p>
+<dl class="params"><dt>매개변수</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">world</td><td>Current input position in world space.</td></tr>
+    <tr><td class="paramname">now</td><td>Current song time used for start judging.</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>반환값</dt><dd><code>true</code> when the slider successfully enters follow mode.</dd></dl>
 <div class="dynheader">
 이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
 <div class="dyncontent">
 <div class="center"><img src="classSliderNote_a65d82b1828370cb7d6a488488e372ae8_cgraph.png" border="0" usemap="#aclassSliderNote_a65d82b1828370cb7d6a488488e372ae8_cgraph" alt=""/></div>
 <map name="aclassSliderNote_a65d82b1828370cb7d6a488488e372ae8_cgraph" id="aclassSliderNote_a65d82b1828370cb7d6a488488e372ae8_cgraph">
-<area shape="rect" title=" " alt="" coords="5,80,225,105"/>
-<area shape="rect" href="classJudge.html#a3ac356c9438fcb089cdab7462a2c5554" title=" " alt="" coords="316,5,456,31"/>
-<area shape="poly" title=" " alt="" coords="152,77,273,39,306,31,308,36,274,45,153,83"/>
-<area shape="rect" href="classSliderNoteVisual.html#ad71f41eff1fbe530e0bc2bed0c7ec80b" title=" " alt="" coords="276,55,496,80"/>
-<area shape="poly" title=" " alt="" coords="225,80,262,76,262,82,226,85"/>
-<area shape="rect" href="classSliderNoteVisual.html#a8e9adb8f80e1bf6555f64ca6c467f1ed" title=" " alt="" coords="273,104,499,129"/>
-<area shape="poly" title=" " alt="" coords="226,100,260,103,260,108,225,105"/>
-<area shape="rect" href="classSliderNoteVisual.html#af225e15b4f0c9c8af6d4d37073dd158b" title=" " alt="" coords="291,153,481,179"/>
-<area shape="poly" title=" " alt="" coords="155,103,274,139,308,148,307,153,273,145,153,108"/>
-<area shape="rect" href="classJudge.html#a420d7d313b02df052975a6bb8a4fbcab" title=" " alt="" coords="571,5,717,31"/>
-<area shape="poly" title=" " alt="" coords="456,15,558,15,558,21,456,21"/>
-<area shape="rect" href="interfaceIGaugeCommand.html#a3e15d283316f614ee46582c8fa2d5c1a" title=" " alt="" coords="789,5,1036,31"/>
-<area shape="poly" title=" " alt="" coords="717,15,776,15,776,21,717,21"/>
-<area shape="rect" href="classApproachCircleVisual.html#a1234c6c3883dd0758a4aa036b2c71dc4" title=" " alt="" coords="547,104,741,129"/>
-<area shape="poly" title=" " alt="" coords="499,114,533,114,533,119,499,119"/>
+<area shape="rect" title="Attempts to start the slider from router&#45;selected input near the head within the start judge window." alt="" coords="5,84,225,109"/>
+<area shape="rect" href="classJudge.html#a3ac356c9438fcb089cdab7462a2c5554" title=" " alt="" coords="313,5,453,31"/>
+<area shape="poly" title=" " alt="" coords="149,81,273,39,305,31,306,36,274,45,151,86"/>
+<area shape="rect" href="classSliderNoteVisual.html#ad71f41eff1fbe530e0bc2bed0c7ec80b" title="Shows or hides the follow ring that tracks the active slider head." alt="" coords="273,55,493,80"/>
+<area shape="poly" title=" " alt="" coords="225,82,259,78,260,84,226,87"/>
+<area shape="rect" href="classSliderNoteVisual.html#adc7e48d20b0ff53fe3d5da36a91276e1" title="Switches the approach visual into the follow lead&#45;fill presentation used after the head is hit." alt="" coords="278,105,489,145"/>
+<area shape="poly" title=" " alt="" coords="226,105,265,110,264,115,225,111"/>
+<area shape="rect" href="classSliderNoteVisual.html#af225e15b4f0c9c8af6d4d37073dd158b" title="Moves the slider head, follow ring, and approach circle to the same local&#45;space position." alt="" coords="289,169,478,195"/>
+<area shape="poly" title=" " alt="" coords="147,107,206,130,274,154,308,163,307,169,273,159,204,135,145,112"/>
+<area shape="rect" href="classJudge.html#a420d7d313b02df052975a6bb8a4fbcab" title=" " alt="" coords="568,5,713,31"/>
+<area shape="poly" title=" " alt="" coords="454,15,554,15,554,21,454,21"/>
+<area shape="rect" href="interfaceIGaugeCommand.html#a3e15d283316f614ee46582c8fa2d5c1a" title=" " alt="" coords="788,5,1035,31"/>
+<area shape="poly" title=" " alt="" coords="713,15,774,15,774,21,713,21"/>
+<area shape="rect" href="classApproachCircleVisual.html#a30c9b823a68592e706148ce6fe2d1872" title=" " alt="" coords="541,105,740,145"/>
+<area shape="poly" title=" " alt="" coords="489,122,528,122,528,127,489,127"/>
 </map>
 </div>
 
@@ -535,6 +588,8 @@ Public 속성</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>Sliders that are currently enabled in the scene. </p>
+
 </div>
 </div>
 <a id="ab13871970a8ee9dc289271aa7710ebb7" name="ab13871970a8ee9dc289271aa7710ebb7"></a>
@@ -549,19 +604,7 @@ Public 속성</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-</div>
-</div>
-<a id="a8d404f44c827596cec28078cee59de17" name="a8d404f44c827596cec28078cee59de17"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8d404f44c827596cec28078cee59de17">&#9670;&#160;</a></span>colliderSpacing</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float SliderNote.colliderSpacing = 0.5f</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
+<p>Scales the effective slider tube radius used for bullet overlap checks. </p>
 
 </div>
 </div>
@@ -572,10 +615,12 @@ Public 속성</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool SliderNote.curved = false</td>
+          <td class="memname">bool SliderNote.curved</td>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Smooths the authored path with Catmull-Rom interpolation before runtime sampling. </p>
 
 </div>
 </div>
@@ -590,6 +635,8 @@ Public 속성</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Number of interpolation samples generated per authored segment when <a class="el" href="classSliderNote.html#a8cf51f3315a9078596e9b46f9c3aabee" title="Smooths the authored path with Catmull-Rom interpolation before runtime sampling.">curved</a> is enabled. </p>
 
 </div>
 </div>
@@ -661,6 +708,8 @@ Public 속성</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>Optional per-note duration override supplied by the spawner. Negative values fall back to <a class="el" href="classNoteSettings.html#a29f9a60d01b7451f8df71a0f3a46c9cc">NoteSettings.sliderDuration</a>. </p>
+
 </div>
 </div>
 <a id="afa43f470b594b060c9fd7b9a97c17d8a" name="afa43f470b594b060c9fd7b9a97c17d8a"></a>
@@ -674,6 +723,8 @@ Public 속성</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Maximum number of evenly spaced sample points used for sampled bullet overlap tests. </p>
 
 </div>
 </div>
@@ -689,6 +740,8 @@ Public 속성</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>Lead fill color override applied when <a class="el" href="classSliderNote.html#a9365d9010eda7b12c5354d69c61a42e6" title="Uses the simultaneous-note lead fill styling instead of the default slider lead fill.">useSimultaneousLeadFill</a> is enabled. </p>
+
 </div>
 </div>
 <a id="a8ea9a39e2d6401acedde5d53d0bc40a2" name="a8ea9a39e2d6401acedde5d53d0bc40a2"></a>
@@ -702,6 +755,8 @@ Public 속성</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Song time at which the slider head becomes judgeable. </p>
 
 </div>
 </div>
@@ -717,6 +772,8 @@ Public 속성</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>Checks sampled points before exact segment distance tests to preserve prior overlap feel. </p>
+
 </div>
 </div>
 <a id="a9365d9010eda7b12c5354d69c61a42e6" name="a9365d9010eda7b12c5354d69c61a42e6"></a>
@@ -730,6 +787,8 @@ Public 속성</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Uses the simultaneous-note lead fill styling instead of the default slider lead fill. </p>
 
 </div>
 </div>
@@ -754,6 +813,8 @@ Public 속성</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>Whether this slider has already produced its final result. </p>
+
 </div>
 </div>
 <a id="ad8436fc2d48a22216b622eb012ab68cc" name="ad8436fc2d48a22216b622eb012ab68cc"></a>
@@ -776,6 +837,8 @@ Public 속성</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>Whether the slider head was successfully hit and follow judging has started. </p>
+
 </div>
 </div>
 <h2 class="groupheader">이벤트 문서화</h2>
@@ -790,6 +853,8 @@ Public 속성</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Raised once when the slider resolves to a final result. </p>
 
 </div>
 </div>

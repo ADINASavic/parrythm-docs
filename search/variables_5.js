@@ -19,10 +19,11 @@ var searchData=
   ['focusedscale_16',['focusedScale',['../classCarouselController.html#ae91d2926aecb1927256ae38063957dd8',1,'CarouselController']]],
   ['folderpath_17',['folderPath',['../classSongEntry.html#a3da524b06479eaddbb547119f15bdd9a',1,'SongEntry']]],
   ['followmouse_18',['followMouse',['../classUITrailGraphic.html#a59f8f0edd159b5f6be8f6f2f371ccf35',1,'UITrailGraphic']]],
-  ['followringscalemultiplier_19',['followRingScaleMultiplier',['../classSliderNoteVisual.html#af578b95486b77ec00ac1fc4a492dae07',1,'SliderNoteVisual']]],
-  ['followringsegments_20',['followRingSegments',['../classSliderNoteVisual.html#ab4b118c90ef0a9b44675217707056b55',1,'SliderNoteVisual']]],
-  ['followringsortingorder_21',['followRingSortingOrder',['../classSliderNoteVisual.html#a291e85370f4b1305c0c7b96c17c62a09',1,'SliderNoteVisual']]],
-  ['followringwidthmultiplier_22',['followRingWidthMultiplier',['../classSliderNoteVisual.html#add75179b065b00ee5d0e420acec6db03',1,'SliderNoteVisual']]],
-  ['forcesoftware_23',['forceSoftware',['../classCleanCursor.html#a70173dfaeef40a763c3bd9feb2c64d71',1,'CleanCursor']]],
-  ['fullscreentoggle_24',['fullscreenToggle',['../classSettingsCardViewSettings.html#ab84e2d3f125511d86167270702e55b4f',1,'SettingsCardViewSettings']]]
+  ['followringalphamultiplier_19',['followRingAlphaMultiplier',['../classSliderNoteVisual.html#a8bb993d19194fba33ddf3091ca87a1bd',1,'SliderNoteVisual']]],
+  ['followringscalemultiplier_20',['followRingScaleMultiplier',['../classSliderNoteVisual.html#af578b95486b77ec00ac1fc4a492dae07',1,'SliderNoteVisual']]],
+  ['followringsegments_21',['followRingSegments',['../classSliderNoteVisual.html#ab4b118c90ef0a9b44675217707056b55',1,'SliderNoteVisual']]],
+  ['followringsortingorder_22',['followRingSortingOrder',['../classSliderNoteVisual.html#a291e85370f4b1305c0c7b96c17c62a09',1,'SliderNoteVisual']]],
+  ['followringwidthmultiplier_23',['followRingWidthMultiplier',['../classSliderNoteVisual.html#add75179b065b00ee5d0e420acec6db03',1,'SliderNoteVisual']]],
+  ['forcesoftware_24',['forceSoftware',['../classCleanCursor.html#a70173dfaeef40a763c3bd9feb2c64d71',1,'CleanCursor']]],
+  ['fullscreentoggle_25',['fullscreenToggle',['../classSettingsCardViewSettings.html#ab84e2d3f125511d86167270702e55b4f',1,'SettingsCardViewSettings']]]
 ];

@@ -1,8 +1,8 @@
 <map id="SliderNoteVisual.ApplyGuideBoost" name="SliderNoteVisual.ApplyGuideBoost">
-<area shape="rect" id="Node000001" title=" " alt="" coords="727,23,936,63"/>
-<area shape="rect" id="Node000002" href="$classSliderNote.html#aeb8e091fd2dd9cd269b44588b52f7bec" title=" " alt="" coords="484,5,679,31"/>
+<area shape="rect" id="Node000001" title="Applies extra guide emphasis without allowing the guide to shrink below the configured minimum." alt="" coords="727,23,936,63"/>
+<area shape="rect" id="Node000002" href="$classSliderNote.html#aeb8e091fd2dd9cd269b44588b52f7bec" title="Applies an additive visual boost to guide&#45;related layers used for gap presentation." alt="" coords="484,5,679,31"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="713,34,679,31,679,25,713,29"/>
-<area shape="rect" id="Node000005" href="$classSliderNoteVisual.html#a43d5d5f8680915b5e519a07219e48ada" title=" " alt="" coords="500,55,663,80"/>
+<area shape="rect" id="Node000005" href="$classSliderNoteVisual.html#a43d5d5f8680915b5e519a07219e48ada" title="Binds note settings, caches derived visual constants, and reapplies any existing path or progress sta..." alt="" coords="500,55,663,80"/>
 <area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="713,57,663,62,663,57,713,52"/>
 <area shape="rect" id="Node000003" href="$classNoteSpawner.html#a04597846c1d46248236cb6b1f7541c12" title=" " alt="" coords="244,5,436,31"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="471,21,436,21,436,15,471,15"/>

@@ -2,6 +2,6 @@
 <area shape="rect" id="Node000001" title=" " alt="" coords="65,5,151,31"/>
 <area shape="rect" id="Node000002" href="$classCircleNote.html" title=" " alt="" coords="5,79,96,104"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,43,62,80,58,77,88,40"/>
-<area shape="rect" id="Node000003" href="$classSliderNote.html" title=" " alt="" coords="120,79,211,104"/>
+<area shape="rect" id="Node000003" href="$classSliderNote.html" title="Owns slider path setup, follow&#45;state judging, and final checkpoint resolution for slider notes." alt="" coords="120,79,211,104"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="128,40,158,77,154,80,124,43"/>
 </map>

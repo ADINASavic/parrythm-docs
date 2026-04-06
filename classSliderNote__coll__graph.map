@@ -1,5 +1,5 @@
 <map id="SliderNote" name="SliderNote">
-<area shape="rect" id="Node000001" title=" " alt="" coords="272,344,363,369"/>
+<area shape="rect" id="Node000001" title="Owns slider path setup, follow&#45;state judging, and final checkpoint resolution for slider notes." alt="" coords="272,344,363,369"/>
 <area shape="rect" id="Node000002" href="$classNoteBase.html" title=" " alt="" coords="275,269,360,295"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="320,309,320,344,315,344,315,309"/>
 <area shape="rect" id="Node000003" href="$classJudge.html" title=" " alt="" coords="319,93,377,119"/>

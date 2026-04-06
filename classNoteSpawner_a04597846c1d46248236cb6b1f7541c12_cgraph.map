@@ -1,11 +1,11 @@
 <map id="NoteSpawner.SpawnSlider" name="NoteSpawner.SpawnSlider">
 <area shape="rect" id="Node000001" title=" " alt="" coords="5,42,197,67"/>
-<area shape="rect" id="Node000002" href="$classSliderNote.html#aeb8e091fd2dd9cd269b44588b52f7bec" title=" " alt="" coords="252,15,447,41"/>
+<area shape="rect" id="Node000002" href="$classSliderNote.html#aeb8e091fd2dd9cd269b44588b52f7bec" title="Applies an additive visual boost to guide&#45;related layers used for gap presentation." alt="" coords="252,15,447,41"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,42,238,37,239,43,198,47"/>
-<area shape="rect" id="Node000004" href="$classSliderNote.html#a18ecd177b306ce4c8e503dcefdc1944f" title=" " alt="" coords="245,66,453,91"/>
+<area shape="rect" id="Node000004" href="$classSliderNote.html#a18ecd177b306ce4c8e503dcefdc1944f" title="Replaces the authored world&#45;space path and rebuilds all runtime geometry derived from it." alt="" coords="245,66,453,91"/>
 <area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="198,61,232,65,232,70,197,67"/>
-<area shape="rect" id="Node000003" href="$classSliderNoteVisual.html#a699874c56e0fd8b3ad6aad16d863192f" title=" " alt="" coords="515,5,724,45"/>
+<area shape="rect" id="Node000003" href="$classSliderNoteVisual.html#a699874c56e0fd8b3ad6aad16d863192f" title="Applies extra guide emphasis without allowing the guide to shrink below the configured minimum." alt="" coords="515,5,724,45"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="447,24,501,24,501,29,447,30"/>
-<area shape="rect" id="Node000005" href="$classSliderNote.html#ac8ba1caf52141955e8816a21a64e6762" title=" " alt="" coords="501,70,737,95"/>
+<area shape="rect" id="Node000005" href="$classSliderNote.html#ac8ba1caf52141955e8816a21a64e6762" title="Rebuilds the playable path, optionally smoothing the authored points first when curve mode is enabled..." alt="" coords="501,70,737,95"/>
 <area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="454,78,488,78,488,83,454,83"/>
 </map>

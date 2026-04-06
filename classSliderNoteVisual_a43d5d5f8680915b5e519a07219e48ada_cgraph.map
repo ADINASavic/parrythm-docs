@@ -1,9 +1,13 @@
 <map id="SliderNoteVisual.Bind" name="SliderNoteVisual.Bind">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,70,168,95"/>
-<area shape="rect" id="Node000002" href="$classSliderNoteVisual.html#a699874c56e0fd8b3ad6aad16d863192f" title=" " alt="" coords="217,5,426,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,67,225,46,227,51,140,73"/>
+<area shape="rect" id="Node000001" title="Binds note settings, caches derived visual constants, and reapplies any existing path or progress sta..." alt="" coords="5,119,168,145"/>
+<area shape="rect" id="Node000002" href="$classSliderNoteVisual.html#a699874c56e0fd8b3ad6aad16d863192f" title="Applies extra guide emphasis without allowing the guide to shrink below the configured minimum." alt="" coords="217,5,426,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,117,154,87,215,55,233,48,235,52,217,60,157,91,108,121"/>
 <area shape="rect" id="Node000003" href="$classApproachCircleVisual.html#a03ab16a13797fa2553892b15d6cb29c6" title=" " alt="" coords="229,70,414,95"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,80,215,80,215,85,168,85"/>
-<area shape="rect" id="Node000004" href="$classSliderNoteVisual.html#af299cfcd30b422ad0dad3d6f824fe8eb" title=" " alt="" coords="216,119,427,145"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="148,93,247,114,246,119,147,98"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,117,246,96,247,101,148,122"/>
+<area shape="rect" id="Node000004" href="$classSliderNoteVisual.html#af299cfcd30b422ad0dad3d6f824fe8eb" title="Rebuilds the completed&#45;path mesh up to the given normalized slider progress." alt="" coords="216,119,427,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="168,129,202,129,202,135,168,135"/>
+<area shape="rect" id="Node000005" href="$classApproachCircleVisual.html#a3c118578b0172182d9bf4b7357b66bfe" title=" " alt="" coords="229,169,414,209"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="140,142,227,164,225,169,139,147"/>
+<area shape="rect" id="Node000006" href="$classSliderNoteVisual.html#a1e9832fd23e7e3454884cee23e7165ff" title="Rebuilds the timing guide mesh that previews where the lead fill has currently advanced." alt="" coords="221,233,421,273"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="105,143,153,180,217,219,233,226,231,231,215,224,150,184,102,147"/>
 </map>
