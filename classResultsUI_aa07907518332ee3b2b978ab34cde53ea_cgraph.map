@@ -1,0 +1,5 @@
+<map id="ResultsUI.GoBackToOutgameScene" name="ResultsUI.GoBackToOutgameScene">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,217,45"/>
+<area shape="rect" id="Node000002" href="$classParrythmInputRuntime.html#a38a5462bd7699f5029dd77220b856d02" title="기본 입력 상태를 Outgame으로 전환한다." alt="" coords="265,5,472,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,23,252,23,252,28,217,28"/>
+</map>

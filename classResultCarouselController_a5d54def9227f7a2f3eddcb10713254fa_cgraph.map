@@ -1,5 +1,7 @@
 <map id="ResultCarouselController.OnIndexConfirmed" name="ResultCarouselController.OnIndexConfirmed">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,192,45"/>
-<area shape="rect" id="Node000002" href="$classCarouselController.html#a545b5c3b9a9c9b500356180c60ebf777" title=" " alt="" coords="240,13,481,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,23,226,23,226,28,192,28"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,192,75"/>
+<area shape="rect" id="Node000002" href="$classParrythmInputRuntime.html#a38a5462bd7699f5029dd77220b856d02" title="기본 입력 상태를 Outgame으로 전환한다." alt="" coords="257,5,464,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,42,243,36,244,41,192,47"/>
+<area shape="rect" id="Node000003" href="$classCarouselController.html#a545b5c3b9a9c9b500356180c60ebf777" title=" " alt="" coords="240,70,481,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,62,228,66,228,71,192,67"/>
 </map>
