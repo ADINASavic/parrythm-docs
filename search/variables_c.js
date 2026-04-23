@@ -28,7 +28,7 @@ var searchData=
   ['movese_25',['moveSE',['../classCarouselController.html#a27e12417e7eecab0100c173946c7f87a',1,'CarouselController']]],
   ['movesmoothtime_26',['moveSmoothTime',['../classCarouselController.html#ada50e4a71346c015774c05a76bfcb423',1,'CarouselController']]],
   ['movevelocity_27',['moveVelocity',['../classCarouselController.html#a3723026988c9402dc7aee3c07f881230',1,'CarouselController']]],
-  ['music_28',['music',['../classChartPlayerFMOD.html#ab575e13ac1a76992c48095fec3fc4a47',1,'ChartPlayerFMOD.music'],['../classNoteSpawner.html#a13663c1f1f4160b7d0ed17943bc75fcb',1,'NoteSpawner.music'],['../classTextExitHoldIndicator.html#a1e25f74aad55804a03b7e048b1047d2d',1,'TextExitHoldIndicator.music']]],
+  ['music_28',['music',['../classChartPlayerFMOD.html#ab575e13ac1a76992c48095fec3fc4a47',1,'ChartPlayerFMOD.music'],['../classTextExitHoldIndicator.html#a1e25f74aad55804a03b7e048b1047d2d',1,'TextExitHoldIndicator.music'],['../classNoteSpawner.html#a13663c1f1f4160b7d0ed17943bc75fcb',1,'NoteSpawner.music']]],
   ['musiccontroller_29',['musicController',['../classGameBootstrap.html#a4f2cd798783c3bb19d0a2fd974aefb88',1,'GameBootstrap']]],
   ['musicevent_30',['musicEvent',['../classFmodMusicController.html#a514edefbdb753d43cda55cdd2ecf36c3',1,'FmodMusicController']]]
 ];

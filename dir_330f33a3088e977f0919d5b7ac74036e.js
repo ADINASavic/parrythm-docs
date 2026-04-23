@@ -1,10 +1,10 @@
 var dir_330f33a3088e977f0919d5b7ac74036e =
 [
+    [ "CanvasGame", "dir_e502b6effcbdbe49145dd874d28e2174.html", "dir_e502b6effcbdbe49145dd874d28e2174" ],
+    [ "CanvasResult", "dir_bcd15aae2a4f6a809eb49f2d6b7f8a35.html", "dir_bcd15aae2a4f6a809eb49f2d6b7f8a35" ],
     [ "BackgroundVideoSync.cs", "BackgroundVideoSync_8cs.html", "BackgroundVideoSync_8cs" ],
     [ "BattleAnimationReaction.cs", "BattleAnimationReaction_8cs.html", "BattleAnimationReaction_8cs" ],
-    [ "BattleSpriteReaction.cs", "BattleSpriteReaction_8cs.html", "BattleSpriteReaction_8cs" ],
     [ "CameraTweenTrack.cs", "CameraTweenTrack_8cs.html", "CameraTweenTrack_8cs" ],
-    [ "ChartEndWatcher.cs", "ChartEndWatcher_8cs.html", "ChartEndWatcher_8cs" ],
     [ "Fixed16x9Camera.cs", "Fixed16x9Camera_8cs.html", "Fixed16x9Camera_8cs" ],
     [ "FmodMusicController.cs", "FmodMusicController_8cs.html", "FmodMusicController_8cs" ],
     [ "GameBootstrap.cs", "GameBootstrap_8cs.html", "GameBootstrap_8cs" ],
@@ -18,8 +18,5 @@ var dir_330f33a3088e977f0919d5b7ac74036e =
     [ "Judge.cs", "Judge_8cs.html", "Judge_8cs" ],
     [ "KeyboardInputManager.cs", "KeyboardInputManager_8cs.html", "KeyboardInputManager_8cs" ],
     [ "NoteSpawner.cs", "NoteSpawner_8cs.html", "NoteSpawner_8cs" ],
-    [ "PlayerSpriteController.cs", "PlayerSpriteController_8cs.html", "PlayerSpriteController_8cs" ],
-    [ "ResultCarouselController.cs", "ResultCarouselController_8cs.html", "ResultCarouselController_8cs" ],
-    [ "ResultsUI.cs", "ResultsUI_8cs.html", "ResultsUI_8cs" ],
-    [ "TextExitHoldIndicator.cs", "TextExitHoldIndicator_8cs.html", "TextExitHoldIndicator_8cs" ]
+    [ "PlayerSpriteController.cs", "PlayerSpriteController_8cs.html", "PlayerSpriteController_8cs" ]
 ];
