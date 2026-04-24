@@ -19,7 +19,7 @@ var searchData=
   ['input_16',['input',['../classNotes_1_1Lane_1_1LaneOccupancyProvider.html#a63fb242bf6eae6f790b15b5ae8897051',1,'Notes::Lane::LaneOccupancyProvider']]],
   ['inputfieldplayername_17',['InputFieldPlayerName',['../classSettingsCardPlayerSettings.html#a5f8ee386a7b2c90b9d42fd25614489a4',1,'SettingsCardPlayerSettings']]],
   ['inputholdgrace_18',['inputHoldGrace',['../classInputRouter.html#a52e747e4fc9f1d67ab9e9c10ee236f16',1,'InputRouter']]],
-  ['inputrouter_19',['inputRouter',['../classNoteSpawner.html#a24d530404d93a3319fa17b41574287b5',1,'NoteSpawner']]],
+  ['inputrouter_19',['inputrouter',['../classKeyboardInputManager.html#a2122447d8a25178d77ee7fe997662e35',1,'KeyboardInputManager.inputRouter'],['../classNoteSpawner.html#a24d530404d93a3319fa17b41574287b5',1,'NoteSpawner.inputRouter']]],
   ['inputtimeoffsetinput_20',['inputTimeOffsetInput',['../classSettingsCardOffset.html#ac8955337f8579a49dce157e186a27534',1,'SettingsCardOffset']]],
   ['inputtimeoffsetms_21',['inputtimeoffsetms',['../classNoteSettings.html#acda247394dee11c0132d431953ba46ed',1,'NoteSettings.inputTimeOffsetMs'],['../classNoteSettingsOverrideDTO.html#aed7fd3474dd9a109c5ba22781981c141',1,'NoteSettingsOverrideDTO.inputTimeOffsetMs']]],
   ['inputtimeoffsetslider_22',['inputTimeOffsetSlider',['../classSettingsCardOffset.html#a469db39ceb602a79ed5c52e9564bc147',1,'SettingsCardOffset']]],

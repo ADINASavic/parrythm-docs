@@ -3,7 +3,7 @@ var searchData=
   ['name_0',['name',['../classDifficultyInfo.html#acc35c996ed580038ba05e5536bdcf984',1,'DifficultyInfo']]],
   ['newbestimage_1',['newBestImage',['../classResultsUI.html#a23056141bba3d840b1a9516fd8a2f361',1,'ResultsUI']]],
   ['newbestsplashimage_2',['newBestSplashImage',['../classResultsUI.html#a38d107bd0d19c95ff880b3cb4050b913',1,'ResultsUI']]],
-  ['normal_3',['normal',['../classDifficultyColorPalette.html#a0d69e1483e7a75cd94566891dbbea22e',1,'DifficultyColorPalette.Normal'],['../classBattleSpriteReaction.html#a4820509f3cac82211825785a44640bbc',1,'BattleSpriteReaction.normal']]],
+  ['normal_3',['normal',['../classBattleSpriteReaction.html#a4820509f3cac82211825785a44640bbc',1,'BattleSpriteReaction.normal'],['../classDifficultyColorPalette.html#a0d69e1483e7a75cd94566891dbbea22e',1,'DifficultyColorPalette.Normal']]],
   ['normalbg_4',['normalBg',['../classMenuController.html#aff486cb875671b178b15ba215d706a87',1,'MenuController']]],
   ['normalcursor_5',['normalCursor',['../classCleanCursor.html#ad34e7d64e5eadd71f69e344bb1e74123',1,'CleanCursor']]],
   ['normalhotspot_6',['normalHotspot',['../classCleanCursor.html#a667a42b41443f06f0eb6cc1f7e4f3e7b',1,'CleanCursor']]],

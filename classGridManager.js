@@ -1,7 +1,7 @@
 var classGridManager =
 [
     [ "GetCellPosition", "classGridManager.html#a9351dbf062ddaf0ca2c4a699fdbd4015", null ],
-    [ "WorldToCell", "classGridManager.html#aef3faa321eb1a988f1136c29964c6391", null ],
+    [ "TryWorldToCell", "classGridManager.html#a9f0f937734f632e52c4f338b36417bf7", null ],
     [ "cellcize", "classGridManager.html#abe71c4da715afa0559996a46cfd8d30c", null ],
     [ "cols", "classGridManager.html#a3967386c953bd294c69088b96483b181", null ],
     [ "gridColor", "classGridManager.html#af5e60e6f4554ba198c9e4be158d5cf89", null ],

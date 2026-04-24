@@ -17,5 +17,6 @@ var searchData=
   ['isplayernow_14',['IsPlayerNow',['../classNotes_1_1Lane_1_1LaneOccupancyProvider.html#ac787b439c8167e4ef99a55ccc62a1515',1,'Notes::Lane::LaneOccupancyProvider']]],
   ['isplayerrawdown_15',['IsPlayerRawDown',['../classNotes_1_1Lane_1_1LaneOccupancyProvider.html#a9b5e6da70f4b04628888c5ed248428f7',1,'Notes::Lane::LaneOccupancyProvider']]],
   ['isplayerup_16',['isplayerup',['../classKeyboardInputManager.html#a1325ddc337f40959ebba0250dfaa51fa',1,'KeyboardInputManager.IsPlayerUp()'],['../classNotes_1_1Lane_1_1LaneOccupancyProvider.html#ad1b31fe30d7b2b9b3bc6ccaa547a50f7',1,'Notes.Lane.LaneOccupancyProvider.IsPlayerUp()']]],
-  ['israwdown_17',['IsRawDown',['../classKeyboardInputManager.html#a1e6f1f6b3a50c41472f1ab8767af4644',1,'KeyboardInputManager']]]
+  ['israwdown_17',['IsRawDown',['../classKeyboardInputManager.html#a1e6f1f6b3a50c41472f1ab8767af4644',1,'KeyboardInputManager']]],
+  ['iswithinrouterhitrange_18',['IsWithinRouterHitRange',['../classCircleNote.html#a64264207480052b8ef67e68c4ed81b22',1,'CircleNote']]]
 ];

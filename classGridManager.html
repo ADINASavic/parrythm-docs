@@ -121,8 +121,9 @@ Public 멤버 함수</h2></td></tr>
 <tr class="memitem:a9351dbf062ddaf0ca2c4a699fdbd4015" id="r_a9351dbf062ddaf0ca2c4a699fdbd4015"><td class="memItemLeft" align="right" valign="top">Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classGridManager.html#a9351dbf062ddaf0ca2c4a699fdbd4015">GetCellPosition</a> (int x, int y)</td></tr>
 <tr class="memdesc:a9351dbf062ddaf0ca2c4a699fdbd4015"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the center world position of a grid cell (x, y).  <br /></td></tr>
 <tr class="separator:a9351dbf062ddaf0ca2c4a699fdbd4015"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aef3faa321eb1a988f1136c29964c6391" id="r_aef3faa321eb1a988f1136c29964c6391"><td class="memItemLeft" align="right" valign="top">Vector2Int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classGridManager.html#aef3faa321eb1a988f1136c29964c6391">WorldToCell</a> (Vector3 worldPosition)</td></tr>
-<tr class="separator:aef3faa321eb1a988f1136c29964c6391"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9f0f937734f632e52c4f338b36417bf7" id="r_a9f0f937734f632e52c4f338b36417bf7"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classGridManager.html#a9f0f937734f632e52c4f338b36417bf7">TryWorldToCell</a> (Vector3 worldPosition, out Vector2Int cell)</td></tr>
+<tr class="memdesc:a9f0f937734f632e52c4f338b36417bf7"><td class="mdescLeft">&#160;</td><td class="mdescRight">월드 좌표를 셀 좌표로 변환해준다.  <br /></td></tr>
+<tr class="separator:a9f0f937734f632e52c4f338b36417bf7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public 속성</h2></td></tr>
@@ -196,8 +197,8 @@ Public 속성</h2></td></tr>
 
 </div>
 </div>
-<a id="aef3faa321eb1a988f1136c29964c6391" name="aef3faa321eb1a988f1136c29964c6391"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aef3faa321eb1a988f1136c29964c6391">&#9670;&#160;</a></span>WorldToCell()</h2>
+<a id="a9f0f937734f632e52c4f338b36417bf7" name="a9f0f937734f632e52c4f338b36417bf7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9f0f937734f632e52c4f338b36417bf7">&#9670;&#160;</a></span>TryWorldToCell()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -206,11 +207,21 @@ Public 속성</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Vector2Int GridManager.WorldToCell </td>
+          <td class="memname">bool GridManager.TryWorldToCell </td>
           <td>(</td>
           <td class="paramtype">Vector3&#160;</td>
-          <td class="paramname"><em>worldPosition</em></td><td>)</td>
+          <td class="paramname"><em>worldPosition</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">out Vector2Int&#160;</td>
+          <td class="paramname"><em>cell</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -219,6 +230,8 @@ Public 속성</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>월드 좌표를 셀 좌표로 변환해준다. </p>
 
 </div>
 </div>

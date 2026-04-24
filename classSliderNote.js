@@ -1,6 +1,7 @@
 var classSliderNote =
 [
     [ "ApplyGapGuide", "classSliderNote.html#aeb8e091fd2dd9cd269b44588b52f7bec", null ],
+    [ "CanStartFromRouter", "classSliderNote.html#a0eeb2f0224c03dc576ef648eff46d681", null ],
     [ "GetHeadLocalPositionAtStart", "classSliderNote.html#af63970c5c2f6a1dbe57d08d73e1ba13a", null ],
     [ "InputUpdate", "classSliderNote.html#a0c6edc363da0f3f6f7e756f9e6cf96f6", null ],
     [ "RebuildPathGeometry", "classSliderNote.html#ac8ba1caf52141955e8816a21a64e6762", null ],

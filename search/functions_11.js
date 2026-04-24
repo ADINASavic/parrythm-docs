@@ -16,5 +16,6 @@ var searchData=
   ['trygetlastdowntime_13',['trygetlastdowntime',['../classKeyboardInputManager.html#a319791fff2732c8d89d0d81a196050ea',1,'KeyboardInputManager.TryGetLastDownTime()'],['../classNotes_1_1Lane_1_1LaneOccupancyProvider.html#aec9e7acb94b0c0923b806fb9d81d5077',1,'Notes.Lane.LaneOccupancyProvider.TryGetLastDownTime()']]],
   ['trypop_14',['TryPop',['../classChartTimelineRuntime.html#a442810325bd46d68737e859ab90d94bb',1,'ChartTimelineRuntime']]],
   ['trystartfromrouter_15',['TryStartFromRouter',['../classSliderNote.html#a65d82b1828370cb7d6a488488e372ae8',1,'SliderNote']]],
-  ['tweento_16',['TweenTo',['../classCameraTweenTrack.html#ad8499530abd2e9dff4b4b089a7196b0f',1,'CameraTweenTrack']]]
+  ['tryworldtocell_16',['TryWorldToCell',['../classGridManager.html#a9f0f937734f632e52c4f338b36417bf7',1,'GridManager']]],
+  ['tweento_17',['TweenTo',['../classCameraTweenTrack.html#ad8499530abd2e9dff4b4b089a7196b0f',1,'CameraTweenTrack']]]
 ];

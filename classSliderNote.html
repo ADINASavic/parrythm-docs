@@ -152,6 +152,9 @@ Public 멤버 함수</h2></td></tr>
 <tr class="memitem:ac8ba1caf52141955e8816a21a64e6762" id="r_ac8ba1caf52141955e8816a21a64e6762"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#ac8ba1caf52141955e8816a21a64e6762">RebuildPathGeometry</a> ()</td></tr>
 <tr class="memdesc:ac8ba1caf52141955e8816a21a64e6762"><td class="mdescLeft">&#160;</td><td class="mdescRight">Rebuilds the playable path, optionally smoothing the authored points first when curve mode is enabled.  <br /></td></tr>
 <tr class="separator:ac8ba1caf52141955e8816a21a64e6762"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0eeb2f0224c03dc576ef648eff46d681" id="r_a0eeb2f0224c03dc576ef648eff46d681"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#a0eeb2f0224c03dc576ef648eff46d681">CanStartFromRouter</a> (Vector3 world, float now)</td></tr>
+<tr class="memdesc:a0eeb2f0224c03dc576ef648eff46d681"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns whether the current routed input can start this slider using the same gate as router start.  <br /></td></tr>
+<tr class="separator:a0eeb2f0224c03dc576ef648eff46d681"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a65d82b1828370cb7d6a488488e372ae8" id="r_a65d82b1828370cb7d6a488488e372ae8"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#a65d82b1828370cb7d6a488488e372ae8">TryStartFromRouter</a> (Vector3 world, float now)</td></tr>
 <tr class="memdesc:a65d82b1828370cb7d6a488488e372ae8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Attempts to start the slider from router-selected input near the head within the start judge window.  <br /></td></tr>
 <tr class="separator:a65d82b1828370cb7d6a488488e372ae8"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -318,6 +321,54 @@ Public 속성</h2></td></tr>
 <area shape="poly" title=" " alt="" coords="471,21,436,21,436,15,471,15"/>
 <area shape="rect" href="classSliderNoteHandler.html#a11968495f5e72ef382681ef50c0afc64" title=" " alt="" coords="5,5,196,31"/>
 <area shape="poly" title=" " alt="" coords="230,21,196,21,196,15,230,15"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a0eeb2f0224c03dc576ef648eff46d681" name="a0eeb2f0224c03dc576ef648eff46d681"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0eeb2f0224c03dc576ef648eff46d681">&#9670;&#160;</a></span>CanStartFromRouter()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool SliderNote.CanStartFromRouter </td>
+          <td>(</td>
+          <td class="paramtype">Vector3&#160;</td>
+          <td class="paramname"><em>world</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>now</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Returns whether the current routed input can start this slider using the same gate as router start. </p>
+<div class="dynheader">
+이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classSliderNote_a0eeb2f0224c03dc576ef648eff46d681_icgraph.png" border="0" usemap="#aclassSliderNote_a0eeb2f0224c03dc576ef648eff46d681_icgraph" alt=""/></div>
+<map name="aclassSliderNote_a0eeb2f0224c03dc576ef648eff46d681_icgraph" id="aclassSliderNote_a0eeb2f0224c03dc576ef648eff46d681_icgraph">
+<area shape="rect" title="Returns whether the current routed input can start this slider using the same gate as router start." alt="" coords="273,5,500,31"/>
+<area shape="rect" href="classSliderNote.html#a65d82b1828370cb7d6a488488e372ae8" title="Attempts to start the slider from router&#45;selected input near the head within the start judge window." alt="" coords="5,5,225,31"/>
+<area shape="poly" title=" " alt="" coords="259,21,226,21,226,15,259,15"/>
 </map>
 </div>
 
@@ -547,21 +598,23 @@ Public 속성</h2></td></tr>
 <div class="dyncontent">
 <div class="center"><img src="classSliderNote_a65d82b1828370cb7d6a488488e372ae8_cgraph.png" border="0" usemap="#aclassSliderNote_a65d82b1828370cb7d6a488488e372ae8_cgraph" alt=""/></div>
 <map name="aclassSliderNote_a65d82b1828370cb7d6a488488e372ae8_cgraph" id="aclassSliderNote_a65d82b1828370cb7d6a488488e372ae8_cgraph">
-<area shape="rect" title="Attempts to start the slider from router&#45;selected input near the head within the start judge window." alt="" coords="5,84,225,109"/>
-<area shape="rect" href="classJudge.html#a3ac356c9438fcb089cdab7462a2c5554" title=" " alt="" coords="313,5,453,31"/>
-<area shape="poly" title=" " alt="" coords="149,81,273,39,305,31,306,36,274,45,151,86"/>
-<area shape="rect" href="classSliderNoteVisual.html#ad71f41eff1fbe530e0bc2bed0c7ec80b" title="Shows or hides the follow ring that tracks the active slider head." alt="" coords="273,55,493,80"/>
-<area shape="poly" title=" " alt="" coords="225,82,259,78,260,84,226,87"/>
-<area shape="rect" href="classSliderNoteVisual.html#adc7e48d20b0ff53fe3d5da36a91276e1" title="Switches the approach visual into the follow lead&#45;fill presentation used after the head is hit." alt="" coords="278,105,489,145"/>
-<area shape="poly" title=" " alt="" coords="226,105,265,110,264,115,225,111"/>
-<area shape="rect" href="classSliderNoteVisual.html#af225e15b4f0c9c8af6d4d37073dd158b" title="Moves the slider head, follow ring, and approach circle to the same local&#45;space position." alt="" coords="289,169,478,195"/>
-<area shape="poly" title=" " alt="" coords="147,107,206,130,274,154,308,163,307,169,273,159,204,135,145,112"/>
-<area shape="rect" href="classJudge.html#a420d7d313b02df052975a6bb8a4fbcab" title=" " alt="" coords="568,5,713,31"/>
-<area shape="poly" title=" " alt="" coords="454,15,554,15,554,21,454,21"/>
-<area shape="rect" href="interfaceIGaugeCommand.html#a3e15d283316f614ee46582c8fa2d5c1a" title=" " alt="" coords="788,5,1035,31"/>
-<area shape="poly" title=" " alt="" coords="713,15,774,15,774,21,713,21"/>
-<area shape="rect" href="classApproachCircleVisual.html#a30c9b823a68592e706148ce6fe2d1872" title=" " alt="" coords="541,105,740,145"/>
-<area shape="poly" title=" " alt="" coords="489,122,528,122,528,127,489,127"/>
+<area shape="rect" title="Attempts to start the slider from router&#45;selected input near the head within the start judge window." alt="" coords="5,104,225,129"/>
+<area shape="rect" href="classJudge.html#a3ac356c9438fcb089cdab7462a2c5554" title=" " alt="" coords="317,5,457,31"/>
+<area shape="poly" title=" " alt="" coords="138,101,198,71,272,39,302,31,304,36,274,45,200,75,141,106"/>
+<area shape="rect" href="classSliderNote.html#a0eeb2f0224c03dc576ef648eff46d681" title="Returns whether the current routed input can start this slider using the same gate as router start." alt="" coords="273,55,500,80"/>
+<area shape="poly" title=" " alt="" coords="185,101,302,80,303,85,186,107"/>
+<area shape="rect" href="classSliderNoteVisual.html#ad71f41eff1fbe530e0bc2bed0c7ec80b" title="Shows or hides the follow ring that tracks the active slider head." alt="" coords="277,104,497,129"/>
+<area shape="poly" title=" " alt="" coords="226,114,263,114,263,119,226,119"/>
+<area shape="rect" href="classSliderNoteVisual.html#adc7e48d20b0ff53fe3d5da36a91276e1" title="Switches the approach visual into the follow lead&#45;fill presentation used after the head is hit." alt="" coords="281,154,492,194"/>
+<area shape="poly" title=" " alt="" coords="177,127,279,149,278,154,176,132"/>
+<area shape="rect" href="classSliderNoteVisual.html#af225e15b4f0c9c8af6d4d37073dd158b" title="Moves the slider head, follow ring, and approach circle to the same local&#45;space position." alt="" coords="292,219,481,244"/>
+<area shape="poly" title=" " alt="" coords="136,127,196,165,274,204,302,213,301,218,272,208,194,170,134,132"/>
+<area shape="rect" href="classJudge.html#a420d7d313b02df052975a6bb8a4fbcab" title=" " alt="" coords="575,5,720,31"/>
+<area shape="poly" title=" " alt="" coords="457,15,561,15,561,21,457,21"/>
+<area shape="rect" href="interfaceIGaugeCommand.html#a3e15d283316f614ee46582c8fa2d5c1a" title=" " alt="" coords="795,5,1041,31"/>
+<area shape="poly" title=" " alt="" coords="720,15,780,15,780,21,720,21"/>
+<area shape="rect" href="classApproachCircleVisual.html#a30c9b823a68592e706148ce6fe2d1872" title=" " alt="" coords="548,154,747,194"/>
+<area shape="poly" title=" " alt="" coords="492,171,534,171,534,177,492,177"/>
 </map>
 </div>
 

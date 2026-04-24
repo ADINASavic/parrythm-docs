@@ -4,6 +4,7 @@ var classCircleNote =
     [ "CanJudge", "classCircleNote.html#ae6f0000eb77950b5f062f80743159c81", null ],
     [ "ForceConsume", "classCircleNote.html#a4fde088fa46c3e4794db152a110ac609", null ],
     [ "IsExpired", "classCircleNote.html#a37a5dc83333b7b43185c30dfdd5b6c2b", null ],
+    [ "IsWithinRouterHitRange", "classCircleNote.html#a64264207480052b8ef67e68c4ed81b22", null ],
     [ "TryConsumeByRouter", "classCircleNote.html#a9fb6f046faa002caa24903cf1d0bfb68", null ],
     [ "TryConsumeByRouter", "classCircleNote.html#ab85d3df48d4361c84e8d8c99005dfdf2", null ],
     [ "TryConsumeByRouter", "classCircleNote.html#ab00ba6a2b08806b61badfbadad0160b0", null ],
