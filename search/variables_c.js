@@ -16,7 +16,7 @@ var searchData=
   ['minpixelwidth_13',['minPixelWidth',['../classUITrailGraphic.html#a48f488185be6a629c684370f0d193548',1,'UITrailGraphic']]],
   ['minsegmentpixels_14',['minSegmentPixels',['../classUITrailGraphic.html#afc8c8352473fe710ecece28d3cf1fc0a',1,'UITrailGraphic']]],
   ['miss_15',['miss',['../classBattleSpriteReaction.html#a0e1961800cc7f65cd5f44bbb51281630',1,'BattleSpriteReaction']]],
-  ['misscolor_16',['missColor',['../classJudge.html#abfa9916846e295536f6693bb907ce86c',1,'Judge']]],
+  ['misscolor_16',['misscolor',['../classJudge.html#abfa9916846e295536f6693bb907ce86c',1,'Judge.missColor'],['../classCircleNoteVisual.html#a9fa3024db85641d9b9f3093fd5bb1279',1,'CircleNoteVisual.missColor']]],
   ['misscounttext_17',['missCountText',['../classJudge.html#a657c0764c52dcdac0694cbbe81c8ec13',1,'Judge']]],
   ['missfadeduration_18',['missfadeduration',['../classCircleNoteVisual.html#a4f2821055b7e424500799bd8ba567e72',1,'CircleNoteVisual.missFadeDuration'],['../classNotes_1_1Square_1_1SquareVisualBase.html#a002997836fb24da0abe8a23e7ab0aee4',1,'Notes.Square.SquareVisualBase.missFadeDuration']]],
   ['missgaugeloss_19',['missGaugeLoss',['../classGaugeManager.html#adff59e0dd7e548491aa3755f40c3ca69',1,'GaugeManager']]],

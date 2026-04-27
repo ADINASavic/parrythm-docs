@@ -1,5 +1,10 @@
 var NAVTREEINDEX2 =
 {
+"classGaugeManager.html#ac403b1e2073ae10207f2bf93dfdc77a2":[1,0,36,13],
+"classGaugeManager.html#acb5f9647647f5b29cbb677c0834afb58":[1,0,36,6],
+"classGaugeManager.html#aceaeb3a147b7e0cde3016f3d595f9ad1":[1,0,36,4],
+"classGaugeManager.html#ad1bc05b87fe6a5b5351e6357636597ff":[1,0,36,10],
+"classGaugeManager.html#adef0659cbb82766eed1618ebd462cf92":[1,0,36,17],
 "classGaugeManager.html#adff59e0dd7e548491aa3755f40c3ca69":[1,0,36,11],
 "classGaugeManager.html#ae757885f9edab7de6cf0b833a58c26af":[1,0,36,18],
 "classGaugeManager.html#ae8507d28df4cda5cf91bef33eb1c296a":[1,0,36,5],
@@ -244,10 +249,5 @@ var NAVTREEINDEX2 =
 "classMeshUtil.html#ad164afc31383df6e0f9d1e2298357e5d":[1,0,59,6],
 "classMeshUtil.html#ad4f0a5fa647a0682630b6d705af15a47":[1,0,59,2],
 "classMeshUtil.html#ae42eec706778006763fa5a5411d09602":[1,0,59,8],
-"classMeshUtil.html#af773579f934e0c9e6247e55a623d2089":[1,0,59,0],
-"classNoteBase.html":[1,0,60],
-"classNoteBase.html#a29449bad359a0f237b94efbe10a6e537":[1,0,60,9],
-"classNoteBase.html#a2fe009f8dd4753dd91b947f8636d7c5d":[1,0,60,8],
-"classNoteBase.html#a7db0a6961f30394439b201c2fc4bba6f":[1,0,60,4],
-"classNoteBase.html#a93fc2dce778edc1645c206bf9f6a9279":[1,0,60,3]
+"classMeshUtil.html#af773579f934e0c9e6247e55a623d2089":[1,0,59,0]
 };

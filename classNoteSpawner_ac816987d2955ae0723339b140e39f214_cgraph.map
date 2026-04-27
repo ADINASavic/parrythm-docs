@@ -1,7 +1,9 @@
 <map id="NoteSpawner.SpawnCircle" name="NoteSpawner.SpawnCircle">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,197,70"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,70,197,95"/>
 <area shape="rect" id="Node000002" href="$classCircleNote.html#aafe3575b4b92e7d7fc59edf676661fc6" title=" " alt="" coords="245,45,440,70"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,55,232,55,232,60,197,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,70,232,66,232,72,198,75"/>
+<area shape="rect" id="Node000005" href="$classCircleNote.html#a67c48881bf1d9a1a89873984334f3a1b" title=" " alt="" coords="251,94,434,119"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="198,90,238,94,237,99,197,95"/>
 <area shape="rect" id="Node000003" href="$classCircleNoteVisual.html#a005e9f8310aafdeb9152ab5150a08644" title=" " alt="" coords="488,5,697,45"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="440,42,474,38,475,43,441,48"/>
 <area shape="rect" id="Node000004" href="$classApproachCircleVisual.html#a8de8149bbc86a359a40b34125d6adcb5" title=" " alt="" coords="500,69,685,109"/>

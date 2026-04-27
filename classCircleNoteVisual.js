@@ -9,6 +9,7 @@ var classCircleNoteVisual =
     [ "goodFlashColor", "classCircleNoteVisual.html#a32a9173be66e82480e8eeef406d2ab3e", null ],
     [ "headOutlineThicknessMultiplier", "classCircleNoteVisual.html#a252552b14abaa93b07ece0717448feca", null ],
     [ "minGuideAlphaMultiplier", "classCircleNoteVisual.html#ab11ece9e18b115a2fedc3f790bc3eada", null ],
+    [ "missColor", "classCircleNoteVisual.html#a9fa3024db85641d9b9f3093fd5bb1279", null ],
     [ "missFadeDuration", "classCircleNoteVisual.html#a4f2821055b7e424500799bd8ba567e72", null ],
     [ "outlineSortingOffset", "classCircleNoteVisual.html#a5f1a4e17390611f15ec154ce57db051c", null ],
     [ "perfectFlashColor", "classCircleNoteVisual.html#a576a847bffb265806eecd1627e420127", null ],

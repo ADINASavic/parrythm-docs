@@ -13,5 +13,6 @@ var searchData=
   ['isplaying_10',['IsPlaying',['../classFmodMusicController.html#a0b4f69a5a061f2a481e0859415ec4124',1,'FmodMusicController']]],
   ['isready_11',['IsReady',['../classFmodMusicController.html#a4ac3ee4a6a84e9c379cb796fda2934cd',1,'FmodMusicController']]],
   ['isresolved_12',['IsResolved',['../classNotes_1_1Square_1_1SquareNoteJudge.html#aeedcfbde16f6afb9807538d77d2dacc3',1,'Notes::Square::SquareNoteJudge']]],
-  ['isrightbuttonpressed_13',['IsRightButtonPressed',['../classParrythmVirtualPointer.html#a9d1978c924aad7be940be540b37d9aa9',1,'ParrythmVirtualPointer']]]
+  ['isrightbuttonpressed_13',['IsRightButtonPressed',['../classParrythmVirtualPointer.html#a9d1978c924aad7be940be540b37d9aa9',1,'ParrythmVirtualPointer']]],
+  ['istrail_14',['IsTrail',['../classCircleNote.html#aebf93f5101c71e6b5817c652fa34ab02',1,'CircleNote']]]
 ];

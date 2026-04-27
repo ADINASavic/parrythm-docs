@@ -1,5 +1,17 @@
 var NAVTREEINDEX5 =
 {
+"classPlayerNameSettings.html#a182bc461df04cf079b41113de76283a6":[1,0,70,2],
+"classPlayerNameSettings.html#a2bef7d99e9e3974412b666489f2cab6f":[1,0,70,3],
+"classPlayerNameSettings.html#a92788555e53866f9db87635413167d50":[1,0,70,1],
+"classPlayerNameSettings.html#ae56713014f5429a8d004d063e578fd62":[1,0,70,0],
+"classPlayerSpriteController.html":[1,0,71],
+"classPlayerSpriteController.html#a189483b1eb3d99d1f68131764f174f75":[1,0,71,1],
+"classPlayerSpriteController.html#a1a6bf558c3ee813aae4d57ce625a7481":[1,0,71,3],
+"classPlayerSpriteController.html#a2039bffbde2740caf9c7c3c2b6b1ee3d":[1,0,71,0],
+"classPlayerSpriteController.html#a7f79f1acb53d476863d659fd52e905e1":[1,0,71,4],
+"classPlayerSpriteController.html#ab50a4b214299e9b14a4f1ee3f6d700a1":[1,0,71,6],
+"classPlayerSpriteController.html#abdfc00b9e4d1a425d49a1124df41dfb2":[1,0,71,5],
+"classPlayerSpriteController.html#af832f3661093eac3cee245ccfd1ba337":[1,0,71,2],
 "classProfileSaveData.html":[1,0,72],
 "classProfileSaveData.html#a6e7c48103f7c97c627e71001c9b7d030":[1,0,72,0],
 "classProfileSaveData.html#ab061596ea6fcebace7ac8b8adccfdc8e":[1,0,72,1],
@@ -237,17 +249,5 @@ var NAVTREEINDEX5 =
 "classSongScanner.html#a2ed19649ab88618e11bec837b76a97f0":[1,0,93,1],
 "classSongScanner.html#abc765422ac2b4142ede50a0641cfeb2b":[1,0,93,0],
 "classSongSelectNoteSettingsPreview.html":[1,0,94],
-"classSongSelectNoteSettingsPreview.html#a8c21ad47a3234197e778d47325df94c4":[1,0,94,0],
-"classStyleEventHandler.html":[1,0,95],
-"classStyleEventHandler.html#ab4a6f247d407317a7c5640c6d7873749":[1,0,95,2],
-"classStyleEventHandler.html#adcba12e5bf7a8fa8d0394efed8fbdc97":[1,0,95,1],
-"classStyleEventHandler.html#ae82103736d1630655f83222a94cc6c47":[1,0,95,0],
-"classTextExitHoldIndicator.html":[1,0,96],
-"classTextExitHoldIndicator.html#a1e25f74aad55804a03b7e048b1047d2d":[1,0,96,1],
-"classTextExitHoldIndicator.html#a869f7083ee055c1784f75adfac969da8":[1,0,96,0],
-"classTextExitHoldIndicator.html#aa71611b2fd86986afc4f33ef6504de47":[1,0,96,2],
-"classUITrailGraphic.html":[1,0,97],
-"classUITrailGraphic.html#a0cffbce9d814b66a63b25296d7bec530":[1,0,97,15],
-"classUITrailGraphic.html#a33ec290945990a8be7eec06bffd5650b":[1,0,97,7],
-"classUITrailGraphic.html#a3cdfe650c607aa756502b18fdfa51e00":[1,0,97,2]
+"classSongSelectNoteSettingsPreview.html#a8c21ad47a3234197e778d47325df94c4":[1,0,94,0]
 };
