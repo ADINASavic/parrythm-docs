@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['approachcirclevisual_0',['ApproachCircleVisual',['../classApproachCircleVisual.html',1,'']]]
+  ['appdatapaths_0',['AppDataPaths',['../classAppDataPaths.html',1,'']]],
+  ['approachcirclevisual_1',['ApproachCircleVisual',['../classApproachCircleVisual.html',1,'']]]
 ];

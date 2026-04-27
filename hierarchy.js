@@ -1,5 +1,6 @@
 var hierarchy =
 [
+    [ "AppDataPaths", "classAppDataPaths.html", null ],
     [ "ChartEventDispatcher", "classChartEventDispatcher.html", null ],
     [ "ChartTimelineRuntime", "classChartTimelineRuntime.html", null ],
     [ "CircleNoteInit", "structCircleNoteInit.html", null ],
@@ -7,6 +8,10 @@ var hierarchy =
     [ "DifficultyColorPalette", "classDifficultyColorPalette.html", null ],
     [ "DifficultyInfo", "classDifficultyInfo.html", null ],
     [ "EaseUtil", "classEaseUtil.html", null ],
+    [ "GameplaySettingsSaveData", "classGameplaySettingsSaveData.html", null ],
+    [ "GameSettingsSaveManifest", "classGameSettingsSaveManifest.html", null ],
+    [ "GameSettingsSavePaths", "classGameSettingsSavePaths.html", null ],
+    [ "GameSettingsSaveService", "classGameSettingsSaveService.html", null ],
     [ "Graphic", null, [
       [ "UITrailGraphic", "classUITrailGraphic.html", null ]
     ] ],
@@ -46,6 +51,7 @@ var hierarchy =
     [ "LeaderboardEntry", "classLeaderboardEntry.html", null ],
     [ "LevelChartData", "classLevelChartData.html", null ],
     [ "LevelChartJsonTool", "classLevelChartJsonTool.html", null ],
+    [ "LocalSettingsSaveStorage", "classLocalSettingsSaveStorage.html", null ],
     [ "MenuController.MenuItem", "classMenuController_1_1MenuItem.html", null ],
     [ "MeshUtil", "classMeshUtil.html", null ],
     [ "MonoBehaviour", null, [
@@ -118,7 +124,9 @@ var hierarchy =
     [ "NoteSettingsOverrideDTO", "classNoteSettingsOverrideDTO.html", null ],
     [ "ParrythmInputActions.OutgameMenuActions", "classParrythmInputActions_1_1OutgameMenuActions.html", null ],
     [ "PlayerNameSettings", "classPlayerNameSettings.html", null ],
+    [ "ProfileSaveData", "classProfileSaveData.html", null ],
     [ "ParrythmInputActions.ResultsMenuActions", "classParrythmInputActions_1_1ResultsMenuActions.html", null ],
+    [ "SaveIdentity", "classSaveIdentity.html", null ],
     [ "ScoreAPI", "classScoreAPI.html", null ],
     [ "ScoreData", "classScoreData.html", null ],
     [ "ScoreJsonHelper", "classScoreJsonHelper.html", null ],

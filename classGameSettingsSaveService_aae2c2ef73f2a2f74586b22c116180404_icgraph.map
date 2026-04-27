@@ -1,0 +1,5 @@
+<map id="GameSettingsSaveService.SaveGameplaySettings" name="GameSettingsSaveService.SaveGameplaySettings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="293,5,492,45"/>
+<area shape="rect" id="Node000002" href="$classNoteSettingsIO.html#add9c186d088effd8af69e290ee1c873f" title="Saves only differences between the edited settings and baseline as partial JSON." alt="" coords="5,13,245,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="280,28,246,28,246,23,280,23"/>
+</map>

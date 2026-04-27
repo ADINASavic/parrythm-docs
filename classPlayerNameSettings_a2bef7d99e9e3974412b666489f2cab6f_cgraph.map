@@ -1,0 +1,12 @@
+<map id="PlayerNameSettings.SetPlayerName" name="PlayerNameSettings.SetPlayerName">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,265,70"/>
+<area shape="rect" id="Node000002" href="$classGameSettingsSaveService.html#a9d81a8a8c24d0ffc9fc032a3698fe1b2" title=" " alt="" coords="313,5,512,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,42,299,36,300,41,246,47"/>
+<area shape="rect" id="Node000005" href="$classGameSettingsSaveService.html#a73266c7e92f3734187cc6daee965ec94" title=" " alt="" coords="313,69,512,109"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="246,67,300,74,299,79,245,73"/>
+<area shape="rect" id="Node000003" href="$classGameSettingsSaveService.html#aaaeb03d6f22467ad08e59d3497021d0c" title=" " alt="" coords="560,37,759,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="513,36,547,40,546,45,512,41"/>
+<area shape="rect" id="Node000004" href="$classLocalSettingsSaveStorage.html#a83f349c86c884c85ae233d2ee1600627" title=" " alt="" coords="807,37,1001,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="759,55,793,55,793,60,759,60"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="512,74,546,69,547,75,513,79"/>
+</map>

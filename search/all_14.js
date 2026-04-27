@@ -15,13 +15,14 @@ var searchData=
   ['updatecardfocusstate_12',['updatecardfocusstate',['../classSampleCarouselController.html#a1a480059c9061d98058e1539c5d14a8e',1,'SampleCarouselController.UpdateCardFocusState()'],['../classCarouselController.html#a0f3924b590ade39d51dd42307a57846f',1,'CarouselController.UpdateCardFocusState()'],['../classCanvasSongSelectMenuController.html#a5ba6bc5d6f58d282942b885f58141059',1,'CanvasSongSelectMenuController.UpdateCardFocusState()'],['../classResultCarouselController.html#a2eefae7fbac85d0056bd8e5c0d5134db',1,'ResultCarouselController.UpdateCardFocusState()'],['../classSettingsCarouselController.html#a3891485d509e3918a72ae8854abfef3a',1,'SettingsCarouselController.UpdateCardFocusState()']]],
   ['updateconfirminput_13',['UpdateConfirmInput',['../classCarouselController.html#a9708d51e0bf3498930bb073a225814f8',1,'CarouselController']]],
   ['updatecustominput_14',['updatecustominput',['../classSettingsCarouselController.html#abf33c85ed262918cc91b68c96bea65d2',1,'SettingsCarouselController.UpdateCustomInput()'],['../classCanvasSongSelectMenuController.html#af1a3fb7386c5529b4b6e6aded958e574',1,'CanvasSongSelectMenuController.UpdateCustomInput()'],['../classCarouselController.html#a0d83abdb836aa2596baf86d577ce4900',1,'CarouselController.UpdateCustomInput()']]],
-  ['updatelayout_15',['UpdateLayout',['../classCarouselController.html#a2e200e2b9323c7ab57ce12f1aeca9efd',1,'CarouselController']]],
-  ['updatenavigationinput_16',['UpdateNavigationInput',['../classCarouselController.html#a7c2b4d42609b715d1e090147c7bd7417',1,'CarouselController']]],
-  ['usebodygradient_17',['useBodyGradient',['../classSliderNoteVisual.html#add6dbeae9cb0de4fbdd0ed4296668e0c',1,'SliderNoteVisual']]],
-  ['usecolorprogress_18',['useColorProgress',['../classNotes_1_1Square_1_1SquareVisualLong.html#a7f3707034b07cc228b26c7ea6cc3cbea',1,'Notes::Square::SquareVisualLong']]],
-  ['usecombotextgauge_19',['useComboTextGauge',['../classGaugeManager.html#ab0fd44eac13185eb04e46f907ae8c4ca',1,'GaugeManager']]],
-  ['usesampledbulletchecks_20',['useSampledBulletChecks',['../classSliderNote.html#a93e3496ae2488fcdcaab6021118df9e9',1,'SliderNote']]],
-  ['usesimultaneousaccent_21',['useSimultaneousAccent',['../classLevelChartData_1_1NoteEvent.html#a9efe16a25ede1a26dd811b3672ca83c9',1,'LevelChartData::NoteEvent']]],
-  ['usesimultaneousleadfill_22',['usesimultaneousleadfill',['../classCircleNote.html#a30fcb39a14588ade284eb6d833cb9a31',1,'CircleNote.useSimultaneousLeadFill'],['../classSliderNote.html#a9365d9010eda7b12c5354d69c61a42e6',1,'SliderNote.useSimultaneousLeadFill'],['../classSliderNoteVisual.html#a649f8acbbecb246f32e4313c248a5432',1,'SliderNoteVisual.useSimultaneousLeadFill']]],
-  ['useuiscalingfallback_23',['useUIScalingFallback',['../classCameraTweenTrack.html#ab0554d17a3628b7180e82e530aa528cd',1,'CameraTweenTrack']]]
+  ['updatedatutc_15',['updatedAtUtc',['../classProfileSaveData.html#af646d5554b54892d172f809272d6e864',1,'ProfileSaveData']]],
+  ['updatelayout_16',['UpdateLayout',['../classCarouselController.html#a2e200e2b9323c7ab57ce12f1aeca9efd',1,'CarouselController']]],
+  ['updatenavigationinput_17',['UpdateNavigationInput',['../classCarouselController.html#a7c2b4d42609b715d1e090147c7bd7417',1,'CarouselController']]],
+  ['usebodygradient_18',['useBodyGradient',['../classSliderNoteVisual.html#add6dbeae9cb0de4fbdd0ed4296668e0c',1,'SliderNoteVisual']]],
+  ['usecolorprogress_19',['useColorProgress',['../classNotes_1_1Square_1_1SquareVisualLong.html#a7f3707034b07cc228b26c7ea6cc3cbea',1,'Notes::Square::SquareVisualLong']]],
+  ['usecombotextgauge_20',['useComboTextGauge',['../classGaugeManager.html#ab0fd44eac13185eb04e46f907ae8c4ca',1,'GaugeManager']]],
+  ['usesampledbulletchecks_21',['useSampledBulletChecks',['../classSliderNote.html#a93e3496ae2488fcdcaab6021118df9e9',1,'SliderNote']]],
+  ['usesimultaneousaccent_22',['useSimultaneousAccent',['../classLevelChartData_1_1NoteEvent.html#a9efe16a25ede1a26dd811b3672ca83c9',1,'LevelChartData::NoteEvent']]],
+  ['usesimultaneousleadfill_23',['usesimultaneousleadfill',['../classCircleNote.html#a30fcb39a14588ade284eb6d833cb9a31',1,'CircleNote.useSimultaneousLeadFill'],['../classSliderNote.html#a9365d9010eda7b12c5354d69c61a42e6',1,'SliderNote.useSimultaneousLeadFill'],['../classSliderNoteVisual.html#a649f8acbbecb246f32e4313c248a5432',1,'SliderNoteVisual.useSimultaneousLeadFill']]],
+  ['useuiscalingfallback_24',['useUIScalingFallback',['../classCameraTweenTrack.html#ab0554d17a3628b7180e82e530aa528cd',1,'CameraTweenTrack']]]
 ];

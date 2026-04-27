@@ -6,5 +6,6 @@ var searchData=
   ['leaderboardentry_3',['LeaderboardEntry',['../classLeaderboardEntry.html',1,'']]],
   ['levelchartdata_4',['LevelChartData',['../classLevelChartData.html',1,'']]],
   ['levelchartjsontool_5',['LevelChartJsonTool',['../classLevelChartJsonTool.html',1,'']]],
-  ['longnotehandler_6',['LongNoteHandler',['../classLongNoteHandler.html',1,'']]]
+  ['localsettingssavestorage_6',['LocalSettingsSaveStorage',['../classLocalSettingsSaveStorage.html',1,'']]],
+  ['longnotehandler_7',['LongNoteHandler',['../classLongNoteHandler.html',1,'']]]
 ];

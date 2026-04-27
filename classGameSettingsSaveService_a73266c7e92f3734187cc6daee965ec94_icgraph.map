@@ -1,0 +1,15 @@
+<map id="GameSettingsSaveService.SaveProfile" name="GameSettingsSaveService.SaveProfile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="824,91,1023,131"/>
+<area shape="rect" id="Node000002" href="$classPlayerNameSettings.html#a92788555e53866f9db87635413167d50" title=" " alt="" coords="513,41,776,66"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="818,90,775,81,712,69,713,63,777,76,820,85"/>
+<area shape="rect" id="Node000006" href="$classPlayerNameSettings.html#a182bc461df04cf079b41113de76283a6" title=" " alt="" coords="547,91,743,131"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="810,113,743,113,743,108,810,108"/>
+<area shape="rect" id="Node000007" href="$classPlayerNameSettings.html#a2bef7d99e9e3974412b666489f2cab6f" title=" " alt="" coords="515,155,775,181"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="820,136,777,145,713,158,712,153,775,140,818,131"/>
+<area shape="rect" id="Node000003" href="$classSongEntry.html#aebd48a4bc724908fae161bd84aafb1ed" title=" " alt="" coords="259,5,465,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="503,42,465,38,466,33,503,37"/>
+<area shape="rect" id="Node000004" href="$classResultsUI.html#a0600888a4ba89f6b0029a630af47cfdd" title=" " alt="" coords="281,70,443,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="509,70,444,77,443,72,508,65"/>
+<area shape="rect" id="Node000005" href="$classChartEndWatcher.html#a86c9c6b91e78f3e73494e3120dfa9c0b" title=" " alt="" coords="5,70,211,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="267,85,211,85,211,80,267,80"/>
+</map>

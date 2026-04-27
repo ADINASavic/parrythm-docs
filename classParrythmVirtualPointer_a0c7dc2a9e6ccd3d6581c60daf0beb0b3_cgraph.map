@@ -4,4 +4,10 @@
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,23,257,23,257,28,223,28"/>
 <area shape="rect" id="Node000003" href="$classNoteSettingsIO.html#ab61b9ef5a846cd96c8955a99e67fd64b" title="Returns runtime settings by cloning baseline and applying user partial overrides. Call this from game..." alt="" coords="541,13,772,38"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="494,23,527,23,527,28,494,28"/>
+<area shape="rect" id="Node000004" href="$classGameSettingsSaveService.html#a02cf7e5587b7c8e1b5b7043a192b0c5b" title=" " alt="" coords="820,5,1019,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="772,23,806,23,806,28,772,28"/>
+<area shape="rect" id="Node000005" href="$classGameSettingsSaveService.html#aaaeb03d6f22467ad08e59d3497021d0c" title=" " alt="" coords="1067,5,1265,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1019,23,1053,23,1053,28,1019,28"/>
+<area shape="rect" id="Node000006" href="$classLocalSettingsSaveStorage.html#a83f349c86c884c85ae233d2ee1600627" title=" " alt="" coords="1313,5,1508,45"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1265,23,1300,23,1300,28,1265,28"/>
 </map>

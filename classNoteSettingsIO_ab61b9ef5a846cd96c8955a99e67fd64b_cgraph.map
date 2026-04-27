@@ -1,0 +1,9 @@
+<map id="NoteSettingsIO.GetNoteSettings" name="NoteSettingsIO.GetNoteSettings">
+<area shape="rect" id="Node000001" title="Returns runtime settings by cloning baseline and applying user partial overrides. Call this from game..." alt="" coords="5,13,236,38"/>
+<area shape="rect" id="Node000002" href="$classGameSettingsSaveService.html#a02cf7e5587b7c8e1b5b7043a192b0c5b" title=" " alt="" coords="284,5,483,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,23,270,23,270,28,236,28"/>
+<area shape="rect" id="Node000003" href="$classGameSettingsSaveService.html#aaaeb03d6f22467ad08e59d3497021d0c" title=" " alt="" coords="531,5,729,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="483,23,517,23,517,28,483,28"/>
+<area shape="rect" id="Node000004" href="$classLocalSettingsSaveStorage.html#a83f349c86c884c85ae233d2ee1600627" title=" " alt="" coords="777,5,972,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="729,23,764,23,764,28,729,28"/>
+</map>

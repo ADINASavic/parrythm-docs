@@ -1,0 +1,11 @@
+<map id="NoteSettingsIO.SaveNoteSettings" name="NoteSettingsIO.SaveNoteSettings">
+<area shape="rect" id="Node000001" title="Saves only differences between the edited settings and baseline as partial JSON." alt="" coords="5,45,245,70"/>
+<area shape="rect" id="Node000002" href="$classGameSettingsSaveService.html#a0039c54031786c2ee3246b0d08b770c5" title=" " alt="" coords="293,5,492,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,42,279,36,280,41,232,47"/>
+<area shape="rect" id="Node000003" href="$classGameSettingsSaveService.html#aae2c2ef73f2a2f74586b22c116180404" title=" " alt="" coords="293,69,492,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,67,280,73,279,78,231,73"/>
+<area shape="rect" id="Node000004" href="$classGameSettingsSaveService.html#aaaeb03d6f22467ad08e59d3497021d0c" title=" " alt="" coords="540,69,739,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="492,87,526,87,526,92,492,92"/>
+<area shape="rect" id="Node000005" href="$classLocalSettingsSaveStorage.html#a83f349c86c884c85ae233d2ee1600627" title=" " alt="" coords="787,69,981,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="739,87,773,87,773,92,739,92"/>
+</map>

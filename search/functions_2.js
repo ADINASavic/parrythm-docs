@@ -7,11 +7,12 @@ var searchData=
   ['celltolane_4',['CellToLane',['../classNotes_1_1Lane_1_1LaneUtil.html#a692caa4ea04561a7d8c875c776af76fc',1,'Notes::Lane::LaneUtil']]],
   ['charttimelineruntime_5',['ChartTimelineRuntime',['../classChartTimelineRuntime.html#a948f3f7e84da87e3e2789c47a0a5a0ca',1,'ChartTimelineRuntime']]],
   ['circletaphandler_6',['CircleTapHandler',['../classCircleTapHandler.html#acf76c2ed302d064569b88c0ad79a085e',1,'CircleTapHandler']]],
-  ['cleartrailimmediate_7',['ClearTrailImmediate',['../classUITrailGraphic.html#a3cdfe650c607aa756502b18fdfa51e00',1,'UITrailGraphic']]],
-  ['clone_8',['Clone',['../classLevelChartData_1_1NoteEvent.html#a79435ec2d0f1045b0368335632221615',1,'LevelChartData::NoteEvent']]],
-  ['collectcards_9',['collectcards',['../classCanvasSongSelectMenuController.html#af4d8bd4794c4e900419f6ce61fa98ab9',1,'CanvasSongSelectMenuController.CollectCards()'],['../classCarouselController.html#a8739556c067665a3ebc19a05722407d3',1,'CarouselController.CollectCards()']]],
-  ['computetotalnotes_10',['ComputeTotalNotes',['../classLevelChartData.html#a451065e2c1c36d480e84f00e8730c15e',1,'LevelChartData']]],
-  ['configure_11',['Configure',['../classNotes_1_1Square_1_1SquareNoteCore.html#a88b511c49b731233b07de46df4b37d67',1,'Notes::Square::SquareNoteCore']]],
-  ['configurecard_12',['configurecard',['../classCanvasSongSelectMenuController.html#aabfcf7a3a1511a92f6782812819e6f9b',1,'CanvasSongSelectMenuController.ConfigureCard()'],['../classCarouselController.html#a0f228125f0e7e4508db2cd9be53b6c75',1,'CarouselController.ConfigureCard()'],['../classSampleCarouselController.html#a376d44941c9bc1b5337ce4c06eaa7818',1,'SampleCarouselController.ConfigureCard()']]],
-  ['confirmselection_13',['ConfirmSelection',['../classCarouselController.html#a5bf8073a587046e4fc1c09024ccd78dd',1,'CarouselController']]]
+  ['cleargameplaysettings_7',['ClearGameplaySettings',['../classGameSettingsSaveService.html#a6cbc4300113aa828dad5c3cb0defd045',1,'GameSettingsSaveService']]],
+  ['cleartrailimmediate_8',['ClearTrailImmediate',['../classUITrailGraphic.html#a3cdfe650c607aa756502b18fdfa51e00',1,'UITrailGraphic']]],
+  ['clone_9',['Clone',['../classLevelChartData_1_1NoteEvent.html#a79435ec2d0f1045b0368335632221615',1,'LevelChartData::NoteEvent']]],
+  ['collectcards_10',['collectcards',['../classCanvasSongSelectMenuController.html#af4d8bd4794c4e900419f6ce61fa98ab9',1,'CanvasSongSelectMenuController.CollectCards()'],['../classCarouselController.html#a8739556c067665a3ebc19a05722407d3',1,'CarouselController.CollectCards()']]],
+  ['computetotalnotes_11',['ComputeTotalNotes',['../classLevelChartData.html#a451065e2c1c36d480e84f00e8730c15e',1,'LevelChartData']]],
+  ['configure_12',['Configure',['../classNotes_1_1Square_1_1SquareNoteCore.html#a88b511c49b731233b07de46df4b37d67',1,'Notes::Square::SquareNoteCore']]],
+  ['configurecard_13',['configurecard',['../classCanvasSongSelectMenuController.html#aabfcf7a3a1511a92f6782812819e6f9b',1,'CanvasSongSelectMenuController.ConfigureCard()'],['../classCarouselController.html#a0f228125f0e7e4508db2cd9be53b6c75',1,'CarouselController.ConfigureCard()'],['../classSampleCarouselController.html#a376d44941c9bc1b5337ce4c06eaa7818',1,'SampleCarouselController.ConfigureCard()']]],
+  ['confirmselection_14',['ConfirmSelection',['../classCarouselController.html#a5bf8073a587046e4fc1c09024ccd78dd',1,'CarouselController']]]
 ];
