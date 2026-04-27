@@ -1,0 +1,5 @@
+<map id="NoteSettingsJsonPatchUtility.ApplyPatchJson" name="NoteSettingsJsonPatchUtility.ApplyPatchJson">
+<area shape="rect" id="Node000001" title="Applies a stored patch JSON onto an existing NoteSettings instance." alt="" coords="5,5,216,45"/>
+<area shape="rect" id="Node000002" href="$classNoteSettingsJsonPatchUtility.html#a603c96f1a737ec23ae79ae1079d22f72" title="Restores invalid field values back to the provided defaults." alt="" coords="264,5,507,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,23,250,23,250,28,216,28"/>
+</map>

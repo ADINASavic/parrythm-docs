@@ -13,5 +13,6 @@ var searchData=
   ['resetplayername_10',['ResetPlayerName',['../classPlayerNameSettings.html#a182bc461df04cf079b41113de76283a6',1,'PlayerNameSettings']]],
   ['resetvisual_11',['resetvisual',['../classNotes_1_1Square_1_1SquareVisualBase.html#a860aa072d59f10d119421a049cc0ca88',1,'Notes.Square.SquareVisualBase.ResetVisual()'],['../classNotes_1_1Square_1_1SquareVisualLong.html#af5396b491163f80f5f683837c45894e2',1,'Notes.Square.SquareVisualLong.ResetVisual()']]],
   ['resolveindex_12',['ResolveIndex',['../classCarouselController.html#afbef08291aff7890520877b0dd72d9de',1,'CarouselController']]],
-  ['resultsmenuactions_13',['ResultsMenuActions',['../classParrythmInputActions_1_1ResultsMenuActions.html#ad5b243462adafc4a52a496abf5dcb4df',1,'ParrythmInputActions::ResultsMenuActions']]]
+  ['restoreinvalidfieldsfromdefaults_13',['RestoreInvalidFieldsFromDefaults',['../classNoteSettingsJsonPatchUtility.html#a603c96f1a737ec23ae79ae1079d22f72',1,'NoteSettingsJsonPatchUtility']]],
+  ['resultsmenuactions_14',['ResultsMenuActions',['../classParrythmInputActions_1_1ResultsMenuActions.html#ad5b243462adafc4a52a496abf5dcb4df',1,'ParrythmInputActions::ResultsMenuActions']]]
 ];

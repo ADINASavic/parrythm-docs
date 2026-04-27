@@ -31,8 +31,7 @@ var searchData=
   ['followringwidthmultiplier_28',['followRingWidthMultiplier',['../classSliderNoteVisual.html#add75179b065b00ee5d0e420acec6db03',1,'SliderNoteVisual']]],
   ['forceconsume_29',['ForceConsume',['../classCircleNote.html#a4fde088fa46c3e4794db152a110ac609',1,'CircleNote']]],
   ['forcesoftware_30',['forceSoftware',['../classCleanCursor.html#a70173dfaeef40a763c3bd9feb2c64d71',1,'CleanCursor']]],
-  ['from_31',['From',['../classColorDTO.html#a9018f791e7933f346ec737a3dbcb6f7a',1,'ColorDTO']]],
-  ['fromjson_3c_20t_20_3e_32',['FromJson&lt; T &gt;',['../classScoreJsonHelper.html#abe9d825553aef52d97556b77b6d1bc6a',1,'ScoreJsonHelper']]],
-  ['fullscreentoggle_33',['fullscreenToggle',['../classSettingsCardViewSettings.html#ab84e2d3f125511d86167270702e55b4f',1,'SettingsCardViewSettings']]],
-  ['fullylocked_34',['FullyLocked',['../classParrythmInputRuntime.html#a2673a675e177e6d950eac0376ed5c2b3a45370579ab48b0d996d9de79a5755cab',1,'ParrythmInputRuntime']]]
+  ['fromjson_3c_20t_20_3e_31',['FromJson&lt; T &gt;',['../classScoreJsonHelper.html#abe9d825553aef52d97556b77b6d1bc6a',1,'ScoreJsonHelper']]],
+  ['fullscreentoggle_32',['fullscreenToggle',['../classSettingsCardViewSettings.html#ab84e2d3f125511d86167270702e55b4f',1,'SettingsCardViewSettings']]],
+  ['fullylocked_33',['FullyLocked',['../classParrythmInputRuntime.html#a2673a675e177e6d950eac0376ed5c2b3a45370579ab48b0d996d9de79a5755cab',1,'ParrythmInputRuntime']]]
 ];

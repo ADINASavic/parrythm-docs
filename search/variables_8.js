@@ -21,7 +21,7 @@ var searchData=
   ['inputholdgrace_18',['inputHoldGrace',['../classInputRouter.html#a52e747e4fc9f1d67ab9e9c10ee236f16',1,'InputRouter']]],
   ['inputrouter_19',['inputrouter',['../classKeyboardInputManager.html#a2122447d8a25178d77ee7fe997662e35',1,'KeyboardInputManager.inputRouter'],['../classNoteSpawner.html#a24d530404d93a3319fa17b41574287b5',1,'NoteSpawner.inputRouter']]],
   ['inputtimeoffsetinput_20',['inputTimeOffsetInput',['../classSettingsCardOffset.html#ac8955337f8579a49dce157e186a27534',1,'SettingsCardOffset']]],
-  ['inputtimeoffsetms_21',['inputtimeoffsetms',['../classNoteSettings.html#acda247394dee11c0132d431953ba46ed',1,'NoteSettings.inputTimeOffsetMs'],['../classNoteSettingsOverrideDTO.html#aed7fd3474dd9a109c5ba22781981c141',1,'NoteSettingsOverrideDTO.inputTimeOffsetMs']]],
+  ['inputtimeoffsetms_21',['inputTimeOffsetMs',['../classNoteSettings.html#acda247394dee11c0132d431953ba46ed',1,'NoteSettings']]],
   ['inputtimeoffsetslider_22',['inputTimeOffsetSlider',['../classSettingsCardOffset.html#a469db39ceb602a79ed5c52e9564bc147',1,'SettingsCardOffset']]],
   ['intropanelcanvasgroup_23',['introPanelCanvasGroup',['../classCanvasSongIntroController.html#ac09b4663c8b6a50a22fd196431b7ef0e',1,'CanvasSongIntroController']]],
   ['islong_24',['isLong',['../classLevelChartData_1_1NoteEvent.html#ac1709378fa69affb5b6a88ea4580ff72',1,'LevelChartData::NoteEvent']]],

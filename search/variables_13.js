@@ -5,7 +5,7 @@ var searchData=
   ['targetcenterx_2',['targetCenterX',['../classCarouselController.html#a484e4407e23aaff7f51e7cec3315d6b1',1,'CarouselController']]],
   ['targetheight_3',['targetHeight',['../classFixed16x9Camera.html#aeb03b197a913da49c5d676ef8498339d',1,'Fixed16x9Camera']]],
   ['targetrt_4',['targetRT',['../classBackgroundVideoSync.html#a47eecb2465acf3a0595b7b395719bb9c',1,'BackgroundVideoSync']]],
-  ['targetsize_5',['targetsize',['../classNoteSettings.html#a6d3c11f7856689137fc3203aec533f76',1,'NoteSettings.targetSize'],['../classNoteSettingsOverrideDTO.html#a731028b835b067aef265be6e27884638',1,'NoteSettingsOverrideDTO.targetSize']]],
+  ['targetsize_5',['targetSize',['../classNoteSettings.html#a6d3c11f7856689137fc3203aec533f76',1,'NoteSettings']]],
   ['targetwidth_6',['targetWidth',['../classFixed16x9Camera.html#a07d86c9c8760eedeb7a4daadab992662',1,'Fixed16x9Camera']]],
   ['tempomap_7',['tempoMap',['../classLevelChartData.html#a39ae62808a0d3f07626f410b6c2ccc79',1,'LevelChartData']]],
   ['tempomapenabled_8',['tempoMapEnabled',['../classLevelChartData.html#a5b1c382c0bd6d136f4f5a4ec9a1cdbd2',1,'LevelChartData']]],
@@ -29,10 +29,10 @@ var searchData=
   ['todockduration_26',['toDockDuration',['../classBulletNote.html#a942f9f2a4948dfb7bbeb09b21c3b0138',1,'BulletNote']]],
   ['totalscoregradetext_27',['totalScoreGradeText',['../classResultsUI.html#a4feb6f87ea61a9a7c8a3b98434982f85',1,'ResultsUI']]],
   ['totalscoretext_28',['totalScoreText',['../classResultsUI.html#af62fd61a3015fb8f54d2de650cc85812',1,'ResultsUI']]],
-  ['trailflashcolor_29',['trailflashcolor',['../classNoteSettingsOverrideDTO.html#a85f8bc4589ee4451444016feb5a6ce69',1,'NoteSettingsOverrideDTO.trailFlashColor'],['../classNoteSettings.html#a4b2e3c0822efc169a5dc14860286aaa2',1,'NoteSettings.trailFlashColor']]],
-  ['trailglowcolor_30',['trailglowcolor',['../classNoteSettings.html#a5747e1e3aef34fc9cba5f492f731841d',1,'NoteSettings.trailGlowColor'],['../classNoteSettingsOverrideDTO.html#a379c78938ec86c16e99a8fe20a77a345',1,'NoteSettingsOverrideDTO.trailGlowColor']]],
-  ['traillinecolor_31',['traillinecolor',['../classNoteSettings.html#af19f6462b50919385d65a108f2f56375',1,'NoteSettings.trailLineColor'],['../classNoteSettingsOverrideDTO.html#ad5443cc615eeeb1589bdb0939f72b1d5',1,'NoteSettingsOverrideDTO.trailLineColor']]],
-  ['trailmisscolor_32',['trailmisscolor',['../classNoteSettings.html#a51b8f7546d472ed166cac71d689fae4a',1,'NoteSettings.trailMissColor'],['../classNoteSettingsOverrideDTO.html#ab0d1fa5f59d9d86dbe09ff9a87650c24',1,'NoteSettingsOverrideDTO.trailMissColor']]],
+  ['trailflashcolor_29',['trailFlashColor',['../classNoteSettings.html#a4b2e3c0822efc169a5dc14860286aaa2',1,'NoteSettings']]],
+  ['trailglowcolor_30',['trailGlowColor',['../classNoteSettings.html#a5747e1e3aef34fc9cba5f492f731841d',1,'NoteSettings']]],
+  ['traillinecolor_31',['trailLineColor',['../classNoteSettings.html#af19f6462b50919385d65a108f2f56375',1,'NoteSettings']]],
+  ['trailmisscolor_32',['trailMissColor',['../classNoteSettings.html#a51b8f7546d472ed166cac71d689fae4a',1,'NoteSettings']]],
   ['trailtime_33',['trailTime',['../classUITrailGraphic.html#ad96665eeee2ab32394d157249ba60308',1,'UITrailGraphic']]],
   ['type_34',['type',['../classNotes_1_1Square_1_1SquareNoteCore.html#a15f13119ed7849f4712594fefdbf4363',1,'Notes.Square.SquareNoteCore.type'],['../classNotes_1_1Square_1_1SquareNoteJudge.html#a02a82674e4f05dad80503ad87f79c60a',1,'Notes.Square.SquareNoteJudge.type'],['../classNotes_1_1Square_1_1SquareNoteVisual.html#a3a94592088534c4b80c2a0ddb3d04cea',1,'Notes.Square.SquareNoteVisual.type'],['../classLevelChartData_1_1NoteEvent.html#a48d0ff91f9b290df5b842bf8d042bcca',1,'LevelChartData.NoteEvent.type']]]
 ];

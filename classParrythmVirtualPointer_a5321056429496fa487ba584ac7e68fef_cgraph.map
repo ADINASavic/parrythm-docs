@@ -1,11 +1,26 @@
 <map id="ParrythmVirtualPointer.RefreshConfiguration" name="ParrythmVirtualPointer.RefreshConfiguration">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,228,45"/>
-<area shape="rect" id="Node000002" href="$classNoteSettingsIO.html#ab61b9ef5a846cd96c8955a99e67fd64b" title="Returns runtime settings by cloning baseline and applying user partial overrides. Call this from game..." alt="" coords="276,13,507,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,23,262,23,262,28,228,28"/>
-<area shape="rect" id="Node000003" href="$classGameSettingsSaveService.html#a02cf7e5587b7c8e1b5b7043a192b0c5b" title=" " alt="" coords="555,5,753,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="507,23,541,23,541,28,507,28"/>
-<area shape="rect" id="Node000004" href="$classGameSettingsSaveService.html#aaaeb03d6f22467ad08e59d3497021d0c" title=" " alt="" coords="801,5,1000,45"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="754,23,787,23,787,28,754,28"/>
-<area shape="rect" id="Node000005" href="$classLocalSettingsSaveStorage.html#a83f349c86c884c85ae233d2ee1600627" title=" " alt="" coords="1048,5,1243,45"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1000,23,1034,23,1034,28,1000,28"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,228,109"/>
+<area shape="rect" id="Node000002" href="$classNoteSettingsIO.html#ab61b9ef5a846cd96c8955a99e67fd64b" title="Returns runtime note settings by applying the saved patch onto the defaults." alt="" coords="276,77,507,102"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,87,262,87,262,92,228,92"/>
+<area shape="rect" id="Node000003" href="$classNoteSettingsJsonPatchUtility.html#a547379637e42c5d94c6f04a9b16cdd79" title="Applies a stored patch JSON onto an existing NoteSettings instance." alt="" coords="556,5,767,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="446,74,562,46,564,51,447,79"/>
+<area shape="rect" id="Node000005" href="$classNoteSettingsPatchRepository.html#ad4728f3df9212db724bca5bc64536eb0" title="Deletes the stored note&#45;settings patch JSON." alt="" coords="555,69,768,109"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="507,87,541,87,541,92,507,92"/>
+<area shape="rect" id="Node000011" href="$classNoteSettingsPatchRepository.html#a3250724000a91c2b2c26bde28947094a" title="Loads the stored note&#45;settings patch JSON, or null when none exists." alt="" coords="555,133,768,173"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="447,100,564,128,562,133,446,105"/>
+<area shape="rect" id="Node000004" href="$classNoteSettingsJsonPatchUtility.html#a603c96f1a737ec23ae79ae1079d22f72" title="Restores invalid field values back to the provided defaults." alt="" coords="816,5,1059,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="767,23,802,23,802,28,767,28"/>
+<area shape="rect" id="Node000006" href="$classGameSettingsSaveService.html#a6cbc4300113aa828dad5c3cb0defd045" title=" " alt="" coords="838,69,1037,109"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="768,87,824,87,824,92,768,92"/>
+<area shape="rect" id="Node000007" href="$classLocalSettingsSaveStorage.html#adb42a7032903c96ffaaf5ecb27a6f50b" title=" " alt="" coords="1109,69,1303,109"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1037,87,1095,87,1095,92,1037,92"/>
+<area shape="rect" id="Node000009" href="$classGameSettingsSaveService.html#aaaeb03d6f22467ad08e59d3497021d0c" title=" " alt="" coords="1107,133,1305,173"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="1023,107,1109,128,1108,133,1021,112"/>
+<area shape="rect" id="Node000008" href="$classLocalSettingsSaveStorage.html#a04098d037e8125d33736346f2199394e" title=" " alt="" coords="1353,69,1548,109"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1304,87,1340,87,1340,92,1304,92"/>
+<area shape="rect" id="Node000010" href="$classLocalSettingsSaveStorage.html#a83f349c86c884c85ae233d2ee1600627" title=" " alt="" coords="1353,133,1548,173"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1305,151,1340,151,1340,156,1305,156"/>
+<area shape="rect" id="Node000012" href="$classGameSettingsSaveService.html#a20eaef03d18100e44bf44b8dccab4fad" title=" " alt="" coords="837,133,1037,173"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="768,151,824,151,824,156,768,156"/>
+<area shape="poly" id="edge12_Node000012_Node000009" title=" " alt="" coords="1037,151,1093,151,1093,156,1037,156"/>
 </map>

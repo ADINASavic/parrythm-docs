@@ -1,5 +1,5 @@
 <map id="NoteSettingsIO.GetNoteSettings" name="NoteSettingsIO.GetNoteSettings">
-<area shape="rect" id="Node000001" title="Returns runtime settings by cloning baseline and applying user partial overrides. Call this from game..." alt="" coords="552,45,783,70"/>
+<area shape="rect" id="Node000001" title="Returns runtime note settings by applying the saved patch onto the defaults." alt="" coords="552,45,783,70"/>
 <area shape="rect" id="Node000002" href="$classSongSelectNoteSettingsPreview.html#a8c21ad47a3234197e778d47325df94c4" title=" " alt="" coords="271,5,504,45"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="542,46,504,41,504,36,543,40"/>
 <area shape="rect" id="Node000003" href="$classParrythmVirtualPointer.html#a5321056429496fa487ba584ac7e68fef" title=" " alt="" coords="276,69,499,109"/>

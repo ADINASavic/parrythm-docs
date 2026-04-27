@@ -14,6 +14,5 @@ var searchData=
   ['circlenoteinit_11',['CircleNoteInit',['../structCircleNoteInit.html',1,'']]],
   ['circlenotevisual_12',['CircleNoteVisual',['../classCircleNoteVisual.html',1,'']]],
   ['circletaphandler_13',['CircleTapHandler',['../classCircleTapHandler.html',1,'']]],
-  ['cleancursor_14',['CleanCursor',['../classCleanCursor.html',1,'']]],
-  ['colordto_15',['ColorDTO',['../classColorDTO.html',1,'']]]
+  ['cleancursor_14',['CleanCursor',['../classCleanCursor.html',1,'']]]
 ];

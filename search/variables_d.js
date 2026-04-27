@@ -11,6 +11,5 @@ var searchData=
   ['normalsprite_8',['normalSprite',['../classBulletNote.html#ace69c9f4a0d44b031139332a82526cac',1,'BulletNote']]],
   ['normaltext_9',['normalText',['../classMenuController.html#a4df4512c96211058d882096ef6496010',1,'MenuController']]],
   ['notes_10',['notes',['../classLevelChartData.html#a59ce21ae9096319ff247086bc3582cba',1,'LevelChartData']]],
-  ['notesettingsoverride_11',['noteSettingsOverride',['../classGameplaySettingsSaveData.html#af8626b8f8a535536fcfa1dc495c43a47',1,'GameplaySettingsSaveData']]],
-  ['numerator_12',['numerator',['../classLevelChartData_1_1TimeSigPoint.html#a4bf920f845491e59056bc36bda803a2f',1,'LevelChartData::TimeSigPoint']]]
+  ['numerator_11',['numerator',['../classLevelChartData_1_1TimeSigPoint.html#a4bf920f845491e59056bc36bda803a2f',1,'LevelChartData::TimeSigPoint']]]
 ];
