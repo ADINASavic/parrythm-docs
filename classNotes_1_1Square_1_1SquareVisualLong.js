@@ -16,6 +16,8 @@ var classNotes_1_1Square_1_1SquareVisualLong =
     [ "progressMaxAlpha", "classNotes_1_1Square_1_1SquareVisualLong.html#a2317c45c817752c1f1fde2f49ac92e9d", null ],
     [ "progressMinAlpha", "classNotes_1_1Square_1_1SquareVisualLong.html#aebc69a08ea1cd7f5a5c01c6602808739", null ],
     [ "resultFade", "classNotes_1_1Square_1_1SquareVisualLong.html#a83e6b53c5c3ed47e3035dc4338edbe57", null ],
+    [ "skipSettingsColorApply", "classNotes_1_1Square_1_1SquareVisualLong.html#a0c1d2b56b90d86ea9d345884c457a0ca", null ],
+    [ "startHintColor", "classNotes_1_1Square_1_1SquareVisualLong.html#a313ca83057e7c31c0980f284fd2b263a", null ],
     [ "timeline", "classNotes_1_1Square_1_1SquareVisualLong.html#a5d927e44cfc6508d31bc926c7dfc23f0", null ],
     [ "useColorProgress", "classNotes_1_1Square_1_1SquareVisualLong.html#a7f3707034b07cc228b26c7ea6cc3cbea", null ]
 ];

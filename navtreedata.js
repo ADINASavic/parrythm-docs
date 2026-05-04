@@ -63,8 +63,8 @@ var NAVTREEINDEX =
 "classGaugeManager.html#ac403b1e2073ae10207f2bf93dfdc77a2",
 "classNoteBase.html",
 "classNotes_1_1Square_1_1SquareNoteVisual.html#a68f9f8098caa5618bce489608bbe617c",
-"classPlayerNameSettings.html#a182bc461df04cf079b41113de76283a6",
-"classStyleEventHandler.html"
+"classParrythmVirtualPointer.html#aa9bb500036fa663684552bcf155d2d61",
+"classSongScanner.html#a2ed19649ab88618e11bec837b76a97f0"
 ];
 
 var SYNCONMSG = '패널 동기화를 비활성화하기 위해 클릭하십시오';

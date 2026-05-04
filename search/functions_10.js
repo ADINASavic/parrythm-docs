@@ -47,7 +47,7 @@ var searchData=
   ['spawnbullet_44',['SpawnBullet',['../classNoteSpawner.html#a277657cbcd448a9b51d9586fa7f3a374',1,'NoteSpawner']]],
   ['spawncircle_45',['SpawnCircle',['../classNoteSpawner.html#ac816987d2955ae0723339b140e39f214',1,'NoteSpawner']]],
   ['spawngrid_46',['SpawnGrid',['../classNoteSpawner.html#a1fe7a7218c433b964bc24eba5634db50',1,'NoteSpawner']]],
-  ['spawnlong_47',['SpawnLong',['../classNoteSpawner.html#a4906be9f42f731a6391b03eef08561ed',1,'NoteSpawner']]],
+  ['spawnlong_47',['SpawnLong',['../classNoteSpawner.html#ae6e52e6989ecb0e94ba87d9b743b5a27',1,'NoteSpawner']]],
   ['spawnslider_48',['SpawnSlider',['../classNoteSpawner.html#a04597846c1d46248236cb6b1f7541c12',1,'NoteSpawner']]],
   ['startsec_49',['StartSec',['../classChartTimelineRuntime.html#abf36066d5e2260193cf958c96b063154',1,'ChartTimelineRuntime']]],
   ['stop_50',['stop',['../classChartPlayerFMOD.html#a78ddf7616821fd19392fd488efd0c7d5',1,'ChartPlayerFMOD.Stop()'],['../classFmodMusicController.html#abe65c2379d10ac4d0519221738031981',1,'FmodMusicController.Stop()']]],

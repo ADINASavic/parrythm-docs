@@ -37,7 +37,7 @@ var searchData=
   ['play_34',['play',['../classChartPlayerFMOD.html#a2bf93b4a6d9d5ebbfbbf217b54d87844',1,'ChartPlayerFMOD.Play()'],['../classFmodMusicController.html#ae392296428bf176b5c7f10f2d6ffe84d',1,'FmodMusicController.Play()'],['../classSongPreviewPlayer.html#aa18177497573096e940c63a2cc793184',1,'SongPreviewPlayer.Play()']]],
   ['playconfirmse_35',['PlayConfirmSE',['../classCarouselController.html#a545b5c3b9a9c9b500356180c60ebf777',1,'CarouselController']]],
   ['playercells_36',['PlayerCells',['../classKeyboardInputManager.html#a14d77f4e3c1a00a08aef1db92e9c2d65',1,'KeyboardInputManager']]],
-  ['playername_37',['playername',['../classScoreData.html#abadc77ceb1fbd85dd5b6f9ddd13ff315',1,'ScoreData.playername'],['../classLeaderboardEntry.html#a1d130f59cbdfd526fb39086c05a7790b',1,'LeaderboardEntry.playername'],['../classProfileSaveData.html#ab061596ea6fcebace7ac8b8adccfdc8e',1,'ProfileSaveData.playerName']]],
+  ['playername_37',['playername',['../classProfileSaveData.html#ab061596ea6fcebace7ac8b8adccfdc8e',1,'ProfileSaveData.playerName'],['../classScoreData.html#abadc77ceb1fbd85dd5b6f9ddd13ff315',1,'ScoreData.playername'],['../classLeaderboardEntry.html#a1d130f59cbdfd526fb39086c05a7790b',1,'LeaderboardEntry.playername']]],
   ['playernamesettings_38',['PlayerNameSettings',['../classPlayerNameSettings.html',1,'']]],
   ['playernamesettings_2ecs_39',['PlayerNameSettings.cs',['../PlayerNameSettings_8cs.html',1,'']]],
   ['playernametext_40',['playerNameText',['../classButtonPlayerProfile.html#abbe3c56766e8552019857a735dbf606a',1,'ButtonPlayerProfile']]],

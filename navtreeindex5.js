@@ -1,5 +1,9 @@
 var NAVTREEINDEX5 =
 {
+"classParrythmVirtualPointer.html#aa9bb500036fa663684552bcf155d2d61":[1,0,69,0],
+"classParrythmVirtualPointer.html#ac15863090e49588bf1998c555ffc4a83":[1,0,69,8],
+"classParrythmVirtualPointer.html#ae5378e2c3ecb076ffc84af6444f41cb2":[1,0,69,6],
+"classPlayerNameSettings.html":[1,0,70],
 "classPlayerNameSettings.html#a182bc461df04cf079b41113de76283a6":[1,0,70,2],
 "classPlayerNameSettings.html#a2bef7d99e9e3974412b666489f2cab6f":[1,0,70,3],
 "classPlayerNameSettings.html#a92788555e53866f9db87635413167d50":[1,0,70,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX5 =
 "classSongPreviewPlayer.html#aa18177497573096e940c63a2cc793184":[1,0,92,0],
 "classSongPreviewPlayer.html#aa94509036378ff60e0e3bf53c87f53cf":[1,0,92,1],
 "classSongPreviewPlayer.html#ae27d87f16e15c176a39954066848a53b":[1,0,92,2],
-"classSongScanner.html":[1,0,93],
-"classSongScanner.html#a2ed19649ab88618e11bec837b76a97f0":[1,0,93,1],
-"classSongScanner.html#abc765422ac2b4142ede50a0641cfeb2b":[1,0,93,0],
-"classSongSelectNoteSettingsPreview.html":[1,0,94],
-"classSongSelectNoteSettingsPreview.html#a8c21ad47a3234197e778d47325df94c4":[1,0,94,0]
+"classSongScanner.html":[1,0,93]
 };

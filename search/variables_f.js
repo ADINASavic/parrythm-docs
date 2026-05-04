@@ -23,7 +23,7 @@ var searchData=
   ['personalbestscoretext_20',['personalBestScoreText',['../classSongCard.html#a1c6f29939fccb68cb484ddc59f8a6c62',1,'SongCard']]],
   ['pitch_21',['pitch',['../classLevelChartData_1_1NoteEvent.html#a07ac3adf9cdf907f178d4a454ea892e5',1,'LevelChartData::NoteEvent']]],
   ['pixelwidth_22',['pixelWidth',['../classUITrailGraphic.html#ac23bbcc79cb0e248b38cdefd011b5b43',1,'UITrailGraphic']]],
-  ['playername_23',['playername',['../classScoreData.html#abadc77ceb1fbd85dd5b6f9ddd13ff315',1,'ScoreData.playername'],['../classLeaderboardEntry.html#a1d130f59cbdfd526fb39086c05a7790b',1,'LeaderboardEntry.playername'],['../classProfileSaveData.html#ab061596ea6fcebace7ac8b8adccfdc8e',1,'ProfileSaveData.playerName']]],
+  ['playername_23',['playername',['../classProfileSaveData.html#ab061596ea6fcebace7ac8b8adccfdc8e',1,'ProfileSaveData.playerName'],['../classScoreData.html#abadc77ceb1fbd85dd5b6f9ddd13ff315',1,'ScoreData.playername'],['../classLeaderboardEntry.html#a1d130f59cbdfd526fb39086c05a7790b',1,'LeaderboardEntry.playername']]],
   ['playernametext_24',['playerNameText',['../classButtonPlayerProfile.html#abbe3c56766e8552019857a735dbf606a',1,'ButtonPlayerProfile']]],
   ['playersprite_25',['playerSprite',['../classChartPlayerFMOD.html#ab5af01fd37365e6de01cc5ff9730c856',1,'ChartPlayerFMOD']]],
   ['poolsize_26',['poolSize',['../classPlayerSpriteController.html#ab50a4b214299e9b14a4f1ee3f6d700a1',1,'PlayerSpriteController']]],
