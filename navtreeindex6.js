@@ -1,5 +1,6 @@
 var NAVTREEINDEX6 =
 {
+"classSongMeta.html#a6d6c40d4ad6c0a4864642bd97f27766f":[1,0,91,4],
 "classSongMeta.html#a70a785848cf7e3705b7a5a18f0476a53":[1,0,91,13],
 "classSongMeta.html#a7960e0d180debb400d2bb01fc926f78e":[1,0,91,6],
 "classSongMeta.html#a7de874f32223e4db90b8c5ac3f5b7a0b":[1,0,91,3],

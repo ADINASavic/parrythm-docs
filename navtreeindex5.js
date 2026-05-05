@@ -1,5 +1,6 @@
 var NAVTREEINDEX5 =
 {
+"classParrythmVirtualPointer.html":[1,0,69],
 "classParrythmVirtualPointer.html#a0c7dc2a9e6ccd3d6581c60daf0beb0b3":[1,0,69,3],
 "classParrythmVirtualPointer.html#a0f961791550dd4fe6891dad66c397aed":[1,0,69,1],
 "classParrythmVirtualPointer.html#a4640ca0dd26b9ee9276ef45767244a49":[1,0,69,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX5 =
 "classSongMeta.html#a3c0b6dea0a9c55218efc2c98b6088fa1":[1,0,91,5],
 "classSongMeta.html#a3e96cf528c76a56f8a97a456d0eac5da":[1,0,91,0],
 "classSongMeta.html#a5fef9d1a427f9685a448f746c835186d":[1,0,91,10],
-"classSongMeta.html#a6340cfbb839855b965bbabd204862fa2":[1,0,91,11],
-"classSongMeta.html#a6d6c40d4ad6c0a4864642bd97f27766f":[1,0,91,4]
+"classSongMeta.html#a6340cfbb839855b965bbabd204862fa2":[1,0,91,11]
 };

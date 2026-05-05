@@ -15,6 +15,7 @@ var classBulletNote =
     [ "parryKickDistanceRatio", "classBulletNote.html#abcf554bc421179f3df584786fe0278f0", null ],
     [ "parryKickTime", "classBulletNote.html#a62e46c44f1e1cf2d419b8d2b495239ec", null ],
     [ "perfectFlyAlpha", "classBulletNote.html#a518a037a8390897be5f8919798a16f2c", null ],
+    [ "perfectFlyOffscreenPadding", "classBulletNote.html#a680d3a1b3f51c293bef019dcf5adf1f0", null ],
     [ "perfectFlyScale", "classBulletNote.html#ae0ca93e26e90632af9da2c3435a48f02", null ],
     [ "perfectFlyTime", "classBulletNote.html#a2fa1bf2603ddd874962e9896bcce302a", null ],
     [ "radius", "classBulletNote.html#a6426b55b1609182805ac7509628af378", null ],
