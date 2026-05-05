@@ -80,7 +80,7 @@ var searchData=
   ['isrightbuttonpressed_77',['IsRightButtonPressed',['../classParrythmVirtualPointer.html#a9d1978c924aad7be940be540b37d9aa9',1,'ParrythmVirtualPointer']]],
   ['istageendtrigger_78',['IStageEndTrigger',['../interfaceIStageEndTrigger.html',1,'']]],
   ['istageendtrigger_2ecs_79',['IStageEndTrigger.cs',['../IStageEndTrigger_8cs.html',1,'']]],
-  ['istrail_80',['istrail',['../classCircleNote.html#aebf93f5101c71e6b5817c652fa34ab02',1,'CircleNote.IsTrail'],['../classLevelChartData_1_1NoteEvent.html#ad5fb2ddd29dc178d881ff51d0cb7bc81',1,'LevelChartData.NoteEvent.isTrail']]],
+  ['istrail_80',['istrail',['../classLevelChartData_1_1NoteEvent.html#ad5fb2ddd29dc178d881ff51d0cb7bc81',1,'LevelChartData.NoteEvent.isTrail'],['../classCircleNote.html#aebf93f5101c71e6b5817c652fa34ab02',1,'CircleNote.IsTrail']]],
   ['iswithinrouterhitrange_81',['IsWithinRouterHitRange',['../classCircleNote.html#a64264207480052b8ef67e68c4ed81b22',1,'CircleNote']]],
   ['items_82',['items',['../classMenuController.html#ada8e52d1942cd5e5250b7c85427b9c63',1,'MenuController']]]
 ];

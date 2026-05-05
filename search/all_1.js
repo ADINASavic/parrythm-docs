@@ -62,5 +62,6 @@ var searchData=
   ['buttonplayerprofile_59',['ButtonPlayerProfile',['../classButtonPlayerProfile.html',1,'']]],
   ['buttonplayerprofile_2ecs_60',['ButtonPlayerProfile.cs',['../ButtonPlayerProfile_8cs.html',1,'']]],
   ['buttonquickspeedsetting_61',['buttonquickspeedsetting',['../classButtonQuickSpeedSetting.html',1,'ButtonQuickSpeedSetting'],['../classSettingsCardPlaySettings.html#ae3511bec735c4a11b06f8be54e47b597',1,'SettingsCardPlaySettings.buttonQuickSpeedSetting'],['../classButtonQuickSpeedSetting.html#ad2e451c8c9018da1e5d1ec1d0cf5113a',1,'ButtonQuickSpeedSetting.buttonQuickSpeedSetting']]],
-  ['buttonquickspeedsetting_2ecs_62',['ButtonQuickSpeedSetting.cs',['../ButtonQuickSpeedSetting_8cs.html',1,'']]]
+  ['buttonquickspeedsetting_2ecs_62',['ButtonQuickSpeedSetting.cs',['../ButtonQuickSpeedSetting_8cs.html',1,'']]],
+  ['buttonsprite_63',['buttonSprite',['../classPlayerSpriteController.html#a16bc3d9af041ccfda8be3b5968b11959',1,'PlayerSpriteController']]]
 ];

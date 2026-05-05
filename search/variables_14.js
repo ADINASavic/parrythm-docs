@@ -7,10 +7,11 @@ var searchData=
   ['unselectedscale_4',['unselectedScale',['../classDifficultyStrip.html#a80fd1c9554e1053d59286f3b895f030e',1,'DifficultyStrip']]],
   ['updatedatutc_5',['updatedAtUtc',['../classProfileSaveData.html#af646d5554b54892d172f809272d6e864',1,'ProfileSaveData']]],
   ['usebodygradient_6',['useBodyGradient',['../classSliderNoteVisual.html#add6dbeae9cb0de4fbdd0ed4296668e0c',1,'SliderNoteVisual']]],
-  ['usecolorprogress_7',['useColorProgress',['../classNotes_1_1Square_1_1SquareVisualLong.html#a7f3707034b07cc228b26c7ea6cc3cbea',1,'Notes::Square::SquareVisualLong']]],
-  ['usecombotextgauge_8',['useComboTextGauge',['../classGaugeManager.html#ab0fd44eac13185eb04e46f907ae8c4ca',1,'GaugeManager']]],
-  ['usesampledbulletchecks_9',['useSampledBulletChecks',['../classSliderNote.html#a93e3496ae2488fcdcaab6021118df9e9',1,'SliderNote']]],
-  ['usesimultaneousaccent_10',['useSimultaneousAccent',['../classLevelChartData_1_1NoteEvent.html#a9efe16a25ede1a26dd811b3672ca83c9',1,'LevelChartData::NoteEvent']]],
-  ['usesimultaneousleadfill_11',['usesimultaneousleadfill',['../classCircleNote.html#a30fcb39a14588ade284eb6d833cb9a31',1,'CircleNote.useSimultaneousLeadFill'],['../classSliderNote.html#a9365d9010eda7b12c5354d69c61a42e6',1,'SliderNote.useSimultaneousLeadFill'],['../classSliderNoteVisual.html#a649f8acbbecb246f32e4313c248a5432',1,'SliderNoteVisual.useSimultaneousLeadFill']]],
-  ['useuiscalingfallback_12',['useUIScalingFallback',['../classCameraTweenTrack.html#ab0554d17a3628b7180e82e530aa528cd',1,'CameraTweenTrack']]]
+  ['usebuttonvisual_7',['useButtonVisual',['../classPlayerSpriteController.html#a4d25f9db24b939f3ba8b657cac118c84',1,'PlayerSpriteController']]],
+  ['usecolorprogress_8',['useColorProgress',['../classNotes_1_1Square_1_1SquareVisualLong.html#a7f3707034b07cc228b26c7ea6cc3cbea',1,'Notes::Square::SquareVisualLong']]],
+  ['usecombotextgauge_9',['useComboTextGauge',['../classGaugeManager.html#ab0fd44eac13185eb04e46f907ae8c4ca',1,'GaugeManager']]],
+  ['usesampledbulletchecks_10',['useSampledBulletChecks',['../classSliderNote.html#a93e3496ae2488fcdcaab6021118df9e9',1,'SliderNote']]],
+  ['usesimultaneousaccent_11',['useSimultaneousAccent',['../classLevelChartData_1_1NoteEvent.html#a9efe16a25ede1a26dd811b3672ca83c9',1,'LevelChartData::NoteEvent']]],
+  ['usesimultaneousleadfill_12',['usesimultaneousleadfill',['../classCircleNote.html#a30fcb39a14588ade284eb6d833cb9a31',1,'CircleNote.useSimultaneousLeadFill'],['../classSliderNote.html#a9365d9010eda7b12c5354d69c61a42e6',1,'SliderNote.useSimultaneousLeadFill'],['../classSliderNoteVisual.html#a649f8acbbecb246f32e4313c248a5432',1,'SliderNoteVisual.useSimultaneousLeadFill']]],
+  ['useuiscalingfallback_13',['useUIScalingFallback',['../classCameraTweenTrack.html#ab0554d17a3628b7180e82e530aa528cd',1,'CameraTweenTrack']]]
 ];
