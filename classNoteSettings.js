@@ -2,6 +2,7 @@ var classNoteSettings =
 [
     [ "circleAppearLead", "classNoteSettings.html#adee68791f7db4cc813e124c6a4f1ae39", null ],
     [ "circleFillColor", "classNoteSettings.html#a114dddc42eb76c5e7179954f9e806199", null ],
+    [ "circleGlowColor", "classNoteSettings.html#a826a86c985d2fc614c60f66f27fb8994", null ],
     [ "circleGoodWindow", "classNoteSettings.html#a4a073bae5deff458f4a21872f0170078", null ],
     [ "circleHeadOutlineColor", "classNoteSettings.html#a932244de77d8f2c81249217d3d7f6974", null ],
     [ "circleJudgeWindow", "classNoteSettings.html#aeb9bb915bdbfca59c4e318bedb8d4106", null ],
@@ -10,6 +11,7 @@ var classNoteSettings =
     [ "circleRadius", "classNoteSettings.html#a3960cf56d381885c9e71cab7c8a2dfc1", null ],
     [ "circleSegments", "classNoteSettings.html#a40b2a7442ed382dadeec5526ede81733", null ],
     [ "circleTrailFillColor", "classNoteSettings.html#a38c5339f831fb0622ce813435f81c080", null ],
+    [ "circleTrailGlowColor", "classNoteSettings.html#a36729ab14d0ebccea61a833a8118cd6e", null ],
     [ "circleTrailGoodFlashColor", "classNoteSettings.html#a518e89c787433cc320824b79c360602a", null ],
     [ "circleTrailHeadOutlineColor", "classNoteSettings.html#aae8a428f599fd19e348e08aad15e7aa7", null ],
     [ "circleTrailLeadFillColor", "classNoteSettings.html#ae04d1d949da38b402b93c1b55f6d42d3", null ],
