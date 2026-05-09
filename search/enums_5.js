@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['timemode_0',['TimeMode',['../classLevelChartData.html#a0b5ea89b64e3c7efb60288b5593edca9',1,'LevelChartData']]]
+  ['songsortmode_0',['SongSortMode',['../CanvasSongSelectMenuController_8cs.html#a498686254a0df72319cf3ba449331a8a',1,'CanvasSongSelectMenuController.cs']]],
+  ['squarenotetype_1',['SquareNoteType',['../namespaceNotes_1_1Square.html#acc0b247d28aaa3ac0896465f70607ba2',1,'Notes::Square']]]
 ];

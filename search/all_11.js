@@ -31,10 +31,11 @@ var searchData=
   ['resultsmenuactions_28',['resultsmenuactions',['../classParrythmInputActions_1_1ResultsMenuActions.html#ad5b243462adafc4a52a496abf5dcb4df',1,'ParrythmInputActions.ResultsMenuActions.ResultsMenuActions()'],['../classParrythmInputActions_1_1ResultsMenuActions.html',1,'ParrythmInputActions.ResultsMenuActions']]],
   ['resultsui_29',['resultsui',['../classResultsUI.html',1,'ResultsUI'],['../classChartEndWatcher.html#abf3f06dd69ccbd0e16a3fee644f8f394',1,'ChartEndWatcher.resultsUI'],['../classGameBootstrap.html#a018a5f7a1f5c0fa949aedca1ac46b51c',1,'GameBootstrap.resultsUI']]],
   ['resultsui_2ecs_30',['ResultsUI.cs',['../ResultsUI_8cs.html',1,'']]],
-  ['rightclick_31',['RightClick',['../classParrythmInputActions_1_1UIActions.html#a2cb5e15f9556590d5eff209cfcdfaf7b',1,'ParrythmInputActions::UIActions']]],
-  ['root_32',['root',['../classMenuController_1_1MenuItem.html#a81eb51a2e8d2da578defca18fa238095',1,'MenuController.MenuItem.root'],['../classDifficultyStrip.html#a827803598b38757f65ad66c54b949cb5',1,'DifficultyStrip.root']]],
-  ['rootdirectory_33',['RootDirectory',['../classGameSettingsSavePaths.html#ab9259b5e9a0c89ab65fa352a096b17bb',1,'GameSettingsSavePaths']]],
-  ['roundcaps_34',['roundCaps',['../classUITrailGraphic.html#a5fff1698baff1adff759249f2185ba92',1,'UITrailGraphic']]],
-  ['router_35',['router',['../classNoteBase.html#afe6e6bbc9b77e5c80eaaeb5c48c4a35c',1,'NoteBase']]],
-  ['rows_36',['rows',['../classGridManager.html#a7a965b828e1b175ffd9151629ea50e2a',1,'GridManager']]]
+  ['right_31',['Right',['../classBulletNote.html#a34dae04d2d7cf44ab823c5b2ac55b83ba92b09c7c48c520c3c55e497875da437c',1,'BulletNote']]],
+  ['rightclick_32',['RightClick',['../classParrythmInputActions_1_1UIActions.html#a2cb5e15f9556590d5eff209cfcdfaf7b',1,'ParrythmInputActions::UIActions']]],
+  ['root_33',['root',['../classMenuController_1_1MenuItem.html#a81eb51a2e8d2da578defca18fa238095',1,'MenuController.MenuItem.root'],['../classDifficultyStrip.html#a827803598b38757f65ad66c54b949cb5',1,'DifficultyStrip.root']]],
+  ['rootdirectory_34',['RootDirectory',['../classGameSettingsSavePaths.html#ab9259b5e9a0c89ab65fa352a096b17bb',1,'GameSettingsSavePaths']]],
+  ['roundcaps_35',['roundCaps',['../classUITrailGraphic.html#a5fff1698baff1adff759249f2185ba92',1,'UITrailGraphic']]],
+  ['router_36',['router',['../classNoteBase.html#afe6e6bbc9b77e5c80eaaeb5c48c4a35c',1,'NoteBase']]],
+  ['rows_37',['rows',['../classGridManager.html#a7a965b828e1b175ffd9151629ea50e2a',1,'GridManager']]]
 ];

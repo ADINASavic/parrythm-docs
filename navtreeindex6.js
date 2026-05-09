@@ -1,5 +1,7 @@
 var NAVTREEINDEX6 =
 {
+"classSongMeta.html#a5fef9d1a427f9685a448f746c835186d":[1,0,91,10],
+"classSongMeta.html#a6340cfbb839855b965bbabd204862fa2":[1,0,91,11],
 "classSongMeta.html#a6d6c40d4ad6c0a4864642bd97f27766f":[1,0,91,4],
 "classSongMeta.html#a70a785848cf7e3705b7a5a18f0476a53":[1,0,91,13],
 "classSongMeta.html#a7960e0d180debb400d2bb01fc926f78e":[1,0,91,6],
@@ -78,8 +80,8 @@ var NAVTREEINDEX6 =
 "functions_enum.html":[1,3,3],
 "functions_evnt.html":[1,3,5],
 "functions_f.html":[1,3,0,5],
-"functions_func.html":[1,3,1,0],
 "functions_func.html":[1,3,1],
+"functions_func.html":[1,3,1,0],
 "functions_func_b.html":[1,3,1,1],
 "functions_func_c.html":[1,3,1,2],
 "functions_func_d.html":[1,3,1,3],

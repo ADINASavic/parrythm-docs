@@ -1,5 +1,7 @@
 var NAVTREEINDEX1 =
 {
+"classCanvasSongSelectMenuController.html#a71f0dd47e271682e04515963d46031b2":[1,0,14,6],
+"classCanvasSongSelectMenuController.html#aab2eea9a62256930eac4dba193a96a10":[1,0,14,16],
 "classCanvasSongSelectMenuController.html#aabfcf7a3a1511a92f6782812819e6f9b":[1,0,14,2],
 "classCanvasSongSelectMenuController.html#aade48e4a11b56d716ba48daa4c74b0c9":[1,0,14,5],
 "classCanvasSongSelectMenuController.html#ac2cf19b293bdb19a19d65c98eee71080":[1,0,14,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX1 =
 "classGaugeManager.html#a04c1c0605753e4e14e54a0ebc39da754":[1,0,36,0],
 "classGaugeManager.html#a05ed51628e4efdd4521cca7c3ca67da2":[1,0,36,9],
 "classGaugeManager.html#a31883008fbe131f5077cc627f646b929":[1,0,36,1],
-"classGaugeManager.html#a3c4195535762782c37c65a2e704ce0fd":[1,0,36,12],
-"classGaugeManager.html#a5057754b0be2c989c571153449ea279e":[1,0,36,19],
-"classGaugeManager.html#a602d4b010665292abc17ec7b17849c9a":[1,0,36,2]
+"classGaugeManager.html#a3c4195535762782c37c65a2e704ce0fd":[1,0,36,12]
 };

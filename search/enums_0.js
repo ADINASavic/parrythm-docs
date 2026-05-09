@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['gaugejudgement_0',['GaugeJudgement',['../IGaugeCommand_8cs.html#a40492e94222bf203cfa823f5cf7594fb',1,'IGaugeCommand.cs']]]
+  ['facingaxis_0',['FacingAxis',['../classBulletNote.html#a34dae04d2d7cf44ab823c5b2ac55b83b',1,'BulletNote']]]
 ];

@@ -1,5 +1,9 @@
 var classBulletNote =
 [
+    [ "FacingAxis", "classBulletNote.html#a34dae04d2d7cf44ab823c5b2ac55b83b", [
+      [ "Up", "classBulletNote.html#a34dae04d2d7cf44ab823c5b2ac55b83ba258f49887ef8d14ac268c92b02503aaa", null ],
+      [ "Right", "classBulletNote.html#a34dae04d2d7cf44ab823c5b2ac55b83ba92b09c7c48c520c3c55e497875da437c", null ]
+    ] ],
     [ "NotifySliderOverlap", "classBulletNote.html#ab4afaa54ad1aae24e3dab4a25d25a859", null ],
     [ "ActiveBullets", "classBulletNote.html#ad8f1c6324882c34ed0301e7ff0bfa09f", null ],
     [ "bossTarget", "classBulletNote.html#ac33c9877f0f0f07d6a0c476091ede349", null ],
@@ -9,11 +13,10 @@ var classBulletNote =
     [ "despawnPos", "classBulletNote.html#a880aeda157ceea977c970aee8fa46518", null ],
     [ "dockPos", "classBulletNote.html#a915ce84157a52c8fe9b6be6dd97d7141", null ],
     [ "dockToDespawnDuration", "classBulletNote.html#a0b76528e5236fb90cf70c476b2e7fae7", null ],
+    [ "facingAxis", "classBulletNote.html#a3b431a481454b6beb677b0b1c9323290", null ],
     [ "judge", "classBulletNote.html#a01d3141a7268e6968df305d251a7f7ee", null ],
     [ "normalSprite", "classBulletNote.html#ace69c9f4a0d44b031139332a82526cac", null ],
     [ "parriedSprite", "classBulletNote.html#a7f50149add7584775c024f2086b4b7e4", null ],
-    [ "parryKickDistanceRatio", "classBulletNote.html#abcf554bc421179f3df584786fe0278f0", null ],
-    [ "parryKickTime", "classBulletNote.html#a62e46c44f1e1cf2d419b8d2b495239ec", null ],
     [ "perfectFlyAlpha", "classBulletNote.html#a518a037a8390897be5f8919798a16f2c", null ],
     [ "perfectFlyOffscreenPadding", "classBulletNote.html#a680d3a1b3f51c293bef019dcf5adf1f0", null ],
     [ "perfectFlyScale", "classBulletNote.html#ae0ca93e26e90632af9da2c3435a48f02", null ],
