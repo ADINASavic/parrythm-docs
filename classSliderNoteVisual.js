@@ -5,6 +5,7 @@ var classSliderNoteVisual =
     [ "EnableFollow", "classSliderNoteVisual.html#ad71f41eff1fbe530e0bc2bed0c7ec80b", null ],
     [ "EnterFollowLeadFill", "classSliderNoteVisual.html#adc7e48d20b0ff53fe3d5da36a91276e1", null ],
     [ "HideApproach", "classSliderNoteVisual.html#a8e9adb8f80e1bf6555f64ca6c467f1ed", null ],
+    [ "PlayPerfectAfterglow", "classSliderNoteVisual.html#adf1caaa65eff50c3b423a944570d674a", null ],
     [ "SetArmedJointIndex", "classSliderNoteVisual.html#a37bc77425ecc98b42a556b43676ed22d", null ],
     [ "SetHead", "classSliderNoteVisual.html#af225e15b4f0c9c8af6d4d37073dd158b", null ],
     [ "SetJointProgresses", "classSliderNoteVisual.html#ad62aff8c625efddf980bc34aa23b01c6", null ],
