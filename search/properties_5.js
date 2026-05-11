@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['gameplaysettingspath_0',['GameplaySettingsPath',['../classGameSettingsSavePaths.html#a56c785ae8db23d648d233b684faacce7',1,'GameSettingsSavePaths']]],
+  ['gameplaysettingspath_0',['GameplaySettingsPath',['../classGameSavePaths.html#a81f65d9b9a23b7a5e47ba64be24df74c',1,'GameSavePaths']]],
   ['gauge_1',['Gauge',['../classGaugeManager.html#aedac5a6c56f5fba3d55ea4e0e49db048',1,'GaugeManager']]],
   ['ghostcells_2',['GhostCells',['../classKeyboardInputManager.html#a64f8105b089fb8caaf23aa95cccd1cc3',1,'KeyboardInputManager']]],
   ['goodcount_3',['GoodCount',['../classJudge.html#abd8a272c7c173eaffd84cadb9c2b73ef',1,'Judge']]],

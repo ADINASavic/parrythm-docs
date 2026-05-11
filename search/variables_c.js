@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['manifestfilename_0',['ManifestFileName',['../classGameSettingsSavePaths.html#a0663d4dd68c8288fc4a5031a5601ea39',1,'GameSettingsSavePaths']]],
+  ['manifestfilename_0',['ManifestFileName',['../classGameSavePaths.html#a118df65e8e6ea6c5ed7869981e9ce6e9',1,'GameSavePaths']]],
   ['master_1',['Master',['../classDifficultyColorPalette.html#a4abb5c6234fefc577f4858c141bc4365',1,'DifficultyColorPalette']]],
   ['matglow_2',['matGlow',['../classNotes_1_1Square_1_1SquareVisualBase.html#ad287d56ec52c0fe2b965c661c155d463',1,'Notes::Square::SquareVisualBase']]],
   ['matmain_3',['matMain',['../classNotes_1_1Square_1_1SquareVisualBase.html#a46b8562a65abd0927c197bb7eb8c0124',1,'Notes::Square::SquareVisualBase']]],
@@ -15,10 +15,10 @@ var searchData=
   ['minhalfwidth_12',['minHalfWidth',['../classSliderNoteVisual.html#ab558452fb5ee09ffc75c8f8954389ad3',1,'SliderNoteVisual']]],
   ['minpixelwidth_13',['minPixelWidth',['../classUITrailGraphic.html#a48f488185be6a629c684370f0d193548',1,'UITrailGraphic']]],
   ['minsegmentpixels_14',['minSegmentPixels',['../classUITrailGraphic.html#afc8c8352473fe710ecece28d3cf1fc0a',1,'UITrailGraphic']]],
-  ['miss_15',['miss',['../classBattleSpriteReaction.html#a0e1961800cc7f65cd5f44bbb51281630',1,'BattleSpriteReaction']]],
+  ['miss_15',['miss',['../classBattleSpriteReaction.html#a0e1961800cc7f65cd5f44bbb51281630',1,'BattleSpriteReaction.miss'],['../classLeaderboardRecord.html#a320733500b933d90ce5920ed58f68754',1,'LeaderboardRecord.miss'],['../classLeaderboardScoreUploadDto.html#ab7cf807cae0bbe0a838ea1502577597c',1,'LeaderboardScoreUploadDto.miss'],['../classLocalScoreRecord.html#aaeec6bfcbeea165316a13625e9133508',1,'LocalScoreRecord.miss']]],
   ['misscolor_16',['misscolor',['../classJudge.html#abfa9916846e295536f6693bb907ce86c',1,'Judge.missColor'],['../classCircleNoteVisual.html#a9fa3024db85641d9b9f3093fd5bb1279',1,'CircleNoteVisual.missColor']]],
   ['misscounttext_17',['missCountText',['../classJudge.html#a657c0764c52dcdac0694cbbe81c8ec13',1,'Judge']]],
-  ['missfadeduration_18',['missfadeduration',['../classCircleNoteVisual.html#a4f2821055b7e424500799bd8ba567e72',1,'CircleNoteVisual.missFadeDuration'],['../classNotes_1_1Square_1_1SquareVisualBase.html#a002997836fb24da0abe8a23e7ab0aee4',1,'Notes.Square.SquareVisualBase.missFadeDuration']]],
+  ['missfadeduration_18',['missfadeduration',['../classNotes_1_1Square_1_1SquareVisualBase.html#a002997836fb24da0abe8a23e7ab0aee4',1,'Notes.Square.SquareVisualBase.missFadeDuration'],['../classCircleNoteVisual.html#a4f2821055b7e424500799bd8ba567e72',1,'CircleNoteVisual.missFadeDuration']]],
   ['missgaugeloss_19',['missGaugeLoss',['../classGaugeManager.html#adff59e0dd7e548491aa3755f40c3ca69',1,'GaugeManager']]],
   ['misstext_20',['missText',['../classResultsUI.html#a86ab4b72c4a76e90bdfc96083e3db901',1,'ResultsUI']]],
   ['mousesensitivity_21',['mouseSensitivity',['../classNoteSettings.html#a9e62f4658f19a360eaeca46ec990abf8',1,'NoteSettings']]],

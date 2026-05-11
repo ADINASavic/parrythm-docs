@@ -2,13 +2,14 @@ var hierarchy =
 [
     [ "AppDataPaths", "classAppDataPaths.html", null ],
     [ "ChartEventDispatcher", "classChartEventDispatcher.html", null ],
+    [ "ChartHashUtility", "classChartHashUtility.html", null ],
     [ "ChartTimelineRuntime", "classChartTimelineRuntime.html", null ],
     [ "CircleNoteInit", "structCircleNoteInit.html", null ],
     [ "DifficultyColorPalette", "classDifficultyColorPalette.html", null ],
     [ "DifficultyInfo", "classDifficultyInfo.html", null ],
     [ "EaseUtil", "classEaseUtil.html", null ],
+    [ "GameSavePaths", "classGameSavePaths.html", null ],
     [ "GameSettingsSaveManifest", "classGameSettingsSaveManifest.html", null ],
-    [ "GameSettingsSavePaths", "classGameSettingsSavePaths.html", null ],
     [ "GameSettingsSaveService", "classGameSettingsSaveService.html", null ],
     [ "Graphic", null, [
       [ "UITrailGraphic", "classUITrailGraphic.html", null ]
@@ -23,6 +24,9 @@ var hierarchy =
     ] ],
     [ "IGaugeCommand", "interfaceIGaugeCommand.html", [
       [ "GaugeManager", "classGaugeManager.html", null ]
+    ] ],
+    [ "ILeaderboardService", "interfaceILeaderboardService.html", [
+      [ "LocalLeaderboardSaveService", "classLocalLeaderboardSaveService.html", null ]
     ] ],
     [ "ParrythmInputActions.IngameGameplayActions", "classParrythmInputActions_1_1IngameGameplayActions.html", null ],
     [ "INote", "interfaceINote.html", null ],
@@ -46,9 +50,15 @@ var hierarchy =
       [ "ChartEndWatcher", "classChartEndWatcher.html", null ]
     ] ],
     [ "Notes.Lane.LaneUtil", "classNotes_1_1Lane_1_1LaneUtil.html", null ],
-    [ "LeaderboardEntry", "classLeaderboardEntry.html", null ],
+    [ "LeaderboardRecord", "classLeaderboardRecord.html", null ],
+    [ "LeaderboardScoreUploadDto", "classLeaderboardScoreUploadDto.html", null ],
+    [ "LeaderboardServiceProvider", "classLeaderboardServiceProvider.html", null ],
     [ "LevelChartData", "classLevelChartData.html", null ],
     [ "LevelChartJsonTool", "classLevelChartJsonTool.html", null ],
+    [ "LocalLeaderboardSaveData", "classLocalLeaderboardSaveData.html", null ],
+    [ "LocalScoreRecord", "classLocalScoreRecord.html", null ],
+    [ "LocalScoreSaveData", "classLocalScoreSaveData.html", null ],
+    [ "LocalScoreSaveService", "classLocalScoreSaveService.html", null ],
     [ "LocalSettingsSaveStorage", "classLocalSettingsSaveStorage.html", null ],
     [ "MenuController.MenuItem", "classMenuController_1_1MenuItem.html", null ],
     [ "MeshUtil", "classMeshUtil.html", null ],
@@ -128,9 +138,7 @@ var hierarchy =
     [ "ProfileSaveData", "classProfileSaveData.html", null ],
     [ "ParrythmInputActions.ResultsMenuActions", "classParrythmInputActions_1_1ResultsMenuActions.html", null ],
     [ "SaveIdentity", "classSaveIdentity.html", null ],
-    [ "ScoreAPI", "classScoreAPI.html", null ],
-    [ "ScoreData", "classScoreData.html", null ],
-    [ "ScoreJsonHelper", "classScoreJsonHelper.html", null ],
+    [ "ScoreGradeUtility", "classScoreGradeUtility.html", null ],
     [ "ScriptableObject", null, [
       [ "NoteSettings", "classNoteSettings.html", null ]
     ] ],

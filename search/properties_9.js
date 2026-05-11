@@ -11,7 +11,9 @@ var searchData=
   ['lane9_8',['Lane9',['../classParrythmInputActions_1_1IngameGameplayActions.html#a54f09e0148df5381ad0e9a0967554704',1,'ParrythmInputActions::IngameGameplayActions']]],
   ['leadtime_9',['LeadTime',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a88e3f57c3428c4e7e72a484340831056',1,'Notes::Square::SquareNoteTimeline']]],
   ['linecount_10',['LineCount',['../classGridDrawer.html#ade65dafd023bdad2cafa9d47b4980f68',1,'GridDrawer']]],
-  ['longabsencegrace_11',['LongAbsenceGrace',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a620963cef01ccf87d03f5f97a886365c',1,'Notes::Square::SquareNoteTimeline']]],
-  ['longendtime_12',['LongEndTime',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#ae5d7ba30959a4641c84558d7ccdc1c01',1,'Notes::Square::SquareNoteTimeline']]],
-  ['longshrinkstart_13',['LongShrinkStart',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#aafa229da59d60502d33a119a2185a12c',1,'Notes::Square::SquareNoteTimeline']]]
+  ['localleaderboardspath_11',['LocalLeaderboardsPath',['../classGameSavePaths.html#aae9bd8c2167ab8e2830b6d15a9b31ab3',1,'GameSavePaths']]],
+  ['localscorespath_12',['LocalScoresPath',['../classGameSavePaths.html#af2ae1632623dd5805202afaaf6c0d58a',1,'GameSavePaths']]],
+  ['longabsencegrace_13',['LongAbsenceGrace',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a620963cef01ccf87d03f5f97a886365c',1,'Notes::Square::SquareNoteTimeline']]],
+  ['longendtime_14',['LongEndTime',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#ae5d7ba30959a4641c84558d7ccdc1c01',1,'Notes::Square::SquareNoteTimeline']]],
+  ['longshrinkstart_15',['LongShrinkStart',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#aafa229da59d60502d33a119a2185a12c',1,'Notes::Square::SquareNoteTimeline']]]
 ];

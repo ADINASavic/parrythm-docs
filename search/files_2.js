@@ -8,11 +8,12 @@ var searchData=
   ['carouselcontroller_2ecs_5',['CarouselController.cs',['../CarouselController_8cs.html',1,'']]],
   ['chartendwatcher_2ecs_6',['ChartEndWatcher.cs',['../ChartEndWatcher_8cs.html',1,'']]],
   ['charteventdispatcher_2ecs_7',['ChartEventDispatcher.cs',['../ChartEventDispatcher_8cs.html',1,'']]],
-  ['chartplayerfmod_2ecs_8',['ChartPlayerFMOD.cs',['../ChartPlayerFMOD_8cs.html',1,'']]],
-  ['charttimelineruntime_2ecs_9',['ChartTimeLineRuntime.cs',['../ChartTimeLineRuntime_8cs.html',1,'']]],
-  ['circlenote_2ecs_10',['CircleNote.cs',['../CircleNote_8cs.html',1,'']]],
-  ['circlenoteinit_2ecs_11',['CircleNoteInit.cs',['../CircleNoteInit_8cs.html',1,'']]],
-  ['circlenotevisual_2ecs_12',['CircleNoteVisual.cs',['../CircleNoteVisual_8cs.html',1,'']]],
-  ['circletaphandler_2ecs_13',['CircleTapHandler.cs',['../CircleTapHandler_8cs.html',1,'']]],
-  ['cleancursor_2ecs_14',['CleanCursor.cs',['../CleanCursor_8cs.html',1,'']]]
+  ['charthashutility_2ecs_8',['ChartHashUtility.cs',['../ChartHashUtility_8cs.html',1,'']]],
+  ['chartplayerfmod_2ecs_9',['ChartPlayerFMOD.cs',['../ChartPlayerFMOD_8cs.html',1,'']]],
+  ['charttimelineruntime_2ecs_10',['ChartTimeLineRuntime.cs',['../ChartTimeLineRuntime_8cs.html',1,'']]],
+  ['circlenote_2ecs_11',['CircleNote.cs',['../CircleNote_8cs.html',1,'']]],
+  ['circlenoteinit_2ecs_12',['CircleNoteInit.cs',['../CircleNoteInit_8cs.html',1,'']]],
+  ['circlenotevisual_2ecs_13',['CircleNoteVisual.cs',['../CircleNoteVisual_8cs.html',1,'']]],
+  ['circletaphandler_2ecs_14',['CircleTapHandler.cs',['../CircleTapHandler_8cs.html',1,'']]],
+  ['cleancursor_2ecs_15',['CleanCursor.cs',['../CleanCursor_8cs.html',1,'']]]
 ];

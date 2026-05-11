@@ -7,5 +7,5 @@ var searchData=
   ['pointerposition_4',['PointerPosition',['../classParrythmInputActions_1_1IngameGameplayActions.html#aa918ecd53eee9b7b0f3e68ba472c3de5',1,'ParrythmInputActions::IngameGameplayActions']]],
   ['pointerrightclick_5',['PointerRightClick',['../classParrythmInputActions_1_1IngameGameplayActions.html#aa11ba1b5da98a67fb5981beddb9aabe3',1,'ParrythmInputActions::IngameGameplayActions']]],
   ['primarycell_6',['PrimaryCell',['../classKeyboardInputManager.html#a573c8aec132657efe0a66d8f70f598e9',1,'KeyboardInputManager']]],
-  ['profilepath_7',['ProfilePath',['../classGameSettingsSavePaths.html#a1fc7092e3e178883307c3cdf529ba286',1,'GameSettingsSavePaths']]]
+  ['profilepath_7',['ProfilePath',['../classGameSavePaths.html#aae307387deb85dfbdc30362242eb478d',1,'GameSavePaths']]]
 ];

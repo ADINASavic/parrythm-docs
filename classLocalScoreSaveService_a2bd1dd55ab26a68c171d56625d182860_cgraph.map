@@ -1,0 +1,9 @@
+<map id="LocalScoreSaveService.Save" name="LocalScoreSaveService.Save">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,213,70"/>
+<area shape="rect" id="Node000002" href="$classLocalSettingsSaveStorage.html#aad8de471d4ed920a72d56a210230363a" title=" " alt="" coords="261,37,456,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,55,247,55,247,60,213,60"/>
+<area shape="rect" id="Node000003" href="$classLocalSettingsSaveStorage.html#a83f349c86c884c85ae233d2ee1600627" title=" " alt="" coords="504,5,699,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="456,42,490,37,491,43,457,47"/>
+<area shape="rect" id="Node000004" href="$classLocalSettingsSaveStorage.html#a04098d037e8125d33736346f2199394e" title=" " alt="" coords="504,69,699,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="457,68,491,72,490,77,456,73"/>
+</map>

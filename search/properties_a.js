@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['manifestpath_0',['ManifestPath',['../classGameSettingsSavePaths.html#ab276201ed6599b30d2235d12a03e11fd',1,'GameSettingsSavePaths']]],
+  ['manifestpath_0',['ManifestPath',['../classGameSavePaths.html#a63550fb7487311ca03758a1dd7805859',1,'GameSavePaths']]],
   ['maxgauge_1',['MaxGauge',['../classGaugeManager.html#adef0659cbb82766eed1618ebd462cf92',1,'GaugeManager']]],
   ['middleclick_2',['MiddleClick',['../classParrythmInputActions_1_1UIActions.html#a1bf28aa2c2552a51c7454736c34f6f81',1,'ParrythmInputActions::UIActions']]],
   ['misscount_3',['MissCount',['../classJudge.html#a5a96b3f044e64c7f7d97c42c81fdbfc0',1,'Judge']]],

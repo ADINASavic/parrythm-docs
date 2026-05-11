@@ -14,6 +14,7 @@ var searchData=
   ['trygetlastdowntime_11',['trygetlastdowntime',['../classKeyboardInputManager.html#a319791fff2732c8d89d0d81a196050ea',1,'KeyboardInputManager.TryGetLastDownTime()'],['../classNotes_1_1Lane_1_1LaneOccupancyProvider.html#aec9e7acb94b0c0923b806fb9d81d5077',1,'Notes.Lane.LaneOccupancyProvider.TryGetLastDownTime()']]],
   ['trypop_12',['TryPop',['../classChartTimelineRuntime.html#a442810325bd46d68737e859ab90d94bb',1,'ChartTimelineRuntime']]],
   ['trystartfromrouter_13',['TryStartFromRouter',['../classSliderNote.html#a65d82b1828370cb7d6a488488e372ae8',1,'SliderNote']]],
-  ['tryworldtocell_14',['TryWorldToCell',['../classGridManager.html#a9f0f937734f632e52c4f338b36417bf7',1,'GridManager']]],
-  ['tweento_15',['TweenTo',['../classCameraTweenTrack.html#ad8499530abd2e9dff4b4b089a7196b0f',1,'CameraTweenTrack']]]
+  ['tryupdatebest_14',['TryUpdateBest',['../classLocalScoreSaveService.html#a41cafea20dc5b7c1657158999b0f7a60',1,'LocalScoreSaveService']]],
+  ['tryworldtocell_15',['TryWorldToCell',['../classGridManager.html#a9f0f937734f632e52c4f338b36417bf7',1,'GridManager']]],
+  ['tweento_16',['TweenTo',['../classCameraTweenTrack.html#ad8499530abd2e9dff4b4b089a7196b0f',1,'CameraTweenTrack']]]
 ];

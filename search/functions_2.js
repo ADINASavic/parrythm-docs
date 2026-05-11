@@ -11,10 +11,12 @@ var searchData=
   ['cleartrailimmediate_8',['ClearTrailImmediate',['../classUITrailGraphic.html#a3cdfe650c607aa756502b18fdfa51e00',1,'UITrailGraphic']]],
   ['clone_9',['Clone',['../classLevelChartData_1_1NoteEvent.html#a79435ec2d0f1045b0368335632221615',1,'LevelChartData::NoteEvent']]],
   ['collectcards_10',['collectcards',['../classCanvasSongSelectMenuController.html#af4d8bd4794c4e900419f6ce61fa98ab9',1,'CanvasSongSelectMenuController.CollectCards()'],['../classCarouselController.html#a8739556c067665a3ebc19a05722407d3',1,'CarouselController.CollectCards()']]],
-  ['computetotalnotes_11',['ComputeTotalNotes',['../classLevelChartData.html#a451065e2c1c36d480e84f00e8730c15e',1,'LevelChartData']]],
-  ['configure_12',['Configure',['../classNotes_1_1Square_1_1SquareNoteCore.html#a88b511c49b731233b07de46df4b37d67',1,'Notes::Square::SquareNoteCore']]],
-  ['configurecard_13',['configurecard',['../classCanvasSongSelectMenuController.html#aabfcf7a3a1511a92f6782812819e6f9b',1,'CanvasSongSelectMenuController.ConfigureCard()'],['../classCarouselController.html#a0f228125f0e7e4508db2cd9be53b6c75',1,'CarouselController.ConfigureCard()'],['../classSampleCarouselController.html#a376d44941c9bc1b5337ce4c06eaa7818',1,'SampleCarouselController.ConfigureCard()']]],
-  ['configuretrail_14',['ConfigureTrail',['../classCircleNote.html#a67c48881bf1d9a1a89873984334f3a1b',1,'CircleNote']]],
-  ['confirmselection_15',['ConfirmSelection',['../classCarouselController.html#a5bf8073a587046e4fc1c09024ccd78dd',1,'CarouselController']]],
-  ['createdefaultsclone_16',['CreateDefaultsClone',['../classNoteSettingsDefaultsProvider.html#a8480479960e826498d3bbb3745dfa6ec',1,'NoteSettingsDefaultsProvider']]]
+  ['computecharthash_11',['ComputeChartHash',['../classChartHashUtility.html#ac291a077d994498ee96230dc421c72bd',1,'ChartHashUtility']]],
+  ['computetotalnotes_12',['ComputeTotalNotes',['../classLevelChartData.html#a451065e2c1c36d480e84f00e8730c15e',1,'LevelChartData']]],
+  ['configure_13',['Configure',['../classNotes_1_1Square_1_1SquareNoteCore.html#a88b511c49b731233b07de46df4b37d67',1,'Notes::Square::SquareNoteCore']]],
+  ['configurecard_14',['configurecard',['../classCanvasSongSelectMenuController.html#aabfcf7a3a1511a92f6782812819e6f9b',1,'CanvasSongSelectMenuController.ConfigureCard()'],['../classCarouselController.html#a0f228125f0e7e4508db2cd9be53b6c75',1,'CarouselController.ConfigureCard()'],['../classSampleCarouselController.html#a376d44941c9bc1b5337ce4c06eaa7818',1,'SampleCarouselController.ConfigureCard()']]],
+  ['configuretrail_15',['ConfigureTrail',['../classCircleNote.html#a67c48881bf1d9a1a89873984334f3a1b',1,'CircleNote']]],
+  ['confirmselection_16',['ConfirmSelection',['../classCarouselController.html#a5bf8073a587046e4fc1c09024ccd78dd',1,'CarouselController']]],
+  ['createcurrentuseruploaddto_17',['createcurrentuseruploaddto',['../interfaceILeaderboardService.html#acf06c139471f3d25219726204a37e1c4',1,'ILeaderboardService.CreateCurrentUserUploadDto()'],['../classLocalLeaderboardSaveService.html#a4b80614c4514f9ea6ded7ed72640dab4',1,'LocalLeaderboardSaveService.CreateCurrentUserUploadDto()']]],
+  ['createdefaultsclone_18',['CreateDefaultsClone',['../classNoteSettingsDefaultsProvider.html#a8480479960e826498d3bbb3745dfa6ec',1,'NoteSettingsDefaultsProvider']]]
 ];

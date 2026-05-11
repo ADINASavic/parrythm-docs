@@ -8,11 +8,12 @@ var searchData=
   ['carouselcontroller_5',['CarouselController',['../classCarouselController.html',1,'']]],
   ['chartendwatcher_6',['ChartEndWatcher',['../classChartEndWatcher.html',1,'']]],
   ['charteventdispatcher_7',['ChartEventDispatcher',['../classChartEventDispatcher.html',1,'']]],
-  ['chartplayerfmod_8',['ChartPlayerFMOD',['../classChartPlayerFMOD.html',1,'']]],
-  ['charttimelineruntime_9',['ChartTimelineRuntime',['../classChartTimelineRuntime.html',1,'']]],
-  ['circlenote_10',['CircleNote',['../classCircleNote.html',1,'']]],
-  ['circlenoteinit_11',['CircleNoteInit',['../structCircleNoteInit.html',1,'']]],
-  ['circlenotevisual_12',['CircleNoteVisual',['../classCircleNoteVisual.html',1,'']]],
-  ['circletaphandler_13',['CircleTapHandler',['../classCircleTapHandler.html',1,'']]],
-  ['cleancursor_14',['CleanCursor',['../classCleanCursor.html',1,'']]]
+  ['charthashutility_8',['ChartHashUtility',['../classChartHashUtility.html',1,'']]],
+  ['chartplayerfmod_9',['ChartPlayerFMOD',['../classChartPlayerFMOD.html',1,'']]],
+  ['charttimelineruntime_10',['ChartTimelineRuntime',['../classChartTimelineRuntime.html',1,'']]],
+  ['circlenote_11',['CircleNote',['../classCircleNote.html',1,'']]],
+  ['circlenoteinit_12',['CircleNoteInit',['../structCircleNoteInit.html',1,'']]],
+  ['circlenotevisual_13',['CircleNoteVisual',['../classCircleNoteVisual.html',1,'']]],
+  ['circletaphandler_14',['CircleTapHandler',['../classCircleTapHandler.html',1,'']]],
+  ['cleancursor_15',['CleanCursor',['../classCleanCursor.html',1,'']]]
 ];

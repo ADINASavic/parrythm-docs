@@ -1,0 +1,10 @@
+<map id="LocalScoreSaveService.GetBestScore" name="LocalScoreSaveService.GetBestScore">
+<area shape="rect" id="Node000001" title=" " alt="" coords="740,29,939,69"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="882,18,867,11,839,8,815,10,801,15,796,21,798,28,793,30,790,20,798,10,814,5,839,3,868,6,884,13"/>
+<area shape="rect" id="Node000002" href="$classSongCard.html#a06a28c3c58857ebae15621eb51d9c09e" title=" " alt="" coords="489,37,692,62"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="726,52,692,52,692,47,726,47"/>
+<area shape="rect" id="Node000003" href="$classSongCard.html#a2523028659860266fe7ba20141a01041" title=" " alt="" coords="299,37,441,62"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="476,52,442,52,442,47,476,47"/>
+<area shape="rect" id="Node000004" href="$classCanvasSongSelectMenuController.html#aabfcf7a3a1511a92f6782812819e6f9b" title=" " alt="" coords="5,29,251,69"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="285,52,251,52,251,47,285,47"/>
+</map>
