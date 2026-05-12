@@ -61,10 +61,10 @@ var NAVTREEINDEX =
 "AppDataPaths_8cs.html",
 "classCanvasSongSelectMenuController.html#a11d0392d986bdd77d3a4ee8e2b4d1428",
 "classGameSettingsSaveManifest.html",
-"classLocalLeaderboardSaveService.html#a708b11ba7f04441fc9f35b45a9ab5b00",
-"classNotes_1_1Square_1_1SquareNoteJudge.html#a625af775558ed65067119adc0466639ea6adf97f83acf6453d4a6a4b1070f3754",
-"classParrythmInputActions_1_1OutgameMenuActions.html#abded52dc41866e248c1b0c5094b7ed4c",
-"classSliderNoteVisual.html#ab4b118c90ef0a9b44675217707056b55"
+"classLocalLeaderboardSaveData.html",
+"classNotes_1_1Square_1_1SquareNoteJudge.html#a625af775558ed65067119adc0466639ea21b5c904efae98578bcdf2c4e31ca749",
+"classParrythmInputActions_1_1OutgameMenuActions.html#a46288b6cd9e11750efc3b4e4556c2b97",
+"classSliderNoteVisual.html#a9cdbbd3ffcdabd6135e2d19cbcadfbaf"
 ];
 
 var SYNCONMSG = '패널 동기화를 비활성화하기 위해 클릭하십시오';
