@@ -1,14 +1,15 @@
 <map id="Assets/Features" name="Assets/Features">
-<area shape="rect" id="node2" href="dir_0cb24bd15d0ac34c8fe36efd57623041.html" title="ChartPlayerFmod" alt="" coords="1027,63,1162,88"/>
-<area shape="rect" id="node3" href="dir_579b7cb2c0e68cb5b8b84235a147ee6f.html" title="Global" alt="" coords="939,63,1003,88"/>
-<area shape="rect" id="node4" href="dir_330f33a3088e977f0919d5b7ac74036e.html" title="IngameScene" alt="" coords="803,63,914,88"/>
-<area shape="rect" id="node5" href="dir_09191ba0fc1ac08f103f05d8bab771af.html" title="InputSystem" alt="" coords="675,63,779,88"/>
-<area shape="rect" id="node6" href="dir_35842b31d022dcbdd5cea816c41ef326.html" title="Legacy" alt="" coords="582,63,650,88"/>
-<area shape="rect" id="node7" href="dir_1b5094f4ed63e6e1e6b7b16e67b6c4ed.html" title="Note" alt="" coords="504,63,557,88"/>
-<area shape="rect" id="node8" href="dir_4d5635bfd3bd8003de6f2e04dc48af57.html" title="OutgameScene" alt="" coords="358,63,479,88"/>
-<area shape="rect" id="node9" href="dir_4e91b6be60b69fcf89f86815cc92bf25.html" title="Parsing" alt="" coords="264,63,333,88"/>
-<area shape="rect" id="node10" href="dir_de46c42b51445eaf12cbdeca16286819.html" title="SaveSystem" alt="" coords="137,63,239,88"/>
-<area shape="rect" id="node11" href="dir_fe283edb510b3a967d72ea2326c506d4.html" title="Settings" alt="" coords="37,63,112,88"/>
-<area shape="rect" id="clust2" href="dir_9ac1b3aab64b76272112d328f2cd5995.html" alt="" coords="27,52,1276,99"/>
-<area shape="rect" id="clust1" href="dir_84bbf7b3c7f28a5a18725745e1505219.html" title="Assets" alt="" coords="16,16,1287,109"/>
+<area shape="rect" id="node2" href="dir_011374e792cd4421ccf725155d3666ae.html" title="AnimatedCharacter" alt="" coords="1186,63,1334,88"/>
+<area shape="rect" id="node3" href="dir_0cb24bd15d0ac34c8fe36efd57623041.html" title="ChartPlayerFmod" alt="" coords="1027,63,1162,88"/>
+<area shape="rect" id="node4" href="dir_579b7cb2c0e68cb5b8b84235a147ee6f.html" title="Global" alt="" coords="939,63,1003,88"/>
+<area shape="rect" id="node5" href="dir_330f33a3088e977f0919d5b7ac74036e.html" title="IngameScene" alt="" coords="803,63,914,88"/>
+<area shape="rect" id="node6" href="dir_09191ba0fc1ac08f103f05d8bab771af.html" title="InputSystem" alt="" coords="675,63,779,88"/>
+<area shape="rect" id="node7" href="dir_35842b31d022dcbdd5cea816c41ef326.html" title="Legacy" alt="" coords="582,63,650,88"/>
+<area shape="rect" id="node8" href="dir_1b5094f4ed63e6e1e6b7b16e67b6c4ed.html" title="Note" alt="" coords="504,63,557,88"/>
+<area shape="rect" id="node9" href="dir_4d5635bfd3bd8003de6f2e04dc48af57.html" title="OutgameScene" alt="" coords="358,63,479,88"/>
+<area shape="rect" id="node10" href="dir_4e91b6be60b69fcf89f86815cc92bf25.html" title="Parsing" alt="" coords="264,63,333,88"/>
+<area shape="rect" id="node11" href="dir_de46c42b51445eaf12cbdeca16286819.html" title="SaveSystem" alt="" coords="137,63,239,88"/>
+<area shape="rect" id="node12" href="dir_fe283edb510b3a967d72ea2326c506d4.html" title="Settings" alt="" coords="37,63,112,88"/>
+<area shape="rect" id="clust2" href="dir_9ac1b3aab64b76272112d328f2cd5995.html" alt="" coords="27,52,1448,99"/>
+<area shape="rect" id="clust1" href="dir_84bbf7b3c7f28a5a18725745e1505219.html" title="Assets" alt="" coords="16,16,1459,109"/>
 </map>

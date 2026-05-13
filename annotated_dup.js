@@ -17,6 +17,7 @@ var annotated_dup =
         [ "SquareVisualTrail", "classNotes_1_1Square_1_1SquareVisualTrail.html", "classNotes_1_1Square_1_1SquareVisualTrail" ]
       ] ]
     ] ],
+    [ "AnimatedCharacterController", "classAnimatedCharacterController.html", "classAnimatedCharacterController" ],
     [ "AppDataPaths", "classAppDataPaths.html", "classAppDataPaths" ],
     [ "ApproachCircleVisual", "classApproachCircleVisual.html", "classApproachCircleVisual" ],
     [ "BackgroundVideoSync", "classBackgroundVideoSync.html", "classBackgroundVideoSync" ],
