@@ -26,6 +26,5 @@ var searchData=
   ['inputtimeoffsetslider_23',['inputTimeOffsetSlider',['../classSettingsCardOffset.html#a469db39ceb602a79ed5c52e9564bc147',1,'SettingsCardOffset']]],
   ['intropanelcanvasgroup_24',['introPanelCanvasGroup',['../classCanvasSongIntroController.html#ac09b4663c8b6a50a22fd196431b7ef0e',1,'CanvasSongIntroController']]],
   ['islong_25',['isLong',['../classLevelChartData_1_1NoteEvent.html#ac1709378fa69affb5b6a88ea4580ff72',1,'LevelChartData::NoteEvent']]],
-  ['istrail_26',['isTrail',['../classLevelChartData_1_1NoteEvent.html#ad5fb2ddd29dc178d881ff51d0cb7bc81',1,'LevelChartData::NoteEvent']]],
-  ['items_27',['items',['../classMenuController.html#ada8e52d1942cd5e5250b7c85427b9c63',1,'MenuController']]]
+  ['istrail_26',['isTrail',['../classLevelChartData_1_1NoteEvent.html#ad5fb2ddd29dc178d881ff51d0cb7bc81',1,'LevelChartData::NoteEvent']]]
 ];

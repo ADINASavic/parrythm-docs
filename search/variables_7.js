@@ -7,14 +7,12 @@ var searchData=
   ['headoutlinesortingoffset_4',['headOutlineSortingOffset',['../classSliderNoteVisual.html#a9cdbbd3ffcdabd6135e2d19cbcadfbaf',1,'SliderNoteVisual']]],
   ['headoutlinethicknessmultiplier_5',['headoutlinethicknessmultiplier',['../classCircleNoteVisual.html#a252552b14abaa93b07ece0717448feca',1,'CircleNoteVisual.headOutlineThicknessMultiplier'],['../classSliderNoteVisual.html#a5a8a74171437d5ae161df691c656b10d',1,'SliderNoteVisual.headOutlineThicknessMultiplier']]],
   ['headsortingorder_6',['headSortingOrder',['../classSliderNoteVisual.html#a293ce99b72758f44c94a697c310735e5',1,'SliderNoteVisual']]],
-  ['height_7',['height',['../classGridManager.html#a9f0ebe8de2b0056ac8fea18a9d2233f7',1,'GridManager.height'],['../classGridDrawer.html#a1add5cd3d4fbc10e9c47b378331d0ecc',1,'GridDrawer.height']]],
+  ['height_7',['height',['../classGridDrawer.html#a1add5cd3d4fbc10e9c47b378331d0ecc',1,'GridDrawer.height'],['../classGridManager.html#a9f0ebe8de2b0056ac8fea18a9d2233f7',1,'GridManager.height']]],
   ['hideoutsideview_8',['hideOutsideView',['../classUITrailGraphic.html#a33ec290945990a8be7eec06bffd5650b',1,'UITrailGraphic']]],
   ['highlightframe_9',['highlightFrame',['../classSongCard.html#ae519842cc3d3f34833540b4dc4e8383c',1,'SongCard']]],
   ['highscorenamestext_10',['highscoreNamesText',['../classResultsUI.html#a0310eac41b4d2c367303266f0e401c69',1,'ResultsUI']]],
   ['highscorescorestext_11',['highscoreScoresText',['../classResultsUI.html#a20a1373b40d58b1b4573b792d0764201',1,'ResultsUI']]],
-  ['hit_12',['hit',['../classBattleSpriteReaction.html#ac0b6a1fc87345eb1ce1f37cc251f506e',1,'BattleSpriteReaction']]],
-  ['hitholdtime_13',['hitHoldTime',['../classBattleSpriteReaction.html#acb167e0c152b247296ea1084a0888efb',1,'BattleSpriteReaction']]],
-  ['hittime_14',['hitTime',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a6d7fdd6b7b6badb609ced38f47a5766c',1,'Notes::Square::SquareNoteTimeline']]],
-  ['holdmoveinterval_15',['holdMoveInterval',['../classCarouselController.html#a9f9c4e5a0968b4b6f9a634e6113a002e',1,'CarouselController']]],
-  ['holdtime_16',['holdTime',['../classCanvasSongIntroController.html#a759a76058b09fb33afdcfd52cd7c966d',1,'CanvasSongIntroController']]]
+  ['hittime_12',['hitTime',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a6d7fdd6b7b6badb609ced38f47a5766c',1,'Notes::Square::SquareNoteTimeline']]],
+  ['holdmoveinterval_13',['holdMoveInterval',['../classCarouselController.html#a9f9c4e5a0968b4b6f9a634e6113a002e',1,'CarouselController']]],
+  ['holdtime_14',['holdTime',['../classCanvasSongIntroController.html#a759a76058b09fb33afdcfd52cd7c966d',1,'CanvasSongIntroController']]]
 ];

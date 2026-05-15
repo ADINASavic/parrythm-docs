@@ -1,15 +1,13 @@
 <map id="GameSettingsSaveService.ClearGameplaySettings" name="GameSettingsSaveService.ClearGameplaySettings">
-<area shape="rect" id="Node000001" title=" " alt="" coords="1092,35,1291,75"/>
-<area shape="rect" id="Node000002" href="$classNoteSettingsPatchRepository.html#ad4728f3df9212db724bca5bc64536eb0" title="Deletes the stored note&#45;settings patch JSON." alt="" coords="831,35,1044,75"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1078,57,1044,57,1044,52,1078,52"/>
-<area shape="rect" id="Node000003" href="$classNoteSettingsIO.html#a1cbbeced8aee7b33b168d1e64fc19beb" title="Deletes the saved note&#45;settings patch and restores default behavior." alt="" coords="568,5,767,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="817,44,767,39,767,33,817,39"/>
-<area shape="rect" id="Node000004" href="$classNoteSettingsIO.html#ab61b9ef5a846cd96c8955a99e67fd64b" title="Returns runtime note settings by applying the saved patch onto the defaults." alt="" coords="552,70,783,95"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="817,70,783,73,783,68,817,64"/>
-<area shape="rect" id="Node000005" href="$classSongSelectNoteSettingsPreview.html#a8c21ad47a3234197e778d47325df94c4" title=" " alt="" coords="271,31,504,71"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="542,71,504,67,504,61,543,66"/>
-<area shape="rect" id="Node000006" href="$classParrythmVirtualPointer.html#a5321056429496fa487ba584ac7e68fef" title=" " alt="" coords="276,95,499,135"/>
-<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="543,100,499,105,499,99,542,94"/>
-<area shape="rect" id="Node000007" href="$classParrythmVirtualPointer.html#a0c7dc2a9e6ccd3d6581c60daf0beb0b3" title=" " alt="" coords="5,102,223,127"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="262,117,223,117,223,112,262,112"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="1081,35,1280,75"/>
+<area shape="rect" id="Node000002" href="$classNoteSettingsPatchRepository.html#ad4728f3df9212db724bca5bc64536eb0" title="Deletes the stored note&#45;settings patch JSON." alt="" coords="820,35,1033,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1067,57,1034,57,1034,52,1067,52"/>
+<area shape="rect" id="Node000003" href="$classNoteSettingsIO.html#a1cbbeced8aee7b33b168d1e64fc19beb" title="Deletes the saved note&#45;settings patch and restores default behavior." alt="" coords="557,5,756,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="806,44,756,39,757,33,807,39"/>
+<area shape="rect" id="Node000004" href="$classNoteSettingsIO.html#ab61b9ef5a846cd96c8955a99e67fd64b" title="Returns runtime note settings by applying the saved patch onto the defaults." alt="" coords="541,70,772,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="807,70,772,73,772,68,806,64"/>
+<area shape="rect" id="Node000005" href="$classParrythmVirtualPointer.html#a5321056429496fa487ba584ac7e68fef" title=" " alt="" coords="271,63,493,103"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="527,85,494,85,494,80,527,80"/>
+<area shape="rect" id="Node000006" href="$classParrythmVirtualPointer.html#a0c7dc2a9e6ccd3d6581c60daf0beb0b3" title=" " alt="" coords="5,70,223,95"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="257,85,223,85,223,80,257,80"/>
 </map>

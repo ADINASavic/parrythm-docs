@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['background_0',['background',['../classMenuController_1_1MenuItem.html#a32a8660f3508e2ea28fd5431c62a593c',1,'MenuController.MenuItem.background'],['../classFixed16x9Camera.html#aed7a7c59e3434a55d67c0548c1aef6f4',1,'Fixed16x9Camera.background']]],
+  ['background_0',['background',['../classFixed16x9Camera.html#aed7a7c59e3434a55d67c0548c1aef6f4',1,'Fixed16x9Camera']]],
   ['backgroundmenugroup_1',['backgroundMenuGroup',['../classCanvasGameIntroController.html#a7ea1778c32b5a47249f1063bebc9f8f8',1,'CanvasGameIntroController']]],
   ['badgeprefab_2',['badgePrefab',['../classDifficultyStrip.html#aef5880093fc4aae2e9362c1db77e1116',1,'DifficultyStrip']]],
   ['banknames_3',['bankNames',['../classFmodMusicController.html#a995ac72416d378187e34f4a550b95b8c',1,'FmodMusicController']]],
@@ -8,7 +8,7 @@ var searchData=
   ['basesoftnessmultiplier_5',['baseSoftnessMultiplier',['../classSliderNoteVisual.html#ac867a93a03bb20b8e429f08fc1964ffb',1,'SliderNoteVisual']]],
   ['basethicknessmultiplier_6',['baseThicknessMultiplier',['../classSliderNoteVisual.html#a891b04126349f1c54317091378fd09b4',1,'SliderNoteVisual']]],
   ['basetracksortingorder_7',['baseTrackSortingOrder',['../classSliderNoteVisual.html#a4bee464493ed0160d5581e625e1e65ae',1,'SliderNoteVisual']]],
-  ['beat_8',['beat',['../classLevelChartData_1_1TimeSigPoint.html#a6b93aa3189e92d7c13234798961e4ed4',1,'LevelChartData.TimeSigPoint.beat'],['../classLevelChartData_1_1TempoPoint.html#a2b2e97db995c016d601389cc6a9dcf2b',1,'LevelChartData.TempoPoint.beat']]],
+  ['beat_8',['beat',['../classLevelChartData_1_1TempoPoint.html#a2b2e97db995c016d601389cc6a9dcf2b',1,'LevelChartData.TempoPoint.beat'],['../classLevelChartData_1_1TimeSigPoint.html#a6b93aa3189e92d7c13234798961e4ed4',1,'LevelChartData.TimeSigPoint.beat']]],
   ['bg_9',['bg',['../classDifficultyBlock.html#acb2e59198c997f4e6f863942ced5730b',1,'DifficultyBlock']]],
   ['bgvideo_10',['bgVideo',['../classSongMeta.html#aecea45bf598f74f9ec2bb7cdbec38629',1,'SongMeta']]],
   ['bodygradientinneralphamultiplier_11',['bodyGradientInnerAlphaMultiplier',['../classSliderNoteVisual.html#a84e345dcbc8828cea249348bd5db1ae5',1,'SliderNoteVisual']]],
@@ -30,7 +30,5 @@ var searchData=
   ['bulletspawntime_27',['bulletSpawnTime',['../classLevelChartData_1_1NoteEvent.html#a0b451924696f0156756d36c7f75f3a08',1,'LevelChartData::NoteEvent']]],
   ['bullettodockbeats_28',['bulletToDockBeats',['../classLevelChartData_1_1NoteEvent.html#a066674f21905ba11ec45b408b9b64f8c',1,'LevelChartData::NoteEvent']]],
   ['bullettodockduration_29',['bulletToDockDuration',['../classLevelChartData_1_1NoteEvent.html#a0955749e9464fe2c4d6e22229a79b86e',1,'LevelChartData::NoteEvent']]],
-  ['button_30',['button',['../classMenuController_1_1MenuItem.html#adf90e399857780ae70411ed3216025e7',1,'MenuController::MenuItem']]],
-  ['buttonquickspeedsetting_31',['buttonquickspeedsetting',['../classSettingsCardPlaySettings.html#ae3511bec735c4a11b06f8be54e47b597',1,'SettingsCardPlaySettings.buttonQuickSpeedSetting'],['../classButtonQuickSpeedSetting.html#ad2e451c8c9018da1e5d1ec1d0cf5113a',1,'ButtonQuickSpeedSetting.buttonQuickSpeedSetting']]],
-  ['buttonsprite_32',['buttonSprite',['../classPlayerSpriteController.html#a16bc3d9af041ccfda8be3b5968b11959',1,'PlayerSpriteController']]]
+  ['buttonquickspeedsetting_30',['buttonquickspeedsetting',['../classSettingsCardPlaySettings.html#ae3511bec735c4a11b06f8be54e47b597',1,'SettingsCardPlaySettings.buttonQuickSpeedSetting'],['../classButtonQuickSpeedSetting.html#ad2e451c8c9018da1e5d1ec1d0cf5113a',1,'ButtonQuickSpeedSetting.buttonQuickSpeedSetting']]]
 ];

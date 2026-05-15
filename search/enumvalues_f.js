@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['seconds_0',['Seconds',['../classLevelChartData.html#a0b5ea89b64e3c7efb60288b5593edca9a8f19a8c7566af54ea8981029730e5465',1,'LevelChartData']]],
-  ['selectsongs_1',['SelectSongs',['../classMenuController.html#a5126c94a0389fb14d0988147888c148eaae3ce8878096d44aeb158dca5253e030',1,'MenuController']]],
-  ['settings_2',['Settings',['../classMenuController.html#a5126c94a0389fb14d0988147888c148eaf4f70727dc34561dfde1a3c529b6205c',1,'MenuController']]],
-  ['slider_3',['Slider',['../classLevelChartData.html#ada812263c42510ed1c0fb9c2eb528a3fa2d9b9a764fb0be4be10e1b2fce63f561',1,'LevelChartData']]]
+  ['title_0',['Title',['../CanvasSongSelectMenuController_8cs.html#a498686254a0df72319cf3ba449331a8aab78a3223503896721cca1303f776159b',1,'CanvasSongSelectMenuController.cs']]],
+  ['trail_1',['Trail',['../namespaceNotes_1_1Square.html#acc0b247d28aaa3ac0896465f70607ba2ad518a06262ac68f1f006a4f802588130',1,'Notes::Square']]]
 ];

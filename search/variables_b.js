@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['label_0',['label',['../classDifficultyBlock.html#a6674e98109d3c30aa81bb1769b6db84a',1,'DifficultyBlock.label'],['../classMenuController_1_1MenuItem.html#a242ce49f255d82a88b35060f2e1907e4',1,'MenuController.MenuItem.label']]],
+  ['label_0',['label',['../classDifficultyBlock.html#a6674e98109d3c30aa81bb1769b6db84a',1,'DifficultyBlock']]],
   ['lanerouter_1',['lanerouter',['../classKeyboardInputManager.html#a91cd884115d3b06533e47e685cd77de2',1,'KeyboardInputManager.laneRouter'],['../classNoteSpawner.html#a73750fa3f2a2063ae77faf5c62b96e2a',1,'NoteSpawner.laneRouter']]],
   ['lastholdmovetime_2',['lastHoldMoveTime',['../classCarouselController.html#a8446626862da951e8311aeea4189ab89',1,'CarouselController']]],
   ['lastmovesetime_3',['lastMoveSETime',['../classCarouselController.html#a8e801568bfa0d15c7559151bf54d22be',1,'CarouselController']]],

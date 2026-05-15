@@ -60,14 +60,12 @@ var hierarchy =
     [ "LocalScoreSaveData", "classLocalScoreSaveData.html", null ],
     [ "LocalScoreSaveService", "classLocalScoreSaveService.html", null ],
     [ "LocalSettingsSaveStorage", "classLocalSettingsSaveStorage.html", null ],
-    [ "MenuController.MenuItem", "classMenuController_1_1MenuItem.html", null ],
     [ "MeshUtil", "classMeshUtil.html", null ],
     [ "MonoBehaviour", null, [
       [ "AnimatedCharacterController", "classAnimatedCharacterController.html", null ],
       [ "ApproachCircleVisual", "classApproachCircleVisual.html", null ],
       [ "BackgroundVideoSync", "classBackgroundVideoSync.html", null ],
       [ "BattleAnimationReaction", "classBattleAnimationReaction.html", null ],
-      [ "BattleSpriteReaction", "classBattleSpriteReaction.html", null ],
       [ "BulletNote", "classBulletNote.html", null ],
       [ "ButtonPlayerProfile", "classButtonPlayerProfile.html", null ],
       [ "ButtonQuickSpeedSetting", "classButtonQuickSpeedSetting.html", null ],
@@ -98,7 +96,6 @@ var hierarchy =
       [ "Judge", "classJudge.html", null ],
       [ "KeyboardInputManager", "classKeyboardInputManager.html", null ],
       [ "MarqueeText", "classMarqueeText.html", null ],
-      [ "MenuController", "classMenuController.html", null ],
       [ "NoteBase", "classNoteBase.html", [
         [ "CircleNote", "classCircleNote.html", null ],
         [ "SliderNote", "classSliderNote.html", null ]
@@ -125,7 +122,6 @@ var hierarchy =
       [ "SliderNoteVisual", "classSliderNoteVisual.html", null ],
       [ "SongCard", "classSongCard.html", null ],
       [ "SongPreviewPlayer", "classSongPreviewPlayer.html", null ],
-      [ "SongSelectNoteSettingsPreview", "classSongSelectNoteSettingsPreview.html", null ],
       [ "TextExitHoldIndicator", "classTextExitHoldIndicator.html", null ]
     ] ],
     [ "LevelChartData.NoteEvent", "classLevelChartData_1_1NoteEvent.html", null ],
