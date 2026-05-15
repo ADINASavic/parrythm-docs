@@ -1,5 +1,9 @@
 var NAVTREEINDEX6 =
 {
+"classSongCard.html#ab56f5fa3108249d57d12ed3c0a1a0555":[1,0,95,8],
+"classSongCard.html#acf937722db1b5235cca4bc11c5bf8a2d":[1,0,95,10],
+"classSongCard.html#ae189c8841ad14f186e9086f71d29fc9f":[1,0,95,4],
+"classSongCard.html#ae519842cc3d3f34833540b4dc4e8383c":[1,0,95,3],
 "classSongCard.html#ae5c479573ed3a44c58c96d9640b1ef0d":[1,0,95,2],
 "classSongCard.html#af556eeef09863b9cd7251222aed31352":[1,0,95,5],
 "classSongCard.html#afe59878d025015a05c0428e3749342c7":[1,0,95,9],

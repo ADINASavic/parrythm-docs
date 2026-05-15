@@ -5,6 +5,7 @@ var classGameSettingsSaveService =
     [ "Initialize", "classGameSettingsSaveService.html#aaaeb03d6f22467ad08e59d3497021d0c", null ],
     [ "LoadGameplaySettingsJson", "classGameSettingsSaveService.html#a20eaef03d18100e44bf44b8dccab4fad", null ],
     [ "LoadProfile", "classGameSettingsSaveService.html#a9d81a8a8c24d0ffc9fc032a3698fe1b2", null ],
+    [ "ResetForCurrentIdentity", "classGameSettingsSaveService.html#ab238846df7b0cea3355178f82c766242", null ],
     [ "SaveGameplaySettingsJson", "classGameSettingsSaveService.html#ae94bb25dc3ce66050e420d46781e6af2", null ],
     [ "SaveProfile", "classGameSettingsSaveService.html#a73266c7e92f3734187cc6daee965ec94", null ],
     [ "CurrentSchemaVersion", "classGameSettingsSaveService.html#a9b4d028c2ec06272295f7bfef86610d0", null ]

@@ -1,5 +1,8 @@
 var NAVTREEINDEX5 =
 {
+"classParrythmInputActions_1_1UIActions.html#a83c064b23e017c418f9bbf2ede085fdb":[1,0,75,3,4],
+"classParrythmInputActions_1_1UIActions.html#a951189575b901ec1b9f9bb76313a7bad":[1,0,75,3,14],
+"classParrythmInputActions_1_1UIActions.html#aa5e616bce8eb05b89512cc341d21fc64":[1,0,75,3,2],
 "classParrythmInputActions_1_1UIActions.html#ae5e21205f56cf1c43cc38fa040f4d8a6":[1,0,75,3,5],
 "classParrythmInputRuntime.html":[1,0,76],
 "classParrythmInputRuntime.html#a2673a675e177e6d950eac0376ed5c2b3":[1,0,76,2],
@@ -99,8 +102,9 @@ var NAVTREEINDEX5 =
 "classSampleCarouselController.html#a60aece2e8edc553f8474b13f56a6edc8":[1,0,83,2],
 "classSampleCarouselController.html#aeaefa296ae626dee7ce161d6122dc01e":[1,0,83,1],
 "classSaveIdentity.html":[1,0,84],
-"classSaveIdentity.html#a7d8bdd2ebaad1159ca16259b3be20648":[1,0,84,0],
-"classSaveIdentity.html#aca641ac9bd1e9b5d1d59ac36d38bdf4b":[1,0,84,1],
+"classSaveIdentity.html#a7d8bdd2ebaad1159ca16259b3be20648":[1,0,84,1],
+"classSaveIdentity.html#a8c79384c37fe309be908221909873df7":[1,0,84,0],
+"classSaveIdentity.html#aca641ac9bd1e9b5d1d59ac36d38bdf4b":[1,0,84,2],
 "classScoreGradeUtility.html":[1,0,85],
 "classScoreGradeUtility.html#a8d3c20f7841cba3b7428caa018ba387c":[1,0,85,0],
 "classSettingsCardOffset.html":[1,0,86],
@@ -245,9 +249,5 @@ var NAVTREEINDEX5 =
 "classSongCard.html#a1c6f29939fccb68cb484ddc59f8a6c62":[1,0,95,7],
 "classSongCard.html#a237fc63bebc90670162cd511f6df770c":[1,0,95,11],
 "classSongCard.html#a2523028659860266fe7ba20141a01041":[1,0,95,1],
-"classSongCard.html#a46fb7f73cc408c730f2de7fc7da230cc":[1,0,95,12],
-"classSongCard.html#ab56f5fa3108249d57d12ed3c0a1a0555":[1,0,95,8],
-"classSongCard.html#acf937722db1b5235cca4bc11c5bf8a2d":[1,0,95,10],
-"classSongCard.html#ae189c8841ad14f186e9086f71d29fc9f":[1,0,95,4],
-"classSongCard.html#ae519842cc3d3f34833540b4dc4e8383c":[1,0,95,3]
+"classSongCard.html#a46fb7f73cc408c730f2de7fc7da230cc":[1,0,95,12]
 };

@@ -60,11 +60,11 @@ var NAVTREEINDEX =
 [
 "AnimatedCharacterController_8cs.html",
 "classCanvasSongSelectMenuController.html#aade48e4a11b56d716ba48daa4c74b0c9",
-"classGaugeManager.html#a04c1c0605753e4e14e54a0ebc39da754",
-"classLocalScoreRecord.html#ad03d187fbf80d7e516ae9edc086cdd4d",
-"classNotes_1_1Square_1_1SquareNoteTimeline.html#a0f9b9f342fafb1b12ffcdf0fbfc2fa12",
-"classParrythmInputActions_1_1UIActions.html#ae5e21205f56cf1c43cc38fa040f4d8a6",
-"classSongCard.html#ae5c479573ed3a44c58c96d9640b1ef0d"
+"classGameSettingsSaveService.html#ae94bb25dc3ce66050e420d46781e6af2",
+"classLocalScoreRecord.html#a9cba8b3a76101a7bc70882b048d79eaf",
+"classNotes_1_1Square_1_1SquareNoteTimeline.html#a0ab7f24fdd98e1b7ad1c695ab936c1a1",
+"classParrythmInputActions_1_1UIActions.html#a83c064b23e017c418f9bbf2ede085fdb",
+"classSongCard.html#ab56f5fa3108249d57d12ed3c0a1a0555"
 ];
 
 var SYNCONMSG = '패널 동기화를 비활성화하기 위해 클릭하십시오';

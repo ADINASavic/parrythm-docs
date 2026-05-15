@@ -60,6 +60,7 @@ var NAVTREEINDEX1 =
 "classChartEventDispatcher.html#a51ea8d89a32d93208f4c2bb526c8a058":[1,0,17,0],
 "classChartEventDispatcher.html#ac41dc07626a98f608437f211dd7d8bea":[1,0,17,1],
 "classChartHashUtility.html":[1,0,18],
+"classChartHashUtility.html#a6ee83861edf78778d37226b73949d4f4":[1,0,18,1],
 "classChartHashUtility.html#ac291a077d994498ee96230dc421c72bd":[1,0,18,0],
 "classChartPlayerFMOD.html":[1,0,19],
 "classChartPlayerFMOD.html#a02dc99706cbe626207c7e404632a4a13":[1,0,19,9],
@@ -243,11 +244,10 @@ var NAVTREEINDEX1 =
 "classGameSettingsSaveService.html":[1,0,36],
 "classGameSettingsSaveService.html#a20eaef03d18100e44bf44b8dccab4fad":[1,0,36,3],
 "classGameSettingsSaveService.html#a6cbc4300113aa828dad5c3cb0defd045":[1,0,36,0],
-"classGameSettingsSaveService.html#a73266c7e92f3734187cc6daee965ec94":[1,0,36,6],
-"classGameSettingsSaveService.html#a9b4d028c2ec06272295f7bfef86610d0":[1,0,36,7],
+"classGameSettingsSaveService.html#a73266c7e92f3734187cc6daee965ec94":[1,0,36,7],
+"classGameSettingsSaveService.html#a9b4d028c2ec06272295f7bfef86610d0":[1,0,36,8],
 "classGameSettingsSaveService.html#a9d81a8a8c24d0ffc9fc032a3698fe1b2":[1,0,36,4],
 "classGameSettingsSaveService.html#aa6dd9736c79d3076b76d48cd045482f6":[1,0,36,1],
 "classGameSettingsSaveService.html#aaaeb03d6f22467ad08e59d3497021d0c":[1,0,36,2],
-"classGameSettingsSaveService.html#ae94bb25dc3ce66050e420d46781e6af2":[1,0,36,5],
-"classGaugeManager.html":[1,0,37]
+"classGameSettingsSaveService.html#ab238846df7b0cea3355178f82c766242":[1,0,36,5]
 };
