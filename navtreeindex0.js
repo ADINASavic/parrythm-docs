@@ -96,6 +96,7 @@ var NAVTREEINDEX0 =
 "NoteSpawner_8cs.html":[2,0,0,0,3,17],
 "ParrythmInputActions_8cs.html":[2,0,0,0,4,1],
 "ParrythmInputRuntime_8cs.html":[2,0,0,0,4,2],
+"ParrythmSteamRuntime_8cs.html":[2,0,0,0,10,0],
 "ParrythmVirtualPointer_8cs.html":[2,0,0,0,4,3],
 "PlayerNameSettings_8cs.html":[2,0,0,0,9,5],
 "PlayerSpriteController_8cs.html":[2,0,0,0,3,18],
@@ -248,6 +249,5 @@ var NAVTREEINDEX0 =
 "classCanvasSongSelectMenuController.html#a67e9e73d9921f5d606d9c8a1643c6506":[1,0,14,0],
 "classCanvasSongSelectMenuController.html#a6cba2d1bf8782d4babd319b1f9420e88":[1,0,14,14],
 "classCanvasSongSelectMenuController.html#a71f0dd47e271682e04515963d46031b2":[1,0,14,6],
-"classCanvasSongSelectMenuController.html#aab2eea9a62256930eac4dba193a96a10":[1,0,14,16],
-"classCanvasSongSelectMenuController.html#aabfcf7a3a1511a92f6782812819e6f9b":[1,0,14,2]
+"classCanvasSongSelectMenuController.html#aab2eea9a62256930eac4dba193a96a10":[1,0,14,16]
 };

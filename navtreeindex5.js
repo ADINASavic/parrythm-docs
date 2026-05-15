@@ -1,5 +1,6 @@
 var NAVTREEINDEX5 =
 {
+"classParrythmInputActions_1_1UIActions.html#a79c943dd80853c79d59a42fefa8da29e":[1,0,75,3,0],
 "classParrythmInputActions_1_1UIActions.html#a83c064b23e017c418f9bbf2ede085fdb":[1,0,75,3,4],
 "classParrythmInputActions_1_1UIActions.html#a951189575b901ec1b9f9bb76313a7bad":[1,0,75,3,14],
 "classParrythmInputActions_1_1UIActions.html#aa5e616bce8eb05b89512cc341d21fc64":[1,0,75,3,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX5 =
 "classSongCard.html#a13212d8d481a73db54fe9ba5d4583a3d":[1,0,95,6],
 "classSongCard.html#a1c6f29939fccb68cb484ddc59f8a6c62":[1,0,95,7],
 "classSongCard.html#a237fc63bebc90670162cd511f6df770c":[1,0,95,11],
-"classSongCard.html#a2523028659860266fe7ba20141a01041":[1,0,95,1],
-"classSongCard.html#a46fb7f73cc408c730f2de7fc7da230cc":[1,0,95,12]
+"classSongCard.html#a2523028659860266fe7ba20141a01041":[1,0,95,1]
 };
