@@ -14,7 +14,7 @@ var searchData=
   ['savesdirectoryname_11',['SavesDirectoryName',['../classAppDataPaths.html#af1b9066bb203d5ca0563a92dbacf27ef',1,'AppDataPaths']]],
   ['savesroot_12',['SavesRoot',['../classAppDataPaths.html#ae7478d32d6490c33ceee1cb6a6f8e867',1,'AppDataPaths']]],
   ['scanall_13',['ScanAll',['../classSongScanner.html#abc765422ac2b4142ede50a0641cfeb2b',1,'SongScanner']]],
-  ['schemaversion_14',['schemaversion',['../classGameSettingsSaveManifest.html#a9b791fc85cf13bd63c60435cdac20608',1,'GameSettingsSaveManifest.schemaVersion'],['../classLocalLeaderboardSaveData.html#a63ad50183f016a869cbd2f75861f1f7a',1,'LocalLeaderboardSaveData.schemaVersion'],['../classLocalScoreSaveData.html#a99fd9a90e7754424a79575baf4dc803a',1,'LocalScoreSaveData.schemaVersion']]],
+  ['schemaversion_14',['schemaversion',['../classLocalLeaderboardSaveData.html#a63ad50183f016a869cbd2f75861f1f7a',1,'LocalLeaderboardSaveData.schemaVersion'],['../classLocalScoreSaveData.html#a99fd9a90e7754424a79575baf4dc803a',1,'LocalScoreSaveData.schemaVersion'],['../classGameSettingsSaveManifest.html#a9b791fc85cf13bd63c60435cdac20608',1,'GameSettingsSaveManifest.schemaVersion']]],
   ['score_15',['score',['../classLeaderboardRecord.html#ab8935de8fedd3df4d215c282579146d7',1,'LeaderboardRecord.score'],['../classLeaderboardScoreUploadDto.html#ab83a814230690c1b157dc921c4804fa9',1,'LeaderboardScoreUploadDto.score'],['../classLocalScoreRecord.html#a9cba8b3a76101a7bc70882b048d79eaf',1,'LocalScoreRecord.score']]],
   ['scoregradeutility_16',['ScoreGradeUtility',['../classScoreGradeUtility.html',1,'']]],
   ['scoregradeutility_2ecs_17',['ScoreGradeUtility.cs',['../ScoreGradeUtility_8cs.html',1,'']]],

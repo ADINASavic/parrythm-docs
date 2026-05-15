@@ -59,12 +59,12 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "AnimatedCharacterController_8cs.html",
-"classCanvasSongSelectMenuController.html#a6cba2d1bf8782d4babd319b1f9420e88",
-"classGameSettingsSaveService.html#aa6dd9736c79d3076b76d48cd045482f6",
-"classLocalScoreRecord.html#a766b6a0aaa3d949a8bc8c4dd09b66ed0",
-"classNotes_1_1Square_1_1SquareNoteTimeline.html#a06696c0ca3682c292966948a34fc72bf",
-"classParrythmInputActions_1_1UIActions.html#a79c943dd80853c79d59a42fefa8da29e",
-"classSongCard.html#ab56f5fa3108249d57d12ed3c0a1a0555"
+"classCanvasSongSelectMenuController.html#aade48e4a11b56d716ba48daa4c74b0c9",
+"classGaugeManager.html#a04c1c0605753e4e14e54a0ebc39da754",
+"classLocalScoreRecord.html#ad03d187fbf80d7e516ae9edc086cdd4d",
+"classNotes_1_1Square_1_1SquareNoteTimeline.html#a0f9b9f342fafb1b12ffcdf0fbfc2fa12",
+"classParrythmInputActions_1_1UIActions.html#ae5e21205f56cf1c43cc38fa040f4d8a6",
+"classSongCard.html#ae5c479573ed3a44c58c96d9640b1ef0d"
 ];
 
 var SYNCONMSG = '패널 동기화를 비활성화하기 위해 클릭하십시오';

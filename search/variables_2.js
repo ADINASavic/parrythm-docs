@@ -68,7 +68,7 @@ var searchData=
   ['countintextcolor_65',['countInTextColor',['../classChartPlayerFMOD.html#a37941d2116dbd1088bc7bbc72feeaa77',1,'ChartPlayerFMOD']]],
   ['countintextsize_66',['countInTextSize',['../classChartPlayerFMOD.html#a26dc0bd7427e76cfea1ab70fadbb5b47',1,'ChartPlayerFMOD']]],
   ['coverimage_67',['coverImage',['../classSongMeta.html#a6d6c40d4ad6c0a4864642bd97f27766f',1,'SongMeta']]],
-  ['createdatutc_68',['createdatutc',['../classProfileSaveData.html#a6e7c48103f7c97c627e71001c9b7d030',1,'ProfileSaveData.createdAtUtc'],['../classGameSettingsSaveManifest.html#ab1e15dcab52e45acb1cd6cb0342c5e6b',1,'GameSettingsSaveManifest.createdAtUtc']]],
+  ['createdatutc_68',['createdatutc',['../classGameSettingsSaveManifest.html#ab1e15dcab52e45acb1cd6cb0342c5e6b',1,'GameSettingsSaveManifest.createdAtUtc'],['../classProfileSaveData.html#a6e7c48103f7c97c627e71001c9b7d030',1,'ProfileSaveData.createdAtUtc']]],
   ['currentcenterx_69',['currentCenterX',['../classCarouselController.html#a178bb1c8b2ce9a2fc1c0da04d4498605',1,'CarouselController']]],
   ['currentdifficulty_70',['CurrentDifficulty',['../classDifficultyInfo.html#ade5c0c703ad96fd31de1f8df90c418ac',1,'DifficultyInfo']]],
   ['currentschemaversion_71',['currentschemaversion',['../classGameSettingsSaveService.html#a9b4d028c2ec06272295f7bfef86610d0',1,'GameSettingsSaveService.CurrentSchemaVersion'],['../classLocalLeaderboardSaveService.html#a708b11ba7f04441fc9f35b45a9ab5b00',1,'LocalLeaderboardSaveService.CurrentSchemaVersion'],['../classLocalScoreSaveService.html#a0aabeae45c56d434c2b75539f3944f91',1,'LocalScoreSaveService.CurrentSchemaVersion']]],
