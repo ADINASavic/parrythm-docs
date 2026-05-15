@@ -8,5 +8,6 @@ var classGameSettingsSaveService =
     [ "ResetForCurrentIdentity", "classGameSettingsSaveService.html#ab238846df7b0cea3355178f82c766242", null ],
     [ "SaveGameplaySettingsJson", "classGameSettingsSaveService.html#ae94bb25dc3ce66050e420d46781e6af2", null ],
     [ "SaveProfile", "classGameSettingsSaveService.html#a73266c7e92f3734187cc6daee965ec94", null ],
+    [ "SetDefaultPlayerNameOverride", "classGameSettingsSaveService.html#ab1c7134d32056962e9c03615d3478a02", null ],
     [ "CurrentSchemaVersion", "classGameSettingsSaveService.html#a9b4d028c2ec06272295f7bfef86610d0", null ]
 ];

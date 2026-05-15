@@ -5,5 +5,6 @@ var searchData=
   ['levelasc_2',['LevelAsc',['../CanvasSongSelectMenuController_8cs.html#a498686254a0df72319cf3ba449331a8aa42a5e78e6ad7620d01d2e214f3c2c326',1,'CanvasSongSelectMenuController.cs']]],
   ['leveldesc_3',['LevelDesc',['../CanvasSongSelectMenuController_8cs.html#a498686254a0df72319cf3ba449331a8aa6e6d93fac8ea735a943b6d49ce15d294',1,'CanvasSongSelectMenuController.cs']]],
   ['line_4',['Line',['../classLevelChartData.html#ada812263c42510ed1c0fb9c2eb528a3fa4803e6b9e63dabf04de980788d6a13c4',1,'LevelChartData']]],
-  ['long_5',['long',['../classLevelChartData.html#ada812263c42510ed1c0fb9c2eb528a3fa8394f0347c184cf156ac5924dccb773b',1,'LevelChartData.Long'],['../namespaceNotes_1_1Square.html#acc0b247d28aaa3ac0896465f70607ba2a8394f0347c184cf156ac5924dccb773b',1,'Notes.Square.Long']]]
+  ['local_5',['Local',['../SaveIdentity_8cs.html#ade2c73c8622f78ec64e8cdcc931dff1aa509820290d57f333403f490dde7316f4',1,'SaveIdentity.cs']]],
+  ['long_6',['long',['../classLevelChartData.html#ada812263c42510ed1c0fb9c2eb528a3fa8394f0347c184cf156ac5924dccb773b',1,'LevelChartData.Long'],['../namespaceNotes_1_1Square.html#acc0b247d28aaa3ac0896465f70607ba2a8394f0347c184cf156ac5924dccb773b',1,'Notes.Square.Long']]]
 ];

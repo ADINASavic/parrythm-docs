@@ -27,7 +27,7 @@ var searchData=
   ['ingamegameplay_24',['IngameGameplay',['../classParrythmInputActions.html#ae35f1fb2d13452090a4bae0334682ce8',1,'ParrythmInputActions']]],
   ['ingamegameplayactions_25',['ingamegameplayactions',['../classParrythmInputActions_1_1IngameGameplayActions.html#a92eb28d93f3d7bffc50c2d37f69dcd9a',1,'ParrythmInputActions.IngameGameplayActions.IngameGameplayActions()'],['../classParrythmInputActions_1_1IngameGameplayActions.html',1,'ParrythmInputActions.IngameGameplayActions']]],
   ['ingamesceneloader_26',['ingameSceneLoader',['../classCanvasSongSelectMenuController.html#aab2eea9a62256930eac4dba193a96a10',1,'CanvasSongSelectMenuController']]],
-  ['init_27',['init',['../interfaceINote.html#ad443356db0aa77c63bc335cf818d1e07',1,'INote.Init()'],['../interfaceINoteInit.html#a5b1f99b6b993817a7e81db1109867a50',1,'INoteInit.Init()'],['../interfaceINoteVisual.html#abb61b4715965e181ea44adec3a3d39b5',1,'INoteVisual.Init()'],['../classCircleNoteVisual.html#a5c2a2b825f49aabbeeea2c0de7689aa3',1,'CircleNoteVisual.Init()'],['../classApproachCircleVisual.html#a03ab16a13797fa2553892b15d6cb29c6',1,'ApproachCircleVisual.Init()']]],
+  ['init_27',['init',['../interfaceINote.html#ad443356db0aa77c63bc335cf818d1e07',1,'INote.Init()'],['../interfaceINoteInit.html#a5b1f99b6b993817a7e81db1109867a50',1,'INoteInit.Init()'],['../interfaceINoteVisual.html#abb61b4715965e181ea44adec3a3d39b5',1,'INoteVisual.Init()'],['../classApproachCircleVisual.html#a03ab16a13797fa2553892b15d6cb29c6',1,'ApproachCircleVisual.Init()'],['../classCircleNoteVisual.html#a5c2a2b825f49aabbeeea2c0de7689aa3',1,'CircleNoteVisual.Init()']]],
   ['initcell_28',['InitCell',['../classNotes_1_1Square_1_1SquareNoteJudge.html#a867ccf8f714ee31c98f88ca8b5010719',1,'Notes::Square::SquareNoteJudge']]],
   ['initialize_29',['Initialize',['../classGameSettingsSaveService.html#aaaeb03d6f22467ad08e59d3497021d0c',1,'GameSettingsSaveService']]],
   ['initializewithchart_30',['InitializeWithChart',['../classChartPlayerFMOD.html#ac585731bba343a1a31e3be4432a365bf',1,'ChartPlayerFMOD']]],
@@ -71,7 +71,7 @@ var searchData=
   ['islong_68',['isLong',['../classLevelChartData_1_1NoteEvent.html#ac1709378fa69affb5b6a88ea4580ff72',1,'LevelChartData::NoteEvent']]],
   ['ispaused_69',['IsPaused',['../classFmodMusicController.html#a685940106e649f754f3be8e9753c7d16',1,'FmodMusicController']]],
   ['isplayercell_70',['IsPlayerCell',['../classKeyboardInputManager.html#a9990bfb103a16e7dc7503b4e8c046f0c',1,'KeyboardInputManager']]],
-  ['isplayerdown_71',['isplayerdown',['../classKeyboardInputManager.html#a06303a08aa0dd9b3f82ebcf1c00467cb',1,'KeyboardInputManager.IsPlayerDown()'],['../classNotes_1_1Lane_1_1LaneOccupancyProvider.html#a05f3d8dd28d6fcedcfa78fd6eb8427bc',1,'Notes.Lane.LaneOccupancyProvider.IsPlayerDown()']]],
+  ['isplayerdown_71',['isplayerdown',['../classNotes_1_1Lane_1_1LaneOccupancyProvider.html#a05f3d8dd28d6fcedcfa78fd6eb8427bc',1,'Notes.Lane.LaneOccupancyProvider.IsPlayerDown()'],['../classKeyboardInputManager.html#a06303a08aa0dd9b3f82ebcf1c00467cb',1,'KeyboardInputManager.IsPlayerDown(Vector2Int cell)']]],
   ['isplayerhold_72',['isplayerhold',['../classKeyboardInputManager.html#a2c82fd130d6d15fbb27b2d84848dd348',1,'KeyboardInputManager.IsPlayerHold()'],['../classNotes_1_1Lane_1_1LaneOccupancyProvider.html#afed35b2c3eddbab43eb9994acf11e152',1,'Notes.Lane.LaneOccupancyProvider.IsPlayerHold(int lane)']]],
   ['isplayernow_73',['IsPlayerNow',['../classNotes_1_1Lane_1_1LaneOccupancyProvider.html#ac787b439c8167e4ef99a55ccc62a1515',1,'Notes::Lane::LaneOccupancyProvider']]],
   ['isplayerrawdown_74',['IsPlayerRawDown',['../classNotes_1_1Lane_1_1LaneOccupancyProvider.html#a9b5e6da70f4b04628888c5ed248428f7',1,'Notes::Lane::LaneOccupancyProvider']]],
@@ -81,8 +81,9 @@ var searchData=
   ['isready_78',['IsReady',['../classFmodMusicController.html#a4ac3ee4a6a84e9c379cb796fda2934cd',1,'FmodMusicController']]],
   ['isresolved_79',['IsResolved',['../classNotes_1_1Square_1_1SquareNoteJudge.html#aeedcfbde16f6afb9807538d77d2dacc3',1,'Notes::Square::SquareNoteJudge']]],
   ['isrightbuttonpressed_80',['IsRightButtonPressed',['../classParrythmVirtualPointer.html#a9d1978c924aad7be940be540b37d9aa9',1,'ParrythmVirtualPointer']]],
-  ['istageendtrigger_81',['IStageEndTrigger',['../interfaceIStageEndTrigger.html',1,'']]],
-  ['istageendtrigger_2ecs_82',['IStageEndTrigger.cs',['../IStageEndTrigger_8cs.html',1,'']]],
-  ['istrail_83',['istrail',['../classCircleNote.html#aebf93f5101c71e6b5817c652fa34ab02',1,'CircleNote.IsTrail'],['../classLevelChartData_1_1NoteEvent.html#ad5fb2ddd29dc178d881ff51d0cb7bc81',1,'LevelChartData.NoteEvent.isTrail']]],
-  ['iswithinrouterhitrange_84',['IsWithinRouterHitRange',['../classCircleNote.html#a64264207480052b8ef67e68c4ed81b22',1,'CircleNote']]]
+  ['issteamidentity_81',['IsSteamIdentity',['../classSaveIdentity.html#a2259c9bb617400523ea02595318e1e31',1,'SaveIdentity']]],
+  ['istageendtrigger_82',['IStageEndTrigger',['../interfaceIStageEndTrigger.html',1,'']]],
+  ['istageendtrigger_2ecs_83',['IStageEndTrigger.cs',['../IStageEndTrigger_8cs.html',1,'']]],
+  ['istrail_84',['istrail',['../classCircleNote.html#aebf93f5101c71e6b5817c652fa34ab02',1,'CircleNote.IsTrail'],['../classLevelChartData_1_1NoteEvent.html#ad5fb2ddd29dc178d881ff51d0cb7bc81',1,'LevelChartData.NoteEvent.isTrail']]],
+  ['iswithinrouterhitrange_85',['IsWithinRouterHitRange',['../classCircleNote.html#a64264207480052b8ef67e68c4ed81b22',1,'CircleNote']]]
 ];

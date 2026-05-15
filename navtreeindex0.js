@@ -105,6 +105,9 @@ var NAVTREEINDEX0 =
 "ResultsUI_8cs.html":[2,0,0,0,3,1,2],
 "SampleCarouselController_8cs.html":[2,0,0,0,6,5],
 "SaveIdentity_8cs.html":[2,0,0,0,2,4],
+"SaveIdentity_8cs.html#ade2c73c8622f78ec64e8cdcc931dff1a":[2,0,0,0,2,4,1],
+"SaveIdentity_8cs.html#ade2c73c8622f78ec64e8cdcc931dff1aa4db4563826bad0eb2f60ee6e42d0ea4b":[2,0,0,0,2,4,1,1],
+"SaveIdentity_8cs.html#ade2c73c8622f78ec64e8cdcc931dff1aa509820290d57f333403f490dde7316f4":[2,0,0,0,2,4,1,0],
 "ScoreGradeUtility_8cs.html":[2,0,0,0,2,5],
 "SettingsCardOffset_8cs.html":[2,0,0,0,6,0,0],
 "SettingsCardPlaySettings_8cs.html":[2,0,0,0,6,0,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX0 =
 "classCanvasSongSelectMenuController.html#a543993d8426bd692a48abe48c6a5491c":[1,0,14,21],
 "classCanvasSongSelectMenuController.html#a5b5c3826380224c04c13f905c11b0c2f":[1,0,14,3],
 "classCanvasSongSelectMenuController.html#a5ba6bc5d6f58d282942b885f58141059":[1,0,14,12],
-"classCanvasSongSelectMenuController.html#a67e9e73d9921f5d606d9c8a1643c6506":[1,0,14,0],
-"classCanvasSongSelectMenuController.html#a6cba2d1bf8782d4babd319b1f9420e88":[1,0,14,14],
-"classCanvasSongSelectMenuController.html#a71f0dd47e271682e04515963d46031b2":[1,0,14,6],
-"classCanvasSongSelectMenuController.html#aab2eea9a62256930eac4dba193a96a10":[1,0,14,16]
+"classCanvasSongSelectMenuController.html#a67e9e73d9921f5d606d9c8a1643c6506":[1,0,14,0]
 };

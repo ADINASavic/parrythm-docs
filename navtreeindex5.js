@@ -1,5 +1,9 @@
 var NAVTREEINDEX5 =
 {
+"classParrythmInputActions_1_1UIActions.html#a603b7ac583c0d75ade68537899cf1fc7":[1,0,75,3,12],
+"classParrythmInputActions_1_1UIActions.html#a67b96c2a46e93321fde1aba2e9cedc32":[1,0,75,3,9],
+"classParrythmInputActions_1_1UIActions.html#a6917a667ed2d401ae606cc43d2f0b447":[1,0,75,3,13],
+"classParrythmInputActions_1_1UIActions.html#a6d4ab3717d5337b7dfe4c7bbb9cd82ef":[1,0,75,3,11],
 "classParrythmInputActions_1_1UIActions.html#a79c943dd80853c79d59a42fefa8da29e":[1,0,75,3,0],
 "classParrythmInputActions_1_1UIActions.html#a83c064b23e017c418f9bbf2ede085fdb":[1,0,75,3,4],
 "classParrythmInputActions_1_1UIActions.html#a951189575b901ec1b9f9bb76313a7bad":[1,0,75,3,14],
@@ -103,9 +107,12 @@ var NAVTREEINDEX5 =
 "classSampleCarouselController.html#a60aece2e8edc553f8474b13f56a6edc8":[1,0,83,2],
 "classSampleCarouselController.html#aeaefa296ae626dee7ce161d6122dc01e":[1,0,83,1],
 "classSaveIdentity.html":[1,0,84],
-"classSaveIdentity.html#a7d8bdd2ebaad1159ca16259b3be20648":[1,0,84,1],
+"classSaveIdentity.html#a011c688538137e903a2b9ef85d91f1c2":[1,0,84,1],
+"classSaveIdentity.html#a1fb4267f2b0a7b1cf0c75ad5dc7d1136":[1,0,84,4],
+"classSaveIdentity.html#a2259c9bb617400523ea02595318e1e31":[1,0,84,5],
+"classSaveIdentity.html#a7d8bdd2ebaad1159ca16259b3be20648":[1,0,84,2],
 "classSaveIdentity.html#a8c79384c37fe309be908221909873df7":[1,0,84,0],
-"classSaveIdentity.html#aca641ac9bd1e9b5d1d59ac36d38bdf4b":[1,0,84,2],
+"classSaveIdentity.html#aca641ac9bd1e9b5d1d59ac36d38bdf4b":[1,0,84,3],
 "classScoreGradeUtility.html":[1,0,85],
 "classScoreGradeUtility.html#a8d3c20f7841cba3b7428caa018ba387c":[1,0,85,0],
 "classSettingsCardOffset.html":[1,0,86],
@@ -242,12 +249,5 @@ var NAVTREEINDEX5 =
 "classSliderNoteVisual.html#ae44924fac4e00722da742d24517b496c":[1,0,94,36],
 "classSliderNoteVisual.html#aefc1f863d258750da85ece21c4f4ea7c":[1,0,94,43],
 "classSliderNoteVisual.html#af225e15b4f0c9c8af6d4d37073dd158b":[1,0,94,7],
-"classSliderNoteVisual.html#af299cfcd30b422ad0dad3d6f824fe8eb":[1,0,94,11],
-"classSliderNoteVisual.html#af578b95486b77ec00ac1fc4a492dae07":[1,0,94,25],
-"classSongCard.html":[1,0,95],
-"classSongCard.html#a06a28c3c58857ebae15621eb51d9c09e":[1,0,95,0],
-"classSongCard.html#a13212d8d481a73db54fe9ba5d4583a3d":[1,0,95,6],
-"classSongCard.html#a1c6f29939fccb68cb484ddc59f8a6c62":[1,0,95,7],
-"classSongCard.html#a237fc63bebc90670162cd511f6df770c":[1,0,95,11],
-"classSongCard.html#a2523028659860266fe7ba20141a01041":[1,0,95,1]
+"classSliderNoteVisual.html#af299cfcd30b422ad0dad3d6f824fe8eb":[1,0,94,11]
 };
