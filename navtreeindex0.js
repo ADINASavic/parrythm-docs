@@ -135,6 +135,7 @@ var NAVTREEINDEX0 =
 "SquareVisualLong_8cs.html":[2,0,0,0,5,1,9],
 "SquareVisualNormal_8cs.html":[2,0,0,0,5,1,10],
 "SquareVisualTrail_8cs.html":[2,0,0,0,5,1,11],
+"SteamLeaderboardSaveService_8cs.html":[2,0,0,0,8,1,5],
 "StyleEventHandler_8cs.html":[2,0,0,0,1,0,3],
 "StyleEventHandler_8cs.html#a061bfdea8217ea83181b2a1c74fdf1ef":[2,0,0,0,1,0,3,2],
 "StyleEventHandler_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e":[2,0,0,0,1,0,3,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX0 =
 "classCanvasSongSelectMenuController.html#a35e611654fd38f55cf99862d11945a50":[1,0,14,9],
 "classCanvasSongSelectMenuController.html#a543993d8426bd692a48abe48c6a5491c":[1,0,14,21],
 "classCanvasSongSelectMenuController.html#a5b5c3826380224c04c13f905c11b0c2f":[1,0,14,3],
-"classCanvasSongSelectMenuController.html#a5ba6bc5d6f58d282942b885f58141059":[1,0,14,12],
-"classCanvasSongSelectMenuController.html#a67e9e73d9921f5d606d9c8a1643c6506":[1,0,14,0]
+"classCanvasSongSelectMenuController.html#a5ba6bc5d6f58d282942b885f58141059":[1,0,14,12]
 };

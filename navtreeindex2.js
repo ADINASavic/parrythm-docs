@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"classGameSettingsSaveService.html#a9b4d028c2ec06272295f7bfef86610d0":[1,0,36,9],
 "classGameSettingsSaveService.html#a9d81a8a8c24d0ffc9fc032a3698fe1b2":[1,0,36,4],
 "classGameSettingsSaveService.html#aa6dd9736c79d3076b76d48cd045482f6":[1,0,36,1],
 "classGameSettingsSaveService.html#aaaeb03d6f22467ad08e59d3497021d0c":[1,0,36,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX2 =
 "classLocalLeaderboardSaveData.html#a63ad50183f016a869cbd2f75861f1f7a":[1,0,59,1],
 "classLocalLeaderboardSaveData.html#a80e245fea825e1b5b78f6042ad981cf7":[1,0,59,0],
 "classLocalLeaderboardSaveService.html":[1,0,60],
-"classLocalLeaderboardSaveService.html#a4b80614c4514f9ea6ded7ed72640dab4":[1,0,60,0],
-"classLocalLeaderboardSaveService.html#a708b11ba7f04441fc9f35b45a9ab5b00":[1,0,60,3]
+"classLocalLeaderboardSaveService.html#a4b80614c4514f9ea6ded7ed72640dab4":[1,0,60,0]
 };
