@@ -17,5 +17,6 @@ var classNotes_1_1Square_1_1SquareNoteTimeline =
     [ "LongEndTime", "classNotes_1_1Square_1_1SquareNoteTimeline.html#ae5d7ba30959a4641c84558d7ccdc1c01", null ],
     [ "LongShrinkStart", "classNotes_1_1Square_1_1SquareNoteTimeline.html#aafa229da59d60502d33a119a2185a12c", null ],
     [ "Now", "classNotes_1_1Square_1_1SquareNoteTimeline.html#a25d52f20f1e5b473e4d79fbc92e83ba6", null ],
+    [ "StartSize", "classNotes_1_1Square_1_1SquareNoteTimeline.html#a27fba72f5e5542926a964ccc091a46e0", null ],
     [ "TargetSize", "classNotes_1_1Square_1_1SquareNoteTimeline.html#af84824705adc78b144fb43f2e07c0735", null ]
 ];

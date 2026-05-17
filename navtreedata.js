@@ -63,8 +63,8 @@ var NAVTREEINDEX =
 "classGameSettingsSaveService.html#a9b4d028c2ec06272295f7bfef86610d0",
 "classLocalLeaderboardSaveService.html#a708b11ba7f04441fc9f35b45a9ab5b00",
 "classNotes_1_1Square_1_1SquareNoteJudge.html#aeedcfbde16f6afb9807538d77d2dacc3",
-"classParrythmInputActions_1_1UIActions.html#a316306e9e8f9591fdb97b0983aa031ee",
-"classSliderNoteVisual.html#af299cfcd30b422ad0dad3d6f824fe8eb"
+"classParrythmInputActions_1_1UIActions.html#a1bf28aa2c2552a51c7454736c34f6f81",
+"classSliderNoteVisual.html#aefc1f863d258750da85ece21c4f4ea7c"
 ];
 
 var SYNCONMSG = '패널 동기화를 비활성화하기 위해 클릭하십시오';
