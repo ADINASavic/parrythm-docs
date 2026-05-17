@@ -11,7 +11,7 @@ var searchData=
   ['usecombotextgauge_8',['useComboTextGauge',['../classGaugeManager.html#ab0fd44eac13185eb04e46f907ae8c4ca',1,'GaugeManager']]],
   ['userid_9',['userid',['../classLeaderboardRecord.html#adcd66f5cdfd54c8869ee4660f094911a',1,'LeaderboardRecord.userId'],['../classLeaderboardScoreUploadDto.html#a31e1d0f59320c3d7a946c37cbc801bdf',1,'LeaderboardScoreUploadDto.userId']]],
   ['usesampledbulletchecks_10',['useSampledBulletChecks',['../classSliderNote.html#a93e3496ae2488fcdcaab6021118df9e9',1,'SliderNote']]],
-  ['usesimultaneousaccent_11',['useSimultaneousAccent',['../classLevelChartData_1_1NoteEvent.html#a9efe16a25ede1a26dd811b3672ca83c9',1,'LevelChartData::NoteEvent']]],
+  ['usesimultaneousaccent_11',['usesimultaneousaccent',['../classNotes_1_1Square_1_1SquareVisualLong.html#ad104d515818a487aaf5dc48f56dabda0',1,'Notes.Square.SquareVisualLong.useSimultaneousAccent'],['../classLevelChartData_1_1NoteEvent.html#a9efe16a25ede1a26dd811b3672ca83c9',1,'LevelChartData.NoteEvent.useSimultaneousAccent']]],
   ['usesimultaneousleadfill_12',['usesimultaneousleadfill',['../classCircleNote.html#a30fcb39a14588ade284eb6d833cb9a31',1,'CircleNote.useSimultaneousLeadFill'],['../classSliderNote.html#a9365d9010eda7b12c5354d69c61a42e6',1,'SliderNote.useSimultaneousLeadFill'],['../classSliderNoteVisual.html#a649f8acbbecb246f32e4313c248a5432',1,'SliderNoteVisual.useSimultaneousLeadFill']]],
   ['useuiscalingfallback_13',['useUIScalingFallback',['../classCameraTweenTrack.html#ab0554d17a3628b7180e82e530aa528cd',1,'CameraTweenTrack']]]
 ];

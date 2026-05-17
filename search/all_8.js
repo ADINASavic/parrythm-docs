@@ -84,6 +84,6 @@ var searchData=
   ['issteamidentity_81',['IsSteamIdentity',['../classSaveIdentity.html#a2259c9bb617400523ea02595318e1e31',1,'SaveIdentity']]],
   ['istageendtrigger_82',['IStageEndTrigger',['../interfaceIStageEndTrigger.html',1,'']]],
   ['istageendtrigger_2ecs_83',['IStageEndTrigger.cs',['../IStageEndTrigger_8cs.html',1,'']]],
-  ['istrail_84',['istrail',['../classCircleNote.html#aebf93f5101c71e6b5817c652fa34ab02',1,'CircleNote.IsTrail'],['../classLevelChartData_1_1NoteEvent.html#ad5fb2ddd29dc178d881ff51d0cb7bc81',1,'LevelChartData.NoteEvent.isTrail']]],
+  ['istrail_84',['istrail',['../classLevelChartData_1_1NoteEvent.html#ad5fb2ddd29dc178d881ff51d0cb7bc81',1,'LevelChartData.NoteEvent.isTrail'],['../classCircleNote.html#aebf93f5101c71e6b5817c652fa34ab02',1,'CircleNote.IsTrail']]],
   ['iswithinrouterhitrange_85',['IsWithinRouterHitRange',['../classCircleNote.html#a64264207480052b8ef67e68c4ed81b22',1,'CircleNote']]]
 ];

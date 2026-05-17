@@ -1,5 +1,8 @@
 var NAVTREEINDEX6 =
 {
+"classSliderNoteVisual.html#add75179b065b00ee5d0e420acec6db03":[1,0,94,28],
+"classSliderNoteVisual.html#adf1caaa65eff50c3b423a944570d674a":[1,0,94,5],
+"classSliderNoteVisual.html#ae44924fac4e00722da742d24517b496c":[1,0,94,36],
 "classSliderNoteVisual.html#aefc1f863d258750da85ece21c4f4ea7c":[1,0,94,43],
 "classSliderNoteVisual.html#af225e15b4f0c9c8af6d4d37073dd158b":[1,0,94,7],
 "classSliderNoteVisual.html#af299cfcd30b422ad0dad3d6f824fe8eb":[1,0,94,11],
@@ -112,8 +115,8 @@ var NAVTREEINDEX6 =
 "functions_enum.html":[1,3,3],
 "functions_evnt.html":[1,3,5],
 "functions_f.html":[1,3,0,5],
-"functions_func.html":[1,3,1,0],
 "functions_func.html":[1,3,1],
+"functions_func.html":[1,3,1,0],
 "functions_func_b.html":[1,3,1,1],
 "functions_func_c.html":[1,3,1,2],
 "functions_func_d.html":[1,3,1,3],

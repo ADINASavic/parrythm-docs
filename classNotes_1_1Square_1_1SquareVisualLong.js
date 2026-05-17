@@ -19,5 +19,6 @@ var classNotes_1_1Square_1_1SquareVisualLong =
     [ "skipSettingsColorApply", "classNotes_1_1Square_1_1SquareVisualLong.html#a0c1d2b56b90d86ea9d345884c457a0ca", null ],
     [ "startHintColor", "classNotes_1_1Square_1_1SquareVisualLong.html#a313ca83057e7c31c0980f284fd2b263a", null ],
     [ "timeline", "classNotes_1_1Square_1_1SquareVisualLong.html#a5d927e44cfc6508d31bc926c7dfc23f0", null ],
-    [ "useColorProgress", "classNotes_1_1Square_1_1SquareVisualLong.html#a7f3707034b07cc228b26c7ea6cc3cbea", null ]
+    [ "useColorProgress", "classNotes_1_1Square_1_1SquareVisualLong.html#a7f3707034b07cc228b26c7ea6cc3cbea", null ],
+    [ "useSimultaneousAccent", "classNotes_1_1Square_1_1SquareVisualLong.html#ad104d515818a487aaf5dc48f56dabda0", null ]
 ];
