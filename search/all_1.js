@@ -25,7 +25,7 @@ var searchData=
   ['bodygradientoutermultiplier_22',['bodyGradientOuterMultiplier',['../classSliderNoteVisual.html#a7d548320bce9f29df55e77f5c2d08087',1,'SliderNoteVisual']]],
   ['bodygradientpower_23',['bodyGradientPower',['../classSliderNoteVisual.html#a561efdaa304bd00696a32a651a1351b7',1,'SliderNoteVisual']]],
   ['bootsequence_24',['BootSequence',['../classChartPlayerFMOD.html#a702556e0be6da0dd235a8b50d217a63a',1,'ChartPlayerFMOD']]],
-  ['bosstarget_25',['bosstarget',['../classNoteSpawner.html#ac6f020dd2795c7e0a2d47925e27c6dfb',1,'NoteSpawner.bossTarget'],['../classBulletNote.html#ac33c9877f0f0f07d6a0c476091ede349',1,'BulletNote.bossTarget']]],
+  ['bosstarget_25',['bosstarget',['../classBulletNote.html#ac33c9877f0f0f07d6a0c476091ede349',1,'BulletNote.bossTarget'],['../classNoteSpawner.html#ac6f020dd2795c7e0a2d47925e27c6dfb',1,'NoteSpawner.bossTarget']]],
   ['bpm_26',['bpm',['../CanvasSongSelectMenuController_8cs.html#a498686254a0df72319cf3ba449331a8aafb7218d9dac59e6acee0d6b50ee0c4b7',1,'BPM:&#160;CanvasSongSelectMenuController.cs'],['../classChartTimelineRuntime.html#a13194a5897227549478da0f5ec20eed9',1,'ChartTimelineRuntime.Bpm'],['../classSongMeta.html#a7de874f32223e4db90b8c5ac3f5b7a0b',1,'SongMeta.bpm'],['../classLevelChartData.html#a4bb3b88603c5e86451a7b92e457d2b11',1,'LevelChartData.bpm'],['../classLevelChartData_1_1TempoPoint.html#a2cf6f05c3fab8a6acf3234a6b2489975',1,'LevelChartData.TempoPoint.bpm']]],
   ['buildcards_27',['BuildCards',['../classCarouselController.html#a63ee680f18e52dbfc638684a0a878fcc',1,'CarouselController']]],
   ['builddiscmesh_28',['BuildDiscMesh',['../classMeshUtil.html#af773579f934e0c9e6247e55a623d2089',1,'MeshUtil']]],
@@ -56,8 +56,9 @@ var searchData=
   ['bullettodockbeats_53',['bulletToDockBeats',['../classLevelChartData_1_1NoteEvent.html#a066674f21905ba11ec45b408b9b64f8c',1,'LevelChartData::NoteEvent']]],
   ['bullettodockduration_54',['bulletToDockDuration',['../classLevelChartData_1_1NoteEvent.html#a0955749e9464fe2c4d6e22229a79b86e',1,'LevelChartData::NoteEvent']]],
   ['bullettodocksec_55',['BulletToDockSec',['../classChartTimelineRuntime.html#ae1677271f8ca4bb5f9055c12b8110ca3',1,'ChartTimelineRuntime']]],
-  ['buttonplayerprofile_56',['ButtonPlayerProfile',['../classButtonPlayerProfile.html',1,'']]],
-  ['buttonplayerprofile_2ecs_57',['ButtonPlayerProfile.cs',['../ButtonPlayerProfile_8cs.html',1,'']]],
-  ['buttonquickspeedsetting_58',['buttonquickspeedsetting',['../classButtonQuickSpeedSetting.html',1,'ButtonQuickSpeedSetting'],['../classSettingsCardPlaySettings.html#ae3511bec735c4a11b06f8be54e47b597',1,'SettingsCardPlaySettings.buttonQuickSpeedSetting'],['../classButtonQuickSpeedSetting.html#ad2e451c8c9018da1e5d1ec1d0cf5113a',1,'ButtonQuickSpeedSetting.buttonQuickSpeedSetting']]],
-  ['buttonquickspeedsetting_2ecs_59',['ButtonQuickSpeedSetting.cs',['../ButtonQuickSpeedSetting_8cs.html',1,'']]]
+  ['button_56',['button',['../classDifficultyBlock.html#a985e25efab2e6a7623c0f78d89db8c17',1,'DifficultyBlock']]],
+  ['buttonplayerprofile_57',['ButtonPlayerProfile',['../classButtonPlayerProfile.html',1,'']]],
+  ['buttonplayerprofile_2ecs_58',['ButtonPlayerProfile.cs',['../ButtonPlayerProfile_8cs.html',1,'']]],
+  ['buttonquickspeedsetting_59',['buttonquickspeedsetting',['../classButtonQuickSpeedSetting.html',1,'ButtonQuickSpeedSetting'],['../classSettingsCardPlaySettings.html#ae3511bec735c4a11b06f8be54e47b597',1,'SettingsCardPlaySettings.buttonQuickSpeedSetting'],['../classButtonQuickSpeedSetting.html#ad2e451c8c9018da1e5d1ec1d0cf5113a',1,'ButtonQuickSpeedSetting.buttonQuickSpeedSetting']]],
+  ['buttonquickspeedsetting_2ecs_60',['ButtonQuickSpeedSetting.cs',['../ButtonQuickSpeedSetting_8cs.html',1,'']]]
 ];

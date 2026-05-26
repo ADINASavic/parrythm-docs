@@ -2,126 +2,128 @@
 <area shape="rect" id="Node000000" title=" " alt="" coords="5,55,140,80"/>
 <area shape="rect" id="Node000001" href="$classInputFieldFocusRelay.html" title="텍스트 입력 중 메뉴 내비게이션 입력이 함께 처리되지 않도록 TMP_InputField의 focus 상태를 owner에 전달하는 브릿지." alt="" coords="231,55,391,80"/>
 <area shape="poly" id="edge2_Node000000_Node000001" title=" " alt="" coords="154,65,231,65,231,70,154,70"/>
-<area shape="rect" id="Node000030" href="$interfaceIGaugeCommand.html" title=" " alt="" coords="5,104,140,129"/>
-<area shape="rect" id="Node000029" href="$classGaugeManager.html" title=" " alt="" coords="251,104,372,129"/>
-<area shape="poly" id="edge3_Node000030_Node000029" title=" " alt="" coords="154,114,251,114,251,119,154,119"/>
+<area shape="rect" id="Node000031" href="$interfaceIGaugeCommand.html" title=" " alt="" coords="5,104,140,129"/>
+<area shape="rect" id="Node000030" href="$classGaugeManager.html" title=" " alt="" coords="251,104,372,129"/>
+<area shape="poly" id="edge3_Node000031_Node000030" title=" " alt="" coords="154,114,251,114,251,119,154,119"/>
 <area shape="rect" id="Node000002" title=" " alt="" coords="14,5,131,31"/>
 <area shape="poly" id="edge4_Node000002_Node000001" title=" " alt="" coords="146,30,250,52,249,57,145,35"/>
-<area shape="rect" id="Node000020" href="$interfaceIStageEndTrigger.html" title=" " alt="" coords="7,153,138,179"/>
-<area shape="rect" id="Node000019" href="$classChartEndWatcher.html" title=" " alt="" coords="244,153,379,179"/>
-<area shape="poly" id="edge5_Node000020_Node000019" title=" " alt="" coords="152,163,244,163,244,169,152,169"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="11,1263,135,1288"/>
-<area shape="poly" id="edge33_Node000003_Node000001" title=" " alt="" coords="72,1249,80,1010,100,641,115,452,134,286,158,159,171,116,186,90,206,74,230,66,232,71,209,79,190,93,176,118,163,160,140,287,121,453,106,641,86,1010,77,1249"/>
-<area shape="poly" id="edge30_Node000003_Node000029" title=" " alt="" coords="72,1249,81,1019,102,666,117,486,136,326,159,205,172,164,186,139,200,127,216,119,250,112,251,117,218,124,203,132,190,142,177,166,164,207,141,327,122,486,107,666,86,1019,77,1249"/>
-<area shape="poly" id="edge21_Node000003_Node000019" title=" " alt="" coords="72,1249,82,1028,103,690,119,518,137,367,160,252,172,212,186,188,212,170,243,162,244,167,215,175,190,192,177,215,165,253,143,368,124,519,109,690,87,1028,78,1249"/>
+<area shape="rect" id="Node000021" href="$interfaceIStageEndTrigger.html" title=" " alt="" coords="7,153,138,179"/>
+<area shape="rect" id="Node000020" href="$classChartEndWatcher.html" title=" " alt="" coords="244,153,379,179"/>
+<area shape="poly" id="edge5_Node000021_Node000020" title=" " alt="" coords="152,163,244,163,244,169,152,169"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="11,1288,135,1313"/>
+<area shape="poly" id="edge34_Node000003_Node000001" title=" " alt="" coords="72,1274,80,1031,99,653,114,461,134,290,157,161,171,117,186,90,206,74,230,66,232,71,209,79,190,93,176,119,162,162,139,291,120,461,105,654,85,1031,77,1274"/>
+<area shape="poly" id="edge31_Node000003_Node000030" title=" " alt="" coords="72,1274,81,1040,101,678,116,494,135,331,158,207,171,165,186,139,200,127,216,119,250,112,251,117,218,124,203,132,190,142,176,167,163,208,140,332,121,494,106,679,86,1040,77,1274"/>
+<area shape="poly" id="edge22_Node000003_Node000020" title=" " alt="" coords="72,1274,82,1048,103,702,118,527,137,371,159,253,172,213,186,188,212,170,243,162,244,167,215,175,190,192,177,215,164,254,142,372,123,527,108,703,87,1048,78,1274"/>
 <area shape="rect" id="Node000004" href="$classAnimatedCharacterController.html" title=" " alt="" coords="205,647,417,672"/>
-<area shape="poly" id="edge6_Node000003_Node000004" title=" " alt="" coords="73,1248,81,1127,101,957,115,870,134,791,158,726,171,701,186,681,203,669,207,673,190,685,176,703,162,728,139,792,121,871,106,958,86,1128,78,1249"/>
-<area shape="rect" id="Node000005" href="$classApproachCircleVisual.html" title=" " alt="" coords="231,696,391,721"/>
-<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="73,1249,83,1137,104,981,119,902,137,830,160,771,172,748,186,731,207,716,230,708,232,713,209,721,190,735,177,751,164,773,142,832,124,903,109,982,88,1137,78,1249"/>
-<area shape="rect" id="Node000006" href="$classBackgroundVideoSync.html" title=" " alt="" coords="228,745,395,771"/>
-<area shape="poly" id="edge8_Node000003_Node000006" title=" " alt="" coords="74,1249,85,1146,107,1005,122,934,140,869,162,816,186,780,205,767,227,758,229,763,208,771,190,784,166,819,145,871,127,935,112,1006,91,1147,79,1249"/>
-<area shape="rect" id="Node000007" href="$classBattleAnimationReaction.html" title=" " alt="" coords="219,795,404,820"/>
-<area shape="poly" id="edge9_Node000003_Node000007" title=" " alt="" coords="74,1249,88,1155,111,1029,126,966,143,908,164,861,186,829,217,811,220,816,190,833,168,864,148,910,131,967,116,1030,93,1156,80,1249"/>
-<area shape="rect" id="Node000008" href="$classBulletNote.html" title=" " alt="" coords="266,844,357,869"/>
-<area shape="poly" id="edge10_Node000003_Node000008" title=" " alt="" coords="70,1249,72,1175,87,1075,101,1021,121,969,150,921,186,879,204,866,224,858,265,852,266,857,226,864,206,871,190,883,154,924,126,971,106,1023,92,1076,78,1175,76,1249"/>
-<area shape="rect" id="Node000009" href="$classButtonPlayerProfile.html" title=" " alt="" coords="238,893,385,919"/>
-<area shape="poly" id="edge11_Node000003_Node000009" title=" " alt="" coords="72,1249,77,1183,93,1097,108,1050,127,1005,153,964,186,928,210,913,237,905,239,910,212,918,190,932,158,967,132,1008,113,1052,98,1098,82,1184,77,1249"/>
-<area shape="rect" id="Node000010" href="$classButtonQuickSpeedSetting.html" title=" " alt="" coords="217,943,405,968"/>
-<area shape="poly" id="edge12_Node000003_Node000010" title=" " alt="" coords="73,1249,81,1192,100,1118,115,1079,133,1042,157,1007,186,977,216,961,218,966,190,981,161,1011,138,1044,119,1081,105,1120,87,1193,79,1249"/>
-<area shape="rect" id="Node000011" href="$classCameraTweenTrack.html" title=" " alt="" coords="237,992,385,1017"/>
-<area shape="poly" id="edge13_Node000003_Node000011" title=" " alt="" coords="76,1248,87,1200,107,1140,140,1078,161,1050,186,1027,210,1013,236,1005,238,1010,212,1018,190,1031,165,1054,144,1081,112,1142,92,1202,81,1249"/>
-<area shape="rect" id="Node000012" href="$classCanvasGameIntroController.html" title=" " alt="" coords="210,1041,413,1067"/>
-<area shape="poly" id="edge14_Node000003_Node000012" title=" " alt="" coords="79,1248,93,1209,115,1162,146,1115,165,1094,186,1076,209,1064,211,1069,190,1080,169,1098,150,1118,119,1165,98,1212,84,1250"/>
-<area shape="rect" id="Node000013" href="$classCanvasSongIntroController.html" title=" " alt="" coords="213,1091,409,1116"/>
-<area shape="poly" id="edge15_Node000003_Node000013" title=" " alt="" coords="84,1249,123,1186,152,1153,187,1125,212,1113,214,1118,189,1130,156,1156,127,1189,88,1252"/>
-<area shape="rect" id="Node000014" href="$classCarouselController.html" title="Generic carousel UI controller for horizontal scrolling card selection. Handles visual layout,..." alt="" coords="240,1140,383,1165"/>
-<area shape="poly" id="edge16_Node000003_Node000014" title=" " alt="" coords="92,1250,133,1211,159,1191,187,1174,239,1158,240,1163,189,1179,162,1195,136,1215,96,1254"/>
-<area shape="rect" id="Node000021" href="$classChartPlayerFMOD.html" title=" " alt="" coords="242,1189,381,1215"/>
-<area shape="poly" id="edge22_Node000003_Node000021" title=" " alt="" coords="110,1254,187,1223,241,1210,242,1215,189,1229,112,1259"/>
-<area shape="rect" id="Node000022" href="$classCircleNoteVisual.html" title=" " alt="" coords="246,1239,377,1264"/>
-<area shape="poly" id="edge23_Node000003_Node000022" title=" " alt="" coords="148,1265,245,1255,246,1261,149,1270"/>
-<area shape="rect" id="Node000023" href="$classCleanCursor.html" title=" " alt="" coords="261,1288,362,1313"/>
-<area shape="poly" id="edge24_Node000003_Node000023" title=" " alt="" coords="149,1281,261,1293,260,1298,148,1286"/>
-<area shape="rect" id="Node000024" href="$classDifficultyBlock.html" title=" " alt="" coords="253,1337,370,1363"/>
-<area shape="poly" id="edge25_Node000003_Node000024" title=" " alt="" coords="112,1291,189,1322,253,1338,252,1343,187,1327,110,1296"/>
-<area shape="rect" id="Node000025" href="$classDifficultyStrip.html" title=" " alt="" coords="256,1387,367,1412"/>
-<area shape="poly" id="edge26_Node000003_Node000025" title=" " alt="" coords="96,1297,136,1336,162,1355,189,1372,222,1384,256,1391,255,1397,221,1389,187,1376,159,1360,133,1340,92,1300"/>
-<area shape="rect" id="Node000026" href="$classFixed16x9Camera.html" title=" " alt="" coords="242,1436,381,1461"/>
-<area shape="poly" id="edge27_Node000003_Node000026" title=" " alt="" coords="88,1299,128,1361,156,1394,189,1421,215,1433,242,1441,241,1446,213,1438,187,1426,152,1398,123,1365,84,1302"/>
-<area shape="rect" id="Node000027" href="$classFmodMusicController.html" title=" " alt="" coords="231,1485,392,1511"/>
-<area shape="poly" id="edge28_Node000003_Node000027" title=" " alt="" coords="84,1300,98,1339,120,1385,150,1432,169,1453,190,1470,209,1482,231,1489,230,1494,207,1486,186,1475,165,1457,146,1435,115,1388,93,1341,79,1302"/>
-<area shape="rect" id="Node000028" href="$classGameBootstrap.html" title=" " alt="" coords="249,1535,373,1560"/>
-<area shape="poly" id="edge29_Node000003_Node000028" title=" " alt="" coords="81,1301,92,1349,112,1409,144,1469,165,1497,190,1520,218,1535,249,1543,248,1548,216,1540,186,1524,161,1500,140,1472,107,1411,87,1350,76,1302"/>
-<area shape="rect" id="Node000031" href="$classGridDrawer.html" title="화면 해상도 및 카메라 설정에 맞춰 2D 그리드를 LineRenderer로 생성/관리하는 컴포넌트." alt="" coords="263,1584,359,1609"/>
-<area shape="poly" id="edge31_Node000003_Node000031" title=" " alt="" coords="79,1302,87,1358,105,1431,120,1469,138,1506,161,1540,190,1569,206,1580,225,1588,264,1595,263,1600,223,1593,204,1585,186,1573,157,1543,134,1509,115,1471,100,1433,82,1359,73,1302"/>
-<area shape="rect" id="Node000032" href="$classGridManager.html" title=" " alt="" coords="258,1633,365,1659"/>
-<area shape="poly" id="edge32_Node000003_Node000032" title=" " alt="" coords="77,1301,82,1366,99,1453,113,1498,132,1542,158,1583,190,1619,205,1629,222,1637,258,1644,257,1649,220,1642,202,1634,186,1623,153,1587,128,1545,108,1500,93,1454,77,1367,72,1302"/>
-<area shape="rect" id="Node000033" href="$classInputRouter.html" title=" " alt="" coords="262,1683,361,1708"/>
-<area shape="poly" id="edge34_Node000003_Node000033" title=" " alt="" coords="76,1302,78,1375,92,1474,106,1527,127,1579,154,1627,190,1668,206,1679,224,1687,262,1694,261,1699,222,1692,203,1684,186,1672,150,1630,122,1581,101,1529,87,1475,73,1375,70,1302"/>
-<area shape="rect" id="Node000034" href="$classInputTimeMapper.html" title="Maps input&#45;system timestamps to FMOD timeline time using DSP clock. Keeps a rolling sample of (inputT..." alt="" coords="243,1732,380,1757"/>
-<area shape="poly" id="edge35_Node000003_Node000034" title=" " alt="" coords="80,1301,93,1395,116,1520,131,1583,149,1640,168,1687,190,1717,214,1733,243,1741,242,1746,212,1738,186,1721,164,1689,144,1642,126,1585,111,1521,88,1396,74,1302"/>
-<area shape="rect" id="Node000035" href="$classJudge.html" title=" " alt="" coords="282,1781,341,1807"/>
-<area shape="poly" id="edge36_Node000003_Node000035" title=" " alt="" coords="79,1301,91,1404,113,1544,128,1615,146,1680,166,1732,190,1767,210,1781,234,1789,282,1794,282,1799,233,1794,208,1786,186,1771,162,1735,141,1681,122,1617,107,1545,85,1405,74,1302"/>
-<area shape="rect" id="Node000036" href="$classKeyboardInputManager.html" title=" " alt="" coords="225,1831,398,1856"/>
-<area shape="poly" id="edge37_Node000003_Node000036" title=" " alt="" coords="78,1301,89,1413,109,1568,124,1647,143,1719,164,1777,177,1800,190,1816,206,1828,225,1836,223,1841,203,1833,186,1820,172,1803,160,1780,137,1721,119,1648,104,1569,83,1414,73,1302"/>
-<area shape="rect" id="Node000037" href="$classMarqueeText.html" title="텍스트가 마스크(부모 RectTransform) 너비보다 길 때 좌우로 마키 스크롤합니다. 부모 오브젝트에 RectMask2D 컴포넌트가 필요합니다...." alt="" coords="258,1880,365,1905"/>
-<area shape="poly" id="edge38_Node000003_Node000037" title=" " alt="" coords="78,1302,87,1423,106,1593,121,1679,140,1758,163,1823,176,1847,190,1865,204,1877,221,1884,258,1892,257,1897,220,1889,202,1881,186,1869,171,1850,158,1825,135,1760,116,1680,101,1593,81,1423,73,1302"/>
-<area shape="rect" id="Node000038" href="$classNoteBase.html" title=" " alt="" coords="269,1929,354,1955"/>
-<area shape="poly" id="edge39_Node000003_Node000038" title=" " alt="" coords="78,1302,85,1432,103,1617,118,1711,137,1797,161,1868,175,1895,190,1915,207,1927,227,1936,269,1942,268,1947,225,1941,204,1932,186,1919,170,1898,156,1870,132,1799,112,1712,98,1617,79,1432,72,1302"/>
-<area shape="rect" id="Node000041" href="$classNoteSpawner.html" title=" " alt="" coords="257,1979,366,2004"/>
-<area shape="poly" id="edge42_Node000003_Node000041" title=" " alt="" coords="77,1301,83,1440,100,1640,114,1742,134,1836,159,1913,174,1942,190,1964,204,1975,221,1983,257,1991,256,1996,219,1988,201,1980,186,1968,169,1945,154,1915,128,1838,109,1743,94,1640,78,1440,72,1302"/>
-<area shape="rect" id="Node000042" href="$classNotes_1_1Lane_1_1LaneOccupancyProvider.html" title=" " alt="" coords="211,2029,412,2069"/>
-<area shape="poly" id="edge43_Node000003_Node000042" title=" " alt="" coords="77,1302,82,1448,98,1662,113,1773,132,1874,158,1957,173,1989,190,2013,212,2030,209,2035,186,2017,168,1992,153,1959,127,1875,107,1774,93,1663,77,1448,72,1302"/>
-<area shape="rect" id="Node000043" href="$classNotes_1_1Lane_1_1LaneRouter.html" title="레인별 &quot;가장 먼저 생성된 노트 1개만&quot; 판정 활성화. (0.1초 내 두 노트가 같은 레인에서 동시에 터지는 문제 해결)" alt="" coords="225,2093,398,2119"/>
-<area shape="poly" id="edge44_Node000003_Node000043" title=" " alt="" coords="76,1302,79,1460,93,1695,107,1816,127,1927,154,2018,171,2053,190,2079,206,2091,225,2100,223,2105,203,2096,186,2083,166,2056,149,2020,122,1928,101,1817,87,1695,74,1460,71,1302"/>
-<area shape="rect" id="Node000044" href="$classNotes_1_1Square_1_1SquareNoteCore.html" title=" " alt="" coords="202,2143,421,2168"/>
-<area shape="poly" id="edge45_Node000003_Node000044" title=" " alt="" coords="76,1302,77,1469,81,1588,90,1718,103,1847,124,1966,137,2018,152,2063,170,2100,190,2128,205,2140,202,2144,186,2132,165,2103,147,2065,132,2019,119,1967,98,1848,84,1718,76,1589,72,1469,71,1302"/>
-<area shape="rect" id="Node000045" href="$classNotes_1_1Square_1_1SquareNoteJudge.html" title=" " alt="" coords="199,2192,424,2217"/>
-<area shape="poly" id="edge46_Node000003_Node000045" title=" " alt="" coords="78,1302,91,1489,115,1769,130,1910,148,2034,168,2128,179,2159,190,2178,205,2190,202,2194,186,2181,174,2161,163,2129,143,2035,125,1910,109,1769,85,1490,73,1302"/>
-<area shape="rect" id="Node000046" href="$classNotes_1_1Square_1_1SquareNoteTimeline.html" title=" " alt="" coords="188,2241,435,2267"/>
-<area shape="poly" id="edge47_Node000003_Node000046" title=" " alt="" coords="78,1302,90,1498,113,1794,129,1943,147,2074,167,2174,179,2207,190,2227,205,2239,202,2243,186,2230,174,2209,162,2175,142,2075,123,1943,108,1794,84,1499,73,1302"/>
-<area shape="rect" id="Node000047" href="$classNotes_1_1Square_1_1SquareNoteVisual.html" title="Square 노트 타입에 따라 적절한 시각 컴포넌트를 활성화하는 라우터." alt="" coords="197,2291,426,2316"/>
-<area shape="poly" id="edge48_Node000003_Node000047" title=" " alt="" coords="78,1302,89,1507,111,1818,127,1976,145,2115,167,2220,178,2255,190,2276,205,2288,202,2293,186,2280,173,2258,161,2222,140,2116,122,1977,106,1819,84,1508,73,1302"/>
-<area shape="rect" id="Node000048" href="$classNotes_1_1Square_1_1SquareVisualBase.html" title="Grid,Trail 노트의 공통 시각 처리 로직을 제공하는 베이스 클래스." alt="" coords="196,2340,427,2365"/>
-<area shape="poly" id="edge49_Node000003_Node000048" title=" " alt="" coords="78,1302,88,1517,110,1844,125,2010,144,2157,165,2268,177,2305,190,2327,203,2338,200,2342,186,2330,173,2307,160,2269,138,2157,120,2011,104,1844,83,1517,72,1302"/>
-<area shape="rect" id="Node000051" href="$classNotes_1_1Square_1_1SquareVisualLong.html" title=" " alt="" coords="197,2389,426,2415"/>
-<area shape="poly" id="edge52_Node000003_Node000051" title=" " alt="" coords="78,1302,87,1526,108,1869,123,2043,142,2197,164,2314,177,2353,190,2376,203,2387,200,2391,186,2380,172,2355,159,2315,137,2198,118,2044,103,1869,82,1526,72,1302"/>
-<area shape="rect" id="Node000052" href="$classParrythmInputRuntime.html" title="런타임 입력 상태를 총괄하는 관리자." alt="" coords="227,2439,396,2464"/>
-<area shape="poly" id="edge53_Node000003_Node000052" title=" " alt="" coords="77,1302,86,1535,107,1894,122,2077,141,2238,163,2360,176,2401,190,2426,207,2439,227,2447,225,2452,204,2443,186,2429,171,2403,158,2362,135,2239,116,2077,101,1894,81,1535,72,1302"/>
-<area shape="rect" id="Node000053" href="$classPlayerSpriteController.html" title=" " alt="" coords="229,2488,394,2513"/>
-<area shape="poly" id="edge54_Node000003_Node000053" title=" " alt="" coords="77,1301,85,1543,105,1918,120,2109,139,2278,162,2406,176,2449,190,2475,208,2489,229,2497,227,2502,205,2493,186,2478,171,2451,157,2408,134,2279,115,2110,100,1918,80,1543,72,1302"/>
-<area shape="rect" id="Node000054" href="$classResultsUI.html" title=" " alt="" coords="269,203,353,228"/>
-<area shape="poly" id="edge55_Node000003_Node000054" title=" " alt="" coords="72,1249,83,1037,105,715,120,552,139,407,161,298,173,261,186,238,204,224,225,215,269,209,269,215,227,220,207,228,190,241,178,263,166,299,144,408,126,552,110,715,88,1037,78,1249"/>
-<area shape="rect" id="Node000055" href="$classSettingsCardOffset.html" title=" " alt="" coords="239,252,383,277"/>
-<area shape="poly" id="edge56_Node000003_Node000055" title=" " alt="" coords="73,1249,84,1046,106,740,122,585,140,448,162,344,173,309,186,287,210,270,239,261,240,266,213,275,190,290,178,311,167,345,146,449,127,585,112,740,89,1046,78,1249"/>
-<area shape="rect" id="Node000056" href="$classSettingsCardPlaySettings.html" title=" " alt="" coords="218,301,405,327"/>
-<area shape="poly" id="edge57_Node000003_Node000056" title=" " alt="" coords="73,1249,85,1055,108,764,124,618,142,488,163,390,174,357,186,336,200,325,216,317,219,321,203,329,190,340,179,359,168,392,147,489,129,618,113,765,90,1055,78,1249"/>
-<area shape="rect" id="Node000057" href="$classSettingsCardPlayerSettings.html" title=" " alt="" coords="212,351,411,376"/>
-<area shape="poly" id="edge58_Node000003_Node000057" title=" " alt="" coords="71,1249,71,1076,74,951,82,816,96,681,116,557,130,502,146,455,165,415,186,385,210,369,213,373,190,389,169,418,151,457,135,504,122,558,101,682,87,816,80,951,76,1076,76,1249"/>
-<area shape="rect" id="Node000058" href="$classSettingsCardViewSettings.html" title=" " alt="" coords="216,400,407,425"/>
-<area shape="poly" id="edge59_Node000003_Node000058" title=" " alt="" coords="71,1249,72,1085,77,967,85,840,99,713,119,596,132,545,148,500,166,463,186,435,214,416,217,421,190,439,170,466,153,502,138,546,124,597,104,713,90,840,82,967,78,1085,76,1249"/>
-<area shape="rect" id="Node000059" href="$classSliderNoteVisual.html" title="Renders the slider body, head, timing guide, and checkpoint markers from a cached local&#45;space path." alt="" coords="246,449,377,475"/>
-<area shape="poly" id="edge60_Node000003_Node000059" title=" " alt="" coords="71,1249,74,1093,88,863,102,744,122,635,150,545,167,510,186,484,214,466,245,458,247,463,216,471,190,488,171,513,155,547,127,636,107,745,93,864,79,1093,77,1249"/>
-<area shape="rect" id="Node000060" href="$classSongCard.html" title=" " alt="" coords="269,499,353,524"/>
-<area shape="poly" id="edge61_Node000003_Node000060" title=" " alt="" coords="72,1249,76,1101,91,886,105,775,125,674,152,590,168,558,186,533,204,520,226,511,269,506,270,511,227,516,207,524,190,537,172,561,157,592,130,675,111,776,96,887,81,1102,77,1249"/>
-<area shape="rect" id="Node000061" href="$classSongPreviewPlayer.html" title=" " alt="" coords="238,548,385,573"/>
-<area shape="poly" id="edge62_Node000003_Node000061" title=" " alt="" coords="72,1249,77,1111,94,910,109,807,128,713,154,635,169,606,186,583,210,566,237,558,239,563,212,571,190,587,173,608,159,638,133,714,114,808,99,911,83,1111,77,1249"/>
-<area shape="rect" id="Node000062" href="$classTextExitHoldIndicator.html" title=" " alt="" coords="231,597,392,623"/>
-<area shape="poly" id="edge63_Node000003_Node000062" title=" " alt="" coords="72,1248,79,1119,97,933,112,838,131,752,156,681,170,653,186,632,206,618,229,609,231,614,209,622,190,636,175,656,161,683,136,753,117,839,103,934,85,1119,78,1249"/>
-<area shape="rect" id="Node000015" href="$classCanvasSongSelectMenuController.html" title=" " alt="" coords="483,1067,725,1092"/>
-<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="396,1136,434,1125,457,1113,482,1101,522,1090,524,1095,484,1106,460,1118,436,1130,397,1141"/>
-<area shape="rect" id="Node000016" href="$classResultCarouselController.html" title=" " alt="" coords="512,1116,696,1141"/>
-<area shape="poly" id="edge18_Node000014_Node000016" title=" " alt="" coords="396,1143,511,1134,512,1139,397,1148"/>
-<area shape="rect" id="Node000017" href="$classSampleCarouselController.html" title="Template example of a CarouselController child class. Use this as a reference when creating your own ..." alt="" coords="508,1165,700,1191"/>
-<area shape="poly" id="edge19_Node000014_Node000017" title=" " alt="" coords="397,1157,508,1167,508,1172,396,1163"/>
-<area shape="rect" id="Node000018" href="$classSettingsCarouselController.html" title=" " alt="" coords="506,1215,702,1240"/>
-<area shape="poly" id="edge20_Node000014_Node000018" title=" " alt="" coords="397,1163,436,1174,460,1187,484,1200,527,1212,526,1217,482,1204,457,1192,434,1179,396,1168"/>
-<area shape="rect" id="Node000039" href="$classCircleNote.html" title=" " alt="" coords="559,1905,649,1931"/>
-<area shape="poly" id="edge40_Node000038_Node000039" title=" " alt="" coords="367,1935,558,1919,559,1924,368,1940"/>
-<area shape="rect" id="Node000040" href="$classSliderNote.html" title="Owns slider path setup, follow&#45;state judging, and final checkpoint resolution for slider notes." alt="" coords="559,1955,649,1980"/>
-<area shape="poly" id="edge41_Node000038_Node000040" title=" " alt="" coords="368,1944,559,1961,558,1966,367,1949"/>
-<area shape="rect" id="Node000049" href="$classNotes_1_1Square_1_1SquareVisualNormal.html" title="기본 Square 노트의 시각 표현." alt="" coords="505,2301,703,2341"/>
-<area shape="poly" id="edge50_Node000048_Node000049" title=" " alt="" coords="440,2336,504,2329,505,2334,441,2341"/>
-<area shape="rect" id="Node000050" href="$classNotes_1_1Square_1_1SquareVisualTrail.html" title=" " alt="" coords="505,2365,703,2405"/>
-<area shape="poly" id="edge51_Node000048_Node000050" title=" " alt="" coords="441,2364,505,2371,504,2376,440,2369"/>
+<area shape="poly" id="edge6_Node000003_Node000004" title=" " alt="" coords="72,1274,80,1149,99,970,114,879,133,796,157,728,171,701,186,681,203,669,207,673,190,685,175,704,161,730,138,798,119,880,104,971,85,1149,78,1274"/>
+<area shape="rect" id="Node000005" href="$classAnimatedCharacterPicker.html" title=" " alt="" coords="218,696,405,721"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="73,1274,82,1158,102,994,117,911,136,835,159,773,172,749,186,731,200,720,216,712,219,717,203,724,190,735,176,752,163,775,141,837,122,912,107,995,87,1158,78,1275"/>
+<area shape="rect" id="Node000006" href="$classApproachCircleVisual.html" title=" " alt="" coords="231,745,391,771"/>
+<area shape="poly" id="edge8_Node000003_Node000006" title=" " alt="" coords="73,1274,84,1167,105,1018,121,943,139,874,161,818,186,780,207,766,230,757,232,762,209,770,190,784,165,821,144,876,126,944,111,1019,89,1167,79,1275"/>
+<area shape="rect" id="Node000007" href="$classBackgroundVideoSync.html" title=" " alt="" coords="228,795,395,820"/>
+<area shape="poly" id="edge9_Node000003_Node000007" title=" " alt="" coords="74,1274,86,1176,109,1042,124,975,142,914,162,863,186,829,205,816,227,808,229,813,208,821,190,833,167,866,147,915,129,976,114,1043,92,1177,79,1275"/>
+<area shape="rect" id="Node000008" href="$classBattleAnimationReaction.html" title=" " alt="" coords="219,844,404,869"/>
+<area shape="poly" id="edge10_Node000003_Node000008" title=" " alt="" coords="75,1274,89,1185,112,1066,145,953,164,909,186,879,217,861,220,865,190,883,169,911,150,955,118,1068,94,1186,80,1275"/>
+<area shape="rect" id="Node000009" href="$classBulletNote.html" title=" " alt="" coords="266,893,357,919"/>
+<area shape="poly" id="edge11_Node000003_Node000009" title=" " alt="" coords="71,1274,74,1205,90,1111,104,1061,124,1012,151,967,186,928,204,916,224,908,265,901,266,907,226,913,207,921,190,932,156,970,129,1015,109,1063,95,1112,80,1205,76,1274"/>
+<area shape="rect" id="Node000010" href="$classButtonPlayerProfile.html" title=" " alt="" coords="238,943,385,968"/>
+<area shape="poly" id="edge12_Node000003_Node000010" title=" " alt="" coords="72,1274,79,1212,96,1132,111,1090,130,1048,155,1010,186,977,210,963,237,955,238,960,212,968,190,981,159,1014,135,1051,116,1092,102,1134,84,1213,78,1274"/>
+<area shape="rect" id="Node000011" href="$classButtonQuickSpeedSetting.html" title=" " alt="" coords="217,992,405,1017"/>
+<area shape="poly" id="edge13_Node000003_Node000011" title=" " alt="" coords="74,1274,84,1221,103,1154,118,1119,136,1085,159,1054,186,1027,216,1010,218,1015,190,1031,163,1057,141,1088,123,1121,108,1156,89,1223,79,1275"/>
+<area shape="rect" id="Node000012" href="$classCameraTweenTrack.html" title=" " alt="" coords="237,1041,385,1067"/>
+<area shape="poly" id="edge14_Node000003_Node000012" title=" " alt="" coords="77,1273,90,1230,111,1176,143,1121,163,1097,186,1076,210,1063,236,1055,238,1060,212,1068,190,1080,167,1101,147,1124,116,1178,95,1231,82,1275"/>
+<area shape="rect" id="Node000013" href="$classCanvasGameIntroController.html" title=" " alt="" coords="210,1091,413,1116"/>
+<area shape="poly" id="edge15_Node000003_Node000013" title=" " alt="" coords="81,1274,96,1240,119,1199,149,1159,186,1125,208,1114,211,1119,190,1130,153,1162,123,1202,101,1242,86,1276"/>
+<area shape="rect" id="Node000014" href="$classCanvasSongIntroController.html" title=" " alt="" coords="213,1140,409,1165"/>
+<area shape="poly" id="edge16_Node000003_Node000014" title=" " alt="" coords="87,1275,128,1223,155,1196,187,1174,213,1163,215,1168,189,1179,159,1200,132,1227,91,1278"/>
+<area shape="rect" id="Node000015" href="$classCarouselController.html" title="Generic carousel UI controller for horizontal scrolling card selection. Handles visual layout,..." alt="" coords="240,1189,383,1215"/>
+<area shape="poly" id="edge17_Node000003_Node000015" title=" " alt="" coords="99,1277,139,1249,187,1224,239,1208,240,1214,189,1228,142,1254,102,1281"/>
+<area shape="rect" id="Node000022" href="$classChartPlayerFMOD.html" title=" " alt="" coords="242,1239,381,1264"/>
+<area shape="poly" id="edge23_Node000003_Node000022" title=" " alt="" coords="143,1282,187,1273,243,1262,244,1267,189,1278,144,1288"/>
+<area shape="rect" id="Node000023" href="$classCircleNoteVisual.html" title=" " alt="" coords="246,1288,377,1313"/>
+<area shape="poly" id="edge24_Node000003_Node000023" title=" " alt="" coords="148,1298,246,1298,246,1303,148,1303"/>
+<area shape="rect" id="Node000024" href="$classCleanCursor.html" title=" " alt="" coords="261,1337,362,1363"/>
+<area shape="poly" id="edge25_Node000003_Node000024" title=" " alt="" coords="148,1314,189,1322,261,1337,260,1342,187,1327,147,1319"/>
+<area shape="rect" id="Node000025" href="$classDifficultyBlock.html" title=" " alt="" coords="253,1387,370,1412"/>
+<area shape="poly" id="edge26_Node000003_Node000025" title=" " alt="" coords="102,1320,142,1347,189,1372,253,1389,252,1394,187,1376,139,1352,99,1324"/>
+<area shape="rect" id="Node000026" href="$classDifficultyStrip.html" title=" " alt="" coords="256,1436,367,1461"/>
+<area shape="poly" id="edge27_Node000003_Node000026" title=" " alt="" coords="92,1323,132,1374,159,1400,189,1421,222,1435,256,1442,255,1447,221,1440,187,1426,155,1404,128,1377,87,1326"/>
+<area shape="rect" id="Node000027" href="$classFixed16x9Camera.html" title=" " alt="" coords="242,1485,381,1511"/>
+<area shape="poly" id="edge28_Node000003_Node000027" title=" " alt="" coords="86,1325,101,1359,123,1398,153,1438,189,1470,215,1483,242,1491,241,1496,213,1488,187,1475,149,1441,119,1401,96,1361,81,1327"/>
+<area shape="rect" id="Node000028" href="$classFmodMusicController.html" title=" " alt="" coords="231,1535,392,1560"/>
+<area shape="poly" id="edge29_Node000003_Node000028" title=" " alt="" coords="82,1326,95,1369,116,1422,147,1476,167,1499,190,1520,209,1531,231,1539,229,1544,207,1536,186,1524,163,1503,143,1479,111,1425,90,1371,77,1328"/>
+<area shape="rect" id="Node000029" href="$classGameBootstrap.html" title=" " alt="" coords="249,1584,373,1609"/>
+<area shape="poly" id="edge30_Node000003_Node000029" title=" " alt="" coords="80,1327,89,1379,109,1445,123,1479,141,1513,163,1543,190,1569,218,1585,250,1593,249,1598,216,1590,186,1573,159,1547,137,1515,119,1482,104,1447,84,1380,74,1328"/>
+<area shape="rect" id="Node000032" href="$classGridDrawer.html" title="화면 해상도 및 카메라 설정에 맞춰 2D 그리드를 LineRenderer로 생성/관리하는 컴포넌트." alt="" coords="263,1633,359,1659"/>
+<area shape="poly" id="edge32_Node000003_Node000032" title=" " alt="" coords="78,1327,84,1387,102,1467,116,1509,135,1549,160,1586,190,1619,206,1630,224,1637,263,1644,262,1649,223,1642,204,1634,186,1623,155,1590,131,1552,111,1511,97,1468,79,1388,72,1327"/>
+<area shape="rect" id="Node000033" href="$classGridManager.html" title=" " alt="" coords="258,1683,365,1708"/>
+<area shape="poly" id="edge33_Node000003_Node000033" title=" " alt="" coords="76,1327,80,1396,95,1489,110,1538,130,1586,156,1630,190,1668,205,1679,222,1686,258,1693,257,1699,220,1691,202,1683,186,1672,152,1633,125,1588,105,1540,90,1490,75,1397,71,1327"/>
+<area shape="rect" id="Node000034" href="$classInputRouter.html" title=" " alt="" coords="262,1732,361,1757"/>
+<area shape="poly" id="edge35_Node000003_Node000034" title=" " alt="" coords="80,1327,94,1415,118,1533,150,1646,169,1689,190,1717,206,1729,224,1736,262,1743,261,1749,222,1741,203,1733,186,1721,165,1691,145,1647,113,1534,89,1416,75,1328"/>
+<area shape="rect" id="Node000035" href="$classInputTimeMapper.html" title="Maps input&#45;system timestamps to FMOD timeline time using DSP clock. Keeps a rolling sample of (inputT..." alt="" coords="243,1781,380,1807"/>
+<area shape="poly" id="edge36_Node000003_Node000035" title=" " alt="" coords="79,1326,92,1424,114,1557,129,1624,147,1685,167,1734,190,1767,214,1782,243,1791,241,1796,212,1787,186,1771,163,1737,142,1687,124,1625,109,1558,86,1425,74,1327"/>
+<area shape="rect" id="Node000036" href="$classJudge.html" title=" " alt="" coords="282,1831,341,1856"/>
+<area shape="poly" id="edge37_Node000003_Node000036" title=" " alt="" coords="79,1327,90,1435,111,1582,126,1657,144,1724,165,1779,190,1816,210,1830,234,1839,282,1843,282,1848,233,1844,208,1835,186,1820,161,1782,139,1726,121,1658,106,1583,84,1435,73,1328"/>
+<area shape="rect" id="Node000037" href="$classKeyboardInputManager.html" title=" " alt="" coords="225,1880,398,1905"/>
+<area shape="poly" id="edge38_Node000003_Node000037" title=" " alt="" coords="78,1327,88,1443,108,1605,123,1688,141,1763,164,1825,176,1848,190,1865,206,1878,225,1886,223,1891,203,1882,186,1869,172,1851,159,1827,136,1765,117,1689,102,1606,82,1443,73,1327"/>
+<area shape="rect" id="Node000038" href="$classMarqueeText.html" title="텍스트가 마스크(부모 RectTransform) 너비보다 길 때 좌우로 마키 스크롤합니다. 부모 오브젝트에 RectMask2D 컴포넌트가 필요합니다...." alt="" coords="258,1929,365,1955"/>
+<area shape="poly" id="edge39_Node000003_Node000038" title=" " alt="" coords="78,1327,86,1452,105,1629,119,1720,138,1803,162,1870,175,1896,190,1915,204,1926,221,1934,258,1941,257,1946,219,1939,202,1931,186,1919,171,1898,157,1872,133,1804,114,1721,99,1630,80,1452,72,1327"/>
+<area shape="rect" id="Node000039" href="$classNoteBase.html" title=" " alt="" coords="269,1979,354,2004"/>
+<area shape="poly" id="edge40_Node000003_Node000039" title=" " alt="" coords="77,1327,84,1461,101,1653,116,1752,135,1842,160,1915,174,1943,190,1964,207,1977,226,1985,269,1991,268,1996,225,1990,204,1981,186,1968,170,1946,155,1917,130,1843,111,1753,96,1654,78,1461,72,1327"/>
+<area shape="rect" id="Node000042" href="$classNoteSpawner.html" title=" " alt="" coords="257,2028,366,2053"/>
+<area shape="poly" id="edge43_Node000003_Node000042" title=" " alt="" coords="77,1327,82,1470,98,1677,113,1784,132,1881,158,1960,173,1991,190,2013,204,2025,221,2033,257,2040,256,2045,219,2038,201,2029,186,2017,169,1994,153,1962,127,1882,107,1784,93,1678,77,1470,72,1328"/>
+<area shape="rect" id="Node000043" href="$classNotes_1_1Lane_1_1LaneOccupancyProvider.html" title=" " alt="" coords="211,2078,412,2118"/>
+<area shape="poly" id="edge44_Node000003_Node000043" title=" " alt="" coords="77,1327,81,1477,97,1699,111,1813,131,1918,157,2005,173,2038,190,2063,212,2080,209,2084,186,2067,168,2040,152,2007,126,1919,106,1814,91,1699,76,1477,72,1327"/>
+<area shape="rect" id="Node000044" href="$classNotes_1_1Lane_1_1LaneRouter.html" title="레인별 &quot;가장 먼저 생성된 노트 1개만&quot; 판정 활성화. (0.1초 내 두 노트가 같은 레인에서 동시에 터지는 문제 해결)" alt="" coords="225,2143,398,2168"/>
+<area shape="poly" id="edge45_Node000003_Node000044" title=" " alt="" coords="76,1327,78,1489,83,1605,91,1731,105,1856,125,1971,138,2021,153,2065,171,2101,190,2128,206,2141,225,2149,223,2154,203,2145,186,2132,166,2104,148,2067,133,2023,120,1972,100,1857,86,1731,77,1605,73,1489,71,1327"/>
+<area shape="rect" id="Node000045" href="$classNotes_1_1Square_1_1SquareNoteCore.html" title=" " alt="" coords="202,2192,421,2217"/>
+<area shape="poly" id="edge46_Node000003_Node000045" title=" " alt="" coords="76,1327,77,1498,80,1621,88,1755,102,1888,122,2010,136,2064,151,2110,169,2149,190,2178,205,2190,202,2194,186,2181,165,2151,146,2112,131,2065,117,2011,96,1889,83,1755,75,1621,71,1498,71,1327"/>
+<area shape="rect" id="Node000046" href="$classNotes_1_1Square_1_1SquareNoteJudge.html" title=" " alt="" coords="199,2241,424,2267"/>
+<area shape="poly" id="edge47_Node000003_Node000046" title=" " alt="" coords="78,1327,90,1519,114,1806,129,1951,148,2079,168,2175,179,2208,190,2227,205,2239,202,2243,186,2230,174,2210,163,2177,142,2080,124,1952,108,1806,85,1519,73,1327"/>
+<area shape="rect" id="Node000047" href="$classNotes_1_1Square_1_1SquareNoteTimeline.html" title=" " alt="" coords="188,2291,435,2316"/>
+<area shape="poly" id="edge48_Node000003_Node000047" title=" " alt="" coords="78,1327,89,1528,112,1831,128,1984,146,2119,167,2222,178,2256,190,2276,205,2288,202,2293,186,2280,173,2258,162,2223,141,2120,122,1985,107,1831,84,1528,73,1327"/>
+<area shape="rect" id="Node000048" href="$classNotes_1_1Square_1_1SquareNoteVisual.html" title="Square 노트 타입에 따라 적절한 시각 컴포넌트를 활성화하는 라우터." alt="" coords="197,2340,426,2365"/>
+<area shape="poly" id="edge49_Node000003_Node000048" title=" " alt="" coords="78,1327,88,1537,111,1856,126,2018,145,2160,166,2268,178,2304,190,2326,205,2338,202,2342,186,2329,173,2306,161,2269,139,2161,121,2018,105,1856,83,1538,72,1327"/>
+<area shape="rect" id="Node000049" href="$classNotes_1_1Square_1_1SquareVisualBase.html" title="Grid,Trail 노트의 공통 시각 처리 로직을 제공하는 베이스 클래스." alt="" coords="196,2389,427,2415"/>
+<area shape="poly" id="edge50_Node000003_Node000049" title=" " alt="" coords="78,1327,87,1546,109,1881,124,2052,143,2202,165,2316,177,2354,190,2376,203,2387,200,2391,186,2380,172,2356,160,2317,138,2203,119,2052,104,1882,82,1547,72,1327"/>
+<area shape="rect" id="Node000052" href="$classNotes_1_1Square_1_1SquareVisualLong.html" title=" " alt="" coords="197,2439,426,2464"/>
+<area shape="poly" id="edge53_Node000003_Node000052" title=" " alt="" coords="77,1327,87,1555,107,1906,123,2084,141,2242,164,2362,177,2402,190,2426,203,2436,199,2440,186,2429,172,2404,159,2363,136,2243,117,2085,102,1906,81,1555,72,1327"/>
+<area shape="rect" id="Node000053" href="$classParrythmInputRuntime.html" title="런타임 입력 상태를 총괄하는 관리자." alt="" coords="227,2488,396,2513"/>
+<area shape="poly" id="edge54_Node000003_Node000053" title=" " alt="" coords="77,1327,86,1565,106,1931,121,2118,140,2283,163,2408,176,2450,190,2475,207,2488,227,2496,225,2501,204,2493,186,2478,171,2452,158,2409,135,2284,116,2119,100,1932,80,1565,72,1327"/>
+<area shape="rect" id="Node000054" href="$classPlayerSpriteController.html" title=" " alt="" coords="229,2537,394,2563"/>
+<area shape="poly" id="edge55_Node000003_Node000054" title=" " alt="" coords="77,1327,85,1574,104,1956,119,2151,138,2324,162,2454,176,2498,190,2524,208,2538,229,2546,227,2551,205,2543,186,2528,171,2500,157,2456,133,2324,114,2152,99,1956,80,1574,72,1328"/>
+<area shape="rect" id="Node000055" href="$classResultsUI.html" title=" " alt="" coords="269,203,353,228"/>
+<area shape="poly" id="edge56_Node000003_Node000055" title=" " alt="" coords="72,1274,82,1057,104,727,119,560,138,412,160,299,172,261,186,238,204,224,225,215,269,209,269,215,227,220,207,228,190,241,177,263,165,301,143,413,125,560,109,728,88,1058,78,1274"/>
+<area shape="rect" id="Node000056" href="$classSettingsCardOffset.html" title=" " alt="" coords="239,252,383,277"/>
+<area shape="poly" id="edge57_Node000003_Node000056" title=" " alt="" coords="72,1274,83,1067,106,753,121,593,140,453,161,346,173,309,186,287,210,270,238,261,240,266,213,275,190,290,178,312,166,347,145,453,126,594,111,753,89,1067,78,1275"/>
+<area shape="rect" id="Node000057" href="$classSettingsCardPlaySettings.html" title=" " alt="" coords="218,301,405,327"/>
+<area shape="poly" id="edge58_Node000003_Node000057" title=" " alt="" coords="73,1274,84,1076,107,777,123,626,141,493,162,392,174,357,186,336,200,325,216,317,219,321,203,329,190,340,178,360,167,393,146,494,128,627,112,778,89,1076,78,1275"/>
+<area shape="rect" id="Node000058" href="$classSettingsCardPlayerSettings.html" title=" " alt="" coords="212,351,411,376"/>
+<area shape="poly" id="edge59_Node000003_Node000058" title=" " alt="" coords="73,1274,85,1085,109,802,125,659,143,534,163,438,174,406,186,386,210,369,213,373,190,389,179,408,168,440,148,535,130,660,114,803,90,1085,78,1275"/>
+<area shape="rect" id="Node000059" href="$classSettingsCardViewSettings.html" title=" " alt="" coords="216,400,407,425"/>
+<area shape="poly" id="edge60_Node000003_Node000059" title=" " alt="" coords="71,1274,71,1105,75,984,83,852,97,721,118,601,131,548,147,502,165,464,186,435,214,416,217,421,190,439,170,467,152,504,136,550,123,602,102,722,89,853,81,984,77,1105,76,1274"/>
+<area shape="rect" id="Node000060" href="$classSliderNoteVisual.html" title="Renders the slider body, head, timing guide, and checkpoint markers from a cached local&#45;space path." alt="" coords="246,449,377,475"/>
+<area shape="poly" id="edge61_Node000003_Node000060" title=" " alt="" coords="71,1274,73,1113,78,999,86,876,100,753,121,640,149,547,166,511,186,484,213,466,245,458,246,463,216,471,190,488,171,514,154,549,126,641,106,753,92,876,83,1000,78,1114,76,1274"/>
+<area shape="rect" id="Node000061" href="$classSongCard.html" title=" " alt="" coords="269,499,353,524"/>
+<area shape="poly" id="edge62_Node000003_Node000061" title=" " alt="" coords="71,1274,75,1123,89,900,104,785,124,679,151,592,167,559,186,533,204,520,226,511,269,506,270,511,227,516,207,524,190,537,172,562,156,594,129,680,109,785,95,900,80,1123,77,1274"/>
+<area shape="rect" id="Node000062" href="$classSongPreviewPlayer.html" title=" " alt="" coords="238,548,385,573"/>
+<area shape="poly" id="edge63_Node000003_Node000062" title=" " alt="" coords="72,1274,77,1131,93,923,107,816,127,718,153,637,168,606,186,583,210,566,237,558,239,563,212,571,190,587,173,609,158,640,132,719,112,817,98,923,82,1131,77,1274"/>
+<area shape="rect" id="Node000063" href="$classTextExitHoldIndicator.html" title=" " alt="" coords="231,597,392,623"/>
+<area shape="poly" id="edge64_Node000003_Node000063" title=" " alt="" coords="72,1274,78,1140,96,947,110,848,130,757,155,683,169,654,186,632,206,618,229,609,231,614,209,622,190,636,174,657,160,685,135,758,116,849,101,947,84,1140,77,1274"/>
+<area shape="rect" id="Node000016" href="$classCanvasSongSelectMenuController.html" title=" " alt="" coords="483,1116,725,1141"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="396,1185,434,1174,457,1162,482,1150,522,1139,524,1144,484,1155,460,1167,436,1179,397,1190"/>
+<area shape="rect" id="Node000017" href="$classResultCarouselController.html" title=" " alt="" coords="512,1165,696,1191"/>
+<area shape="poly" id="edge19_Node000015_Node000017" title=" " alt="" coords="396,1192,511,1183,512,1188,397,1198"/>
+<area shape="rect" id="Node000018" href="$classSampleCarouselController.html" title="Template example of a CarouselController child class. Use this as a reference when creating your own ..." alt="" coords="508,1215,700,1240"/>
+<area shape="poly" id="edge20_Node000015_Node000018" title=" " alt="" coords="397,1207,508,1216,508,1222,396,1212"/>
+<area shape="rect" id="Node000019" href="$classSettingsCarouselController.html" title=" " alt="" coords="506,1264,702,1289"/>
+<area shape="poly" id="edge21_Node000015_Node000019" title=" " alt="" coords="397,1213,436,1224,460,1236,484,1249,527,1261,526,1266,482,1254,457,1241,434,1228,396,1218"/>
+<area shape="rect" id="Node000040" href="$classCircleNote.html" title=" " alt="" coords="559,1955,649,1980"/>
+<area shape="poly" id="edge41_Node000039_Node000040" title=" " alt="" coords="367,1984,558,1968,559,1974,368,1989"/>
+<area shape="rect" id="Node000041" href="$classSliderNote.html" title="Owns slider path setup, follow&#45;state judging, and final checkpoint resolution for slider notes." alt="" coords="559,2004,649,2029"/>
+<area shape="poly" id="edge42_Node000039_Node000041" title=" " alt="" coords="368,1993,559,2010,558,2015,367,1999"/>
+<area shape="rect" id="Node000050" href="$classNotes_1_1Square_1_1SquareVisualNormal.html" title="기본 Square 노트의 시각 표현." alt="" coords="505,2350,703,2390"/>
+<area shape="poly" id="edge51_Node000049_Node000050" title=" " alt="" coords="440,2385,504,2378,505,2383,441,2391"/>
+<area shape="rect" id="Node000051" href="$classNotes_1_1Square_1_1SquareVisualTrail.html" title=" " alt="" coords="505,2414,703,2454"/>
+<area shape="poly" id="edge52_Node000049_Node000051" title=" " alt="" coords="441,2413,505,2421,504,2426,440,2419"/>
 </map>

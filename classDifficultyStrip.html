@@ -118,8 +118,8 @@ DifficultyStrip에 대한 협력 다이어그램:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public 멤버 함수</h2></td></tr>
-<tr class="memitem:a1465fc88721335394dc4d5a0a22b7de8" id="r_a1465fc88721335394dc4d5a0a22b7de8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classDifficultyStrip.html#a1465fc88721335394dc4d5a0a22b7de8">Set</a> (IReadOnlyList&lt; <a class="el" href="classDifficultyInfo.html">DifficultyInfo</a> &gt; diffs, int selectedIndex)</td></tr>
-<tr class="separator:a1465fc88721335394dc4d5a0a22b7de8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a228a31810ba718bb1dbf55bc2e5bf885" id="r_a228a31810ba718bb1dbf55bc2e5bf885"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classDifficultyStrip.html#a228a31810ba718bb1dbf55bc2e5bf885">Set</a> (IReadOnlyList&lt; <a class="el" href="classDifficultyInfo.html">DifficultyInfo</a> &gt; diffs, int selectedIndex, Action&lt; int &gt; onDifficultySelected=null)</td></tr>
+<tr class="separator:a228a31810ba718bb1dbf55bc2e5bf885"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public 속성</h2></td></tr>
@@ -127,7 +127,7 @@ Public 속성</h2></td></tr>
 <tr class="separator:a827803598b38757f65ad66c54b949cb5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aef5880093fc4aae2e9362c1db77e1116" id="r_aef5880093fc4aae2e9362c1db77e1116"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classDifficultyBlock.html">DifficultyBlock</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classDifficultyStrip.html#aef5880093fc4aae2e9362c1db77e1116">badgePrefab</a></td></tr>
 <tr class="separator:aef5880093fc4aae2e9362c1db77e1116"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afdf7ba5f11af92d19c47708dcbe3e22e" id="r_afdf7ba5f11af92d19c47708dcbe3e22e"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classDifficultyStrip.html#afdf7ba5f11af92d19c47708dcbe3e22e">selectedScale</a> = 1.1f</td></tr>
+<tr class="memitem:afdf7ba5f11af92d19c47708dcbe3e22e" id="r_afdf7ba5f11af92d19c47708dcbe3e22e"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classDifficultyStrip.html#afdf7ba5f11af92d19c47708dcbe3e22e">selectedScale</a> = 1.2f</td></tr>
 <tr class="separator:afdf7ba5f11af92d19c47708dcbe3e22e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a80fd1c9554e1053d59286f3b895f030e" id="r_a80fd1c9554e1053d59286f3b895f030e"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classDifficultyStrip.html#a80fd1c9554e1053d59286f3b895f030e">unselectedScale</a> = 1f</td></tr>
 <tr class="separator:a80fd1c9554e1053d59286f3b895f030e"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -137,8 +137,8 @@ Public 속성</h2></td></tr>
 <tr class="separator:a7ec988cdb546f28a2d5cda3b05fa9305"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">멤버 함수 문서화</h2>
-<a id="a1465fc88721335394dc4d5a0a22b7de8" name="a1465fc88721335394dc4d5a0a22b7de8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1465fc88721335394dc4d5a0a22b7de8">&#9670;&#160;</a></span>Set()</h2>
+<a id="a228a31810ba718bb1dbf55bc2e5bf885" name="a228a31810ba718bb1dbf55bc2e5bf885"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a228a31810ba718bb1dbf55bc2e5bf885">&#9670;&#160;</a></span>Set()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -156,7 +156,13 @@ Public 속성</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>selectedIndex</em>&#160;</td>
+          <td class="paramname"><em>selectedIndex</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Action&lt; int &gt;&#160;</td>
+          <td class="paramname"><em>onDifficultySelected</em> = <code>null</code>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -173,8 +179,8 @@ Public 속성</h2></td></tr>
 <div class="dynheader">
 이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
 <div class="dyncontent">
-<div class="center"><img src="classDifficultyStrip_a1465fc88721335394dc4d5a0a22b7de8_cgraph.png" border="0" usemap="#aclassDifficultyStrip_a1465fc88721335394dc4d5a0a22b7de8_cgraph" alt=""/></div>
-<map name="aclassDifficultyStrip_a1465fc88721335394dc4d5a0a22b7de8_cgraph" id="aclassDifficultyStrip_a1465fc88721335394dc4d5a0a22b7de8_cgraph">
+<div class="center"><img src="classDifficultyStrip_a228a31810ba718bb1dbf55bc2e5bf885_cgraph.png" border="0" usemap="#aclassDifficultyStrip_a228a31810ba718bb1dbf55bc2e5bf885_cgraph" alt=""/></div>
+<map name="aclassDifficultyStrip_a228a31810ba718bb1dbf55bc2e5bf885_cgraph" id="aclassDifficultyStrip_a228a31810ba718bb1dbf55bc2e5bf885_cgraph">
 <area shape="rect" title=" " alt="" coords="5,5,141,31"/>
 <area shape="rect" href="classDifficultyColorPalette.html#ad3263234dbf14b78a2cef8426e4911c4" title=" " alt="" coords="189,5,376,31"/>
 <area shape="poly" title=" " alt="" coords="142,15,176,15,176,21,142,21"/>
@@ -233,7 +239,7 @@ Public 속성</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">float DifficultyStrip.selectedScale = 1.1f</td>
+          <td class="memname">float DifficultyStrip.selectedScale = 1.2f</td>
         </tr>
       </table>
 </div><div class="memdoc">

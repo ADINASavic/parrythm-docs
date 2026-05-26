@@ -63,6 +63,7 @@ var hierarchy =
     [ "MeshUtil", "classMeshUtil.html", null ],
     [ "MonoBehaviour", null, [
       [ "AnimatedCharacterController", "classAnimatedCharacterController.html", null ],
+      [ "AnimatedCharacterPicker", "classAnimatedCharacterPicker.html", null ],
       [ "ApproachCircleVisual", "classApproachCircleVisual.html", null ],
       [ "BackgroundVideoSync", "classBackgroundVideoSync.html", null ],
       [ "BattleAnimationReaction", "classBattleAnimationReaction.html", null ],

@@ -1,9 +1,11 @@
 <map id="GameSettingsSaveService.GenerateDefaultPlayerName" name="GameSettingsSaveService.GenerateDefaultPlayerName">
-<area shape="rect" id="Node000001" title=" " alt="" coords="595,27,805,67"/>
-<area shape="rect" id="Node000002" href="$classPlayerNameSettings.html#ae56713014f5429a8d004d063e578fd62" title=" " alt="" coords="316,27,547,67"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="581,50,547,50,547,45,581,45"/>
-<area shape="rect" id="Node000003" href="$classPlayerNameSettings.html#a92788555e53866f9db87635413167d50" title=" " alt="" coords="5,5,268,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="302,37,264,33,264,28,302,32"/>
-<area shape="rect" id="Node000004" href="$classPlayerNameSettings.html#a182bc461df04cf079b41113de76283a6" title=" " alt="" coords="39,55,235,95"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="302,62,235,69,235,63,302,57"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="867,35,1077,75"/>
+<area shape="rect" id="Node000002" href="$classPlayerNameSettings.html#ae56713014f5429a8d004d063e578fd62" title=" " alt="" coords="588,35,819,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="853,57,819,57,819,52,853,52"/>
+<area shape="rect" id="Node000003" href="$classPlayerNameSettings.html#a92788555e53866f9db87635413167d50" title=" " alt="" coords="277,13,540,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="574,44,536,41,536,35,574,39"/>
+<area shape="rect" id="Node000005" href="$classPlayerNameSettings.html#a182bc461df04cf079b41113de76283a6" title=" " alt="" coords="311,63,507,103"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="574,70,507,76,507,71,574,64"/>
+<area shape="rect" id="Node000004" href="$classSettingsCardPlayerSettings.html#ab46c4d2ea964b03258f7706f01c183a4" title=" " alt="" coords="5,5,229,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="264,28,230,28,230,23,264,23"/>
 </map>

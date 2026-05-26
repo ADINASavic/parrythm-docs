@@ -23,5 +23,6 @@ var classCanvasSongSelectMenuController =
     [ "sortCurrentText", "classCanvasSongSelectMenuController.html#af15c0131361d56a28ac2b9024417d170", null ],
     [ "sortCurrentText2", "classCanvasSongSelectMenuController.html#a543993d8426bd692a48abe48c6a5491c", null ],
     [ "sortNextText", "classCanvasSongSelectMenuController.html#a1bb55648f3c995ee765c6849d04f0162", null ],
-    [ "sortPrevText", "classCanvasSongSelectMenuController.html#ada37f8a393f808115b42165e9b065b90", null ]
+    [ "sortPrevText", "classCanvasSongSelectMenuController.html#ada37f8a393f808115b42165e9b065b90", null ],
+    [ "startGameGuideImage", "classCanvasSongSelectMenuController.html#a446f8bd13d2d1be3d0fc285331fe8aa9", null ]
 ];

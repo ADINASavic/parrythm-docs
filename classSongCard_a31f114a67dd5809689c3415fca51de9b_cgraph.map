@@ -1,0 +1,5 @@
+<map id="SongCard.StartGame" name="SongCard.StartGame">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,164,38"/>
+<area shape="rect" id="Node000002" href="$classCanvasSongSelectMenuController.html#aade48e4a11b56d716ba48daa4c74b0c9" title=" " alt="" coords="212,5,457,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,23,198,23,198,28,164,28"/>
+</map>

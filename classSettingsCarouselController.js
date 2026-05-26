@@ -3,6 +3,7 @@ var classSettingsCarouselController =
     [ "CanProcessInput", "classSettingsCarouselController.html#aa725942b05f6c895d8a10aff968b8d7a", null ],
     [ "OnClickLeft", "classSettingsCarouselController.html#aa57901cd8adf522b02fd0a78292a6bfc", null ],
     [ "OnClickRight", "classSettingsCarouselController.html#a0e048e8ed9c65e1fe1d26d64dc488223", null ],
+    [ "OnEnterNewGame", "classSettingsCarouselController.html#ae341c4efb9c636b5e25bd95898d46484", null ],
     [ "OnEnterSettings", "classSettingsCarouselController.html#ac682f42cf88e9db2f180b45479013a85", null ],
     [ "OnExitSettings", "classSettingsCarouselController.html#a87eef7da76dd8e49e1c033f48a8cdc61", null ],
     [ "SetTypingInInputField", "classSettingsCarouselController.html#a57d857dd35ca3a04b07191168daf6321", null ],

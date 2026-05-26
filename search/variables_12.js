@@ -58,10 +58,11 @@ var searchData=
   ['squarenoteprefab_55',['squareNotePrefab',['../classNoteSpawner.html#a618f44c471ff7c8e0fb5d2ee2d8d1d8b',1,'NoteSpawner']]],
   ['st_56',['st',['../classNotes_1_1Square_1_1SquareVisualBase.html#ae256538bfcb9c661c3ededc3f42f5860',1,'Notes::Square::SquareVisualBase']]],
   ['startbeat_57',['startBeat',['../classLevelChartData_1_1NoteEvent.html#adb4f4ce7f585db6334e0a11dcdaa0278',1,'LevelChartData::NoteEvent']]],
-  ['startgauge_58',['startGauge',['../classGaugeManager.html#a98f252ebeba1b95c8e4d7de11f363131',1,'GaugeManager']]],
-  ['starthintcolor_59',['startHintColor',['../classNotes_1_1Square_1_1SquareVisualLong.html#a313ca83057e7c31c0980f284fd2b263a',1,'Notes::Square::SquareVisualLong']]],
-  ['startoffset_60',['startoffset',['../classSongMeta.html#a6340cfbb839855b965bbabd204862fa2',1,'SongMeta.startOffset'],['../classLevelChartData.html#a558dc92df8196c6d66d7b310a2b1631a',1,'LevelChartData.startOffset'],['../classBackgroundVideoSync.html#a3e141aa6e4032d2e473a94d784eaa952',1,'BackgroundVideoSync.startOffset']]],
-  ['startoffsetbeats_61',['startoffsetbeats',['../classSongMeta.html#a12394d2e422133aab7fd5a3f7225301d',1,'SongMeta.startOffsetBeats'],['../classLevelChartData.html#a598c8f61d4877dd8af93643081a72a7a',1,'LevelChartData.startOffsetBeats']]],
-  ['starttime_62',['starttime',['../classBulletNote.html#a10545fa1e71b6672ac96717dd48c024a',1,'BulletNote.startTime'],['../classSliderNote.html#a8ea9a39e2d6401acedde5d53d0bc40a2',1,'SliderNote.startTime'],['../structSliderNoteInit.html#a1e16da37ad2d4ada813db054cf44dc00',1,'SliderNoteInit.startTime'],['../classLevelChartData_1_1NoteEvent.html#a1a4cab39c08590ee34b7d2fc4214b52d',1,'LevelChartData.NoteEvent.startTime']]],
-  ['state_63',['state',['../classNotes_1_1Square_1_1SquareVisualBase.html#ae15ae56098f682291f29d47b8276dcc2',1,'Notes::Square::SquareVisualBase']]]
+  ['startgameguideimage_58',['startGameGuideImage',['../classCanvasSongSelectMenuController.html#a446f8bd13d2d1be3d0fc285331fe8aa9',1,'CanvasSongSelectMenuController']]],
+  ['startgauge_59',['startGauge',['../classGaugeManager.html#a98f252ebeba1b95c8e4d7de11f363131',1,'GaugeManager']]],
+  ['starthintcolor_60',['startHintColor',['../classNotes_1_1Square_1_1SquareVisualLong.html#a313ca83057e7c31c0980f284fd2b263a',1,'Notes::Square::SquareVisualLong']]],
+  ['startoffset_61',['startoffset',['../classSongMeta.html#a6340cfbb839855b965bbabd204862fa2',1,'SongMeta.startOffset'],['../classBackgroundVideoSync.html#a3e141aa6e4032d2e473a94d784eaa952',1,'BackgroundVideoSync.startOffset'],['../classLevelChartData.html#a558dc92df8196c6d66d7b310a2b1631a',1,'LevelChartData.startOffset']]],
+  ['startoffsetbeats_62',['startoffsetbeats',['../classSongMeta.html#a12394d2e422133aab7fd5a3f7225301d',1,'SongMeta.startOffsetBeats'],['../classLevelChartData.html#a598c8f61d4877dd8af93643081a72a7a',1,'LevelChartData.startOffsetBeats']]],
+  ['starttime_63',['starttime',['../classBulletNote.html#a10545fa1e71b6672ac96717dd48c024a',1,'BulletNote.startTime'],['../classSliderNote.html#a8ea9a39e2d6401acedde5d53d0bc40a2',1,'SliderNote.startTime'],['../structSliderNoteInit.html#a1e16da37ad2d4ada813db054cf44dc00',1,'SliderNoteInit.startTime'],['../classLevelChartData_1_1NoteEvent.html#a1a4cab39c08590ee34b7d2fc4214b52d',1,'LevelChartData.NoteEvent.startTime']]],
+  ['state_64',['state',['../classNotes_1_1Square_1_1SquareVisualBase.html#ae15ae56098f682291f29d47b8276dcc2',1,'Notes::Square::SquareVisualBase']]]
 ];

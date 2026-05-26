@@ -1,0 +1,25 @@
+<map id="SettingsCarouselController.OnEnterNewGame" name="SettingsCarouselController.OnEnterNewGame">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,204,163"/>
+<area shape="rect" id="Node000002" href="$classSettingsCarouselController.html#ac682f42cf88e9db2f180b45479013a85" title=" " alt="" coords="263,27,461,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,120,251,76,274,68,276,73,253,81,149,125"/>
+<area shape="rect" id="Node000003" href="$classCarouselController.html#aadae427523bef970ab26f8764db3d9cc" title=" " alt="" coords="265,91,459,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,128,250,122,251,127,204,133"/>
+<area shape="rect" id="Node000009" href="$classCarouselController.html#a1dfd4fb943f79f1b5de14958d516707f" title=" " alt="" coords="252,155,472,195"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="204,152,239,157,238,162,204,158"/>
+<area shape="rect" id="Node000011" href="$classSettingsCarouselController.html#a3891485d509e3918a72ae8854abfef3a" title=" " alt="" coords="263,219,461,259"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="149,160,253,204,276,212,274,217,251,209,147,165"/>
+<area shape="rect" id="Node000004" href="$classCarouselController.html#a63ee680f18e52dbfc638684a0a878fcc" title=" " alt="" coords="544,33,723,73"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="457,88,530,72,531,78,458,93"/>
+<area shape="rect" id="Node000008" href="$classCarouselController.html#a15569d0299e4b9d9db9436bc9a7f01a7" title=" " alt="" coords="533,97,733,137"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="460,110,520,112,520,117,460,116"/>
+<area shape="rect" id="Node000005" href="$classCarouselController.html#a8739556c067665a3ebc19a05722407d3" title=" " alt="" coords="819,5,1009,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="723,42,804,34,805,39,723,47"/>
+<area shape="rect" id="Node000006" href="$classCarouselController.html#a0f228125f0e7e4508db2cd9be53b6c75" title=" " alt="" coords="795,70,1033,95"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="723,60,781,66,781,71,723,65"/>
+<area shape="rect" id="Node000007" href="$classCarouselController.html#afbef08291aff7890520877b0dd72d9de" title=" " alt="" coords="815,123,1013,163"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="711,71,748,83,796,104,830,116,828,121,794,109,746,88,710,76"/>
+<area shape="poly" id="edge11_Node000009_Node000007" title=" " alt="" coords="472,166,800,147,801,152,473,171"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="457,152,524,138,526,143,458,157"/>
+<area shape="rect" id="Node000010" href="$classCarouselController.html#a8dff4840622297abd67270d970a5906a" title=" " alt="" coords="520,213,747,238"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="470,192,552,208,551,213,469,197"/>
+</map>

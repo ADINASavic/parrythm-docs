@@ -18,6 +18,7 @@ var annotated_dup =
       ] ]
     ] ],
     [ "AnimatedCharacterController", "classAnimatedCharacterController.html", "classAnimatedCharacterController" ],
+    [ "AnimatedCharacterPicker", "classAnimatedCharacterPicker.html", "classAnimatedCharacterPicker" ],
     [ "AppDataPaths", "classAppDataPaths.html", "classAppDataPaths" ],
     [ "ApproachCircleVisual", "classApproachCircleVisual.html", "classApproachCircleVisual" ],
     [ "BackgroundVideoSync", "classBackgroundVideoSync.html", "classBackgroundVideoSync" ],

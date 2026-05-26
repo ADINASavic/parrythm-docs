@@ -30,5 +30,6 @@ var searchData=
   ['bulletspawntime_27',['bulletSpawnTime',['../classLevelChartData_1_1NoteEvent.html#a0b451924696f0156756d36c7f75f3a08',1,'LevelChartData::NoteEvent']]],
   ['bullettodockbeats_28',['bulletToDockBeats',['../classLevelChartData_1_1NoteEvent.html#a066674f21905ba11ec45b408b9b64f8c',1,'LevelChartData::NoteEvent']]],
   ['bullettodockduration_29',['bulletToDockDuration',['../classLevelChartData_1_1NoteEvent.html#a0955749e9464fe2c4d6e22229a79b86e',1,'LevelChartData::NoteEvent']]],
-  ['buttonquickspeedsetting_30',['buttonquickspeedsetting',['../classSettingsCardPlaySettings.html#ae3511bec735c4a11b06f8be54e47b597',1,'SettingsCardPlaySettings.buttonQuickSpeedSetting'],['../classButtonQuickSpeedSetting.html#ad2e451c8c9018da1e5d1ec1d0cf5113a',1,'ButtonQuickSpeedSetting.buttonQuickSpeedSetting']]]
+  ['button_30',['button',['../classDifficultyBlock.html#a985e25efab2e6a7623c0f78d89db8c17',1,'DifficultyBlock']]],
+  ['buttonquickspeedsetting_31',['buttonquickspeedsetting',['../classSettingsCardPlaySettings.html#ae3511bec735c4a11b06f8be54e47b597',1,'SettingsCardPlaySettings.buttonQuickSpeedSetting'],['../classButtonQuickSpeedSetting.html#ad2e451c8c9018da1e5d1ec1d0cf5113a',1,'ButtonQuickSpeedSetting.buttonQuickSpeedSetting']]]
 ];

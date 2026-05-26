@@ -1,6 +1,6 @@
 var classDifficultyStrip =
 [
-    [ "Set", "classDifficultyStrip.html#a1465fc88721335394dc4d5a0a22b7de8", null ],
+    [ "Set", "classDifficultyStrip.html#a228a31810ba718bb1dbf55bc2e5bf885", null ],
     [ "badgePrefab", "classDifficultyStrip.html#aef5880093fc4aae2e9362c1db77e1116", null ],
     [ "root", "classDifficultyStrip.html#a827803598b38757f65ad66c54b949cb5", null ],
     [ "selectedAlpha", "classDifficultyStrip.html#adaf3782d39dc28b2f2510da2324fa03e", null ],

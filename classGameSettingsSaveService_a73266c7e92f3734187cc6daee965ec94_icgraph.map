@@ -1,9 +1,11 @@
 <map id="GameSettingsSaveService.SaveProfile" name="GameSettingsSaveService.SaveProfile">
-<area shape="rect" id="Node000001" title=" " alt="" coords="560,23,759,63"/>
-<area shape="rect" id="Node000002" href="$classPlayerNameSettings.html#a92788555e53866f9db87635413167d50" title=" " alt="" coords="249,5,512,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="546,36,512,33,512,27,547,30"/>
-<area shape="rect" id="Node000003" href="$classPlayerNameSettings.html#a2bef7d99e9e3974412b666489f2cab6f" title=" " alt="" coords="251,55,511,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="547,56,511,59,511,53,546,50"/>
-<area shape="rect" id="Node000004" href="$classPlayerNameSettings.html#a182bc461df04cf079b41113de76283a6" title=" " alt="" coords="5,47,201,87"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="237,70,202,70,202,65,237,65"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="588,39,787,79"/>
+<area shape="rect" id="Node000002" href="$classPlayerNameSettings.html#a92788555e53866f9db87635413167d50" title=" " alt="" coords="277,17,540,42"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="574,49,529,45,530,39,575,44"/>
+<area shape="rect" id="Node000004" href="$classPlayerNameSettings.html#a2bef7d99e9e3974412b666489f2cab6f" title=" " alt="" coords="279,70,539,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="575,71,539,74,539,69,574,66"/>
+<area shape="rect" id="Node000003" href="$classSettingsCardPlayerSettings.html#ab46c4d2ea964b03258f7706f01c183a4" title=" " alt="" coords="5,5,229,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="263,30,229,30,230,24,264,25"/>
+<area shape="rect" id="Node000005" href="$classPlayerNameSettings.html#a182bc461df04cf079b41113de76283a6" title=" " alt="" coords="19,69,215,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="265,89,216,90,215,84,265,83"/>
 </map>
