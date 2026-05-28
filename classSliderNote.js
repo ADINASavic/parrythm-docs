@@ -15,6 +15,7 @@ var classSliderNote =
     [ "debugPathColor", "classSliderNote.html#a65a7d942f7a6f5f893dd3dbbf7e2cc18", null ],
     [ "debugRuntimeVisuals", "classSliderNote.html#a2b15a1e36341fbea6d0891d8e0d1492d", null ],
     [ "debugSampleColor", "classSliderNote.html#af113a22b0101086b2b1de72e31960443", null ],
+    [ "durationBeatsOverride", "classSliderNote.html#a253e0b1d6b8326a5d22daeaa53ea1e06", null ],
     [ "durationOverride", "classSliderNote.html#a792ea0d1728a8fa5b2a2db6744ebc805", null ],
     [ "maxBulletColliders", "classSliderNote.html#afa43f470b594b060c9fd7b9a97c17d8a", null ],
     [ "simultaneousLeadFillColor", "classSliderNote.html#a366fc6bcc4b1e2844659af837a5558b6", null ],

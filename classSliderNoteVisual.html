@@ -123,6 +123,9 @@ Public 멤버 함수</h2></td></tr>
 <tr class="memitem:ad62aff8c625efddf980bc34aa23b01c6" id="r_ad62aff8c625efddf980bc34aa23b01c6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNoteVisual.html#ad62aff8c625efddf980bc34aa23b01c6">SetJointProgresses</a> (IReadOnlyList&lt; float &gt; progresses)</td></tr>
 <tr class="memdesc:ad62aff8c625efddf980bc34aa23b01c6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Replaces checkpoint marker positions expressed as normalized progress values along the path.  <br /></td></tr>
 <tr class="separator:ad62aff8c625efddf980bc34aa23b01c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a51370bb713616515e692b6bdd92fa5f4" id="r_a51370bb713616515e692b6bdd92fa5f4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNoteVisual.html#a51370bb713616515e692b6bdd92fa5f4">SetBeatMarkerProgresses</a> (IReadOnlyList&lt; float &gt; progresses)</td></tr>
+<tr class="memdesc:a51370bb713616515e692b6bdd92fa5f4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Replaces beat guide marker positions expressed as normalized progress values along the path.  <br /></td></tr>
+<tr class="separator:a51370bb713616515e692b6bdd92fa5f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a537854d71912745fd015e39cabe610e3" id="r_a537854d71912745fd015e39cabe610e3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNoteVisual.html#a537854d71912745fd015e39cabe610e3">SetJointState</a> (int completedCount, bool isActive)</td></tr>
 <tr class="memdesc:a537854d71912745fd015e39cabe610e3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Receives joint completion state updates from gameplay code.  <br /></td></tr>
 <tr class="separator:a537854d71912745fd015e39cabe610e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -215,6 +218,8 @@ Public 속성</h2></td></tr>
 <tr class="separator:ab1d9d3ccdea31d81c64cbd6b8641f464"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a104a1d5c7177bcdd6acde1edfc6d0971" id="r_a104a1d5c7177bcdd6acde1edfc6d0971"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNoteVisual.html#a104a1d5c7177bcdd6acde1edfc6d0971">jointSortingOrder</a> = 40</td></tr>
 <tr class="separator:a104a1d5c7177bcdd6acde1edfc6d0971"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa0fda756c6b703b3d6e169afd17b14bc" id="r_aa0fda756c6b703b3d6e169afd17b14bc"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNoteVisual.html#aa0fda756c6b703b3d6e169afd17b14bc">beatMarkerSortingOrder</a> = 41</td></tr>
+<tr class="separator:aa0fda756c6b703b3d6e169afd17b14bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a293ce99b72758f44c94a697c310735e5" id="r_a293ce99b72758f44c94a697c310735e5"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNoteVisual.html#a293ce99b72758f44c94a697c310735e5">headSortingOrder</a> = 41</td></tr>
 <tr class="separator:a293ce99b72758f44c94a697c310735e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9cdbbd3ffcdabd6135e2d19cbcadfbaf" id="r_a9cdbbd3ffcdabd6135e2d19cbcadfbaf"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNoteVisual.html#a9cdbbd3ffcdabd6135e2d19cbcadfbaf">headOutlineSortingOffset</a> = 1</td></tr>
@@ -305,7 +310,7 @@ Public 속성</h2></td></tr>
 <area shape="poly" title=" " alt="" coords="713,34,679,31,679,25,713,29"/>
 <area shape="rect" href="classSliderNoteVisual.html#a43d5d5f8680915b5e519a07219e48ada" title="Binds note settings, caches derived visual constants, and reapplies any existing path or progress sta..." alt="" coords="500,55,663,80"/>
 <area shape="poly" title=" " alt="" coords="713,57,663,62,663,57,713,52"/>
-<area shape="rect" href="classNoteSpawner.html#a04597846c1d46248236cb6b1f7541c12" title=" " alt="" coords="244,5,436,31"/>
+<area shape="rect" href="classNoteSpawner.html#aa6340ab1975a5f5c64db058bfe3d8a48" title=" " alt="" coords="244,5,436,31"/>
 <area shape="poly" title=" " alt="" coords="471,21,436,21,436,15,471,15"/>
 <area shape="rect" href="classSliderNoteHandler.html#a11968495f5e72ef382681ef50c0afc64" title=" " alt="" coords="5,5,196,31"/>
 <area shape="poly" title=" " alt="" coords="230,21,196,21,196,15,230,15"/>
@@ -563,6 +568,40 @@ Public 속성</h2></td></tr>
 <dl class="params"><dt>매개변수</dt><dd>
   <table class="params">
     <tr><td class="paramname">index</td><td>Index of the armed checkpoint, or -1 when none is armed.</td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a51370bb713616515e692b6bdd92fa5f4" name="a51370bb713616515e692b6bdd92fa5f4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a51370bb713616515e692b6bdd92fa5f4">&#9670;&#160;</a></span>SetBeatMarkerProgresses()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void SliderNoteVisual.SetBeatMarkerProgresses </td>
+          <td>(</td>
+          <td class="paramtype">IReadOnlyList&lt; float &gt;&#160;</td>
+          <td class="paramname"><em>progresses</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Replaces beat guide marker positions expressed as normalized progress values along the path. </p>
+<dl class="params"><dt>매개변수</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">progresses</td><td>Normalized beat marker positions in path order.</td></tr>
   </table>
   </dd>
 </dl>
@@ -906,6 +945,20 @@ Public 속성</h2></td></tr>
       <table class="memname">
         <tr>
           <td class="memname">int SliderNoteVisual.baseTrackSortingOrder = 39</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aa0fda756c6b703b3d6e169afd17b14bc" name="aa0fda756c6b703b3d6e169afd17b14bc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa0fda756c6b703b3d6e169afd17b14bc">&#9670;&#160;</a></span>beatMarkerSortingOrder</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int SliderNoteVisual.beatMarkerSortingOrder = 41</td>
         </tr>
       </table>
 </div><div class="memdoc">

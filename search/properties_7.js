@@ -11,10 +11,11 @@ var searchData=
   ['isleftbuttonpressed_8',['IsLeftButtonPressed',['../classParrythmVirtualPointer.html#ae5378e2c3ecb076ffc84af6444f41cb2',1,'ParrythmVirtualPointer']]],
   ['ispaused_9',['IsPaused',['../classFmodMusicController.html#a685940106e649f754f3be8e9753c7d16',1,'FmodMusicController']]],
   ['isplaying_10',['IsPlaying',['../classFmodMusicController.html#a0b4f69a5a061f2a481e0859415ec4124',1,'FmodMusicController']]],
-  ['isready_11',['IsReady',['../classFmodMusicController.html#a4ac3ee4a6a84e9c379cb796fda2934cd',1,'FmodMusicController']]],
-  ['isrecommendationactive_12',['IsRecommendationActive',['../classButtonQuickSpeedSetting.html#ab8ff17af89c8b8c83de6cf199972f835',1,'ButtonQuickSpeedSetting']]],
-  ['isresolved_13',['IsResolved',['../classNotes_1_1Square_1_1SquareNoteJudge.html#aeedcfbde16f6afb9807538d77d2dacc3',1,'Notes::Square::SquareNoteJudge']]],
-  ['isrightbuttonpressed_14',['IsRightButtonPressed',['../classParrythmVirtualPointer.html#a9d1978c924aad7be940be540b37d9aa9',1,'ParrythmVirtualPointer']]],
-  ['issteamidentity_15',['IsSteamIdentity',['../classSaveIdentity.html#a2259c9bb617400523ea02595318e1e31',1,'SaveIdentity']]],
-  ['istrail_16',['IsTrail',['../classCircleNote.html#aebf93f5101c71e6b5817c652fa34ab02',1,'CircleNote']]]
+  ['isprepared_11',['IsPrepared',['../classConnectionHintController.html#a911f027bdc9d5548aa0661e877dc9459',1,'ConnectionHintController']]],
+  ['isready_12',['IsReady',['../classFmodMusicController.html#a4ac3ee4a6a84e9c379cb796fda2934cd',1,'FmodMusicController']]],
+  ['isrecommendationactive_13',['IsRecommendationActive',['../classButtonQuickSpeedSetting.html#ab8ff17af89c8b8c83de6cf199972f835',1,'ButtonQuickSpeedSetting']]],
+  ['isresolved_14',['IsResolved',['../classNotes_1_1Square_1_1SquareNoteJudge.html#aeedcfbde16f6afb9807538d77d2dacc3',1,'Notes::Square::SquareNoteJudge']]],
+  ['isrightbuttonpressed_15',['IsRightButtonPressed',['../classParrythmVirtualPointer.html#a9d1978c924aad7be940be540b37d9aa9',1,'ParrythmVirtualPointer']]],
+  ['issteamidentity_16',['IsSteamIdentity',['../classSaveIdentity.html#a2259c9bb617400523ea02595318e1e31',1,'SaveIdentity']]],
+  ['istrail_17',['IsTrail',['../classCircleNote.html#aebf93f5101c71e6b5817c652fa34ab02',1,'CircleNote']]]
 ];

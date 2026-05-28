@@ -37,6 +37,7 @@ var NAVTREEINDEX0 =
 "CircleNote_8cs.html":[2,0,0,0,5,2,1],
 "CircleTapHandler_8cs.html":[2,0,0,0,1,1,1],
 "CleanCursor_8cs.html":[2,0,0,0,2,2],
+"ConnectionHintController_8cs.html":[2,0,0,0,1,5],
 "DifficultyBlock_8cs.html":[2,0,0,0,6,1,4],
 "DifficultyColorPalette_8cs.html":[2,0,0,0,2,3],
 "DifficultyStrip_8cs.html":[2,0,0,0,6,1,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX0 =
 "classCanvasSongIntroController.html#af9e5ccc56b0d6783d07f9e7c71aa9043":[1,0,14,2],
 "classCanvasSongSelectMenuController.html":[1,0,15],
 "classCanvasSongSelectMenuController.html#a090c8d5d168dfab0a0f8c09e152e6a5f":[1,0,15,19],
-"classCanvasSongSelectMenuController.html#a0b7f38c0bb96981e7f06cdef7cd1e069":[1,0,15,17],
-"classCanvasSongSelectMenuController.html#a11d0392d986bdd77d3a4ee8e2b4d1428":[1,0,15,8]
+"classCanvasSongSelectMenuController.html#a0b7f38c0bb96981e7f06cdef7cd1e069":[1,0,15,17]
 };

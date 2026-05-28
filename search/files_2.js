@@ -15,5 +15,6 @@ var searchData=
   ['circlenoteinit_2ecs_12',['CircleNoteInit.cs',['../CircleNoteInit_8cs.html',1,'']]],
   ['circlenotevisual_2ecs_13',['CircleNoteVisual.cs',['../CircleNoteVisual_8cs.html',1,'']]],
   ['circletaphandler_2ecs_14',['CircleTapHandler.cs',['../CircleTapHandler_8cs.html',1,'']]],
-  ['cleancursor_2ecs_15',['CleanCursor.cs',['../CleanCursor_8cs.html',1,'']]]
+  ['cleancursor_2ecs_15',['CleanCursor.cs',['../CleanCursor_8cs.html',1,'']]],
+  ['connectionhintcontroller_2ecs_16',['ConnectionHintController.cs',['../ConnectionHintController_8cs.html',1,'']]]
 ];

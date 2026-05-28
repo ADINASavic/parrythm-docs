@@ -23,7 +23,7 @@ var searchData=
   ['difficultystrip_2ecs_20',['DifficultyStrip.cs',['../DifficultyStrip_8cs.html',1,'']]],
   ['difficultytext_21',['difficultyText',['../classCanvasSongIntroController.html#af891f8da446a43b654eb4d59aa0836bb',1,'CanvasSongIntroController']]],
   ['difficultyx_22',['DifficultyX',['../classParrythmInputActions_1_1OutgameMenuActions.html#abded52dc41866e248c1b0c5094b7ed4c',1,'ParrythmInputActions::OutgameMenuActions']]],
-  ['disable_23',['disable',['../classParrythmVirtualPointer.html#a0f961791550dd4fe6891dad66c397aed',1,'ParrythmVirtualPointer.Disable()'],['../classParrythmInputActions_1_1IngameGameplayActions.html#aeea565294f7d009cdde641902f26f048',1,'ParrythmInputActions.IngameGameplayActions.Disable()'],['../classParrythmInputActions_1_1ResultsMenuActions.html#ad435d56ab6b6bd18194cf8374e8e5846',1,'ParrythmInputActions.ResultsMenuActions.Disable()'],['../classParrythmInputActions_1_1UIActions.html#a0d726b7fa44a8d3bf2fefc7d3848a1b5',1,'ParrythmInputActions.UIActions.Disable()'],['../classParrythmInputActions_1_1OutgameMenuActions.html#a6e78eb418fc5e584a418674bc803bddb',1,'ParrythmInputActions.OutgameMenuActions.Disable()']]],
+  ['disable_23',['disable',['../classParrythmVirtualPointer.html#a0f961791550dd4fe6891dad66c397aed',1,'ParrythmVirtualPointer.Disable()'],['../classParrythmInputActions_1_1ResultsMenuActions.html#ad435d56ab6b6bd18194cf8374e8e5846',1,'ParrythmInputActions.ResultsMenuActions.Disable()'],['../classParrythmInputActions_1_1OutgameMenuActions.html#a6e78eb418fc5e584a418674bc803bddb',1,'ParrythmInputActions.OutgameMenuActions.Disable()'],['../classParrythmInputActions_1_1UIActions.html#a0d726b7fa44a8d3bf2fefc7d3848a1b5',1,'ParrythmInputActions.UIActions.Disable()'],['../classParrythmInputActions_1_1IngameGameplayActions.html#aeea565294f7d009cdde641902f26f048',1,'ParrythmInputActions.IngameGameplayActions.Disable()']]],
   ['discsegments_24',['discsegments',['../classCircleNoteVisual.html#a5585aba20dbd1ca46e51f7a4aaee12fd',1,'CircleNoteVisual.discSegments'],['../classSliderNoteVisual.html#a740f960b9c16e5f93eddc5241136f17d',1,'SliderNoteVisual.discSegments']]],
   ['dispatch_25',['Dispatch',['../classChartEventDispatcher.html#a51ea8d89a32d93208f4c2bb526c8a058',1,'ChartEventDispatcher']]],
   ['displayname_26',['displayname',['../classLeaderboardRecord.html#ad11e6fbe2f1fb0444464da187945b510',1,'LeaderboardRecord.displayName'],['../classLeaderboardScoreUploadDto.html#ad6ed68d239958a9f33c41c3eefaafae8',1,'LeaderboardScoreUploadDto.displayName']]],
@@ -36,8 +36,9 @@ var searchData=
   ['driftgain_33',['driftGain',['../classBackgroundVideoSync.html#a1d91e3f44bb6bee75b55e6ce7ceffee7',1,'BackgroundVideoSync']]],
   ['duration_34',['duration',['../structSliderNoteInit.html#a353cf7847de3dfec6856fb3e0d68d426',1,'SliderNoteInit.duration'],['../classLevelChartData_1_1NoteEvent.html#af3140be4e45c3599bab1c26ff307350e',1,'LevelChartData.NoteEvent.duration'],['../CanvasSongSelectMenuController_8cs.html#a498686254a0df72319cf3ba449331a8aae02d2ae03de9d493df2b6b2d2813d302',1,'Duration:&#160;CanvasSongSelectMenuController.cs']]],
   ['durationbeats_35',['durationBeats',['../classLevelChartData_1_1NoteEvent.html#ae43d1a0918da352f5270bfb21dde03bf',1,'LevelChartData::NoteEvent']]],
-  ['durationoverride_36',['durationOverride',['../classSliderNote.html#a792ea0d1728a8fa5b2a2db6744ebc805',1,'SliderNote']]],
-  ['durationsec_37',['durationSec',['../classSongMeta.html#a7960e0d180debb400d2bb01fc926f78e',1,'SongMeta']]],
-  ['dursec_38',['DurSec',['../classChartTimelineRuntime.html#a50901598716fc4dbc27c8541a7802ec6',1,'ChartTimelineRuntime']]],
-  ['dynamicheight_39',['dynamicHeight',['../classFixed16x9Camera.html#aa684ddd959297010a4b71fcebf5a8eef',1,'Fixed16x9Camera']]]
+  ['durationbeatsoverride_36',['durationBeatsOverride',['../classSliderNote.html#a253e0b1d6b8326a5d22daeaa53ea1e06',1,'SliderNote']]],
+  ['durationoverride_37',['durationOverride',['../classSliderNote.html#a792ea0d1728a8fa5b2a2db6744ebc805',1,'SliderNote']]],
+  ['durationsec_38',['durationSec',['../classSongMeta.html#a7960e0d180debb400d2bb01fc926f78e',1,'SongMeta']]],
+  ['dursec_39',['DurSec',['../classChartTimelineRuntime.html#a50901598716fc4dbc27c8541a7802ec6',1,'ChartTimelineRuntime']]],
+  ['dynamicheight_40',['dynamicHeight',['../classFixed16x9Camera.html#aa684ddd959297010a4b71fcebf5a8eef',1,'Fixed16x9Camera']]]
 ];

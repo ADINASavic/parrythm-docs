@@ -14,6 +14,7 @@ var classChartTimelineRuntime =
     [ "StyleFadeSec", "classChartTimelineRuntime.html#a6b136f7c53d2fd16521ca099328c02fe", null ],
     [ "StyleTimeSec", "classChartTimelineRuntime.html#ac97a3ac3f6fd1c149b181766fe54f5a6", null ],
     [ "TryPop", "classChartTimelineRuntime.html#a442810325bd46d68737e859ab90d94bb", null ],
+    [ "ActiveNotes", "classChartTimelineRuntime.html#aff82d95a91f4fcd1439abd651156362c", null ],
     [ "BeatsMode", "classChartTimelineRuntime.html#aee5216998cb475c5cc210496e118bed3", null ],
     [ "Bpm", "classChartTimelineRuntime.html#a13194a5897227549478da0f5ec20eed9", null ],
     [ "OffsetSeconds", "classChartTimelineRuntime.html#ac2b248d7e789d9d67ace963b53f0956d", null ]

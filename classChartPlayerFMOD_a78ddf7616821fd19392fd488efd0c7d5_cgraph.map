@@ -1,7 +1,9 @@
 <map id="ChartPlayerFMOD.Stop" name="ChartPlayerFMOD.Stop">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,42,176,67"/>
-<area shape="rect" id="Node000002" href="$classChartTimelineRuntime.html#a08d8c5a9550a8e05220ad735697f0177" title=" " alt="" coords="224,5,435,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,42,210,37,211,43,177,47"/>
-<area shape="rect" id="Node000003" href="$classFmodMusicController.html#abe65c2379d10ac4d0519221738031981" title=" " alt="" coords="233,70,426,95"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,62,219,67,219,72,176,67"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,77,176,102"/>
+<area shape="rect" id="Node000002" href="$classConnectionHintController.html#aa1124e8eca0a3b931ea09f72f82b0140" title=" " alt="" coords="235,5,424,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,74,240,46,242,52,140,79"/>
+<area shape="rect" id="Node000003" href="$classChartTimelineRuntime.html#a08d8c5a9550a8e05220ad735697f0177" title=" " alt="" coords="224,69,435,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,87,210,87,210,92,177,92"/>
+<area shape="rect" id="Node000004" href="$classFmodMusicController.html#abe65c2379d10ac4d0519221738031981" title=" " alt="" coords="233,134,426,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="145,99,263,128,262,133,144,105"/>
 </map>

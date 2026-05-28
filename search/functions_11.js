@@ -2,7 +2,7 @@ var searchData=
 [
   ['targetpxtoscreen_0',['TargetPxToScreen',['../classFixed16x9Camera.html#a81c8451dec4a3b6ceb91ec3b68ce6f03',1,'Fixed16x9Camera']]],
   ['targetpxtoworld_1',['TargetPxToWorld',['../classFixed16x9Camera.html#ad6276d018337d4eb6054a1d5c6c5ef73',1,'Fixed16x9Camera']]],
-  ['tick_2',['tick',['../interfaceINoteVisual.html#a39e5df37d71e30be77f873a5862d0711',1,'INoteVisual.Tick()'],['../classApproachCircleVisual.html#a0d7218116a8e4b4d3c9cc29bc42151ad',1,'ApproachCircleVisual.Tick()']]],
+  ['tick_2',['tick',['../classConnectionHintController.html#a908717449cd08bb71f625407ad601799',1,'ConnectionHintController.Tick()'],['../interfaceINoteVisual.html#a39e5df37d71e30be77f873a5862d0711',1,'INoteVisual.Tick()'],['../classApproachCircleVisual.html#a0d7218116a8e4b4d3c9cc29bc42151ad',1,'ApproachCircleVisual.Tick()']]],
   ['tickgrow_3',['tickgrow',['../classNotes_1_1Square_1_1SquareVisualBase.html#a17bfe6a8cbf25f622eb1df2aef1af9c6',1,'Notes.Square.SquareVisualBase.TickGrow()'],['../classNotes_1_1Square_1_1SquareVisualNormal.html#aeb99fa8e246bd160b53cae12e4f7ff6b',1,'Notes.Square.SquareVisualNormal.TickGrow()'],['../classNotes_1_1Square_1_1SquareVisualTrail.html#a64285f2186a306aa91320615ece1b79a',1,'Notes.Square.SquareVisualTrail.TickGrow()']]],
   ['tickprestart_4',['TickPreStart',['../classSliderNoteVisual.html#a4e8e894bee5d0942a1d7649acd471686',1,'SliderNoteVisual']]],
   ['tickstate_5',['TickState',['../classNotes_1_1Square_1_1SquareVisualBase.html#aad05492db6fbe4314d7e4764e7354233',1,'Notes::Square::SquareVisualBase']]],

@@ -7,6 +7,7 @@ var classChartPlayerFMOD =
     [ "autoPlayOnStart", "classChartPlayerFMOD.html#adc5342fb245c2ddc8f7d644474a90235", null ],
     [ "camTrack", "classChartPlayerFMOD.html#a863f0a25a874d3da3c30f0efa1677382", null ],
     [ "chartData", "classChartPlayerFMOD.html#a65a4a4deb3ef983fe11e38bb02901c87", null ],
+    [ "connectionHintController", "classChartPlayerFMOD.html#add04d38e5bcbbd7c67903df756c3dd3d", null ],
     [ "countInFadeOutSec", "classChartPlayerFMOD.html#afcff07a43ff7a0d2847e0bf30005b2fb", null ],
     [ "countInFont", "classChartPlayerFMOD.html#a2ef0e07444a982da3bfa1e01d19e3e04", null ],
     [ "countInNumbersEnabled", "classChartPlayerFMOD.html#a02dc99706cbe626207c7e404632a4a13", null ],

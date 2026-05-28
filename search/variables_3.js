@@ -12,14 +12,15 @@ var searchData=
   ['difficultycolorimage_9',['difficultyColorImage',['../classCanvasSongIntroController.html#af9e5ccc56b0d6783d07f9e7c71aa9043',1,'CanvasSongIntroController']]],
   ['difficultystrip_10',['difficultyStrip',['../classCanvasSongSelectMenuController.html#af911d56215fc6fcebd273cffa85b92cd',1,'CanvasSongSelectMenuController']]],
   ['difficultytext_11',['difficultyText',['../classCanvasSongIntroController.html#af891f8da446a43b654eb4d59aa0836bb',1,'CanvasSongIntroController']]],
-  ['discsegments_12',['discsegments',['../classCircleNoteVisual.html#a5585aba20dbd1ca46e51f7a4aaee12fd',1,'CircleNoteVisual.discSegments'],['../classSliderNoteVisual.html#a740f960b9c16e5f93eddc5241136f17d',1,'SliderNoteVisual.discSegments']]],
+  ['discsegments_12',['discsegments',['../classSliderNoteVisual.html#a740f960b9c16e5f93eddc5241136f17d',1,'SliderNoteVisual.discSegments'],['../classCircleNoteVisual.html#a5585aba20dbd1ca46e51f7a4aaee12fd',1,'CircleNoteVisual.discSegments']]],
   ['displayname_13',['displayname',['../classLeaderboardRecord.html#ad11e6fbe2f1fb0444464da187945b510',1,'LeaderboardRecord.displayName'],['../classLeaderboardScoreUploadDto.html#ad6ed68d239958a9f33c41c3eefaafae8',1,'LeaderboardScoreUploadDto.displayName']]],
   ['dockpos_14',['dockPos',['../classBulletNote.html#a915ce84157a52c8fe9b6be6dd97d7141',1,'BulletNote']]],
   ['docktodespawnduration_15',['dockToDespawnDuration',['../classBulletNote.html#a0b76528e5236fb90cf70c476b2e7fae7',1,'BulletNote']]],
   ['driftgain_16',['driftGain',['../classBackgroundVideoSync.html#a1d91e3f44bb6bee75b55e6ce7ceffee7',1,'BackgroundVideoSync']]],
   ['duration_17',['duration',['../structSliderNoteInit.html#a353cf7847de3dfec6856fb3e0d68d426',1,'SliderNoteInit.duration'],['../classLevelChartData_1_1NoteEvent.html#af3140be4e45c3599bab1c26ff307350e',1,'LevelChartData.NoteEvent.duration']]],
   ['durationbeats_18',['durationBeats',['../classLevelChartData_1_1NoteEvent.html#ae43d1a0918da352f5270bfb21dde03bf',1,'LevelChartData::NoteEvent']]],
-  ['durationoverride_19',['durationOverride',['../classSliderNote.html#a792ea0d1728a8fa5b2a2db6744ebc805',1,'SliderNote']]],
-  ['durationsec_20',['durationSec',['../classSongMeta.html#a7960e0d180debb400d2bb01fc926f78e',1,'SongMeta']]],
-  ['dynamicheight_21',['dynamicHeight',['../classFixed16x9Camera.html#aa684ddd959297010a4b71fcebf5a8eef',1,'Fixed16x9Camera']]]
+  ['durationbeatsoverride_19',['durationBeatsOverride',['../classSliderNote.html#a253e0b1d6b8326a5d22daeaa53ea1e06',1,'SliderNote']]],
+  ['durationoverride_20',['durationOverride',['../classSliderNote.html#a792ea0d1728a8fa5b2a2db6744ebc805',1,'SliderNote']]],
+  ['durationsec_21',['durationSec',['../classSongMeta.html#a7960e0d180debb400d2bb01fc926f78e',1,'SongMeta']]],
+  ['dynamicheight_22',['dynamicHeight',['../classFixed16x9Camera.html#aa684ddd959297010a4b71fcebf5a8eef',1,'Fixed16x9Camera']]]
 ];

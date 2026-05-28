@@ -1,0 +1,19 @@
+var NAVTREEINDEX7 =
+{
+"pages.html":[],
+"structCircleNoteInit.html":[1,0,23],
+"structCircleNoteInit.html#a5733777f256029b640f243f57994316d":[1,0,23,2],
+"structCircleNoteInit.html#aab19e299e62780a0d27bcea3818ad5d8":[1,0,23,1],
+"structCircleNoteInit.html#abfeca13741854fe785ed69bf904253c0":[1,0,23,0],
+"structNoteSettingsJsonPatchUtility_1_1PatchApplyResult.html":[1,0,74,0],
+"structNoteSettingsJsonPatchUtility_1_1PatchApplyResult.html#a22223c1cff98f458389ffa3cda19451f":[1,0,74,0,2],
+"structNoteSettingsJsonPatchUtility_1_1PatchApplyResult.html#a2bbb3d35e18838934c357bca10bba44f":[1,0,74,0,0],
+"structNoteSettingsJsonPatchUtility_1_1PatchApplyResult.html#a4d1891a60cd64c985cf6127d7cdc2d41":[1,0,74,0,1],
+"structNoteSettingsJsonPatchUtility_1_1PatchApplyResult.html#a8fb3a5bea351934ad9485c386f706868":[1,0,74,0,3],
+"structSliderNoteInit.html":[1,0,95],
+"structSliderNoteInit.html#a1e16da37ad2d4ada813db054cf44dc00":[1,0,95,3],
+"structSliderNoteInit.html#a353cf7847de3dfec6856fb3e0d68d426":[1,0,95,1],
+"structSliderNoteInit.html#a9f00594a1fc5d6357d8afc8a01f366fd":[1,0,95,0],
+"structSliderNoteInit.html#aaeb4b82fa3c90503930355154c4bdde1":[1,0,95,4],
+"structSliderNoteInit.html#ab85110d8b30b65e29f16a0d5d8a30ae6":[1,0,95,2]
+};

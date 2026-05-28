@@ -4,7 +4,7 @@ var classNoteSpawner =
     [ "SpawnCircle", "classNoteSpawner.html#ac816987d2955ae0723339b140e39f214", null ],
     [ "SpawnGrid", "classNoteSpawner.html#a1fe7a7218c433b964bc24eba5634db50", null ],
     [ "SpawnLong", "classNoteSpawner.html#ae6e52e6989ecb0e94ba87d9b743b5a27", null ],
-    [ "SpawnSlider", "classNoteSpawner.html#a04597846c1d46248236cb6b1f7541c12", null ],
+    [ "SpawnSlider", "classNoteSpawner.html#aa6340ab1975a5f5c64db058bfe3d8a48", null ],
     [ "bossTarget", "classNoteSpawner.html#ac6f020dd2795c7e0a2d47925e27c6dfb", null ],
     [ "bulletNotePrefab", "classNoteSpawner.html#afe45745751561ab2b347a67f298bc2e2", null ],
     [ "circleNotePrefab", "classNoteSpawner.html#ac545e727dac931eec05ea5c1d99ebef4", null ],

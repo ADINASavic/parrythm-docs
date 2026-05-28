@@ -83,6 +83,7 @@ var hierarchy =
       [ "ChartPlayerFMOD", "classChartPlayerFMOD.html", null ],
       [ "CircleNoteVisual", "classCircleNoteVisual.html", null ],
       [ "CleanCursor", "classCleanCursor.html", null ],
+      [ "ConnectionHintController", "classConnectionHintController.html", null ],
       [ "DifficultyBlock", "classDifficultyBlock.html", null ],
       [ "DifficultyStrip", "classDifficultyStrip.html", null ],
       [ "Fixed16x9Camera", "classFixed16x9Camera.html", null ],
