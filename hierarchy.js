@@ -46,6 +46,15 @@ var hierarchy =
     [ "ISelectHandler", null, [
       [ "InputFieldFocusRelay", "classInputFieldFocusRelay.html", null ]
     ] ],
+    [ "ISettingsController", "interfaceISettingsController.html", [
+      [ "SettingsCarouselController", "classSettingsCarouselController.html", null ]
+    ] ],
+    [ "ISettingsPage", "interfaceISettingsPage.html", [
+      [ "SettingsPage", "classSettingsPage.html", [
+        [ "SettingsCardOffset", "classSettingsCardOffset.html", null ],
+        [ "SettingsCardPlaySettings", "classSettingsCardPlaySettings.html", null ]
+      ] ]
+    ] ],
     [ "IStageEndTrigger", "interfaceIStageEndTrigger.html", [
       [ "ChartEndWatcher", "classChartEndWatcher.html", null ]
     ] ],
@@ -117,10 +126,9 @@ var hierarchy =
       [ "ParrythmInputRuntime", "classParrythmInputRuntime.html", null ],
       [ "PlayerSpriteController", "classPlayerSpriteController.html", null ],
       [ "ResultsUI", "classResultsUI.html", null ],
-      [ "SettingsCardOffset", "classSettingsCardOffset.html", null ],
-      [ "SettingsCardPlaySettings", "classSettingsCardPlaySettings.html", null ],
       [ "SettingsCardPlayerSettings", "classSettingsCardPlayerSettings.html", null ],
       [ "SettingsCardViewSettings", "classSettingsCardViewSettings.html", null ],
+      [ "SettingsPage", "classSettingsPage.html", null ],
       [ "SliderNoteVisual", "classSliderNoteVisual.html", null ],
       [ "SongCard", "classSongCard.html", null ],
       [ "SongPreviewPlayer", "classSongPreviewPlayer.html", null ],
@@ -141,6 +149,7 @@ var hierarchy =
     [ "ScriptableObject", null, [
       [ "NoteSettings", "classNoteSettings.html", null ]
     ] ],
+    [ "SettingsCardService", "classSettingsCardService.html", null ],
     [ "SliderNoteInit", "structSliderNoteInit.html", null ],
     [ "SongEntry", "classSongEntry.html", null ],
     [ "SongMeta", "classSongMeta.html", null ],

@@ -8,6 +8,7 @@ var searchData=
   ['loadjacketsprite_5',['LoadJacketSprite',['../classSongEntry.html#ac54783d13ee2b3c3ba774653ac960b4c',1,'SongEntry']]],
   ['loadpatchjson_6',['LoadPatchJson',['../classNoteSettingsPatchRepository.html#a3250724000a91c2b2c26bde28947094a',1,'NoteSettingsPatchRepository']]],
   ['loadprofile_7',['LoadProfile',['../classGameSettingsSaveService.html#a9d81a8a8c24d0ffc9fc032a3698fe1b2',1,'GameSettingsSaveService']]],
-  ['localsettingssavestorage_8',['LocalSettingsSaveStorage',['../classLocalSettingsSaveStorage.html#a240d8e10d89c373d6e4b9e70f2f67af7',1,'LocalSettingsSaveStorage']]],
-  ['longnotehandler_9',['LongNoteHandler',['../classLongNoteHandler.html#afd03fe857231d03ac04ff7540748ce8e',1,'LongNoteHandler']]]
+  ['loadsnapshot_8',['LoadSnapshot',['../classSettingsCardService.html#a7206a39390d875b4630721b26c4e6a20',1,'SettingsCardService']]],
+  ['localsettingssavestorage_9',['LocalSettingsSaveStorage',['../classLocalSettingsSaveStorage.html#a240d8e10d89c373d6e4b9e70f2f67af7',1,'LocalSettingsSaveStorage']]],
+  ['longnotehandler_10',['LongNoteHandler',['../classLongNoteHandler.html#afd03fe857231d03ac04ff7540748ce8e',1,'LongNoteHandler']]]
 ];

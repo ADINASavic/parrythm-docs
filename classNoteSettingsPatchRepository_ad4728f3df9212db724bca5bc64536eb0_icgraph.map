@@ -4,8 +4,10 @@
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="806,44,756,39,757,33,807,39"/>
 <area shape="rect" id="Node000003" href="$classNoteSettingsIO.html#ab61b9ef5a846cd96c8955a99e67fd64b" title="Returns runtime note settings by applying the saved patch onto the defaults." alt="" coords="541,70,772,95"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="807,70,772,73,772,68,806,64"/>
-<area shape="rect" id="Node000004" href="$classParrythmVirtualPointer.html#a5321056429496fa487ba584ac7e68fef" title=" " alt="" coords="271,63,493,103"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="527,85,494,85,494,80,527,80"/>
-<area shape="rect" id="Node000005" href="$classParrythmVirtualPointer.html#a0c7dc2a9e6ccd3d6581c60daf0beb0b3" title=" " alt="" coords="5,70,223,95"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="257,85,223,85,223,80,257,80"/>
+<area shape="rect" id="Node000004" href="$classSettingsCardService.html#a7206a39390d875b4630721b26c4e6a20" title=" " alt="" coords="288,31,476,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="534,71,476,64,476,59,534,66"/>
+<area shape="rect" id="Node000005" href="$classParrythmVirtualPointer.html#a5321056429496fa487ba584ac7e68fef" title=" " alt="" coords="271,95,493,135"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="534,100,494,104,493,99,534,94"/>
+<area shape="rect" id="Node000006" href="$classParrythmVirtualPointer.html#a0c7dc2a9e6ccd3d6581c60daf0beb0b3" title=" " alt="" coords="5,102,223,127"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="257,117,223,117,223,112,257,112"/>
 </map>

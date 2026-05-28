@@ -1,5 +1,7 @@
 <map id="SettingsCarouselController.OnEnterSettings" name="SettingsCarouselController.OnEnterSettings">
-<area shape="rect" id="Node000001" title=" " alt="" coords="252,5,451,45"/>
-<area shape="rect" id="Node000002" href="$classSettingsCarouselController.html#ae341c4efb9c636b5e25bd95898d46484" title=" " alt="" coords="5,5,204,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,28,204,28,204,23,238,23"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="287,35,485,75"/>
+<area shape="rect" id="Node000002" href="$classSettingsCarouselController.html#ae341c4efb9c636b5e25bd95898d46484" title=" " alt="" coords="23,5,221,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="273,45,221,39,222,34,273,39"/>
+<area shape="rect" id="Node000003" href="$classSettingsCarouselController.html#a2f0acc0caeb8a6df54b87ab2e147d633" title=" " alt="" coords="5,70,239,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="273,69,239,73,239,68,273,64"/>
 </map>

@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['facingaxis_0',['facingaxis',['../classBulletNote.html#a3b431a481454b6beb677b0b1c9323290',1,'BulletNote.facingAxis'],['../classBulletNote.html#a34dae04d2d7cf44ab823c5b2ac55b83b',1,'BulletNote.FacingAxis']]],
+  ['facingaxis_0',['facingaxis',['../classBulletNote.html#a34dae04d2d7cf44ab823c5b2ac55b83b',1,'BulletNote.FacingAxis'],['../classBulletNote.html#a3b431a481454b6beb677b0b1c9323290',1,'BulletNote.facingAxis']]],
   ['fadebeat_1',['fadeBeat',['../classLevelChartData_1_1NoteEvent.html#a169b2f37109554a9d33ca9c0c61ff20f',1,'LevelChartData::NoteEvent']]],
   ['fadeduration_2',['fadeDuration',['../classCanvasGameIntroController.html#a106d8c1118939064d85053ab6600d264',1,'CanvasGameIntroController']]],
   ['fadeinbeat_3',['fadeInBeat',['../classLevelChartData_1_1NoteEvent.html#ac73edd2545125945c45fe08b3505230d',1,'LevelChartData::NoteEvent']]],
@@ -10,7 +10,7 @@ var searchData=
   ['fadeoutsec_7',['fadeOutSec',['../classLevelChartData_1_1NoteEvent.html#a43518418aaa34a74ba9d03d92af5fe1a',1,'LevelChartData::NoteEvent']]],
   ['fadesec_8',['fadeSec',['../classLevelChartData_1_1NoteEvent.html#a1259ba781c43e902df33cc08ff605adc',1,'LevelChartData::NoteEvent']]],
   ['fakeplayerprefab_9',['fakePlayerPrefab',['../classPlayerSpriteController.html#a189483b1eb3d99d1f68131764f174f75',1,'PlayerSpriteController']]],
-  ['feedbacktext_10',['feedbacktext',['../classSettingsCardViewSettings.html#ae12cafdbb8cb60a13f8306f9c5825539',1,'SettingsCardViewSettings.feedbackText'],['../classSettingsCardPlaySettings.html#af406c8d93fe1c73470d747f1b85adeb2',1,'SettingsCardPlaySettings.feedbackText'],['../classSettingsCardPlayerSettings.html#af99b431dc050493623c9cf2e7e7a5154',1,'SettingsCardPlayerSettings.feedbackText'],['../classSettingsCardOffset.html#a1a6fe0b91821cafc63e9169af3f1f155',1,'SettingsCardOffset.feedbackText']]],
+  ['feedbacktext_10',['feedbacktext',['../classSettingsPage.html#a26370a86510fea6e78e1127ed9e9de3c',1,'SettingsPage.feedbackText'],['../classSettingsCardViewSettings.html#ae12cafdbb8cb60a13f8306f9c5825539',1,'SettingsCardViewSettings.feedbackText'],['../classSettingsCardPlayerSettings.html#af99b431dc050493623c9cf2e7e7a5154',1,'SettingsCardPlayerSettings.feedbackText']]],
   ['fixed16x9camera_11',['Fixed16x9Camera',['../classFixed16x9Camera.html',1,'']]],
   ['fixed16x9camera_2ecs_12',['Fixed16x9Camera.cs',['../Fixed16x9Camera_8cs.html',1,'']]],
   ['flash_13',['Flash',['../classNotes_1_1Square_1_1SquareVisualBase.html#a5f0d4c5e181a0bc3c681c3b588c41ca7abf2c44e6fc09515648b91b1bb4ec3f5f',1,'Notes::Square::SquareVisualBase']]],

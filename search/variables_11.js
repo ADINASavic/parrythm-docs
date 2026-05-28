@@ -4,7 +4,7 @@ var searchData=
   ['reactonhitboss_1',['reactOnHitBoss',['../classBattleAnimationReaction.html#ae79bcc9f3a7c3e2821f03f9ce25f3b8d',1,'BattleAnimationReaction']]],
   ['reactonreflect_2',['reactOnReflect',['../classBattleAnimationReaction.html#a907a813b18bf990e6726dfdaf767e8b9',1,'BattleAnimationReaction']]],
   ['records_3',['records',['../classLocalLeaderboardSaveData.html#a80e245fea825e1b5b78f6042ad981cf7',1,'LocalLeaderboardSaveData.records'],['../classLocalScoreSaveData.html#a199c23ccc1bd98b25e55c75c04b24523',1,'LocalScoreSaveData.records']]],
-  ['reloadbutton_4',['reloadbutton',['../classSettingsCardOffset.html#a21f66aa7590a0e7816e690724d291d5a',1,'SettingsCardOffset.reloadButton'],['../classSettingsCardPlaySettings.html#a08ab4d4ec53f83c317fbe19b20d75a41',1,'SettingsCardPlaySettings.reloadButton']]],
+  ['reloadbutton_4',['reloadButton',['../classSettingsPage.html#aaf81e802e04ce443efcd7e0c2daa9d21',1,'SettingsPage']]],
   ['resetbutton_5',['resetbutton',['../classSettingsCardPlayerSettings.html#a1233b9d3bd2b23445e6cc6b4be3e04da',1,'SettingsCardPlayerSettings.resetButton'],['../classSettingsCardViewSettings.html#a252576c21944fa74a4a53c1167853e55',1,'SettingsCardViewSettings.resetButton']]],
   ['resultcarousel_6',['resultCarousel',['../classResultsUI.html#aa19e39c210c361252195cbdde9a32531',1,'ResultsUI']]],
   ['resultfade_7',['resultFade',['../classNotes_1_1Square_1_1SquareVisualLong.html#a83e6b53c5c3ed47e3035dc4338edbe57',1,'Notes::Square::SquareVisualLong']]],

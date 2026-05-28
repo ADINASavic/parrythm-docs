@@ -1,5 +1,7 @@
 var NAVTREEINDEX1 =
 {
+"classCanvasSongSelectMenuController.html#a090c8d5d168dfab0a0f8c09e152e6a5f":[1,0,15,19],
+"classCanvasSongSelectMenuController.html#a0b7f38c0bb96981e7f06cdef7cd1e069":[1,0,15,17],
 "classCanvasSongSelectMenuController.html#a11d0392d986bdd77d3a4ee8e2b4d1428":[1,0,15,8],
 "classCanvasSongSelectMenuController.html#a19db07427235b4733121c6c046de5375":[1,0,15,18],
 "classCanvasSongSelectMenuController.html#a1bb55648f3c995ee765c6849d04f0162":[1,0,15,22],
@@ -247,7 +249,5 @@ var NAVTREEINDEX1 =
 "classGameBootstrap.html#a018a5f7a1f5c0fa949aedca1ac46b51c":[1,0,35,5],
 "classGameBootstrap.html#a0dd9a4249df082304238cee40015ef91":[1,0,35,3],
 "classGameBootstrap.html#a3a2f4efa08ca409ed4031283b7656d9a":[1,0,35,0],
-"classGameBootstrap.html#a4f2cd798783c3bb19d0a2fd974aefb88":[1,0,35,4],
-"classGameBootstrap.html#a645edf329e56d8b546634664f9d5f7a8":[1,0,35,1],
-"classGameBootstrap.html#a702da67a46744a65a4ba7be3d3fc7bbe":[1,0,35,2]
+"classGameBootstrap.html#a4f2cd798783c3bb19d0a2fd974aefb88":[1,0,35,4]
 };

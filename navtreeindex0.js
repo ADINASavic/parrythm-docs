@@ -114,8 +114,10 @@ var NAVTREEINDEX0 =
 "SettingsCardOffset_8cs.html":[2,0,0,0,6,0,0],
 "SettingsCardPlaySettings_8cs.html":[2,0,0,0,6,0,2],
 "SettingsCardPlayerSettings_8cs.html":[2,0,0,0,6,0,1],
-"SettingsCardViewSettings_8cs.html":[2,0,0,0,6,0,3],
-"SettingsCarouselController_8cs.html":[2,0,0,0,6,0,4],
+"SettingsCardService_8cs.html":[2,0,0,0,6,0,3],
+"SettingsCardViewSettings_8cs.html":[2,0,0,0,6,0,4],
+"SettingsCarouselController_8cs.html":[2,0,0,0,6,0,5],
+"SettingsPage_8cs.html":[2,0,0,0,6,0,6],
 "SliderNoteHandler_8cs.html":[2,0,0,0,1,1,5],
 "SliderNoteInit_8cs.html":[2,0,0,0,5,2,6],
 "SliderNoteVisual_8cs.html":[2,0,0,0,5,2,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX0 =
 "classCanvasSongIntroController.html#af26b4f7bdfd866ab4f337bc3a07efb27":[1,0,14,1],
 "classCanvasSongIntroController.html#af891f8da446a43b654eb4d59aa0836bb":[1,0,14,3],
 "classCanvasSongIntroController.html#af9e5ccc56b0d6783d07f9e7c71aa9043":[1,0,14,2],
-"classCanvasSongSelectMenuController.html":[1,0,15],
-"classCanvasSongSelectMenuController.html#a090c8d5d168dfab0a0f8c09e152e6a5f":[1,0,15,19],
-"classCanvasSongSelectMenuController.html#a0b7f38c0bb96981e7f06cdef7cd1e069":[1,0,15,17]
+"classCanvasSongSelectMenuController.html":[1,0,15]
 };

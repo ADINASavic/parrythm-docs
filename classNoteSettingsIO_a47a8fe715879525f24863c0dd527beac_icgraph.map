@@ -1,0 +1,5 @@
+<map id="NoteSettingsIO.GetDefaultNoteSettings" name="NoteSettingsIO.GetDefaultNoteSettings">
+<area shape="rect" id="Node000001" title="Returns a mutable clone of the project default note settings." alt="" coords="241,5,436,45"/>
+<area shape="rect" id="Node000002" href="$classSettingsCardService.html#a7206a39390d875b4630721b26c4e6a20" title=" " alt="" coords="5,5,193,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,28,193,28,193,23,228,23"/>
+</map>

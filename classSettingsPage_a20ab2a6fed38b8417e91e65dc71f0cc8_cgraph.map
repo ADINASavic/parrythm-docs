@@ -1,0 +1,7 @@
+<map id="SettingsPage.Awake" name="SettingsPage.Awake">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,159,56"/>
+<area shape="rect" id="Node000002" href="$classSettingsPage.html#affe84487a3d3954a17f82d16e1c69bb0" title=" " alt="" coords="209,5,406,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,32,195,28,196,33,159,37"/>
+<area shape="rect" id="Node000003" href="$classSettingsPage.html#af6eefb6e6bb87a7bb893263bfb9643c9" title=" " alt="" coords="207,55,408,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,49,193,53,193,58,158,54"/>
+</map>

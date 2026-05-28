@@ -1,5 +1,7 @@
 <map id="SettingsCarouselController" name="SettingsCarouselController">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,79,201,104"/>
-<area shape="rect" id="Node000002" href="$classCarouselController.html" title="Generic carousel UI controller for horizontal scrolling card selection. Handles visual layout,..." alt="" coords="32,5,175,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,44,106,79,101,79,101,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="61,79,257,104"/>
+<area shape="rect" id="Node000002" href="$classCarouselController.html" title="Generic carousel UI controller for horizontal scrolling card selection. Handles visual layout,..." alt="" coords="5,5,148,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,38,148,76,144,80,99,42"/>
+<area shape="rect" id="Node000003" href="$interfaceISettingsController.html" title=" " alt="" coords="172,5,315,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="221,42,175,80,171,76,218,38"/>
 </map>

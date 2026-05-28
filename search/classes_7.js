@@ -11,5 +11,7 @@ var searchData=
   ['inputfieldfocusrelay_8',['InputFieldFocusRelay',['../classInputFieldFocusRelay.html',1,'']]],
   ['inputrouter_9',['InputRouter',['../classInputRouter.html',1,'']]],
   ['inputtimemapper_10',['InputTimeMapper',['../classInputTimeMapper.html',1,'']]],
-  ['istageendtrigger_11',['IStageEndTrigger',['../interfaceIStageEndTrigger.html',1,'']]]
+  ['isettingscontroller_11',['ISettingsController',['../interfaceISettingsController.html',1,'']]],
+  ['isettingspage_12',['ISettingsPage',['../interfaceISettingsPage.html',1,'']]],
+  ['istageendtrigger_13',['IStageEndTrigger',['../interfaceIStageEndTrigger.html',1,'']]]
 ];

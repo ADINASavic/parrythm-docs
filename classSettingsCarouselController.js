@@ -1,11 +1,15 @@
 var classSettingsCarouselController =
 [
     [ "CanProcessInput", "classSettingsCarouselController.html#aa725942b05f6c895d8a10aff968b8d7a", null ],
+    [ "Close", "classSettingsCarouselController.html#a34d84876a623a31c1bd772c188604805", null ],
+    [ "ConfigureCard", "classSettingsCarouselController.html#a55fc5e399c32916dd164ab78c074f2e3", null ],
     [ "OnClickLeft", "classSettingsCarouselController.html#aa57901cd8adf522b02fd0a78292a6bfc", null ],
     [ "OnClickRight", "classSettingsCarouselController.html#a0e048e8ed9c65e1fe1d26d64dc488223", null ],
     [ "OnEnterNewGame", "classSettingsCarouselController.html#ae341c4efb9c636b5e25bd95898d46484", null ],
     [ "OnEnterSettings", "classSettingsCarouselController.html#ac682f42cf88e9db2f180b45479013a85", null ],
     [ "OnExitSettings", "classSettingsCarouselController.html#a87eef7da76dd8e49e1c033f48a8cdc61", null ],
+    [ "OnIndexChanged", "classSettingsCarouselController.html#a984104c906256594b5e12fe742477d0b", null ],
+    [ "Open", "classSettingsCarouselController.html#a2f0acc0caeb8a6df54b87ab2e147d633", null ],
     [ "SetTypingInInputField", "classSettingsCarouselController.html#a57d857dd35ca3a04b07191168daf6321", null ],
     [ "UpdateCardFocusState", "classSettingsCarouselController.html#a3891485d509e3918a72ae8854abfef3a", null ],
     [ "UpdateCustomInput", "classSettingsCarouselController.html#abf33c85ed262918cc91b68c96bea65d2", null ],
