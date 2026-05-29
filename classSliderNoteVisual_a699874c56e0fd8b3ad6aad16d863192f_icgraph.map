@@ -1,11 +1,14 @@
 <map id="SliderNoteVisual.ApplyGuideBoost" name="SliderNoteVisual.ApplyGuideBoost">
-<area shape="rect" id="Node000001" title="Applies extra guide emphasis without allowing the guide to shrink below the configured minimum." alt="" coords="727,23,936,63"/>
+<area shape="rect" id="Node000001" title="Applies extra guide emphasis without allowing the guide to shrink below the configured minimum." alt="" coords="937,22,1147,62"/>
 <area shape="rect" id="Node000002" href="$classSliderNote.html#aeb8e091fd2dd9cd269b44588b52f7bec" title="Applies an additive visual boost to guide&#45;related layers used for gap presentation." alt="" coords="484,5,679,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="713,34,679,31,679,25,713,29"/>
-<area shape="rect" id="Node000005" href="$classSliderNoteVisual.html#a43d5d5f8680915b5e519a07219e48ada" title="Binds note settings, caches derived visual constants, and reapplies any existing path or progress sta..." alt="" coords="500,55,663,80"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="713,57,663,62,663,57,713,52"/>
-<area shape="rect" id="Node000003" href="$classNoteSpawner.html#aa6340ab1975a5f5c64db058bfe3d8a48" title=" " alt="" coords="244,5,436,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="471,21,436,21,436,15,471,15"/>
-<area shape="rect" id="Node000004" href="$classSliderNoteHandler.html#a11968495f5e72ef382681ef50c0afc64" title=" " alt="" coords="5,5,196,31"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="230,21,196,21,196,15,230,15"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="924,39,679,26,679,20,924,33"/>
+<area shape="rect" id="Node000005" href="$classSliderNoteVisual.html#a43d5d5f8680915b5e519a07219e48ada" title="Binds note settings, caches derived visual constants, and reapplies any existing path or progress sta..." alt="" coords="727,55,889,80"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="924,57,890,61,889,56,923,52"/>
+<area shape="rect" id="Node000003" href="$classNoteSpawner.html#aa6340ab1975a5f5c64db058bfe3d8a48" title=" " alt="" coords="244,31,436,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="471,32,436,36,436,31,470,27"/>
+<area shape="rect" id="Node000004" href="$classSliderNoteHandler.html#a11968495f5e72ef382681ef50c0afc64" title=" " alt="" coords="5,31,196,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="230,46,196,46,196,41,230,41"/>
+<area shape="rect" id="Node000006" href="$classSliderNote.html#ac97047644f81873457531b21850b4fb7" title="Binds the generated visual after spawner&#45;owned runtime fields have been assigned." alt="" coords="500,55,663,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="713,70,663,70,663,65,713,65"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="486,61,436,56,436,50,486,55"/>
 </map>

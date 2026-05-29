@@ -1,0 +1,15 @@
+<map id="SliderNote.BindVisual" name="SliderNote.BindVisual">
+<area shape="rect" id="Node000001" title="Binds the generated visual after spawner&#45;owned runtime fields have been assigned." alt="" coords="5,119,168,145"/>
+<area shape="rect" id="Node000002" href="$classSliderNoteVisual.html#a43d5d5f8680915b5e519a07219e48ada" title="Binds note settings, caches derived visual constants, and reapplies any existing path or progress sta..." alt="" coords="216,119,379,145"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,129,202,129,202,135,168,135"/>
+<area shape="rect" id="Node000003" href="$classSliderNoteVisual.html#a699874c56e0fd8b3ad6aad16d863192f" title="Applies extra guide emphasis without allowing the guide to shrink below the configured minimum." alt="" coords="427,5,637,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="316,117,365,87,426,55,444,48,446,52,428,60,367,91,319,121"/>
+<area shape="rect" id="Node000004" href="$classApproachCircleVisual.html#a03ab16a13797fa2553892b15d6cb29c6" title=" " alt="" coords="439,70,625,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="358,117,457,96,458,101,359,122"/>
+<area shape="rect" id="Node000005" href="$classSliderNoteVisual.html#af299cfcd30b422ad0dad3d6f824fe8eb" title="Rebuilds the completed&#45;path mesh up to the given normalized slider progress." alt="" coords="427,119,637,145"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="379,129,413,129,413,135,379,135"/>
+<area shape="rect" id="Node000006" href="$classApproachCircleVisual.html#a3c118578b0172182d9bf4b7357b66bfe" title=" " alt="" coords="439,169,625,209"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="351,142,437,164,436,169,350,147"/>
+<area shape="rect" id="Node000007" href="$classSliderNoteVisual.html#a1e9832fd23e7e3454884cee23e7165ff" title="Rebuilds the timing guide mesh that previews where the lead fill has currently advanced." alt="" coords="432,233,632,273"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="315,143,364,180,428,219,444,226,441,231,425,224,361,184,312,147"/>
+</map>

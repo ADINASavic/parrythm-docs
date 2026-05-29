@@ -1,17 +1,30 @@
 <map id="SliderNoteHandler.Handle" name="SliderNoteHandler.Handle">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,196,80"/>
-<area shape="rect" id="Node000002" href="$classChartTimelineRuntime.html#a50901598716fc4dbc27c8541a7802ec6" title=" " alt="" coords="248,5,467,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,52,277,31,278,36,168,57"/>
-<area shape="rect" id="Node000003" href="$classNoteSpawner.html#aa6340ab1975a5f5c64db058bfe3d8a48" title=" " alt="" coords="261,55,453,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,65,248,65,248,70,196,70"/>
-<area shape="rect" id="Node000008" href="$classChartTimelineRuntime.html#abf36066d5e2260193cf958c96b063154" title=" " alt="" coords="244,104,471,129"/>
-<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="168,77,278,99,277,104,167,83"/>
-<area shape="rect" id="Node000004" href="$classSliderNote.html#aeb8e091fd2dd9cd269b44588b52f7bec" title="Applies an additive visual boost to guide&#45;related layers used for gap presentation." alt="" coords="525,29,720,55"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="453,56,512,50,512,55,454,61"/>
-<area shape="rect" id="Node000006" href="$classSliderNote.html#a18ecd177b306ce4c8e503dcefdc1944f" title="Replaces the authored world&#45;space path and rebuilds all runtime geometry derived from it." alt="" coords="519,80,727,105"/>
-<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="454,74,505,79,505,84,453,79"/>
-<area shape="rect" id="Node000005" href="$classSliderNoteVisual.html#a699874c56e0fd8b3ad6aad16d863192f" title="Applies extra guide emphasis without allowing the guide to shrink below the configured minimum." alt="" coords="788,19,997,59"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="720,38,774,38,774,43,720,44"/>
-<area shape="rect" id="Node000007" href="$classSliderNote.html#ac8ba1caf52141955e8816a21a64e6762" title="Rebuilds the playable path, optionally smoothing the authored points first when curve mode is enabled..." alt="" coords="775,84,1011,109"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="727,92,761,92,761,97,727,97"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,113,196,138"/>
+<area shape="rect" id="Node000002" href="$classChartTimelineRuntime.html#a50901598716fc4dbc27c8541a7802ec6" title=" " alt="" coords="248,63,467,89"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,110,277,89,278,94,168,115"/>
+<area shape="rect" id="Node000003" href="$classNoteSpawner.html#aa6340ab1975a5f5c64db058bfe3d8a48" title=" " alt="" coords="261,113,453,138"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,123,248,123,248,128,196,128"/>
+<area shape="rect" id="Node000014" href="$classChartTimelineRuntime.html#abf36066d5e2260193cf958c96b063154" title=" " alt="" coords="244,162,471,187"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="168,135,278,157,277,162,167,141"/>
+<area shape="rect" id="Node000004" href="$classSliderNote.html#aeb8e091fd2dd9cd269b44588b52f7bec" title="Applies an additive visual boost to guide&#45;related layers used for gap presentation." alt="" coords="795,21,990,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="432,110,804,46,805,51,433,115"/>
+<area shape="rect" id="Node000006" href="$classSliderNote.html#ac97047644f81873457531b21850b4fb7" title="Binds the generated visual after spawner&#45;owned runtime fields have been assigned." alt="" coords="541,113,704,138"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="453,123,527,123,527,128,453,128"/>
+<area shape="rect" id="Node000012" href="$classSliderNote.html#a18ecd177b306ce4c8e503dcefdc1944f" title="Replaces the authored world&#45;space path and rebuilds all runtime geometry derived from it." alt="" coords="519,162,727,187"/>
+<area shape="poly" id="edge12_Node000003_Node000012" title=" " alt="" coords="427,135,541,157,540,162,426,141"/>
+<area shape="rect" id="Node000005" href="$classSliderNoteVisual.html#a699874c56e0fd8b3ad6aad16d863192f" title="Applies extra guide emphasis without allowing the guide to shrink below the configured minimum." alt="" coords="1059,5,1269,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="990,28,1045,26,1046,31,990,33"/>
+<area shape="rect" id="Node000007" href="$classSliderNoteVisual.html#a43d5d5f8680915b5e519a07219e48ada" title="Binds note settings, caches derived visual constants, and reapplies any existing path or progress sta..." alt="" coords="811,113,974,138"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="704,123,797,123,797,128,704,128"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="922,110,1058,55,1080,47,1082,52,1060,60,924,115"/>
+<area shape="rect" id="Node000008" href="$classApproachCircleVisual.html#a03ab16a13797fa2553892b15d6cb29c6" title=" " alt="" coords="1071,70,1257,95"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="973,110,1069,95,1070,100,974,115"/>
+<area shape="rect" id="Node000009" href="$classSliderNoteVisual.html#af299cfcd30b422ad0dad3d6f824fe8eb" title="Rebuilds the completed&#45;path mesh up to the given normalized slider progress." alt="" coords="1059,119,1269,145"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="974,125,1045,126,1044,132,974,130"/>
+<area shape="rect" id="Node000010" href="$classApproachCircleVisual.html#a3c118578b0172182d9bf4b7357b66bfe" title=" " alt="" coords="1071,169,1257,209"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="955,135,1011,148,1074,163,1072,169,1010,153,954,141"/>
+<area shape="rect" id="Node000011" href="$classSliderNoteVisual.html#a1e9832fd23e7e3454884cee23e7165ff" title="Rebuilds the timing guide mesh that previews where the lead fill has currently advanced." alt="" coords="1064,233,1264,273"/>
+<area shape="poly" id="edge11_Node000007_Node000011" title=" " alt="" coords="976,132,1012,148,1029,166,1037,184,1045,202,1060,219,1069,225,1066,229,1057,223,1040,205,1033,187,1025,169,1009,153,973,137"/>
+<area shape="rect" id="Node000013" href="$classSliderNote.html#ac8ba1caf52141955e8816a21a64e6762" title="Rebuilds the playable path, optionally smoothing the authored points first when curve mode is enabled..." alt="" coords="775,162,1011,187"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="727,172,761,172,761,177,727,177"/>
 </map>
