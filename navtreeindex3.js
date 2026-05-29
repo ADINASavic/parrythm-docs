@@ -1,5 +1,6 @@
 var NAVTREEINDEX3 =
 {
+"classLevelChartData_1_1NoteEvent.html#add339e5535dcaba109971dedb3f7203b":[1,0,61,0,23],
 "classLevelChartData_1_1NoteEvent.html#ae2390a7d5746dd2bf93a07081fec297d":[1,0,61,0,22],
 "classLevelChartData_1_1NoteEvent.html#ae43d1a0918da352f5270bfb21dde03bf":[1,0,61,0,25],
 "classLevelChartData_1_1NoteEvent.html#aeb1e510968f3172aca1d9d150bf088fe":[1,0,61,0,32],
@@ -248,6 +249,5 @@ var NAVTREEINDEX3 =
 "classNotes_1_1Square_1_1SquareNoteCore.html#a85710ecea6de067f842369a5de165e10":[0,0,0,1,0,3],
 "classNotes_1_1Square_1_1SquareNoteCore.html#a88b511c49b731233b07de46df4b37d67":[0,0,0,1,0,0],
 "classNotes_1_1Square_1_1SquareNoteCore.html#a88b511c49b731233b07de46df4b37d67":[1,0,0,1,0,0],
-"classNotes_1_1Square_1_1SquareNoteCore.html#a9bc051007668dd132d1c1f620b9cb1e8":[0,0,0,1,0,4],
-"classNotes_1_1Square_1_1SquareNoteCore.html#a9bc051007668dd132d1c1f620b9cb1e8":[1,0,0,1,0,4]
+"classNotes_1_1Square_1_1SquareNoteCore.html#a9bc051007668dd132d1c1f620b9cb1e8":[0,0,0,1,0,4]
 };

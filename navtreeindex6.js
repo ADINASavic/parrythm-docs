@@ -1,5 +1,6 @@
 var NAVTREEINDEX6 =
 {
+"classSliderNote.html#a366fc6bcc4b1e2844659af837a5558b6":[1,0,97,19],
 "classSliderNote.html#a481be6dcbef84153db60b03fd6fb8e6e":[1,0,97,12],
 "classSliderNote.html#a65a7d942f7a6f5f893dd3dbbf7e2cc18":[1,0,97,13],
 "classSliderNote.html#a65d82b1828370cb7d6a488488e372ae8":[1,0,97,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX6 =
 "functions_vars_p.html":[1,3,2,15],
 "functions_vars_q.html":[1,3,2,16],
 "functions_vars_r.html":[1,3,2,17],
-"functions_vars_s.html":[1,3,2,18],
-"functions_vars_t.html":[1,3,2,19]
+"functions_vars_s.html":[1,3,2,18]
 };

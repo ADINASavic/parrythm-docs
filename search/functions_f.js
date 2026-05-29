@@ -8,13 +8,14 @@ var searchData=
   ['refreshconfiguration_5',['RefreshConfiguration',['../classParrythmVirtualPointer.html#a5321056429496fa487ba584ac7e68fef',1,'ParrythmVirtualPointer']]],
   ['refreshui_6',['refreshui',['../interfaceISettingsPage.html#a35c170be4e9c1061dc9b72f62c3cd4f6',1,'ISettingsPage.RefreshUI()'],['../classSettingsPage.html#a30a6ad933ef4abf321d65b6de54c3428',1,'SettingsPage.RefreshUI()']]],
   ['register_7',['register',['../classChartEventDispatcher.html#ac41dc07626a98f608437f211dd7d8bea',1,'ChartEventDispatcher.Register()'],['../classNotes_1_1Lane_1_1LaneRouter.html#a547b157eb14e5864bc87db6b142bf721',1,'Notes.Lane.LaneRouter.Register()']]],
-  ['resetcounts_8',['ResetCounts',['../classJudge.html#afd82509b7d0e0e1d79fc424e443c25cb',1,'Judge']]],
-  ['resetcursor_9',['ResetCursor',['../classChartTimelineRuntime.html#a08d8c5a9550a8e05220ad735697f0177',1,'ChartTimelineRuntime']]],
-  ['resetforcurrentidentity_10',['resetforcurrentidentity',['../classGameSettingsSaveService.html#ab238846df7b0cea3355178f82c766242',1,'GameSettingsSaveService.ResetForCurrentIdentity()'],['../classLocalScoreSaveService.html#a4437661529aa9c00ccfd92a640015de3',1,'LocalScoreSaveService.ResetForCurrentIdentity()']]],
-  ['resetgauge_11',['resetgauge',['../classGaugeManager.html#a602d4b010665292abc17ec7b17849c9a',1,'GaugeManager.ResetGauge()'],['../interfaceIGaugeCommand.html#a747b3bf31ee9cfd55331e6a7ca31fe80',1,'IGaugeCommand.ResetGauge()']]],
-  ['resetplayername_12',['ResetPlayerName',['../classPlayerNameSettings.html#a182bc461df04cf079b41113de76283a6',1,'PlayerNameSettings']]],
-  ['resetvisual_13',['resetvisual',['../classNotes_1_1Square_1_1SquareVisualBase.html#a860aa072d59f10d119421a049cc0ca88',1,'Notes.Square.SquareVisualBase.ResetVisual()'],['../classNotes_1_1Square_1_1SquareVisualLong.html#af5396b491163f80f5f683837c45894e2',1,'Notes.Square.SquareVisualLong.ResetVisual()']]],
-  ['resolveindex_14',['ResolveIndex',['../classCarouselController.html#afbef08291aff7890520877b0dd72d9de',1,'CarouselController']]],
-  ['restoreinvalidfieldsfromdefaults_15',['RestoreInvalidFieldsFromDefaults',['../classNoteSettingsJsonPatchUtility.html#a603c96f1a737ec23ae79ae1079d22f72',1,'NoteSettingsJsonPatchUtility']]],
-  ['resultsmenuactions_16',['ResultsMenuActions',['../classParrythmInputActions_1_1ResultsMenuActions.html#ad5b243462adafc4a52a496abf5dcb4df',1,'ParrythmInputActions::ResultsMenuActions']]]
+  ['requestinitialsongfocus_8',['RequestInitialSongFocus',['../classCanvasSongSelectMenuController.html#a5bc95aa9d87ca4149b19e5bfae0775d0',1,'CanvasSongSelectMenuController']]],
+  ['resetcounts_9',['ResetCounts',['../classJudge.html#afd82509b7d0e0e1d79fc424e443c25cb',1,'Judge']]],
+  ['resetcursor_10',['ResetCursor',['../classChartTimelineRuntime.html#a08d8c5a9550a8e05220ad735697f0177',1,'ChartTimelineRuntime']]],
+  ['resetforcurrentidentity_11',['resetforcurrentidentity',['../classGameSettingsSaveService.html#ab238846df7b0cea3355178f82c766242',1,'GameSettingsSaveService.ResetForCurrentIdentity()'],['../classLocalScoreSaveService.html#a4437661529aa9c00ccfd92a640015de3',1,'LocalScoreSaveService.ResetForCurrentIdentity()']]],
+  ['resetgauge_12',['resetgauge',['../classGaugeManager.html#a602d4b010665292abc17ec7b17849c9a',1,'GaugeManager.ResetGauge()'],['../interfaceIGaugeCommand.html#a747b3bf31ee9cfd55331e6a7ca31fe80',1,'IGaugeCommand.ResetGauge()']]],
+  ['resetplayername_13',['ResetPlayerName',['../classPlayerNameSettings.html#a182bc461df04cf079b41113de76283a6',1,'PlayerNameSettings']]],
+  ['resetvisual_14',['resetvisual',['../classNotes_1_1Square_1_1SquareVisualBase.html#a860aa072d59f10d119421a049cc0ca88',1,'Notes.Square.SquareVisualBase.ResetVisual()'],['../classNotes_1_1Square_1_1SquareVisualLong.html#af5396b491163f80f5f683837c45894e2',1,'Notes.Square.SquareVisualLong.ResetVisual()']]],
+  ['resolveindex_15',['ResolveIndex',['../classCarouselController.html#afbef08291aff7890520877b0dd72d9de',1,'CarouselController']]],
+  ['restoreinvalidfieldsfromdefaults_16',['RestoreInvalidFieldsFromDefaults',['../classNoteSettingsJsonPatchUtility.html#a603c96f1a737ec23ae79ae1079d22f72',1,'NoteSettingsJsonPatchUtility']]],
+  ['resultsmenuactions_17',['ResultsMenuActions',['../classParrythmInputActions_1_1ResultsMenuActions.html#ad5b243462adafc4a52a496abf5dcb4df',1,'ParrythmInputActions::ResultsMenuActions']]]
 ];

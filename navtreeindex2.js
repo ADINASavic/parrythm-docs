@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"classGameBootstrap.html#a4f2cd798783c3bb19d0a2fd974aefb88":[1,0,35,4],
 "classGameBootstrap.html#a645edf329e56d8b546634664f9d5f7a8":[1,0,35,1],
 "classGameBootstrap.html#a702da67a46744a65a4ba7be3d3fc7bbe":[1,0,35,2],
 "classGameSavePaths.html":[1,0,36],
@@ -248,6 +249,5 @@ var NAVTREEINDEX2 =
 "classLevelChartData_1_1NoteEvent.html#ad5fb2ddd29dc178d881ff51d0cb7bc81":[1,0,61,0,47],
 "classLevelChartData_1_1NoteEvent.html#ad68271e950092facc09626e7ad4b0083":[1,0,61,0,28],
 "classLevelChartData_1_1NoteEvent.html#ad9f34f1f91e21a5d7702429d22102578":[1,0,61,0,20],
-"classLevelChartData_1_1NoteEvent.html#adb4f4ce7f585db6334e0a11dcdaa0278":[1,0,61,0,52],
-"classLevelChartData_1_1NoteEvent.html#add339e5535dcaba109971dedb3f7203b":[1,0,61,0,23]
+"classLevelChartData_1_1NoteEvent.html#adb4f4ce7f585db6334e0a11dcdaa0278":[1,0,61,0,52]
 };

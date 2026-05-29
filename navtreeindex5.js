@@ -1,5 +1,6 @@
 var NAVTREEINDEX5 =
 {
+"classParrythmInputActions_1_1IngameGameplayActions.html#a54f09e0148df5381ad0e9a0967554704":[1,0,79,0,14],
 "classParrythmInputActions_1_1IngameGameplayActions.html#a627629eeb20f1ef9c8a933d252bac40c":[1,0,79,0,10],
 "classParrythmInputActions_1_1IngameGameplayActions.html#a927bad31d9642de000e160bd3c8aa822":[1,0,79,0,4],
 "classParrythmInputActions_1_1IngameGameplayActions.html#a92eb28d93f3d7bffc50c2d37f69dcd9a":[1,0,79,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX5 =
 "classSliderNote.html#a18ecd177b306ce4c8e503dcefdc1944f":[1,0,97,6],
 "classSliderNote.html#a253e0b1d6b8326a5d22daeaa53ea1e06":[1,0,97,16],
 "classSliderNote.html#a2b15a1e36341fbea6d0891d8e0d1492d":[1,0,97,14],
-"classSliderNote.html#a2e994ae408566b5cdadb3adc48db1fc2":[1,0,97,25],
-"classSliderNote.html#a366fc6bcc4b1e2844659af837a5558b6":[1,0,97,19]
+"classSliderNote.html#a2e994ae408566b5cdadb3adc48db1fc2":[1,0,97,25]
 };

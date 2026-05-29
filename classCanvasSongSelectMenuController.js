@@ -12,6 +12,7 @@ var classCanvasSongSelectMenuController =
     [ "OnClickSortPrev", "classCanvasSongSelectMenuController.html#a35e611654fd38f55cf99862d11945a50", null ],
     [ "OnIndexChanged", "classCanvasSongSelectMenuController.html#acce724ffe0ba63c290c6c534c7c894de", null ],
     [ "OnIndexConfirmed", "classCanvasSongSelectMenuController.html#ade8da1e68dda69c8bda99910032f4263", null ],
+    [ "RequestInitialSongFocus", "classCanvasSongSelectMenuController.html#a5bc95aa9d87ca4149b19e5bfae0775d0", null ],
     [ "UpdateCardFocusState", "classCanvasSongSelectMenuController.html#a5ba6bc5d6f58d282942b885f58141059", null ],
     [ "UpdateCustomInput", "classCanvasSongSelectMenuController.html#af1a3fb7386c5529b4b6e6aded958e574", null ],
     [ "cardPrefab", "classCanvasSongSelectMenuController.html#a6cba2d1bf8782d4babd319b1f9420e88", null ],
