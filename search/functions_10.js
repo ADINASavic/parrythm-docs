@@ -44,7 +44,7 @@ var searchData=
   ['settotalnotes_41',['SetTotalNotes',['../classResultsUI.html#a8e8ff2554c853a1cad543cf5e510e872',1,'ResultsUI']]],
   ['settypingininputfield_42',['SetTypingInInputField',['../classSettingsCarouselController.html#a57d857dd35ca3a04b07191168daf6321',1,'SettingsCarouselController']]],
   ['setunitcircle_43',['SetUnitCircle',['../classMeshUtil.html#ae42eec706778006763fa5a5411d09602',1,'MeshUtil']]],
-  ['setupcontrols_44',['setupcontrols',['../classSettingsCardPlaySettings.html#ae9055d9a4f31161a167b389ada32ddac',1,'SettingsCardPlaySettings.SetupControls()'],['../classSettingsPage.html#af6eefb6e6bb87a7bb893263bfb9643c9',1,'SettingsPage.SetupControls()'],['../classSettingsCardOffset.html#ad14102b251f16661196a542a89ba6284',1,'SettingsCardOffset.SetupControls()']]],
+  ['setupcontrols_44',['setupcontrols',['../classSettingsCardOffset.html#ad14102b251f16661196a542a89ba6284',1,'SettingsCardOffset.SetupControls()'],['../classSettingsPage.html#af6eefb6e6bb87a7bb893263bfb9643c9',1,'SettingsPage.SetupControls()'],['../classSettingsCardPlaySettings.html#ae9055d9a4f31161a167b389ada32ddac',1,'SettingsCardPlaySettings.SetupControls()']]],
   ['shouldconsumetrailpress_45',['ShouldConsumeTrailPress',['../classCircleNote.html#ad120b8f8d1f1648de9171aae4f4f7bdf',1,'CircleNote']]],
   ['showasync_46',['ShowAsync',['../classResultsUI.html#a0600888a4ba89f6b0029a630af47cfdd',1,'ResultsUI']]],
   ['shownicknameshortcutprompt_47',['ShowNicknameShortcutPrompt',['../classSettingsCardPlayerSettings.html#ab46c4d2ea964b03258f7706f01c183a4',1,'SettingsCardPlayerSettings']]],
@@ -62,10 +62,9 @@ var searchData=
   ['startgame_59',['StartGame',['../classSongCard.html#a31f114a67dd5809689c3415fca51de9b',1,'SongCard']]],
   ['startsec_60',['StartSec',['../classChartTimelineRuntime.html#abf36066d5e2260193cf958c96b063154',1,'ChartTimelineRuntime']]],
   ['stop_61',['stop',['../classChartPlayerFMOD.html#a78ddf7616821fd19392fd488efd0c7d5',1,'ChartPlayerFMOD.Stop()'],['../classFmodMusicController.html#abe65c2379d10ac4d0519221738031981',1,'FmodMusicController.Stop()']]],
-  ['stopimmediate_62',['StopImmediate',['../classSongPreviewPlayer.html#aa94509036378ff60e0e3bf53c87f53cf',1,'SongPreviewPlayer']]],
-  ['stopwithfade_63',['StopWithFade',['../classSongPreviewPlayer.html#ae27d87f16e15c176a39954066848a53b',1,'SongPreviewPlayer']]],
-  ['styleeventhandler_64',['StyleEventHandler',['../classStyleEventHandler.html#ae82103736d1630655f83222a94cc6c47',1,'StyleEventHandler']]],
-  ['stylefadesec_65',['StyleFadeSec',['../classChartTimelineRuntime.html#a6b136f7c53d2fd16521ca099328c02fe',1,'ChartTimelineRuntime']]],
-  ['styletimesec_66',['StyleTimeSec',['../classChartTimelineRuntime.html#ac97a3ac3f6fd1c149b181766fe54f5a6',1,'ChartTimelineRuntime']]],
-  ['submitbestasync_67',['submitbestasync',['../interfaceILeaderboardService.html#a35cf5b1b782bd61e018993e4365e9a37',1,'ILeaderboardService.SubmitBestAsync()'],['../classLocalLeaderboardSaveService.html#a75b47bd3b1fa215d07a9d4b0afe471a9',1,'LocalLeaderboardSaveService.SubmitBestAsync()']]]
+  ['stopwithfade_62',['StopWithFade',['../classSongPreviewPlayer.html#ae27d87f16e15c176a39954066848a53b',1,'SongPreviewPlayer']]],
+  ['styleeventhandler_63',['StyleEventHandler',['../classStyleEventHandler.html#ae82103736d1630655f83222a94cc6c47',1,'StyleEventHandler']]],
+  ['stylefadesec_64',['StyleFadeSec',['../classChartTimelineRuntime.html#a6b136f7c53d2fd16521ca099328c02fe',1,'ChartTimelineRuntime']]],
+  ['styletimesec_65',['StyleTimeSec',['../classChartTimelineRuntime.html#ac97a3ac3f6fd1c149b181766fe54f5a6',1,'ChartTimelineRuntime']]],
+  ['submitbestasync_66',['submitbestasync',['../interfaceILeaderboardService.html#a35cf5b1b782bd61e018993e4365e9a37',1,'ILeaderboardService.SubmitBestAsync()'],['../classLocalLeaderboardSaveService.html#a75b47bd3b1fa215d07a9d4b0afe471a9',1,'LocalLeaderboardSaveService.SubmitBestAsync()']]]
 ];

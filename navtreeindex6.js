@@ -120,8 +120,7 @@ var NAVTREEINDEX6 =
 "classSongMeta.html#af313f0c1a772cc158816768a88d53dbf":[1,0,103,9],
 "classSongPreviewPlayer.html":[1,0,104],
 "classSongPreviewPlayer.html#aa18177497573096e940c63a2cc793184":[1,0,104,0],
-"classSongPreviewPlayer.html#aa94509036378ff60e0e3bf53c87f53cf":[1,0,104,1],
-"classSongPreviewPlayer.html#ae27d87f16e15c176a39954066848a53b":[1,0,104,2],
+"classSongPreviewPlayer.html#ae27d87f16e15c176a39954066848a53b":[1,0,104,1],
 "classSongScanner.html":[1,0,105],
 "classSongScanner.html#a2ed19649ab88618e11bec837b76a97f0":[1,0,105,1],
 "classSongScanner.html#abc765422ac2b4142ede50a0641cfeb2b":[1,0,105,0],
@@ -192,8 +191,8 @@ var NAVTREEINDEX6 =
 "functions_enum.html":[1,3,3],
 "functions_evnt.html":[1,3,5],
 "functions_f.html":[1,3,0,5],
-"functions_func.html":[1,3,1],
 "functions_func.html":[1,3,1,0],
+"functions_func.html":[1,3,1],
 "functions_func_b.html":[1,3,1,1],
 "functions_func_c.html":[1,3,1,2],
 "functions_func_d.html":[1,3,1,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX6 =
 "functions_vars_o.html":[1,3,2,14],
 "functions_vars_p.html":[1,3,2,15],
 "functions_vars_q.html":[1,3,2,16],
-"functions_vars_r.html":[1,3,2,17]
+"functions_vars_r.html":[1,3,2,17],
+"functions_vars_s.html":[1,3,2,18]
 };
