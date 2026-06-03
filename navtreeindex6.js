@@ -167,6 +167,7 @@ var NAVTREEINDEX6 =
 "dir_4e91b6be60b69fcf89f86815cc92bf25.html":[2,0,0,0,7],
 "dir_557a39a6f9c6a4f66e97ad4aa4f20cc8.html":[2,0,0,0,8,2],
 "dir_579b7cb2c0e68cb5b8b84235a147ee6f.html":[2,0,0,0,2],
+"dir_5c276fa7e317402dac45f4fa2af702b1.html":[2,0,0,0,2,0],
 "dir_5c31445091e65cebd98d98c5b019fc13.html":[2,0,0,0,1,0],
 "dir_63c9363fc0b59ef153ba8e27c4aa01e5.html":[2,0,0,0,8,1],
 "dir_6f98dba35319e7213157493d25248f09.html":[2,0,0,0,1,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX6 =
 "functions_vars_o.html":[1,3,2,14],
 "functions_vars_p.html":[1,3,2,15],
 "functions_vars_q.html":[1,3,2,16],
-"functions_vars_r.html":[1,3,2,17],
-"functions_vars_s.html":[1,3,2,18]
+"functions_vars_r.html":[1,3,2,17]
 };
