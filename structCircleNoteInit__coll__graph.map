@@ -1,7 +1,7 @@
 <map id="CircleNoteInit" name="CircleNoteInit">
-<area shape="rect" id="Node000001" title=" " alt="" coords="109,93,220,119"/>
-<area shape="rect" id="Node000002" href="$classFmodMusicController.html" title=" " alt="" coords="5,5,167,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,39,156,91,152,95,104,43"/>
-<area shape="rect" id="Node000003" href="$classNoteSettings.html" title=" " alt="" coords="191,5,298,31"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,43,178,95,174,91,223,39"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="108,93,219,119"/>
+<area shape="rect" id="Node000002" href="$classUnityMusicController.html" title=" " alt="" coords="5,5,164,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,39,154,91,150,95,102,43"/>
+<area shape="rect" id="Node000003" href="$classNoteSettings.html" title=" " alt="" coords="189,5,295,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,43,176,95,172,91,220,39"/>
 </map>

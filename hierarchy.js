@@ -89,14 +89,14 @@ var hierarchy =
         [ "SettingsCarouselController", "classSettingsCarouselController.html", null ]
       ] ],
       [ "ChartEndWatcher", "classChartEndWatcher.html", null ],
-      [ "ChartPlayerFMOD", "classChartPlayerFMOD.html", null ],
+      [ "ChartPlayer", "classChartPlayer.html", null ],
       [ "CircleNoteVisual", "classCircleNoteVisual.html", null ],
       [ "CleanCursor", "classCleanCursor.html", null ],
       [ "ConnectionHintController", "classConnectionHintController.html", null ],
       [ "DifficultyBlock", "classDifficultyBlock.html", null ],
       [ "DifficultyStrip", "classDifficultyStrip.html", null ],
       [ "Fixed16x9Camera", "classFixed16x9Camera.html", null ],
-      [ "FmodMusicController", "classFmodMusicController.html", null ],
+      [ "FmodMusicControllerLegacy", "classFmodMusicControllerLegacy.html", null ],
       [ "GameBootstrap", "classGameBootstrap.html", null ],
       [ "GaugeManager", "classGaugeManager.html", null ],
       [ "GridDrawer", "classGridDrawer.html", null ],
@@ -132,8 +132,10 @@ var hierarchy =
       [ "SliderNoteVisual", "classSliderNoteVisual.html", null ],
       [ "SongCard", "classSongCard.html", null ],
       [ "SongPreviewPlayer", "classSongPreviewPlayer.html", null ],
-      [ "TextExitHoldIndicator", "classTextExitHoldIndicator.html", null ]
+      [ "TextExitHoldIndicator", "classTextExitHoldIndicator.html", null ],
+      [ "UnityMusicController", "classUnityMusicController.html", null ]
     ] ],
+    [ "MusicAudioPathResolver", "classMusicAudioPathResolver.html", null ],
     [ "LevelChartData.NoteEvent", "classLevelChartData_1_1NoteEvent.html", null ],
     [ "NoteSettingsDefaultsProvider", "classNoteSettingsDefaultsProvider.html", null ],
     [ "NoteSettingsIO", "classNoteSettingsIO.html", null ],

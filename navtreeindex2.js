@@ -1,8 +1,9 @@
 var NAVTREEINDEX2 =
 {
-"classGameBootstrap.html#a4f2cd798783c3bb19d0a2fd974aefb88":[1,0,35,4],
-"classGameBootstrap.html#a645edf329e56d8b546634664f9d5f7a8":[1,0,35,1],
+"classGameBootstrap.html#a11d46c5546776aa3f1f464f1aa0c7ec4":[1,0,35,1],
+"classGameBootstrap.html#a3a2f4efa08ca409ed4031283b7656d9a":[1,0,35,0],
 "classGameBootstrap.html#a702da67a46744a65a4ba7be3d3fc7bbe":[1,0,35,2],
+"classGameBootstrap.html#adbffe6945a9b4a6fea2d72b14323fba6":[1,0,35,4],
 "classGameSavePaths.html":[1,0,36],
 "classGameSavePaths.html#a0a32e840afad806556da29f1821c4bea":[1,0,36,4],
 "classGameSavePaths.html#a118df65e8e6ea6c5ed7869981e9ce6e9":[1,0,36,3],
@@ -85,17 +86,17 @@ var NAVTREEINDEX2 =
 "classInputFieldFocusRelay.html#ae090d8f1c6e78fec57923133b178de38":[1,0,50,0],
 "classInputFieldFocusRelay.html#aed3a37f352e703df9b5eded6f33cf373":[1,0,50,1],
 "classInputRouter.html":[1,0,51],
+"classInputRouter.html#a01fab07f4dae553342b5b7730d4938fa":[1,0,51,1],
 "classInputRouter.html#a2d47de7e2b5f087e53f244f6b8b725f7":[1,0,51,0],
 "classInputRouter.html#a5191592d98c7ce625ba60ef52d44874d":[1,0,51,2],
 "classInputRouter.html#a52e747e4fc9f1d67ab9e9c10ee236f16":[1,0,51,3],
 "classInputRouter.html#a584685c524672f36d9f8a746fe33b76b":[1,0,51,5],
 "classInputRouter.html#a70b1ef083639dadf7435a8bf595e168b":[1,0,51,4],
-"classInputRouter.html#aad439fbb9e480fec53ad43255ef10f2b":[1,0,51,1],
 "classInputTimeMapper.html":[1,0,52],
+"classInputTimeMapper.html#a14e88f26c2b56d9dd3b49648f322cbbf":[1,0,52,1],
 "classInputTimeMapper.html#a255eae2d60c85bbdccce2f9cc964509a":[1,0,52,2],
 "classInputTimeMapper.html#a49e7078585cf16df969675fd7b3fb0bb":[1,0,52,0],
 "classInputTimeMapper.html#a716738c375b2d0ed95a5cc2c449cfffc":[1,0,52,3],
-"classInputTimeMapper.html#afa09de4d3eb04c2294c3453548bcfee6":[1,0,52,1],
 "classJudge.html":[1,0,56],
 "classJudge.html#a155a0b9ce598c149580e1f045e7be3e5":[1,0,56,24],
 "classJudge.html#a180db7e7c33c953c681f3d1ab0eaf00a":[1,0,56,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX2 =
 "classLevelChartData_1_1NoteEvent.html#acf05de55969d37a08d68abfeb55fb690":[1,0,61,0,33],
 "classLevelChartData_1_1NoteEvent.html#ad5fb2ddd29dc178d881ff51d0cb7bc81":[1,0,61,0,47],
 "classLevelChartData_1_1NoteEvent.html#ad68271e950092facc09626e7ad4b0083":[1,0,61,0,28],
-"classLevelChartData_1_1NoteEvent.html#ad9f34f1f91e21a5d7702429d22102578":[1,0,61,0,20],
-"classLevelChartData_1_1NoteEvent.html#adb4f4ce7f585db6334e0a11dcdaa0278":[1,0,61,0,52]
+"classLevelChartData_1_1NoteEvent.html#ad9f34f1f91e21a5d7702429d22102578":[1,0,61,0,20]
 };

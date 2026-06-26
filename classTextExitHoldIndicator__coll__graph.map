@@ -1,5 +1,5 @@
 <map id="TextExitHoldIndicator" name="TextExitHoldIndicator">
 <area shape="rect" id="Node000001" title=" " alt="" coords="5,93,167,119"/>
-<area shape="rect" id="Node000002" href="$classFmodMusicController.html" title=" " alt="" coords="5,5,167,31"/>
+<area shape="rect" id="Node000002" href="$classUnityMusicController.html" title=" " alt="" coords="7,5,165,31"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,45,89,93,83,93,83,45"/>
 </map>

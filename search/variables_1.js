@@ -3,7 +3,7 @@ var searchData=
   ['background_0',['background',['../classFixed16x9Camera.html#aed7a7c59e3434a55d67c0548c1aef6f4',1,'Fixed16x9Camera']]],
   ['backgroundmenugroup_1',['backgroundMenuGroup',['../classCanvasGameIntroController.html#a7ea1778c32b5a47249f1063bebc9f8f8',1,'CanvasGameIntroController']]],
   ['badgeprefab_2',['badgePrefab',['../classDifficultyStrip.html#aef5880093fc4aae2e9362c1db77e1116',1,'DifficultyStrip']]],
-  ['banknames_3',['bankNames',['../classFmodMusicController.html#a995ac72416d378187e34f4a550b95b8c',1,'FmodMusicController']]],
+  ['banknames_3',['bankNames',['../classFmodMusicControllerLegacy.html#a07d1e2fedfae77b1183b91f913f514a9',1,'FmodMusicControllerLegacy']]],
   ['basecam_4',['baseCam',['../classCameraTweenTrack.html#ab3b42a4d80c342dc28c715de91e48ca2',1,'CameraTweenTrack']]],
   ['basesoftnessmultiplier_5',['baseSoftnessMultiplier',['../classSliderNoteVisual.html#ac867a93a03bb20b8e429f08fc1964ffb',1,'SliderNoteVisual']]],
   ['basethicknessmultiplier_6',['baseThicknessMultiplier',['../classSliderNoteVisual.html#a891b04126349f1c54317091378fd09b4',1,'SliderNoteVisual']]],

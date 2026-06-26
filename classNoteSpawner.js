@@ -14,7 +14,7 @@ var classNoteSpawner =
     [ "inputRouter", "classNoteSpawner.html#a24d530404d93a3319fa17b41574287b5", null ],
     [ "judge", "classNoteSpawner.html#a95e3904ef5318ebc8ab853920dc6dfcc", null ],
     [ "laneRouter", "classNoteSpawner.html#a73750fa3f2a2063ae77faf5c62b96e2a", null ],
-    [ "music", "classNoteSpawner.html#a13663c1f1f4160b7d0ed17943bc75fcb", null ],
+    [ "music", "classNoteSpawner.html#af56a03d27623dcb1acfcff5fcb78f36c", null ],
     [ "occupancy", "classNoteSpawner.html#a61516b7059d617484d64317f97ceb2c1", null ],
     [ "settings", "classNoteSpawner.html#af9e2fee4fea114323235d9c926cfdfa8", null ],
     [ "sliderNotePrefab", "classNoteSpawner.html#a6440df000f9125fbc1dbb194a0656fc5", null ],

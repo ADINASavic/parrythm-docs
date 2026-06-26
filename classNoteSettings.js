@@ -87,5 +87,6 @@ var classNoteSettings =
     [ "trailFlashColor", "classNoteSettings.html#a4b2e3c0822efc169a5dc14860286aaa2", null ],
     [ "trailGlowColor", "classNoteSettings.html#a5747e1e3aef34fc9cba5f492f731841d", null ],
     [ "trailLineColor", "classNoteSettings.html#af19f6462b50919385d65a108f2f56375", null ],
-    [ "trailMissColor", "classNoteSettings.html#a51b8f7546d472ed166cac71d689fae4a", null ]
+    [ "trailMissColor", "classNoteSettings.html#a51b8f7546d472ed166cac71d689fae4a", null ],
+    [ "UnityAudioOutputLatencyOffsetMs", "classNoteSettings.html#ac37c239f247d3e274d2f2474242e70f8", null ]
 ];

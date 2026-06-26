@@ -7,7 +7,7 @@ var classBulletNote =
     [ "NotifySliderOverlap", "classBulletNote.html#ab4afaa54ad1aae24e3dab4a25d25a859", null ],
     [ "ActiveBullets", "classBulletNote.html#ad8f1c6324882c34ed0301e7ff0bfa09f", null ],
     [ "bossTarget", "classBulletNote.html#ac33c9877f0f0f07d6a0c476091ede349", null ],
-    [ "clock", "classBulletNote.html#a7a25072dfeaaa8cdd72d16a779aaf010", null ],
+    [ "clock", "classBulletNote.html#ac052daa2570b839bd617bca05c3bfa8f", null ],
     [ "curved", "classBulletNote.html#a7875e856832cc9b6ad01b6644200487e", null ],
     [ "curveSamples", "classBulletNote.html#a3d9f37e5551c86578ef37a95b905a97c", null ],
     [ "despawnPos", "classBulletNote.html#a880aeda157ceea977c970aee8fa46518", null ],

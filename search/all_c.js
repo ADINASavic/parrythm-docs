@@ -23,7 +23,7 @@ var searchData=
   ['minhalfwidth_20',['minHalfWidth',['../classSliderNoteVisual.html#ab558452fb5ee09ffc75c8f8954389ad3',1,'SliderNoteVisual']]],
   ['minpixelwidth_21',['minPixelWidth',['../classUITrailGraphic.html#a48f488185be6a629c684370f0d193548',1,'UITrailGraphic']]],
   ['minsegmentpixels_22',['minSegmentPixels',['../classUITrailGraphic.html#afc8c8352473fe710ecece28d3cf1fc0a',1,'UITrailGraphic']]],
-  ['miss_23',['miss',['../NoteResult_8cs.html#aa2413ae4a0961def874fde866d24f482ae7ddb7cd777b59610b220bcfa80bd95f',1,'Miss:&#160;NoteResult.cs'],['../IGaugeCommand_8cs.html#a40492e94222bf203cfa823f5cf7594fbae7ddb7cd777b59610b220bcfa80bd95f',1,'Miss:&#160;IGaugeCommand.cs'],['../classLocalScoreRecord.html#aaeec6bfcbeea165316a13625e9133508',1,'LocalScoreRecord.miss'],['../classLeaderboardScoreUploadDto.html#ab7cf807cae0bbe0a838ea1502577597c',1,'LeaderboardScoreUploadDto.miss'],['../classNotes_1_1Square_1_1SquareNoteJudge.html#a625af775558ed65067119adc0466639eae7ddb7cd777b59610b220bcfa80bd95f',1,'Notes.Square.SquareNoteJudge.Miss'],['../classLeaderboardRecord.html#a320733500b933d90ce5920ed58f68754',1,'LeaderboardRecord.miss']]],
+  ['miss_23',['miss',['../NoteResult_8cs.html#aa2413ae4a0961def874fde866d24f482ae7ddb7cd777b59610b220bcfa80bd95f',1,'Miss:&#160;NoteResult.cs'],['../IGaugeCommand_8cs.html#a40492e94222bf203cfa823f5cf7594fbae7ddb7cd777b59610b220bcfa80bd95f',1,'Miss:&#160;IGaugeCommand.cs'],['../classNotes_1_1Square_1_1SquareNoteJudge.html#a625af775558ed65067119adc0466639eae7ddb7cd777b59610b220bcfa80bd95f',1,'Notes.Square.SquareNoteJudge.Miss'],['../classLeaderboardScoreUploadDto.html#ab7cf807cae0bbe0a838ea1502577597c',1,'LeaderboardScoreUploadDto.miss'],['../classLocalScoreRecord.html#aaeec6bfcbeea165316a13625e9133508',1,'LocalScoreRecord.miss'],['../classLeaderboardRecord.html#a320733500b933d90ce5920ed58f68754',1,'LeaderboardRecord.miss']]],
   ['misscolor_24',['misscolor',['../classJudge.html#abfa9916846e295536f6693bb907ce86c',1,'Judge.missColor'],['../classCircleNoteVisual.html#a9fa3024db85641d9b9f3093fd5bb1279',1,'CircleNoteVisual.missColor']]],
   ['misscount_25',['MissCount',['../classJudge.html#a5a96b3f044e64c7f7d97c42c81fdbfc0',1,'Judge']]],
   ['misscounttext_26',['missCountText',['../classJudge.html#a657c0764c52dcdac0694cbbe81c8ec13',1,'Judge']]],
@@ -42,7 +42,8 @@ var searchData=
   ['movese_39',['moveSE',['../classCarouselController.html#a27e12417e7eecab0100c173946c7f87a',1,'CarouselController']]],
   ['movesmoothtime_40',['moveSmoothTime',['../classCarouselController.html#ada50e4a71346c015774c05a76bfcb423',1,'CarouselController']]],
   ['movevelocity_41',['moveVelocity',['../classCarouselController.html#a3723026988c9402dc7aee3c07f881230',1,'CarouselController']]],
-  ['music_42',['music',['../classChartPlayerFMOD.html#ab575e13ac1a76992c48095fec3fc4a47',1,'ChartPlayerFMOD.music'],['../classTextExitHoldIndicator.html#a1e25f74aad55804a03b7e048b1047d2d',1,'TextExitHoldIndicator.music'],['../classNoteSpawner.html#a13663c1f1f4160b7d0ed17943bc75fcb',1,'NoteSpawner.music']]],
-  ['musiccontroller_43',['musicController',['../classGameBootstrap.html#a4f2cd798783c3bb19d0a2fd974aefb88',1,'GameBootstrap']]],
-  ['musicevent_44',['musicEvent',['../classFmodMusicController.html#a514edefbdb753d43cda55cdd2ecf36c3',1,'FmodMusicController']]]
+  ['music_42',['music',['../classChartPlayer.html#a0af6030706b2c97f47af1f40c6eea85b',1,'ChartPlayer.music'],['../classTextExitHoldIndicator.html#a95ee47ef5d570920a033657690ab8bfe',1,'TextExitHoldIndicator.music'],['../classNoteSpawner.html#af56a03d27623dcb1acfcff5fcb78f36c',1,'NoteSpawner.music']]],
+  ['musicaudiopathresolver_43',['MusicAudioPathResolver',['../classMusicAudioPathResolver.html',1,'']]],
+  ['musiccontroller_44',['musicController',['../classGameBootstrap.html#adbffe6945a9b4a6fea2d72b14323fba6',1,'GameBootstrap']]],
+  ['musicevent_45',['musicEvent',['../classFmodMusicControllerLegacy.html#a87cf0d0b43ec9939116505d0dc2e698a',1,'FmodMusicControllerLegacy']]]
 ];

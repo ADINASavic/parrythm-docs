@@ -58,7 +58,7 @@ var searchData=
   ['sortingorder_55',['sortingOrder',['../classCircleNoteVisual.html#ad41da313494b79c16e7914121547b737',1,'CircleNoteVisual']]],
   ['sortnexttext_56',['sortNextText',['../classCanvasSongSelectMenuController.html#a1bb55648f3c995ee765c6849d04f0162',1,'CanvasSongSelectMenuController']]],
   ['sortprevtext_57',['sortPrevText',['../classCanvasSongSelectMenuController.html#ada37f8a393f808115b42165e9b065b90',1,'CanvasSongSelectMenuController']]],
-  ['spawner_58',['spawner',['../classChartPlayerFMOD.html#aad1feff0be7ce65fe8ecd40d557d5b86',1,'ChartPlayerFMOD']]],
+  ['spawner_58',['spawner',['../classChartPlayer.html#a05f25c9446192964d8daf7e7dd3b7d92',1,'ChartPlayer']]],
   ['spawnpos_59',['spawnPos',['../classBulletNote.html#a7c00e3d3ae87a25e49cd45732d56d10b',1,'BulletNote']]],
   ['spritecolor_60',['spriteColor',['../classBulletNote.html#a45b10c92c9b7ff8dfa7a0909c162ec14',1,'BulletNote']]],
   ['squarenoteprefab_61',['squareNotePrefab',['../classNoteSpawner.html#a618f44c471ff7c8e0fb5d2ee2d8d1d8b',1,'NoteSpawner']]],

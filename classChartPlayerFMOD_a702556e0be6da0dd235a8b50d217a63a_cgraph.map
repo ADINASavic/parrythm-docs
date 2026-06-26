@@ -1,9 +1,0 @@
-<map id="ChartPlayerFMOD.BootSequence" name="ChartPlayerFMOD.BootSequence">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,240,70"/>
-<area shape="rect" id="Node000002" href="$classFmodMusicController.html#a5b2cce48706cad9b3ad3adcd06f42977" title=" " alt="" coords="297,5,489,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,42,283,36,284,41,231,47"/>
-<area shape="rect" id="Node000004" href="$classChartTimelineRuntime.html#a08d8c5a9550a8e05220ad735697f0177" title=" " alt="" coords="288,69,499,109"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="231,67,275,73,274,78,230,73"/>
-<area shape="rect" id="Node000003" href="$classFmodMusicController.html#aa9cb79a2c424c80605ded74cee10f7e3" title=" " alt="" coords="547,13,761,38"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="490,23,533,23,533,28,490,28"/>
-</map>

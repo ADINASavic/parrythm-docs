@@ -1,4 +1,4 @@
 var interfaceINote =
 [
-    [ "Init", "interfaceINote.html#ad443356db0aa77c63bc335cf818d1e07", null ]
+    [ "Init", "interfaceINote.html#a806cd574ad03a19a602e08f066360ad1", null ]
 ];

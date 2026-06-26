@@ -105,7 +105,7 @@ $(document).ready(function(){initNavTree('classInputTimeMapper.html',''); initRe
 </div><!--header-->
 <div class="contents">
 
-<p>Maps input-system timestamps to FMOD timeline time using DSP clock. Keeps a rolling sample of (inputTime, dspSeconds, timelineOffset).  
+<p>Maps input-system timestamps to Unity audio timeline time using DSP clock. Keeps a rolling sample of (inputTime, dspSeconds, timelineOffset).  
  <a href="classInputTimeMapper.html#details">더 자세히 ...</a></p>
 
 <p>MonoBehaviour를(을) 상속했습니다.</p>
@@ -114,11 +114,11 @@ InputTimeMapper에 대한 협력 다이어그램:</div>
 <div class="dyncontent">
 <div class="center"><img src="classInputTimeMapper__coll__graph.png" border="0" usemap="#aInputTimeMapper_coll__map" alt="Collaboration graph"/></div>
 <map name="aInputTimeMapper_coll__map" id="aInputTimeMapper_coll__map">
-<area shape="rect" title="Maps input&#45;system timestamps to FMOD timeline time using DSP clock. Keeps a rolling sample of (inputT..." alt="" coords="96,93,233,119"/>
-<area shape="rect" href="classFmodMusicController.html" title=" " alt="" coords="5,5,167,31"/>
-<area shape="poly" title=" " alt="" coords="108,39,156,91,152,95,104,43"/>
-<area shape="rect" href="classNoteSettings.html" title=" " alt="" coords="191,5,298,31"/>
-<area shape="poly" title=" " alt="" coords="227,43,178,95,174,91,223,39"/>
+<area shape="rect" title="Maps input&#45;system timestamps to Unity audio timeline time using DSP clock. Keeps a rolling sample of ..." alt="" coords="95,93,232,119"/>
+<area shape="rect" href="classUnityMusicController.html" title=" " alt="" coords="5,5,164,31"/>
+<area shape="poly" title=" " alt="" coords="106,39,154,91,150,95,102,43"/>
+<area shape="rect" href="classNoteSettings.html" title=" " alt="" coords="189,5,295,31"/>
+<area shape="poly" title=" " alt="" coords="224,43,176,95,172,91,220,39"/>
 </map>
 <center><span class="legend">[<a target="top" href="graph_legend.html">범례</a>]</span></center></div>
 <table class="memberdecls">
@@ -129,8 +129,8 @@ Public 멤버 함수</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public 속성</h2></td></tr>
-<tr class="memitem:afa09de4d3eb04c2294c3453548bcfee6" id="r_afa09de4d3eb04c2294c3453548bcfee6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classFmodMusicController.html">FmodMusicController</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classInputTimeMapper.html#afa09de4d3eb04c2294c3453548bcfee6">clock</a></td></tr>
-<tr class="separator:afa09de4d3eb04c2294c3453548bcfee6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a14e88f26c2b56d9dd3b49648f322cbbf" id="r_a14e88f26c2b56d9dd3b49648f322cbbf"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classUnityMusicController.html">UnityMusicController</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classInputTimeMapper.html#a14e88f26c2b56d9dd3b49648f322cbbf">clock</a></td></tr>
+<tr class="separator:a14e88f26c2b56d9dd3b49648f322cbbf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a255eae2d60c85bbdccce2f9cc964509a" id="r_a255eae2d60c85bbdccce2f9cc964509a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classNoteSettings.html">NoteSettings</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classInputTimeMapper.html#a255eae2d60c85bbdccce2f9cc964509a">settings</a></td></tr>
 <tr class="separator:a255eae2d60c85bbdccce2f9cc964509a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -140,7 +140,7 @@ Public 속성</h2></td></tr>
 <tr class="separator:a716738c375b2d0ed95a5cc2c449cfffc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">상세한 설명</h2>
-<div class="textblock"><p>Maps input-system timestamps to FMOD timeline time using DSP clock. Keeps a rolling sample of (inputTime, dspSeconds, timelineOffset). </p>
+<div class="textblock"><p>Maps input-system timestamps to Unity audio timeline time using DSP clock. Keeps a rolling sample of (inputTime, dspSeconds, timelineOffset). </p>
 </div><h2 class="groupheader">멤버 함수 문서화</h2>
 <a id="a49e7078585cf16df969675fd7b3fb0bb" name="a49e7078585cf16df969675fd7b3fb0bb"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a49e7078585cf16df969675fd7b3fb0bb">&#9670;&#160;</a></span>ToTimeline()</h2>
@@ -169,14 +169,14 @@ Public 속성</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">멤버 데이터 문서화</h2>
-<a id="afa09de4d3eb04c2294c3453548bcfee6" name="afa09de4d3eb04c2294c3453548bcfee6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afa09de4d3eb04c2294c3453548bcfee6">&#9670;&#160;</a></span>clock</h2>
+<a id="a14e88f26c2b56d9dd3b49648f322cbbf" name="a14e88f26c2b56d9dd3b49648f322cbbf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a14e88f26c2b56d9dd3b49648f322cbbf">&#9670;&#160;</a></span>clock</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classFmodMusicController.html">FmodMusicController</a> InputTimeMapper.clock</td>
+          <td class="memname"><a class="el" href="classUnityMusicController.html">UnityMusicController</a> InputTimeMapper.clock</td>
         </tr>
       </table>
 </div><div class="memdoc">

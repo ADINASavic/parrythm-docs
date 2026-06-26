@@ -1,6 +1,6 @@
 var classBackgroundVideoSync =
 [
-    [ "clock", "classBackgroundVideoSync.html#a49e9242adcd159e25fea657f4d0f8063", null ],
+    [ "clock", "classBackgroundVideoSync.html#a4ed3e89ec62b11bf625beec3f4583fa3", null ],
     [ "driftGain", "classBackgroundVideoSync.html#a1d91e3f44bb6bee75b55e6ce7ceffee7", null ],
     [ "hardSeekThreshold", "classBackgroundVideoSync.html#a63543c8af82949d8721954742829999c", null ],
     [ "startOffset", "classBackgroundVideoSync.html#a3e141aa6e4032d2e473a94d784eaa952", null ],

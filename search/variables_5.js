@@ -14,7 +14,7 @@ var searchData=
   ['flashcolor_11',['flashColor',['../classNotes_1_1Square_1_1SquareVisualBase.html#a10316c0973a3ec9ba85b0f2ebedb3c32',1,'Notes::Square::SquareVisualBase']]],
   ['flashduration_12',['flashDuration',['../classNotes_1_1Square_1_1SquareVisualBase.html#a2c635b6b4a9af972efb026c2ed4ee3ff',1,'Notes::Square::SquareVisualBase']]],
   ['flashovershoot_13',['flashOvershoot',['../classNotes_1_1Square_1_1SquareVisualBase.html#a564252c2f97b97b279bd4d9b2577dcb1',1,'Notes::Square::SquareVisualBase']]],
-  ['fmodevent_14',['fmodevent',['../classSongMeta.html#a96bb2cfbb658df398726e481ae69ed7f',1,'SongMeta.fmodEvent'],['../classLevelChartData_1_1NoteEvent.html#aeb1e510968f3172aca1d9d150bf088fe',1,'LevelChartData.NoteEvent.fmodEvent']]],
+  ['fmodevent_14',['fmodEvent',['../classLevelChartData_1_1NoteEvent.html#aeb1e510968f3172aca1d9d150bf088fe',1,'LevelChartData::NoteEvent']]],
   ['focusedindex_15',['focusedIndex',['../classCarouselController.html#a4064e4dbca80cdf042bba3cf67803575',1,'CarouselController']]],
   ['focusedscale_16',['focusedScale',['../classCarouselController.html#ae91d2926aecb1927256ae38063957dd8',1,'CarouselController']]],
   ['folderpath_17',['folderPath',['../classSongEntry.html#a3da524b06479eaddbb547119f15bdd9a',1,'SongEntry']]],

@@ -3,7 +3,7 @@ var searchData=
   ['idleanimationbeats_0',['idleAnimationBeats',['../classAnimatedCharacterController.html#ad8685e1abd86d248bf20436754a383fb',1,'AnimatedCharacterController']]],
   ['imageanchor_1',['imageAnchor',['../classLevelChartData_1_1NoteEvent.html#acf05de55969d37a08d68abfeb55fb690',1,'LevelChartData::NoteEvent']]],
   ['imageblend_2',['imageBlend',['../classLevelChartData_1_1NoteEvent.html#aab1d6fc4848292b9c9b67ddd1aeeab4a',1,'LevelChartData::NoteEvent']]],
-  ['imagecanvas_3',['imageCanvas',['../classChartPlayerFMOD.html#aca86650cd416bfae24f1ed02ccb7cabf',1,'ChartPlayerFMOD']]],
+  ['imagecanvas_3',['imageCanvas',['../classChartPlayer.html#ac2908f19e9aa090d08400c3134783e0a',1,'ChartPlayer']]],
   ['imagefadeinbeat_4',['imageFadeInBeat',['../classLevelChartData_1_1NoteEvent.html#ab8d6c07e3e2df42aa105d9864d0c0364',1,'LevelChartData::NoteEvent']]],
   ['imagefadeinsec_5',['imageFadeInSec',['../classLevelChartData_1_1NoteEvent.html#a1c612b033b73a952bf5410eb7d415e8c',1,'LevelChartData::NoteEvent']]],
   ['imagefadeoutbeat_6',['imageFadeOutBeat',['../classLevelChartData_1_1NoteEvent.html#af9dbd75191503be0e0f717e6e7c26678',1,'LevelChartData::NoteEvent']]],

@@ -32,7 +32,7 @@ var searchData=
   ['movese_29',['moveSE',['../classCarouselController.html#a27e12417e7eecab0100c173946c7f87a',1,'CarouselController']]],
   ['movesmoothtime_30',['moveSmoothTime',['../classCarouselController.html#ada50e4a71346c015774c05a76bfcb423',1,'CarouselController']]],
   ['movevelocity_31',['moveVelocity',['../classCarouselController.html#a3723026988c9402dc7aee3c07f881230',1,'CarouselController']]],
-  ['music_32',['music',['../classChartPlayerFMOD.html#ab575e13ac1a76992c48095fec3fc4a47',1,'ChartPlayerFMOD.music'],['../classTextExitHoldIndicator.html#a1e25f74aad55804a03b7e048b1047d2d',1,'TextExitHoldIndicator.music'],['../classNoteSpawner.html#a13663c1f1f4160b7d0ed17943bc75fcb',1,'NoteSpawner.music']]],
-  ['musiccontroller_33',['musicController',['../classGameBootstrap.html#a4f2cd798783c3bb19d0a2fd974aefb88',1,'GameBootstrap']]],
-  ['musicevent_34',['musicEvent',['../classFmodMusicController.html#a514edefbdb753d43cda55cdd2ecf36c3',1,'FmodMusicController']]]
+  ['music_32',['music',['../classChartPlayer.html#a0af6030706b2c97f47af1f40c6eea85b',1,'ChartPlayer.music'],['../classTextExitHoldIndicator.html#a95ee47ef5d570920a033657690ab8bfe',1,'TextExitHoldIndicator.music'],['../classNoteSpawner.html#af56a03d27623dcb1acfcff5fcb78f36c',1,'NoteSpawner.music']]],
+  ['musiccontroller_33',['musicController',['../classGameBootstrap.html#adbffe6945a9b4a6fea2d72b14323fba6',1,'GameBootstrap']]],
+  ['musicevent_34',['musicEvent',['../classFmodMusicControllerLegacy.html#a87cf0d0b43ec9939116505d0dc2e698a',1,'FmodMusicControllerLegacy']]]
 ];

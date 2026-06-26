@@ -7,7 +7,6 @@ var classSongMeta =
     [ "coverImage", "classSongMeta.html#a6d6c40d4ad6c0a4864642bd97f27766f", null ],
     [ "difficulties", "classSongMeta.html#a3c0b6dea0a9c55218efc2c98b6088fa1", null ],
     [ "durationSec", "classSongMeta.html#a7960e0d180debb400d2bb01fc926f78e", null ],
-    [ "fmodEvent", "classSongMeta.html#a96bb2cfbb658df398726e481ae69ed7f", null ],
     [ "loadingSceneJacket", "classSongMeta.html#a303927800d296ffd8378112207fbaebe", null ],
     [ "previewDuration", "classSongMeta.html#af313f0c1a772cc158816768a88d53dbf", null ],
     [ "previewStart", "classSongMeta.html#a5fef9d1a427f9685a448f746c835186d", null ],

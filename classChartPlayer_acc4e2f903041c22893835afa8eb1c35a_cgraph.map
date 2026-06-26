@@ -1,0 +1,9 @@
+<map id="ChartPlayer.Stop" name="ChartPlayer.Stop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,77,136,102"/>
+<area shape="rect" id="Node000002" href="$classConnectionHintController.html#aa1124e8eca0a3b931ea09f72f82b0140" title=" " alt="" coords="195,5,384,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,74,206,47,208,52,116,79"/>
+<area shape="rect" id="Node000003" href="$classChartTimelineRuntime.html#a08d8c5a9550a8e05220ad735697f0177" title=" " alt="" coords="184,69,395,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="136,87,171,87,171,92,136,92"/>
+<area shape="rect" id="Node000004" href="$classUnityMusicController.html#ae6dacbca57bf9018059da6881e3d0804" title=" " alt="" coords="194,134,385,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="116,99,185,119,221,128,220,133,183,124,114,105"/>
+</map>

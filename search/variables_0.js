@@ -12,5 +12,7 @@ var searchData=
   ['artist_9',['artist',['../classSongMeta.html#a3e96cf528c76a56f8a97a456d0eac5da',1,'SongMeta']]],
   ['artisttext_10',['artistText',['../classCanvasSongIntroController.html#af26b4f7bdfd866ab4f337bc3a07efb27',1,'CanvasSongIntroController']]],
   ['audiofile_11',['audioFile',['../classSongMeta.html#a2e297c21dba3f4fc00cdbc7c69bc7bc3',1,'SongMeta']]],
-  ['autoplayonstart_12',['autoPlayOnStart',['../classChartPlayerFMOD.html#adc5342fb245c2ddc8f7d644474a90235',1,'ChartPlayerFMOD']]]
+  ['audiofilepath_12',['audioFilePath',['../classUnityMusicController.html#a80db67c13d1ef1043697e3ab09b25a6a',1,'UnityMusicController']]],
+  ['audiosource_13',['audioSource',['../classUnityMusicController.html#a3f114f47e64e92f48fba37ca7bb00467',1,'UnityMusicController']]],
+  ['autoplayonstart_14',['autoPlayOnStart',['../classChartPlayer.html#a741a76b9d0cfe2d7cecd001979f4311d',1,'ChartPlayer']]]
 ];

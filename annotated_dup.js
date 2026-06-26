@@ -36,7 +36,7 @@ var annotated_dup =
     [ "ChartEndWatcher", "classChartEndWatcher.html", "classChartEndWatcher" ],
     [ "ChartEventDispatcher", "classChartEventDispatcher.html", "classChartEventDispatcher" ],
     [ "ChartHashUtility", "classChartHashUtility.html", "classChartHashUtility" ],
-    [ "ChartPlayerFMOD", "classChartPlayerFMOD.html", "classChartPlayerFMOD" ],
+    [ "ChartPlayer", "classChartPlayer.html", "classChartPlayer" ],
     [ "ChartTimelineRuntime", "classChartTimelineRuntime.html", "classChartTimelineRuntime" ],
     [ "CircleNote", "classCircleNote.html", "classCircleNote" ],
     [ "CircleNoteInit", "structCircleNoteInit.html", "structCircleNoteInit" ],
@@ -50,7 +50,7 @@ var annotated_dup =
     [ "DifficultyStrip", "classDifficultyStrip.html", "classDifficultyStrip" ],
     [ "EaseUtil", "classEaseUtil.html", "classEaseUtil" ],
     [ "Fixed16x9Camera", "classFixed16x9Camera.html", "classFixed16x9Camera" ],
-    [ "FmodMusicController", "classFmodMusicController.html", "classFmodMusicController" ],
+    [ "FmodMusicControllerLegacy", "classFmodMusicControllerLegacy.html", "classFmodMusicControllerLegacy" ],
     [ "GameBootstrap", "classGameBootstrap.html", "classGameBootstrap" ],
     [ "GameSavePaths", "classGameSavePaths.html", "classGameSavePaths" ],
     [ "GameSettingsSaveManifest", "classGameSettingsSaveManifest.html", "classGameSettingsSaveManifest" ],
@@ -88,6 +88,7 @@ var annotated_dup =
     [ "LongNoteHandler", "classLongNoteHandler.html", "classLongNoteHandler" ],
     [ "MarqueeText", "classMarqueeText.html", "classMarqueeText" ],
     [ "MeshUtil", "classMeshUtil.html", "classMeshUtil" ],
+    [ "MusicAudioPathResolver", "classMusicAudioPathResolver.html", "classMusicAudioPathResolver" ],
     [ "NoteBase", "classNoteBase.html", "classNoteBase" ],
     [ "NoteSettings", "classNoteSettings.html", "classNoteSettings" ],
     [ "NoteSettingsDefaultsProvider", "classNoteSettingsDefaultsProvider.html", "classNoteSettingsDefaultsProvider" ],
@@ -125,5 +126,6 @@ var annotated_dup =
     [ "StyleEventHandler", "classStyleEventHandler.html", "classStyleEventHandler" ],
     [ "TextExitHoldIndicator", "classTextExitHoldIndicator.html", "classTextExitHoldIndicator" ],
     [ "UITrailGraphic", "classUITrailGraphic.html", "classUITrailGraphic" ],
+    [ "UnityMusicController", "classUnityMusicController.html", "classUnityMusicController" ],
     [ "VoiceEventHandler", "classVoiceEventHandler.html", "classVoiceEventHandler" ]
 ];

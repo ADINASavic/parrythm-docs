@@ -4,7 +4,7 @@ var classNoteBase =
     [ "DoMiss", "classNoteBase.html#ab83244e39ec074fc78d312c22d46bf7b", null ],
     [ "DoPerfect", "classNoteBase.html#ae16675afc9557b2500201e8e86c56b25", null ],
     [ "SafeDestroy", "classNoteBase.html#a93fc2dce778edc1645c206bf9f6a9279", null ],
-    [ "clock", "classNoteBase.html#a7db0a6961f30394439b201c2fc4bba6f", null ],
+    [ "clock", "classNoteBase.html#ae56d944024edd127ff0ba8680a901390", null ],
     [ "judge", "classNoteBase.html#adfb51d4aff25c448a89ba921912ec556", null ],
     [ "judged", "classNoteBase.html#acb6d6f71c7213b562db924e57c3ce0e7", null ],
     [ "router", "classNoteBase.html#afe6e6bbc9b77e5c80eaaeb5c48c4a35c", null ],

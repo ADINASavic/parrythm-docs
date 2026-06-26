@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['video_0',['video',['../classBackgroundVideoSync.html#a1e11a60b2ad2ea3312b3e31446e06f63',1,'BackgroundVideoSync.video'],['../classFmodMusicController.html#a29b7b3e9c0d0576be853ad198674a267',1,'FmodMusicController.video']]],
+  ['video_0',['video',['../classBackgroundVideoSync.html#a1e11a60b2ad2ea3312b3e31446e06f63',1,'BackgroundVideoSync.video'],['../classFmodMusicControllerLegacy.html#ac7145b7b0bfba747415411e56fa55f3a',1,'FmodMusicControllerLegacy.video'],['../classUnityMusicController.html#ace6168d618fa0dde7a25af1df09ea64e',1,'UnityMusicController.video']]],
   ['virtualpointer_1',['VirtualPointer',['../classParrythmInputRuntime.html#aa5efbf19ecc6aa2767d4a1cfc7c6193f',1,'ParrythmInputRuntime']]],
   ['visual_2',['visual',['../classNotes_1_1Square_1_1SquareNoteCore.html#a9bc051007668dd132d1c1f620b9cb1e8',1,'Notes::Square::SquareNoteCore']]],
   ['visuallerpspeed_3',['visualLerpSpeed',['../classPlayerSpriteController.html#a270b33eaf18d07a0620ad532e16590ae',1,'PlayerSpriteController']]],

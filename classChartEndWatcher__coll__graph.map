@@ -1,11 +1,11 @@
 <map id="ChartEndWatcher" name="ChartEndWatcher">
-<area shape="rect" id="Node000001" title=" " alt="" coords="174,181,309,207"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="173,181,307,207"/>
 <area shape="rect" id="Node000002" href="$interfaceIStageEndTrigger.html" title=" " alt="" coords="5,93,136,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,122,219,179,217,183,105,127"/>
-<area shape="rect" id="Node000003" href="$classFmodMusicController.html" title=" " alt="" coords="161,93,322,119"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,133,244,181,239,181,239,133"/>
-<area shape="rect" id="Node000004" href="$classResultsUI.html" title=" " alt="" coords="346,93,430,119"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="358,128,263,183,260,179,355,123"/>
-<area shape="rect" id="Node000005" href="$classJudge.html" title=" " alt="" coords="359,5,417,31"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="391,45,391,93,385,93,385,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,122,218,179,216,183,104,127"/>
+<area shape="rect" id="Node000003" href="$classUnityMusicController.html" title=" " alt="" coords="161,93,319,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="243,133,243,181,237,181,237,133"/>
+<area shape="rect" id="Node000004" href="$classResultsUI.html" title=" " alt="" coords="343,93,427,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="355,128,261,183,258,179,353,123"/>
+<area shape="rect" id="Node000005" href="$classJudge.html" title=" " alt="" coords="356,5,415,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="388,45,388,93,383,93,383,45"/>
 </map>

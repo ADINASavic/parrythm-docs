@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['facingaxis_0',['facingaxis',['../classBulletNote.html#a34dae04d2d7cf44ab823c5b2ac55b83b',1,'BulletNote.FacingAxis'],['../classBulletNote.html#a3b431a481454b6beb677b0b1c9323290',1,'BulletNote.facingAxis']]],
+  ['facingaxis_0',['facingaxis',['../classBulletNote.html#a3b431a481454b6beb677b0b1c9323290',1,'BulletNote.facingAxis'],['../classBulletNote.html#a34dae04d2d7cf44ab823c5b2ac55b83b',1,'BulletNote.FacingAxis']]],
   ['fadebeat_1',['fadeBeat',['../classLevelChartData_1_1NoteEvent.html#a169b2f37109554a9d33ca9c0c61ff20f',1,'LevelChartData::NoteEvent']]],
   ['fadeduration_2',['fadeDuration',['../classCanvasGameIntroController.html#a106d8c1118939064d85053ab6600d264',1,'CanvasGameIntroController']]],
   ['fadeinbeat_3',['fadeInBeat',['../classLevelChartData_1_1NoteEvent.html#ac73edd2545125945c45fe08b3505230d',1,'LevelChartData::NoteEvent']]],
@@ -17,9 +17,9 @@ var searchData=
   ['flashcolor_14',['flashColor',['../classNotes_1_1Square_1_1SquareVisualBase.html#a10316c0973a3ec9ba85b0f2ebedb3c32',1,'Notes::Square::SquareVisualBase']]],
   ['flashduration_15',['flashDuration',['../classNotes_1_1Square_1_1SquareVisualBase.html#a2c635b6b4a9af972efb026c2ed4ee3ff',1,'Notes::Square::SquareVisualBase']]],
   ['flashovershoot_16',['flashOvershoot',['../classNotes_1_1Square_1_1SquareVisualBase.html#a564252c2f97b97b279bd4d9b2577dcb1',1,'Notes::Square::SquareVisualBase']]],
-  ['fmodevent_17',['fmodevent',['../classLevelChartData_1_1NoteEvent.html#aeb1e510968f3172aca1d9d150bf088fe',1,'LevelChartData.NoteEvent.fmodEvent'],['../classSongMeta.html#a96bb2cfbb658df398726e481ae69ed7f',1,'SongMeta.fmodEvent']]],
-  ['fmodmusiccontroller_18',['FmodMusicController',['../classFmodMusicController.html',1,'']]],
-  ['fmodmusiccontroller_2ecs_19',['FmodMusicController.cs',['../FmodMusicController_8cs.html',1,'']]],
+  ['fmodevent_17',['fmodEvent',['../classLevelChartData_1_1NoteEvent.html#aeb1e510968f3172aca1d9d150bf088fe',1,'LevelChartData::NoteEvent']]],
+  ['fmodmusiccontrollerlegacy_18',['FmodMusicControllerLegacy',['../classFmodMusicControllerLegacy.html',1,'']]],
+  ['fmodmusiccontrollerlegacy_2ecs_19',['FmodMusicControllerLegacy.cs',['../FmodMusicControllerLegacy_8cs.html',1,'']]],
   ['focusedindex_20',['focusedIndex',['../classCarouselController.html#a4064e4dbca80cdf042bba3cf67803575',1,'CarouselController']]],
   ['focusedscale_21',['focusedScale',['../classCarouselController.html#ae91d2926aecb1927256ae38063957dd8',1,'CarouselController']]],
   ['folderpath_22',['folderPath',['../classSongEntry.html#a3da524b06479eaddbb547119f15bdd9a',1,'SongEntry']]],

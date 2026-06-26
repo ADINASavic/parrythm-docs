@@ -1,0 +1,13 @@
+<map id="MusicAudioPathResolver.ResolveAudioType" name="MusicAudioPathResolver.ResolveAudioType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="924,23,1161,63"/>
+<area shape="rect" id="Node000002" href="$classUnityMusicController.html#a588577caa0a3f580b6bebee997e3db2f" title=" " alt="" coords="664,31,876,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="910,46,876,46,876,41,910,41"/>
+<area shape="rect" id="Node000003" href="$classUnityMusicController.html#a9f361e2ebd6bd6008a1b08aa29c37dee" title=" " alt="" coords="425,23,616,63"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="650,46,616,46,616,41,650,41"/>
+<area shape="rect" id="Node000004" href="$classChartPlayer.html#aaa9379bf007a3fce94caf3cbffd501db" title=" " alt="" coords="183,5,377,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="412,35,377,31,378,26,412,29"/>
+<area shape="rect" id="Node000006" href="$classUnityMusicController.html#a9c835ac7546d0fbb73f62c158c1c0a63" title=" " alt="" coords="185,55,375,80"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="412,57,376,60,375,55,411,52"/>
+<area shape="rect" id="Node000005" href="$classChartPlayer.html#a54e09fd6aefdab5abdaa008296422276" title=" " alt="" coords="5,5,135,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="169,21,135,21,135,15,169,15"/>
+</map>

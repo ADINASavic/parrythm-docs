@@ -15,7 +15,10 @@ var searchData=
   ['resetgauge_12',['resetgauge',['../classGaugeManager.html#a602d4b010665292abc17ec7b17849c9a',1,'GaugeManager.ResetGauge()'],['../interfaceIGaugeCommand.html#a747b3bf31ee9cfd55331e6a7ca31fe80',1,'IGaugeCommand.ResetGauge()']]],
   ['resetplayername_13',['ResetPlayerName',['../classPlayerNameSettings.html#a182bc461df04cf079b41113de76283a6',1,'PlayerNameSettings']]],
   ['resetvisual_14',['resetvisual',['../classNotes_1_1Square_1_1SquareVisualBase.html#a860aa072d59f10d119421a049cc0ca88',1,'Notes.Square.SquareVisualBase.ResetVisual()'],['../classNotes_1_1Square_1_1SquareVisualLong.html#af5396b491163f80f5f683837c45894e2',1,'Notes.Square.SquareVisualLong.ResetVisual()']]],
-  ['resolveindex_15',['ResolveIndex',['../classCarouselController.html#afbef08291aff7890520877b0dd72d9de',1,'CarouselController']]],
-  ['restoreinvalidfieldsfromdefaults_16',['RestoreInvalidFieldsFromDefaults',['../classNoteSettingsJsonPatchUtility.html#a603c96f1a737ec23ae79ae1079d22f72',1,'NoteSettingsJsonPatchUtility']]],
-  ['resultsmenuactions_17',['ResultsMenuActions',['../classParrythmInputActions_1_1ResultsMenuActions.html#ad5b243462adafc4a52a496abf5dcb4df',1,'ParrythmInputActions::ResultsMenuActions']]]
+  ['resolveaudiofilepath_15',['ResolveAudioFilePath',['../classMusicAudioPathResolver.html#a091d7b35a9cc1f985ddf615ff19cd8a3',1,'MusicAudioPathResolver']]],
+  ['resolveaudiopath_16',['ResolveAudioPath',['../classMusicAudioPathResolver.html#a264d16f8f27f7c3f6e051fadd6790119',1,'MusicAudioPathResolver']]],
+  ['resolveaudiotype_17',['ResolveAudioType',['../classMusicAudioPathResolver.html#a8c20c60a6d3730c7c28f88307d859862',1,'MusicAudioPathResolver']]],
+  ['resolveindex_18',['ResolveIndex',['../classCarouselController.html#afbef08291aff7890520877b0dd72d9de',1,'CarouselController']]],
+  ['restoreinvalidfieldsfromdefaults_19',['RestoreInvalidFieldsFromDefaults',['../classNoteSettingsJsonPatchUtility.html#a603c96f1a737ec23ae79ae1079d22f72',1,'NoteSettingsJsonPatchUtility']]],
+  ['resultsmenuactions_20',['ResultsMenuActions',['../classParrythmInputActions_1_1ResultsMenuActions.html#ad5b243462adafc4a52a496abf5dcb4df',1,'ParrythmInputActions::ResultsMenuActions']]]
 ];

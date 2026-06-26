@@ -9,7 +9,7 @@ var searchData=
   ['chartendwatcher_6',['ChartEndWatcher',['../classChartEndWatcher.html',1,'']]],
   ['charteventdispatcher_7',['ChartEventDispatcher',['../classChartEventDispatcher.html',1,'']]],
   ['charthashutility_8',['ChartHashUtility',['../classChartHashUtility.html',1,'']]],
-  ['chartplayerfmod_9',['ChartPlayerFMOD',['../classChartPlayerFMOD.html',1,'']]],
+  ['chartplayer_9',['ChartPlayer',['../classChartPlayer.html',1,'']]],
   ['charttimelineruntime_10',['ChartTimelineRuntime',['../classChartTimelineRuntime.html',1,'']]],
   ['circlenote_11',['CircleNote',['../classCircleNote.html',1,'']]],
   ['circlenoteinit_12',['CircleNoteInit',['../structCircleNoteInit.html',1,'']]],

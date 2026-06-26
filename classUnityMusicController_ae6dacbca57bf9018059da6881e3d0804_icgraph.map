@@ -1,0 +1,7 @@
+<map id="UnityMusicController.Stop" name="UnityMusicController.Stop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="259,31,449,56"/>
+<area shape="rect" id="Node000002" href="$classChartPlayer.html#acc4e2f903041c22893835afa8eb1c35a" title=" " alt="" coords="43,5,173,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,35,173,27,174,22,245,29"/>
+<area shape="rect" id="Node000003" href="$classChartEndWatcher.html#a86c9c6b91e78f3e73494e3120dfa9c0b" title=" " alt="" coords="5,55,211,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="246,57,211,60,211,55,245,51"/>
+</map>

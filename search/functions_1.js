@@ -5,7 +5,7 @@ var searchData=
   ['bindtoui_2',['bindtoui',['../classSettingsCardOffset.html#a8ce7c9068001bb1e3a39a8280e51efce',1,'SettingsCardOffset.BindToUI()'],['../classSettingsCardPlaySettings.html#aac5f156f0efbec4c20e6d8e24bb7576f',1,'SettingsCardPlaySettings.BindToUI()'],['../classSettingsPage.html#ad58f1d44a6d295ff3c5f335539de9df9',1,'SettingsPage.BindToUI()']]],
   ['binduievents_3',['binduievents',['../classSettingsCardOffset.html#af832ad9a604ae624116f89a98eec406b',1,'SettingsCardOffset.BindUiEvents()'],['../classSettingsCardPlaySettings.html#a7772fa80e09a508f323cc77d55ee6fe7',1,'SettingsCardPlaySettings.BindUiEvents()'],['../classSettingsPage.html#affe84487a3d3954a17f82d16e1c69bb0',1,'SettingsPage.BindUiEvents()']]],
   ['bindvisual_4',['BindVisual',['../classSliderNote.html#ac97047644f81873457531b21850b4fb7',1,'SliderNote']]],
-  ['bootsequence_5',['BootSequence',['../classChartPlayerFMOD.html#a702556e0be6da0dd235a8b50d217a63a',1,'ChartPlayerFMOD']]],
+  ['bootsequence_5',['BootSequence',['../classChartPlayer.html#aaa9379bf007a3fce94caf3cbffd501db',1,'ChartPlayer']]],
   ['buildcards_6',['BuildCards',['../classCarouselController.html#a63ee680f18e52dbfc638684a0a878fcc',1,'CarouselController']]],
   ['builddiscmesh_7',['BuildDiscMesh',['../classMeshUtil.html#af773579f934e0c9e6247e55a623d2089',1,'MeshUtil']]],
   ['buildpatch_8',['BuildPatch',['../classNoteSettingsJsonPatchUtility.html#a75aa02c1eaec7321c28da77267aac7b7',1,'NoteSettingsJsonPatchUtility']]],

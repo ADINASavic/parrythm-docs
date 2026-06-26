@@ -1,12 +1,12 @@
 <map id="InputRouter" name="InputRouter">
-<area shape="rect" id="Node000001" title=" " alt="" coords="169,181,267,207"/>
-<area shape="rect" id="Node000002" href="$classFmodMusicController.html" title=" " alt="" coords="5,5,167,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,44,88,81,92,100,100,117,118,138,139,155,185,179,183,184,137,160,114,142,96,120,87,102,82,82,81,45"/>
-<area shape="rect" id="Node000004" href="$classInputTimeMapper.html" title="Maps input&#45;system timestamps to FMOD timeline time using DSP clock. Keeps a rolling sample of (inputT..." alt="" coords="149,93,287,119"/>
-<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="117,36,202,91,199,95,114,40"/>
-<area shape="rect" id="Node000003" href="$classJudge.html" title=" " alt="" coords="311,93,370,119"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="331,132,309,159,287,174,263,184,261,179,284,169,306,155,327,129"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="221,133,221,181,215,181,215,133"/>
-<area shape="rect" id="Node000005" href="$classNoteSettings.html" title=" " alt="" coords="191,5,298,31"/>
-<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="240,44,224,94,219,92,235,43"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="167,181,266,207"/>
+<area shape="rect" id="Node000002" href="$classUnityMusicController.html" title=" " alt="" coords="5,5,164,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,44,86,81,91,100,99,117,116,138,138,155,184,179,181,184,135,160,113,142,94,120,86,102,81,82,79,45"/>
+<area shape="rect" id="Node000004" href="$classInputTimeMapper.html" title="Maps input&#45;system timestamps to Unity audio timeline time using DSP clock. Keeps a rolling sample of ..." alt="" coords="148,93,285,119"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="115,36,200,91,197,95,112,40"/>
+<area shape="rect" id="Node000003" href="$classJudge.html" title=" " alt="" coords="310,93,369,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="330,132,308,159,285,174,261,184,259,179,283,169,304,155,326,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="219,133,219,181,214,181,214,133"/>
+<area shape="rect" id="Node000005" href="$classNoteSettings.html" title=" " alt="" coords="189,5,295,31"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="237,45,223,94,218,92,232,43"/>
 </map>
