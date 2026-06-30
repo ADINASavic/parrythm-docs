@@ -19,6 +19,6 @@ var searchData=
   ['enteroutgamestate_16',['EnterOutgameState',['../classParrythmInputRuntime.html#a38a5462bd7699f5029dd77220b856d02',1,'ParrythmInputRuntime']]],
   ['enterresultsstate_17',['EnterResultsState',['../classParrythmInputRuntime.html#ae3f628def55f99dec16d904f9821b4c5',1,'ParrythmInputRuntime']]],
   ['exists_18',['Exists',['../classLocalSettingsSaveStorage.html#a70c095a05ace86399697d25889c6aa5a',1,'LocalSettingsSaveStorage']]],
-  ['exitholdseconds_19',['exitHoldSeconds',['../classTextExitHoldIndicator.html#a869f7083ee055c1784f75adfac969da8',1,'TextExitHoldIndicator']]],
+  ['exitbutton_19',['exitButton',['../classTextExitHoldIndicator.html#a9ef43cc571a3cd3b1acd83718d5fd72c',1,'TextExitHoldIndicator']]],
   ['extratail_20',['extraTail',['../classChartEndWatcher.html#a3fa13dd5ac287e31b66d0a1847ba7757',1,'ChartEndWatcher']]]
 ];

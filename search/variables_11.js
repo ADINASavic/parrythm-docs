@@ -10,8 +10,10 @@ var searchData=
   ['resultfade_7',['resultFade',['../classNotes_1_1Square_1_1SquareVisualLong.html#a83e6b53c5c3ed47e3035dc4338edbe57',1,'Notes::Square::SquareVisualLong']]],
   ['resultnavigationbar_8',['resultNavigationBar',['../classResultsUI.html#ac1a3d7aacfd8edafe14ddf337fc63376',1,'ResultsUI']]],
   ['resultsui_9',['resultsui',['../classChartEndWatcher.html#abf3f06dd69ccbd0e16a3fee644f8f394',1,'ChartEndWatcher.resultsUI'],['../classGameBootstrap.html#a018a5f7a1f5c0fa949aedca1ac46b51c',1,'GameBootstrap.resultsUI']]],
-  ['root_10',['root',['../classDifficultyStrip.html#a827803598b38757f65ad66c54b949cb5',1,'DifficultyStrip']]],
-  ['roundcaps_11',['roundCaps',['../classUITrailGraphic.html#a5fff1698baff1adff759249f2185ba92',1,'UITrailGraphic']]],
-  ['router_12',['router',['../classNoteBase.html#afe6e6bbc9b77e5c80eaaeb5c48c4a35c',1,'NoteBase']]],
-  ['rows_13',['rows',['../classGridManager.html#a7a965b828e1b175ffd9151629ea50e2a',1,'GridManager']]]
+  ['resumebutton_10',['resumeButton',['../classTextExitHoldIndicator.html#a7b56e2df48fb6e7a8ef5eae44fbb4561',1,'TextExitHoldIndicator']]],
+  ['retrybutton_11',['retryButton',['../classTextExitHoldIndicator.html#ae3731e4fd0322034d77fe7bbc7f3055b',1,'TextExitHoldIndicator']]],
+  ['root_12',['root',['../classDifficultyStrip.html#a827803598b38757f65ad66c54b949cb5',1,'DifficultyStrip']]],
+  ['roundcaps_13',['roundCaps',['../classUITrailGraphic.html#a5fff1698baff1adff759249f2185ba92',1,'UITrailGraphic']]],
+  ['router_14',['router',['../classNoteBase.html#afe6e6bbc9b77e5c80eaaeb5c48c4a35c',1,'NoteBase']]],
+  ['rows_15',['rows',['../classGridManager.html#a7a965b828e1b175ffd9151629ea50e2a',1,'GridManager']]]
 ];
