@@ -43,6 +43,8 @@ var searchData=
   ['audiofile_40',['audioFile',['../classSongMeta.html#a2e297c21dba3f4fc00cdbc7c69bc7bc3',1,'SongMeta']]],
   ['audiofilepath_41',['audioFilePath',['../classUnityMusicController.html#a80db67c13d1ef1043697e3ab09b25a6a',1,'UnityMusicController']]],
   ['audiosource_42',['audioSource',['../classUnityMusicController.html#a3f114f47e64e92f48fba37ca7bb00467',1,'UnityMusicController']]],
-  ['autoplayonstart_43',['autoPlayOnStart',['../classChartPlayer.html#a741a76b9d0cfe2d7cecd001979f4311d',1,'ChartPlayer']]],
-  ['awake_44',['awake',['../classUITrailGraphic.html#ac419e0194da8a7393bf03b638efe5d02',1,'UITrailGraphic.Awake()'],['../classNotes_1_1Square_1_1SquareVisualBase.html#a563e627ff8aa649486b34048761ff25f',1,'Notes.Square.SquareVisualBase.Awake()'],['../classNotes_1_1Square_1_1SquareVisualNormal.html#a775ec2aa0cd8f24210cedb5421703fd4',1,'Notes.Square.SquareVisualNormal.Awake()'],['../classNotes_1_1Square_1_1SquareVisualTrail.html#a7257c1763f512fed67ce12a585ec7987',1,'Notes.Square.SquareVisualTrail.Awake()'],['../classSettingsPage.html#a20ab2a6fed38b8417e91e65dc71f0cc8',1,'SettingsPage.Awake()']]]
+  ['autoplaycontroller_43',['AutoPlayController',['../classAutoPlayController.html',1,'']]],
+  ['autoplaycontroller_2ecs_44',['AutoPlayController.cs',['../AutoPlayController_8cs.html',1,'']]],
+  ['autoplayonstart_45',['autoPlayOnStart',['../classChartPlayer.html#a741a76b9d0cfe2d7cecd001979f4311d',1,'ChartPlayer']]],
+  ['awake_46',['awake',['../classUITrailGraphic.html#ac419e0194da8a7393bf03b638efe5d02',1,'UITrailGraphic.Awake()'],['../classNotes_1_1Square_1_1SquareVisualBase.html#a563e627ff8aa649486b34048761ff25f',1,'Notes.Square.SquareVisualBase.Awake()'],['../classNotes_1_1Square_1_1SquareVisualNormal.html#a775ec2aa0cd8f24210cedb5421703fd4',1,'Notes.Square.SquareVisualNormal.Awake()'],['../classNotes_1_1Square_1_1SquareVisualTrail.html#a7257c1763f512fed67ce12a585ec7987',1,'Notes.Square.SquareVisualTrail.Awake()'],['../classSettingsPage.html#a20ab2a6fed38b8417e91e65dc71f0cc8',1,'SettingsPage.Awake()']]]
 ];

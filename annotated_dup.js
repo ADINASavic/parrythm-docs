@@ -21,6 +21,7 @@ var annotated_dup =
     [ "AnimatedCharacterPicker", "classAnimatedCharacterPicker.html", "classAnimatedCharacterPicker" ],
     [ "AppDataPaths", "classAppDataPaths.html", "classAppDataPaths" ],
     [ "ApproachCircleVisual", "classApproachCircleVisual.html", "classApproachCircleVisual" ],
+    [ "AutoPlayController", "classAutoPlayController.html", "classAutoPlayController" ],
     [ "BackgroundVideoSync", "classBackgroundVideoSync.html", "classBackgroundVideoSync" ],
     [ "BattleAnimationReaction", "classBattleAnimationReaction.html", "classBattleAnimationReaction" ],
     [ "BulletNote", "classBulletNote.html", "classBulletNote" ],

@@ -74,6 +74,7 @@ var hierarchy =
       [ "AnimatedCharacterController", "classAnimatedCharacterController.html", null ],
       [ "AnimatedCharacterPicker", "classAnimatedCharacterPicker.html", null ],
       [ "ApproachCircleVisual", "classApproachCircleVisual.html", null ],
+      [ "AutoPlayController", "classAutoPlayController.html", null ],
       [ "BackgroundVideoSync", "classBackgroundVideoSync.html", null ],
       [ "BattleAnimationReaction", "classBattleAnimationReaction.html", null ],
       [ "BulletNote", "classBulletNote.html", null ],

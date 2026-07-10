@@ -10,5 +10,6 @@ var classParrythmInputActions_1_1OutgameMenuActions =
     [ "Enabled", "classParrythmInputActions_1_1OutgameMenuActions.html#ad1c89ef3701ee23c697e0eb26254646d", null ],
     [ "QuickSpeed", "classParrythmInputActions_1_1OutgameMenuActions.html#a5756296c59a2bf9b0a49fcc3a7d8ef85", null ],
     [ "SortY", "classParrythmInputActions_1_1OutgameMenuActions.html#a825bc337f6d1729de2c1f09804fb179a", null ],
+    [ "ToggleAutoPlay", "classParrythmInputActions_1_1OutgameMenuActions.html#a7361dadd89991600833be70d7440fae6", null ],
     [ "ToggleSettings", "classParrythmInputActions_1_1OutgameMenuActions.html#a46288b6cd9e11750efc3b4e4556c2b97", null ]
 ];
