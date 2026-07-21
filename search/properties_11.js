@@ -1,13 +1,12 @@
 var searchData=
 [
-  ['targetsize_0',['TargetSize',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#af84824705adc78b144fb43f2e07c0735',1,'Notes::Square::SquareNoteTimeline']]],
-  ['timeline_1',['timeline',['../classNotes_1_1Square_1_1SquareNoteCore.html#a85710ecea6de067f842369a5de165e10',1,'Notes::Square::SquareNoteCore']]],
-  ['timelineseconds_2',['timelineseconds',['../classFmodMusicControllerLegacy.html#ae346d68393d52e3c5780d1334e30fd25',1,'FmodMusicControllerLegacy.TimelineSeconds'],['../classUnityMusicController.html#aaf38b8246c053dc0fd682874d1b27e19',1,'UnityMusicController.TimelineSeconds']]],
-  ['toggleautoplay_3',['ToggleAutoPlay',['../classParrythmInputActions_1_1OutgameMenuActions.html#a7361dadd89991600833be70d7440fae6',1,'ParrythmInputActions::OutgameMenuActions']]],
-  ['toggleplayback_4',['TogglePlayback',['../classParrythmInputActions_1_1IngameGameplayActions.html#acfab13cf545f0210ef77e0bb02da0b5a',1,'ParrythmInputActions::IngameGameplayActions']]],
-  ['togglesettings_5',['ToggleSettings',['../classParrythmInputActions_1_1OutgameMenuActions.html#a46288b6cd9e11750efc3b4e4556c2b97',1,'ParrythmInputActions::OutgameMenuActions']]],
-  ['trackeddeviceorientation_6',['TrackedDeviceOrientation',['../classParrythmInputActions_1_1UIActions.html#a6917a667ed2d401ae606cc43d2f0b447',1,'ParrythmInputActions::UIActions']]],
-  ['trackeddeviceposition_7',['TrackedDevicePosition',['../classParrythmInputActions_1_1UIActions.html#a951189575b901ec1b9f9bb76313a7bad',1,'ParrythmInputActions::UIActions']]],
-  ['type_8',['type',['../classImageEventHandler.html#a4bbf0e9f04073e49c3366aa8def3c2a1',1,'ImageEventHandler.Type'],['../classSliderNoteHandler.html#acdd4ac77f83c9f2f9031528b3da13d3e',1,'SliderNoteHandler.Type'],['../classLongNoteHandler.html#ae7f26307fed930e03366b9aaeb7c204a',1,'LongNoteHandler.Type'],['../interfaceINoteEventHandler.html#a8471e6f6ee508b9fdd31dd7c145306c9',1,'INoteEventHandler.Type'],['../classGridNoteHandler.html#affbb56caaae5384aa7fea5ad07eb784f',1,'GridNoteHandler.Type'],['../classCircleTapHandler.html#af5d53df050b5e11f446a33e4da579619',1,'CircleTapHandler.Type'],['../classBulletNoteHandler.html#aa05d93c9af8709c43a8813b52ac5f090',1,'BulletNoteHandler.Type'],['../classVoiceEventHandler.html#a2de1beb090dda02a86978b4a451ba3c7',1,'VoiceEventHandler.Type'],['../classStyleEventHandler.html#ab4a6f247d407317a7c5640c6d7873749',1,'StyleEventHandler.Type'],['../classCameraEventHandler.html#aceeed9fb1a8a1b90bfabe14de06deba4',1,'CameraEventHandler.Type']]],
-  ['typingininputfield_9',['TypingInInputField',['../classSettingsCarouselController.html#a410c422458dec3b9252d7882ba1d78d0',1,'SettingsCarouselController']]]
+  ['savefeedbacktext_0',['SaveFeedbackText',['../classSettingsPage.html#a86df8fb1b7a4dbad34b92acca6232623',1,'SettingsPage']]],
+  ['savesroot_1',['SavesRoot',['../classAppDataPaths.html#ae7478d32d6490c33ceee1cb6a6f8e867',1,'AppDataPaths']]],
+  ['screenposition_2',['ScreenPosition',['../classParrythmVirtualPointer.html#ac15863090e49588bf1998c555ffc4a83',1,'ParrythmVirtualPointer']]],
+  ['scrollwheel_3',['ScrollWheel',['../classParrythmInputActions_1_1UIActions.html#a6d4ab3717d5337b7dfe4c7bbb9cd82ef',1,'ParrythmInputActions::UIActions']]],
+  ['settingscardservice_4',['SettingsCardService',['../classSettingsPage.html#ab2524ec2e494cc6601b13d274e84039a',1,'SettingsPage']]],
+  ['slowcount_5',['SlowCount',['../classJudge.html#a6328cd087ca083d3f0f5642f2b77d566',1,'Judge']]],
+  ['sorty_6',['SortY',['../classParrythmInputActions_1_1OutgameMenuActions.html#a825bc337f6d1729de2c1f09804fb179a',1,'ParrythmInputActions::OutgameMenuActions']]],
+  ['startsize_7',['StartSize',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a27fba72f5e5542926a964ccc091a46e0',1,'Notes::Square::SquareNoteTimeline']]],
+  ['submit_8',['Submit',['../classParrythmInputActions_1_1UIActions.html#a603b7ac583c0d75ade68537899cf1fc7',1,'ParrythmInputActions::UIActions']]]
 ];

@@ -134,6 +134,7 @@ var hierarchy =
       [ "SongCard", "classSongCard.html", null ],
       [ "SongPreviewPlayer", "classSongPreviewPlayer.html", null ],
       [ "TextExitHoldIndicator", "classTextExitHoldIndicator.html", null ],
+      [ "TimingAccuracyPanel", "classTimingAccuracyPanel.html", null ],
       [ "UnityMusicController", "classUnityMusicController.html", null ]
     ] ],
     [ "MusicAudioPathResolver", "classMusicAudioPathResolver.html", null ],

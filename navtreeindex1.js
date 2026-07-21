@@ -1,5 +1,6 @@
 var NAVTREEINDEX1 =
 {
+"classCanvasSongIntroController.html#ae5ae2c0672dc49209e65e826ba75ff73":[1,0,15,7],
 "classCanvasSongIntroController.html#af26b4f7bdfd866ab4f337bc3a07efb27":[1,0,15,1],
 "classCanvasSongIntroController.html#af891f8da446a43b654eb4d59aa0836bb":[1,0,15,3],
 "classCanvasSongIntroController.html#af9e5ccc56b0d6783d07f9e7c71aa9043":[1,0,15,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX1 =
 "classFmodMusicControllerLegacy.html#a87cf0d0b43ec9939116505d0dc2e698a":[1,0,35,7],
 "classFmodMusicControllerLegacy.html#a8a9d3a0b44282f745424c6aa35ce68c1":[1,0,35,3],
 "classFmodMusicControllerLegacy.html#ac7145b7b0bfba747415411e56fa55f3a":[1,0,35,8],
-"classFmodMusicControllerLegacy.html#ae346d68393d52e3c5780d1334e30fd25":[1,0,35,13],
-"classFmodMusicControllerLegacy.html#aeb5607413088c1256c6d42b50301178e":[1,0,35,4]
+"classFmodMusicControllerLegacy.html#ae346d68393d52e3c5780d1334e30fd25":[1,0,35,13]
 };

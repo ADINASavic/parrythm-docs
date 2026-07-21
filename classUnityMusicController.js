@@ -1,5 +1,6 @@
 var classUnityMusicController =
 [
+    [ "DspTimeForTimeline", "classUnityMusicController.html#a951253ab40e22f4926fe9916ea8723ad", null ],
     [ "Play", "classUnityMusicController.html#a9c835ac7546d0fbb73f62c158c1c0a63", null ],
     [ "PlayWhenReady", "classUnityMusicController.html#a9f361e2ebd6bd6008a1b08aa29c37dee", null ],
     [ "Prepare", "classUnityMusicController.html#a588577caa0a3f580b6bebee997e3db2f", null ],

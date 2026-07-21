@@ -18,6 +18,7 @@ var classResultsUI =
     [ "perfectText", "classResultsUI.html#a4e223c30a9ed2f5e165b1c146eca171b", null ],
     [ "resultCarousel", "classResultsUI.html#aa19e39c210c361252195cbdde9a32531", null ],
     [ "resultNavigationBar", "classResultsUI.html#ac1a3d7aacfd8edafe14ddf337fc63376", null ],
+    [ "timingAccuracyPanel", "classResultsUI.html#aa5aacff148e5416aaa5b1eb5bb9eafd7", null ],
     [ "totalScoreGradeText", "classResultsUI.html#a4feb6f87ea61a9a7c8a3b98434982f85", null ],
     [ "totalScoreText", "classResultsUI.html#af62fd61a3015fb8f54d2de650cc85812", null ]
 ];

@@ -126,6 +126,7 @@ var annotated_dup =
     [ "SongScanner", "classSongScanner.html", "classSongScanner" ],
     [ "StyleEventHandler", "classStyleEventHandler.html", "classStyleEventHandler" ],
     [ "TextExitHoldIndicator", "classTextExitHoldIndicator.html", "classTextExitHoldIndicator" ],
+    [ "TimingAccuracyPanel", "classTimingAccuracyPanel.html", "classTimingAccuracyPanel" ],
     [ "UITrailGraphic", "classUITrailGraphic.html", "classUITrailGraphic" ],
     [ "UnityMusicController", "classUnityMusicController.html", "classUnityMusicController" ],
     [ "VoiceEventHandler", "classVoiceEventHandler.html", "classVoiceEventHandler" ]

@@ -1,21 +1,10 @@
 var searchData=
 [
-  ['ingamegameplay_0',['IngameGameplay',['../classParrythmInputActions.html#ae35f1fb2d13452090a4bae0334682ce8',1,'ParrythmInputActions']]],
-  ['instance_1',['Instance',['../classParrythmInputRuntime.html#a3db7d946c0ec5d26f4c9203863ba01ef',1,'ParrythmInputRuntime']]],
-  ['instanceornull_2',['InstanceOrNull',['../classParrythmInputRuntime.html#ab21c3d2b62982c981d673483b45d7965',1,'ParrythmInputRuntime']]],
-  ['isavailable_3',['IsAvailable',['../classParrythmVirtualPointer.html#a83f52982c2fff67dae37ba2db1992d68',1,'ParrythmVirtualPointer']]],
-  ['isdisposed_4',['IsDisposed',['../classParrythmInputRuntime_1_1StateOverrideHandle.html#a9e4bd62cb4c4b879a0965fbf4cff11cf',1,'ParrythmInputRuntime::StateOverrideHandle']]],
-  ['isfinished_5',['IsFinished',['../classBulletNote.html#a8efac9d696b4de4c2ce4f18cbc375bd7',1,'BulletNote']]],
-  ['isintrotransitionactive_6',['IsIntroTransitionActive',['../classCanvasSongIntroController.html#ac8478f35c56380044204ef174294b177',1,'CanvasSongIntroController']]],
-  ['isjudged_7',['IsJudged',['../classNoteBase.html#a29449bad359a0f237b94efbe10a6e537',1,'NoteBase']]],
-  ['isleftbuttonpressed_8',['IsLeftButtonPressed',['../classParrythmVirtualPointer.html#ae5378e2c3ecb076ffc84af6444f41cb2',1,'ParrythmVirtualPointer']]],
-  ['ispaused_9',['ispaused',['../classUnityMusicController.html#a6062133478dec7591b7cbc96e602bad8',1,'UnityMusicController.IsPaused'],['../classFmodMusicControllerLegacy.html#a4818a566e9d59e61e0656c96b6589383',1,'FmodMusicControllerLegacy.IsPaused']]],
-  ['isplaying_10',['isplaying',['../classFmodMusicControllerLegacy.html#a5f16328aef14c7d6bd83c3dad6483950',1,'FmodMusicControllerLegacy.IsPlaying'],['../classUnityMusicController.html#aa2a731c0fe84696e60824951bff2570f',1,'UnityMusicController.IsPlaying']]],
-  ['isprepared_11',['IsPrepared',['../classConnectionHintController.html#a911f027bdc9d5548aa0661e877dc9459',1,'ConnectionHintController']]],
-  ['isready_12',['isready',['../classFmodMusicControllerLegacy.html#a78027cad956747123653574014f0643a',1,'FmodMusicControllerLegacy.IsReady'],['../classUnityMusicController.html#add151777659ada410522e0eaef62a832',1,'UnityMusicController.IsReady']]],
-  ['isrecommendationactive_13',['IsRecommendationActive',['../classButtonQuickSpeedSetting.html#ab8ff17af89c8b8c83de6cf199972f835',1,'ButtonQuickSpeedSetting']]],
-  ['isresolved_14',['IsResolved',['../classNotes_1_1Square_1_1SquareNoteJudge.html#aeedcfbde16f6afb9807538d77d2dacc3',1,'Notes::Square::SquareNoteJudge']]],
-  ['isrightbuttonpressed_15',['IsRightButtonPressed',['../classParrythmVirtualPointer.html#a9d1978c924aad7be940be540b37d9aa9',1,'ParrythmVirtualPointer']]],
-  ['issteamidentity_16',['IsSteamIdentity',['../classSaveIdentity.html#a2259c9bb617400523ea02595318e1e31',1,'SaveIdentity']]],
-  ['istrail_17',['IsTrail',['../classCircleNote.html#aebf93f5101c71e6b5817c652fa34ab02',1,'CircleNote']]]
+  ['hasanyheldcell_0',['HasAnyHeldCell',['../classKeyboardInputManager.html#ae2be5984bb0595cfbcf4bad70d7ac597',1,'KeyboardInputManager']]],
+  ['hasfinalized_1',['HasFinalized',['../classSliderNote.html#a1731808032ca6989b465844a647c7e6c',1,'SliderNote']]],
+  ['hasshown_2',['HasShown',['../classChartEndWatcher.html#a4e053e0e8941e5c629909ef41299a84b',1,'ChartEndWatcher']]],
+  ['hassnapshot_3',['HasSnapshot',['../classSettingsCardService.html#a51c78a23c50b1464e9eb97ca258ba7bb',1,'SettingsCardService']]],
+  ['hasstarted_4',['HasStarted',['../classSliderNote.html#ad8436fc2d48a22216b622eb012ab68cc',1,'SliderNote']]],
+  ['hasstateoverride_5',['HasStateOverride',['../classParrythmInputRuntime.html#ac7908863f99669793ffd28ad776a63ef',1,'ParrythmInputRuntime']]],
+  ['holdexit_6',['HoldExit',['../classParrythmInputActions_1_1IngameGameplayActions.html#a94b6875a0fb86d1dc2ba356f270f6896',1,'ParrythmInputActions::IngameGameplayActions']]]
 ];

@@ -5,5 +5,6 @@ var searchData=
   ['activenotes_2',['ActiveNotes',['../classChartTimelineRuntime.html#aff82d95a91f4fcd1439abd651156362c',1,'ChartTimelineRuntime']]],
   ['anykeydownthisframe_3',['AnyKeyDownThisFrame',['../classKeyboardInputManager.html#a6c117a3a20dc03d44007490a6f28fc09',1,'KeyboardInputManager']]],
   ['appeartime_4',['AppearTime',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a73fa6e228c8af4ae50b671fca6b48f81',1,'Notes::Square::SquareNoteTimeline']]],
-  ['asset_5',['Asset',['../classParrythmInputActions.html#a9eb8c761807c4d8e63cb70599f7f8ef5',1,'ParrythmInputActions']]]
+  ['asset_5',['Asset',['../classParrythmInputActions.html#a9eb8c761807c4d8e63cb70599f7f8ef5',1,'ParrythmInputActions']]],
+  ['averagetimingoffsetms_6',['AverageTimingOffsetMs',['../classJudge.html#a34d3dee99e507ae42735626d01d63053',1,'Judge']]]
 ];

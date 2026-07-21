@@ -145,6 +145,7 @@ var NAVTREEINDEX0 =
 "StyleEventHandler_8cs.html#a061bfdea8217ea83181b2a1c74fdf1ef":[2,0,0,0,1,0,3,2],
 "StyleEventHandler_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e":[2,0,0,0,1,0,3,1],
 "TextExitHoldIndicator_8cs.html":[2,0,0,0,3,0,0],
+"TimingAccuracyPanel_8cs.html":[2,0,0,0,3,1,3],
 "UITrailGraphic_8cs.html":[2,0,0,0,2,9],
 "UnityMusicController_8cs.html":[2,0,0,0,3,19],
 "VoiceEventHandler_8cs.html":[2,0,0,0,1,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX0 =
 "classCanvasSongIntroController.html#a759a76058b09fb33afdcfd52cd7c966d":[1,0,15,5],
 "classCanvasSongIntroController.html#a88a89dbb95af5171305901504c482ee6":[1,0,15,8],
 "classCanvasSongIntroController.html#ac09b4663c8b6a50a22fd196431b7ef0e":[1,0,15,6],
-"classCanvasSongIntroController.html#ac8478f35c56380044204ef174294b177":[1,0,15,9],
-"classCanvasSongIntroController.html#ae5ae2c0672dc49209e65e826ba75ff73":[1,0,15,7]
+"classCanvasSongIntroController.html#ac8478f35c56380044204ef174294b177":[1,0,15,9]
 };

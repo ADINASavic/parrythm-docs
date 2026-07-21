@@ -6,6 +6,8 @@
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="243,133,243,181,237,181,237,133"/>
 <area shape="rect" id="Node000004" href="$classResultsUI.html" title=" " alt="" coords="343,93,427,119"/>
 <area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="355,128,261,183,258,179,353,123"/>
-<area shape="rect" id="Node000005" href="$classJudge.html" title=" " alt="" coords="356,5,415,31"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="388,45,388,93,383,93,383,45"/>
+<area shape="rect" id="Node000005" href="$classJudge.html" title=" " alt="" coords="289,5,348,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="338,40,378,91,374,94,334,43"/>
+<area shape="rect" id="Node000006" href="$classTimingAccuracyPanel.html" title="완성형 정확도 표시기: 타이밍 히스토그램 막대 + FAST/SLOW 카운트. Judge의 통계를 받아 한 번에 갱신한다." alt="" coords="373,5,534,31"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="438,43,397,94,393,91,433,40"/>
 </map>

@@ -34,11 +34,12 @@ var searchData=
   ['domiss_31',['DoMiss',['../classNoteBase.html#ab83244e39ec074fc78d312c22d46bf7b',1,'NoteBase']]],
   ['doperfect_32',['DoPerfect',['../classNoteBase.html#ae16675afc9557b2500201e8e86c56b25',1,'NoteBase']]],
   ['driftgain_33',['driftGain',['../classBackgroundVideoSync.html#a1d91e3f44bb6bee75b55e6ce7ceffee7',1,'BackgroundVideoSync']]],
-  ['duration_34',['duration',['../structSliderNoteInit.html#a353cf7847de3dfec6856fb3e0d68d426',1,'SliderNoteInit.duration'],['../classLevelChartData_1_1NoteEvent.html#af3140be4e45c3599bab1c26ff307350e',1,'LevelChartData.NoteEvent.duration'],['../CanvasSongSelectMenuController_8cs.html#a498686254a0df72319cf3ba449331a8aae02d2ae03de9d493df2b6b2d2813d302',1,'Duration:&#160;CanvasSongSelectMenuController.cs']]],
-  ['durationbeats_35',['durationBeats',['../classLevelChartData_1_1NoteEvent.html#ae43d1a0918da352f5270bfb21dde03bf',1,'LevelChartData::NoteEvent']]],
-  ['durationbeatsoverride_36',['durationBeatsOverride',['../classSliderNote.html#a253e0b1d6b8326a5d22daeaa53ea1e06',1,'SliderNote']]],
-  ['durationoverride_37',['durationOverride',['../classSliderNote.html#a792ea0d1728a8fa5b2a2db6744ebc805',1,'SliderNote']]],
-  ['durationsec_38',['durationSec',['../classSongMeta.html#a7960e0d180debb400d2bb01fc926f78e',1,'SongMeta']]],
-  ['dursec_39',['DurSec',['../classChartTimelineRuntime.html#a50901598716fc4dbc27c8541a7802ec6',1,'ChartTimelineRuntime']]],
-  ['dynamicheight_40',['dynamicHeight',['../classFixed16x9Camera.html#aa684ddd959297010a4b71fcebf5a8eef',1,'Fixed16x9Camera']]]
+  ['dsptimefortimeline_34',['DspTimeForTimeline',['../classUnityMusicController.html#a951253ab40e22f4926fe9916ea8723ad',1,'UnityMusicController']]],
+  ['duration_35',['duration',['../structSliderNoteInit.html#a353cf7847de3dfec6856fb3e0d68d426',1,'SliderNoteInit.duration'],['../classLevelChartData_1_1NoteEvent.html#af3140be4e45c3599bab1c26ff307350e',1,'LevelChartData.NoteEvent.duration'],['../CanvasSongSelectMenuController_8cs.html#a498686254a0df72319cf3ba449331a8aae02d2ae03de9d493df2b6b2d2813d302',1,'Duration:&#160;CanvasSongSelectMenuController.cs']]],
+  ['durationbeats_36',['durationBeats',['../classLevelChartData_1_1NoteEvent.html#ae43d1a0918da352f5270bfb21dde03bf',1,'LevelChartData::NoteEvent']]],
+  ['durationbeatsoverride_37',['durationBeatsOverride',['../classSliderNote.html#a253e0b1d6b8326a5d22daeaa53ea1e06',1,'SliderNote']]],
+  ['durationoverride_38',['durationOverride',['../classSliderNote.html#a792ea0d1728a8fa5b2a2db6744ebc805',1,'SliderNote']]],
+  ['durationsec_39',['durationSec',['../classSongMeta.html#a7960e0d180debb400d2bb01fc926f78e',1,'SongMeta']]],
+  ['dursec_40',['DurSec',['../classChartTimelineRuntime.html#a50901598716fc4dbc27c8541a7802ec6',1,'ChartTimelineRuntime']]],
+  ['dynamicheight_41',['dynamicHeight',['../classFixed16x9Camera.html#aa684ddd959297010a4b71fcebf5a8eef',1,'Fixed16x9Camera']]]
 ];

@@ -1,10 +1,11 @@
 var searchData=
 [
-  ['hasanyheldcell_0',['HasAnyHeldCell',['../classKeyboardInputManager.html#ae2be5984bb0595cfbcf4bad70d7ac597',1,'KeyboardInputManager']]],
-  ['hasfinalized_1',['HasFinalized',['../classSliderNote.html#a1731808032ca6989b465844a647c7e6c',1,'SliderNote']]],
-  ['hasshown_2',['HasShown',['../classChartEndWatcher.html#a4e053e0e8941e5c629909ef41299a84b',1,'ChartEndWatcher']]],
-  ['hassnapshot_3',['HasSnapshot',['../classSettingsCardService.html#a51c78a23c50b1464e9eb97ca258ba7bb',1,'SettingsCardService']]],
-  ['hasstarted_4',['HasStarted',['../classSliderNote.html#ad8436fc2d48a22216b622eb012ab68cc',1,'SliderNote']]],
-  ['hasstateoverride_5',['HasStateOverride',['../classParrythmInputRuntime.html#ac7908863f99669793ffd28ad776a63ef',1,'ParrythmInputRuntime']]],
-  ['holdexit_6',['HoldExit',['../classParrythmInputActions_1_1IngameGameplayActions.html#a94b6875a0fb86d1dc2ba356f270f6896',1,'ParrythmInputActions::IngameGameplayActions']]]
+  ['gameplaysettingspath_0',['GameplaySettingsPath',['../classGameSavePaths.html#a81f65d9b9a23b7a5e47ba64be24df74c',1,'GameSavePaths']]],
+  ['gauge_1',['Gauge',['../classGaugeManager.html#aedac5a6c56f5fba3d55ea4e0e49db048',1,'GaugeManager']]],
+  ['ghostcells_2',['GhostCells',['../classKeyboardInputManager.html#a64f8105b089fb8caaf23aa95cccd1cc3',1,'KeyboardInputManager']]],
+  ['goodcount_3',['GoodCount',['../classJudge.html#abd8a272c7c173eaffd84cadb9c2b73ef',1,'Judge']]],
+  ['goodend_4',['GoodEnd',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a0f9b9f342fafb1b12ffcdf0fbfc2fa12',1,'Notes::Square::SquareNoteTimeline']]],
+  ['goodstart_5',['GoodStart',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#abefe31904bbabb071b0d8ec7445e2efe',1,'Notes::Square::SquareNoteTimeline']]],
+  ['goodwindow_6',['GoodWindow',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#aa29135fe307a70bc1772aac8c193546f',1,'Notes::Square::SquareNoteTimeline']]],
+  ['growspeed_7',['GrowSpeed',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a25e5d13a52134be90340bb0ac775f95c',1,'Notes::Square::SquareNoteTimeline']]]
 ];

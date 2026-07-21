@@ -23,8 +23,9 @@ var searchData=
   ['hideoutsideview_20',['hideOutsideView',['../classUITrailGraphic.html#a33ec290945990a8be7eec06bffd5650b',1,'UITrailGraphic']]],
   ['highscorenamestext_21',['highscoreNamesText',['../classResultsUI.html#a0310eac41b4d2c367303266f0e401c69',1,'ResultsUI']]],
   ['highscorescorestext_22',['highscoreScoresText',['../classResultsUI.html#a20a1373b40d58b1b4573b792d0764201',1,'ResultsUI']]],
-  ['hittime_23',['hitTime',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a6d7fdd6b7b6badb609ced38f47a5766c',1,'Notes::Square::SquareNoteTimeline']]],
-  ['holdexit_24',['HoldExit',['../classParrythmInputActions_1_1IngameGameplayActions.html#a94b6875a0fb86d1dc2ba356f270f6896',1,'ParrythmInputActions::IngameGameplayActions']]],
-  ['holdmoveinterval_25',['holdMoveInterval',['../classCarouselController.html#a9f9c4e5a0968b4b6f9a634e6113a002e',1,'CarouselController']]],
-  ['holdtime_26',['holdTime',['../classCanvasSongIntroController.html#a759a76058b09fb33afdcfd52cd7c966d',1,'CanvasSongIntroController']]]
+  ['histogrambars_23',['histogramBars',['../classTimingAccuracyPanel.html#aa5e8b09967b900a75df9ffe7e10c2a6f',1,'TimingAccuracyPanel']]],
+  ['hittime_24',['hitTime',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a6d7fdd6b7b6badb609ced38f47a5766c',1,'Notes::Square::SquareNoteTimeline']]],
+  ['holdexit_25',['HoldExit',['../classParrythmInputActions_1_1IngameGameplayActions.html#a94b6875a0fb86d1dc2ba356f270f6896',1,'ParrythmInputActions::IngameGameplayActions']]],
+  ['holdmoveinterval_26',['holdMoveInterval',['../classCarouselController.html#a9f9c4e5a0968b4b6f9a634e6113a002e',1,'CarouselController']]],
+  ['holdtime_27',['holdTime',['../classCanvasSongIntroController.html#a759a76058b09fb33afdcfd52cd7c966d',1,'CanvasSongIntroController']]]
 ];
