@@ -1,5 +1,6 @@
 var NAVTREEINDEX6 =
 {
+"classSettingsPage.html#a20ab2a6fed38b8417e91e65dc71f0cc8":[1,0,98,0],
 "classSettingsPage.html#a20cd2028c54b13bb6e3fc529408e1693":[1,0,98,16],
 "classSettingsPage.html#a26370a86510fea6e78e1127ed9e9de3c":[1,0,98,14],
 "classSettingsPage.html#a30a6ad933ef4abf321d65b6de54c3428":[1,0,98,9],
@@ -232,8 +233,8 @@ var NAVTREEINDEX6 =
 "dir_fdc991a7e589e71f22acc2dbedfeffe5.html":[2,0,0,0,5,1],
 "dir_fe283edb510b3a967d72ea2326c506d4.html":[2,0,0,0,9],
 "files.html":[2,0],
-"functions.html":[1,3,0,0],
 "functions.html":[1,3,0],
+"functions.html":[1,3,0,0],
 "functions_b.html":[1,3,0,1],
 "functions_c.html":[1,3,0,2],
 "functions_d.html":[1,3,0,3],
@@ -241,13 +242,12 @@ var NAVTREEINDEX6 =
 "functions_enum.html":[1,3,3],
 "functions_evnt.html":[1,3,5],
 "functions_f.html":[1,3,0,5],
-"functions_func.html":[1,3,1],
 "functions_func.html":[1,3,1,0],
+"functions_func.html":[1,3,1],
 "functions_func_b.html":[1,3,1,1],
 "functions_func_c.html":[1,3,1,2],
 "functions_func_d.html":[1,3,1,3],
 "functions_func_e.html":[1,3,1,4],
 "functions_func_f.html":[1,3,1,5],
-"functions_func_g.html":[1,3,1,6],
-"functions_func_h.html":[1,3,1,7]
+"functions_func_g.html":[1,3,1,6]
 };

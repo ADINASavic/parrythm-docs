@@ -1,12 +1,13 @@
 var NAVTREEINDEX5 =
 {
+"classNotes_1_1Square_1_1SquareVisualTrail.html#a64285f2186a306aa91320615ece1b79a":[0,0,0,1,7,3],
 "classNotes_1_1Square_1_1SquareVisualTrail.html#a64285f2186a306aa91320615ece1b79a":[1,0,0,1,7,3],
 "classNotes_1_1Square_1_1SquareVisualTrail.html#a7257c1763f512fed67ce12a585ec7987":[0,0,0,1,7,0],
 "classNotes_1_1Square_1_1SquareVisualTrail.html#a7257c1763f512fed67ce12a585ec7987":[1,0,0,1,7,0],
 "classNotes_1_1Square_1_1SquareVisualTrail.html#a8306dd11c412b886bee6cc6da107e713":[0,0,0,1,7,2],
 "classNotes_1_1Square_1_1SquareVisualTrail.html#a8306dd11c412b886bee6cc6da107e713":[1,0,0,1,7,2],
-"classNotes_1_1Square_1_1SquareVisualTrail.html#ac79f85c832c2042963c9f451b31c9c3c":[0,0,0,1,7,1],
 "classNotes_1_1Square_1_1SquareVisualTrail.html#ac79f85c832c2042963c9f451b31c9c3c":[1,0,0,1,7,1],
+"classNotes_1_1Square_1_1SquareVisualTrail.html#ac79f85c832c2042963c9f451b31c9c3c":[0,0,0,1,7,1],
 "classParrythmInputActions.html":[1,0,81],
 "classParrythmInputActions.html#a08f958ffbd6940279fb881a3c4e0df81":[1,0,81,8],
 "classParrythmInputActions.html#a355b5043ff3572042a360a2a16c18005":[1,0,81,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX5 =
 "classSettingsPage.html":[1,0,98],
 "classSettingsPage.html#a079107c54c38be043eef9bc427abfd45":[1,0,98,13],
 "classSettingsPage.html#a0c96be581f5af1449541d256757d75c1":[1,0,98,10],
-"classSettingsPage.html#a10b7060a32e6734cdf865abd2724d449":[1,0,98,6],
-"classSettingsPage.html#a20ab2a6fed38b8417e91e65dc71f0cc8":[1,0,98,0]
+"classSettingsPage.html#a10b7060a32e6734cdf865abd2724d449":[1,0,98,6]
 };

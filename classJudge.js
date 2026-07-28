@@ -19,6 +19,7 @@ var classJudge =
     [ "goodCountText", "classJudge.html#a9523441153a987f4a3b3d1b48f9eb555", null ],
     [ "goodGridNoteFMODEvent", "classJudge.html#aec262517e2c7467ec52c0943920c1bec", null ],
     [ "judgeText", "classJudge.html#aab00a51503658fecebfbfdaa8d9811eb", null ],
+    [ "judgeTextAnimator", "classJudge.html#a77e70e0bd7e595a2b272714566a4b436", null ],
     [ "missColor", "classJudge.html#abfa9916846e295536f6693bb907ce86c", null ],
     [ "missCountText", "classJudge.html#a657c0764c52dcdac0694cbbe81c8ec13", null ],
     [ "missNoteFMODEvent", "classJudge.html#ad9a2dbc933fa4b7112c84c55d7ec4512", null ],
