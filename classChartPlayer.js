@@ -27,6 +27,7 @@ var classChartPlayer =
     [ "gapHintTexture", "classChartPlayer.html#ae6f80e500dd862dd00824e8de8ac9cec", null ],
     [ "grid", "classChartPlayer.html#a5e017889d1337179d77f57cc29f1c95a", null ],
     [ "gridManager", "classChartPlayer.html#ae37931e4291211e875267a34231aa039", null ],
+    [ "gridOutline", "classChartPlayer.html#a644e8392ca89851dcdcbab960e77d68e", null ],
     [ "imageCanvas", "classChartPlayer.html#ac2908f19e9aa090d08400c3134783e0a", null ],
     [ "judge", "classChartPlayer.html#ae2ae35616e121a2733965d262df92ce5", null ],
     [ "music", "classChartPlayer.html#a0af6030706b2c97f47af1f40c6eea85b", null ],

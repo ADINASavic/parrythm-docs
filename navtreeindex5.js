@@ -1,5 +1,6 @@
 var NAVTREEINDEX5 =
 {
+"classNotes_1_1Square_1_1SquareVisualTrail.html":[1,0,0,1,7],
 "classNotes_1_1Square_1_1SquareVisualTrail.html#a64285f2186a306aa91320615ece1b79a":[0,0,0,1,7,3],
 "classNotes_1_1Square_1_1SquareVisualTrail.html#a64285f2186a306aa91320615ece1b79a":[1,0,0,1,7,3],
 "classNotes_1_1Square_1_1SquareVisualTrail.html#a7257c1763f512fed67ce12a585ec7987":[0,0,0,1,7,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX5 =
 "classSettingsCarouselController.html#ae341c4efb9c636b5e25bd95898d46484":[1,0,97,5],
 "classSettingsPage.html":[1,0,98],
 "classSettingsPage.html#a079107c54c38be043eef9bc427abfd45":[1,0,98,13],
-"classSettingsPage.html#a0c96be581f5af1449541d256757d75c1":[1,0,98,10],
-"classSettingsPage.html#a10b7060a32e6734cdf865abd2724d449":[1,0,98,6]
+"classSettingsPage.html#a0c96be581f5af1449541d256757d75c1":[1,0,98,10]
 };

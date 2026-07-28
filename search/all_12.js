@@ -204,7 +204,7 @@ var searchData=
   ['steamleaderboardsaveservice_2ecs_201',['SteamLeaderboardSaveService.cs',['../SteamLeaderboardSaveService_8cs.html',1,'']]],
   ['stop_202',['stop',['../classFmodMusicControllerLegacy.html#a8a9d3a0b44282f745424c6aa35ce68c1',1,'FmodMusicControllerLegacy.Stop()'],['../classUnityMusicController.html#ae6dacbca57bf9018059da6881e3d0804',1,'UnityMusicController.Stop()'],['../classChartPlayer.html#acc4e2f903041c22893835afa8eb1c35a',1,'ChartPlayer.Stop()']]],
   ['stopwithfade_203',['StopWithFade',['../classSongPreviewPlayer.html#ae27d87f16e15c176a39954066848a53b',1,'SongPreviewPlayer']]],
-  ['styleeventhandler_204',['styleeventhandler',['../classStyleEventHandler.html#ae82103736d1630655f83222a94cc6c47',1,'StyleEventHandler.StyleEventHandler()'],['../classStyleEventHandler.html',1,'StyleEventHandler']]],
+  ['styleeventhandler_204',['styleeventhandler',['../classStyleEventHandler.html#a4243c5bd3572d370c076a2cded20aebe',1,'StyleEventHandler.StyleEventHandler()'],['../classStyleEventHandler.html',1,'StyleEventHandler']]],
   ['styleeventhandler_2ecs_205',['StyleEventHandler.cs',['../StyleEventHandler_8cs.html',1,'']]],
   ['stylefadesec_206',['StyleFadeSec',['../classChartTimelineRuntime.html#a6b136f7c53d2fd16521ca099328c02fe',1,'ChartTimelineRuntime']]],
   ['styletimesec_207',['StyleTimeSec',['../classChartTimelineRuntime.html#ac97a3ac3f6fd1c149b181766fe54f5a6',1,'ChartTimelineRuntime']]],

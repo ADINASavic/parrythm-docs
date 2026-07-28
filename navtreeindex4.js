@@ -1,5 +1,6 @@
 var NAVTREEINDEX4 =
 {
+"classNotes_1_1Lane_1_1LaneRouter.html#a547b157eb14e5864bc87db6b142bf721":[0,0,0,0,1,0],
 "classNotes_1_1Lane_1_1LaneRouter.html#aa0642eaacc1614ad67034b396923db4c":[1,0,0,0,1,1],
 "classNotes_1_1Lane_1_1LaneRouter.html#aa0642eaacc1614ad67034b396923db4c":[0,0,0,0,1,1],
 "classNotes_1_1Lane_1_1LaneUtil.html":[0,0,0,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX4 =
 "classNotes_1_1Square_1_1SquareVisualNormal.html#a775ec2aa0cd8f24210cedb5421703fd4":[1,0,0,1,6,0],
 "classNotes_1_1Square_1_1SquareVisualNormal.html#aeb99fa8e246bd160b53cae12e4f7ff6b":[1,0,0,1,6,4],
 "classNotes_1_1Square_1_1SquareVisualNormal.html#aeb99fa8e246bd160b53cae12e4f7ff6b":[0,0,0,1,6,4],
-"classNotes_1_1Square_1_1SquareVisualTrail.html":[0,0,0,1,7],
-"classNotes_1_1Square_1_1SquareVisualTrail.html":[1,0,0,1,7]
+"classNotes_1_1Square_1_1SquareVisualTrail.html":[0,0,0,1,7]
 };
