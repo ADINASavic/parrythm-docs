@@ -32,7 +32,6 @@ var searchData=
   ['followringsortingorder_29',['followRingSortingOrder',['../classSliderNoteVisual.html#a291e85370f4b1305c0c7b96c17c62a09',1,'SliderNoteVisual']]],
   ['followringwidthmultiplier_30',['followRingWidthMultiplier',['../classSliderNoteVisual.html#add75179b065b00ee5d0e420acec6db03',1,'SliderNoteVisual']]],
   ['forceconsume_31',['ForceConsume',['../classCircleNote.html#a6bf8c80916f316edb572472080062731',1,'CircleNote']]],
-  ['forcesoftware_32',['forceSoftware',['../classCleanCursor.html#a70173dfaeef40a763c3bd9feb2c64d71',1,'CleanCursor']]],
-  ['fullscreentoggle_33',['fullscreenToggle',['../classSettingsCardViewSettings.html#ab84e2d3f125511d86167270702e55b4f',1,'SettingsCardViewSettings']]],
-  ['fullylocked_34',['FullyLocked',['../classParrythmInputRuntime.html#a2673a675e177e6d950eac0376ed5c2b3a45370579ab48b0d996d9de79a5755cab',1,'ParrythmInputRuntime']]]
+  ['fullscreentoggle_32',['fullscreenToggle',['../classSettingsCardViewSettings.html#ab84e2d3f125511d86167270702e55b4f',1,'SettingsCardViewSettings']]],
+  ['fullylocked_33',['FullyLocked',['../classParrythmInputRuntime.html#a2673a675e177e6d950eac0376ed5c2b3a45370579ab48b0d996d9de79a5755cab',1,'ParrythmInputRuntime']]]
 ];

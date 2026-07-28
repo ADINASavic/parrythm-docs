@@ -182,12 +182,11 @@ var NAVTREEINDEX1 =
 "classCircleTapHandler.html#acf76c2ed302d064569b88c0ad79a085e":[1,0,26,0],
 "classCircleTapHandler.html#af5d53df050b5e11f446a33e4da579619":[1,0,26,2],
 "classCleanCursor.html":[1,0,27],
-"classCleanCursor.html#a11e108e0577ce425fc55a7c0ddc0bfe6":[1,0,27,4],
-"classCleanCursor.html#a28eb48e9467c9df6a590e4f24f030490":[1,0,27,6],
-"classCleanCursor.html#a667a42b41443f06f0eb6cc1f7e4f3e7b":[1,0,27,3],
-"classCleanCursor.html#a70173dfaeef40a763c3bd9feb2c64d71":[1,0,27,1],
-"classCleanCursor.html#aa5826b9d5ad1edf1809d73bd155c01c4":[1,0,27,5],
-"classCleanCursor.html#ad34e7d64e5eadd71f69e344bb1e74123":[1,0,27,2],
+"classCleanCursor.html#a11e108e0577ce425fc55a7c0ddc0bfe6":[1,0,27,3],
+"classCleanCursor.html#a28eb48e9467c9df6a590e4f24f030490":[1,0,27,5],
+"classCleanCursor.html#a667a42b41443f06f0eb6cc1f7e4f3e7b":[1,0,27,2],
+"classCleanCursor.html#aa5826b9d5ad1edf1809d73bd155c01c4":[1,0,27,4],
+"classCleanCursor.html#ad34e7d64e5eadd71f69e344bb1e74123":[1,0,27,1],
 "classCleanCursor.html#ae30543e89c7371d9722fec2e7ea3c43b":[1,0,27,0],
 "classConnectionHintController.html":[1,0,28],
 "classConnectionHintController.html#a0f77dddaa06710d87778fedff003b3c1":[1,0,28,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX1 =
 "classFmodMusicControllerLegacy.html#a78027cad956747123653574014f0643a":[1,0,35,11],
 "classFmodMusicControllerLegacy.html#a87cf0d0b43ec9939116505d0dc2e698a":[1,0,35,7],
 "classFmodMusicControllerLegacy.html#a8a9d3a0b44282f745424c6aa35ce68c1":[1,0,35,3],
-"classFmodMusicControllerLegacy.html#ac7145b7b0bfba747415411e56fa55f3a":[1,0,35,8]
+"classFmodMusicControllerLegacy.html#ac7145b7b0bfba747415411e56fa55f3a":[1,0,35,8],
+"classFmodMusicControllerLegacy.html#ae346d68393d52e3c5780d1334e30fd25":[1,0,35,13]
 };

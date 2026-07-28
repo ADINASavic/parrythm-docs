@@ -25,6 +25,5 @@ var searchData=
   ['followringsegments_22',['followRingSegments',['../classSliderNoteVisual.html#ab4b118c90ef0a9b44675217707056b55',1,'SliderNoteVisual']]],
   ['followringsortingorder_23',['followRingSortingOrder',['../classSliderNoteVisual.html#a291e85370f4b1305c0c7b96c17c62a09',1,'SliderNoteVisual']]],
   ['followringwidthmultiplier_24',['followRingWidthMultiplier',['../classSliderNoteVisual.html#add75179b065b00ee5d0e420acec6db03',1,'SliderNoteVisual']]],
-  ['forcesoftware_25',['forceSoftware',['../classCleanCursor.html#a70173dfaeef40a763c3bd9feb2c64d71',1,'CleanCursor']]],
-  ['fullscreentoggle_26',['fullscreenToggle',['../classSettingsCardViewSettings.html#ab84e2d3f125511d86167270702e55b4f',1,'SettingsCardViewSettings']]]
+  ['fullscreentoggle_25',['fullscreenToggle',['../classSettingsCardViewSettings.html#ab84e2d3f125511d86167270702e55b4f',1,'SettingsCardViewSettings']]]
 ];
