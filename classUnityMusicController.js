@@ -1,8 +1,8 @@
 var classUnityMusicController =
 [
     [ "DspTimeForTimeline", "classUnityMusicController.html#a951253ab40e22f4926fe9916ea8723ad", null ],
-    [ "Play", "classUnityMusicController.html#a9c835ac7546d0fbb73f62c158c1c0a63", null ],
-    [ "PlayWhenReady", "classUnityMusicController.html#a9f361e2ebd6bd6008a1b08aa29c37dee", null ],
+    [ "Play", "classUnityMusicController.html#a8ae6a6b03a6baa008c7b2fa1efa9521d", null ],
+    [ "PlayWhenReady", "classUnityMusicController.html#a5144c68dde8ac25dea1e4096c0ba6989", null ],
     [ "Prepare", "classUnityMusicController.html#a588577caa0a3f580b6bebee997e3db2f", null ],
     [ "Stop", "classUnityMusicController.html#ae6dacbca57bf9018059da6881e3d0804", null ],
     [ "TogglePause", "classUnityMusicController.html#a0b7a18f0786365d7a63c10779a1c4863", null ],
