@@ -44,7 +44,6 @@ var searchData=
   ['rightclick_41',['RightClick',['../classParrythmInputActions_1_1UIActions.html#a2cb5e15f9556590d5eff209cfcdfaf7b',1,'ParrythmInputActions::UIActions']]],
   ['root_42',['root',['../classDifficultyStrip.html#a827803598b38757f65ad66c54b949cb5',1,'DifficultyStrip']]],
   ['rootdirectory_43',['RootDirectory',['../classGameSavePaths.html#a7b76aeece8f414d088067f1664762cd2',1,'GameSavePaths']]],
-  ['roundcaps_44',['roundCaps',['../classUITrailGraphic.html#a5fff1698baff1adff759249f2185ba92',1,'UITrailGraphic']]],
-  ['router_45',['router',['../classNoteBase.html#afe6e6bbc9b77e5c80eaaeb5c48c4a35c',1,'NoteBase']]],
-  ['rows_46',['rows',['../classGridManager.html#a7a965b828e1b175ffd9151629ea50e2a',1,'GridManager']]]
+  ['router_44',['router',['../classNoteBase.html#afe6e6bbc9b77e5c80eaaeb5c48c4a35c',1,'NoteBase']]],
+  ['rows_45',['rows',['../classGridManager.html#a7a965b828e1b175ffd9151629ea50e2a',1,'GridManager']]]
 ];

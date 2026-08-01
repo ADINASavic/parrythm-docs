@@ -13,7 +13,6 @@ var searchData=
   ['resumebutton_10',['resumeButton',['../classTextExitHoldIndicator.html#a7b56e2df48fb6e7a8ef5eae44fbb4561',1,'TextExitHoldIndicator']]],
   ['retrybutton_11',['retryButton',['../classTextExitHoldIndicator.html#ae3731e4fd0322034d77fe7bbc7f3055b',1,'TextExitHoldIndicator']]],
   ['root_12',['root',['../classDifficultyStrip.html#a827803598b38757f65ad66c54b949cb5',1,'DifficultyStrip']]],
-  ['roundcaps_13',['roundCaps',['../classUITrailGraphic.html#a5fff1698baff1adff759249f2185ba92',1,'UITrailGraphic']]],
-  ['router_14',['router',['../classNoteBase.html#afe6e6bbc9b77e5c80eaaeb5c48c4a35c',1,'NoteBase']]],
-  ['rows_15',['rows',['../classGridManager.html#a7a965b828e1b175ffd9151629ea50e2a',1,'GridManager']]]
+  ['router_13',['router',['../classNoteBase.html#afe6e6bbc9b77e5c80eaaeb5c48c4a35c',1,'NoteBase']]],
+  ['rows_14',['rows',['../classGridManager.html#a7a965b828e1b175ffd9151629ea50e2a',1,'GridManager']]]
 ];
