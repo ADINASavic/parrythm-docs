@@ -10,5 +10,6 @@ var classNoteBase =
     [ "router", "classNoteBase.html#afe6e6bbc9b77e5c80eaaeb5c48c4a35c", null ],
     [ "settings", "classNoteBase.html#a2fe009f8dd4753dd91b947f8636d7c5d", null ],
     [ "IsJudged", "classNoteBase.html#a29449bad359a0f237b94efbe10a6e537", null ],
-    [ "Now", "classNoteBase.html#af57233755e6e736cb287f98619409b70", null ]
+    [ "Now", "classNoteBase.html#af57233755e6e736cb287f98619409b70", null ],
+    [ "VisualNow", "classNoteBase.html#a1d408919ea19f154e23c9ca4a7806ec6", null ]
 ];

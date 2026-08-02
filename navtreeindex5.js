@@ -1,16 +1,19 @@
 var NAVTREEINDEX5 =
 {
+"classNotes_1_1Square_1_1SquareVisualNormal.html#a775ec2aa0cd8f24210cedb5421703fd4":[0,0,0,1,6,0],
+"classNotes_1_1Square_1_1SquareVisualNormal.html#a775ec2aa0cd8f24210cedb5421703fd4":[1,0,0,1,6,0],
+"classNotes_1_1Square_1_1SquareVisualNormal.html#aeb99fa8e246bd160b53cae12e4f7ff6b":[0,0,0,1,6,4],
 "classNotes_1_1Square_1_1SquareVisualNormal.html#aeb99fa8e246bd160b53cae12e4f7ff6b":[1,0,0,1,6,4],
-"classNotes_1_1Square_1_1SquareVisualTrail.html":[0,0,0,1,7],
 "classNotes_1_1Square_1_1SquareVisualTrail.html":[1,0,0,1,7],
-"classNotes_1_1Square_1_1SquareVisualTrail.html#a64285f2186a306aa91320615ece1b79a":[1,0,0,1,7,3],
+"classNotes_1_1Square_1_1SquareVisualTrail.html":[0,0,0,1,7],
 "classNotes_1_1Square_1_1SquareVisualTrail.html#a64285f2186a306aa91320615ece1b79a":[0,0,0,1,7,3],
+"classNotes_1_1Square_1_1SquareVisualTrail.html#a64285f2186a306aa91320615ece1b79a":[1,0,0,1,7,3],
 "classNotes_1_1Square_1_1SquareVisualTrail.html#a7257c1763f512fed67ce12a585ec7987":[0,0,0,1,7,0],
 "classNotes_1_1Square_1_1SquareVisualTrail.html#a7257c1763f512fed67ce12a585ec7987":[1,0,0,1,7,0],
 "classNotes_1_1Square_1_1SquareVisualTrail.html#a8306dd11c412b886bee6cc6da107e713":[0,0,0,1,7,2],
 "classNotes_1_1Square_1_1SquareVisualTrail.html#a8306dd11c412b886bee6cc6da107e713":[1,0,0,1,7,2],
-"classNotes_1_1Square_1_1SquareVisualTrail.html#ac79f85c832c2042963c9f451b31c9c3c":[0,0,0,1,7,1],
 "classNotes_1_1Square_1_1SquareVisualTrail.html#ac79f85c832c2042963c9f451b31c9c3c":[1,0,0,1,7,1],
+"classNotes_1_1Square_1_1SquareVisualTrail.html#ac79f85c832c2042963c9f451b31c9c3c":[0,0,0,1,7,1],
 "classParrythmInputActions.html":[1,0,81],
 "classParrythmInputActions.html#a08f958ffbd6940279fb881a3c4e0df81":[1,0,81,8],
 "classParrythmInputActions.html#a355b5043ff3572042a360a2a16c18005":[1,0,81,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX5 =
 "classSettingsCarouselController.html#aa222e06c508cd5f94f9768dd745d1925":[1,0,97,14],
 "classSettingsCarouselController.html#aa57901cd8adf522b02fd0a78292a6bfc":[1,0,97,3],
 "classSettingsCarouselController.html#aa725942b05f6c895d8a10aff968b8d7a":[1,0,97,0],
-"classSettingsCarouselController.html#abf33c85ed262918cc91b68c96bea65d2":[1,0,97,12],
-"classSettingsCarouselController.html#ac682f42cf88e9db2f180b45479013a85":[1,0,97,6],
-"classSettingsCarouselController.html#ae341c4efb9c636b5e25bd95898d46484":[1,0,97,5],
-"classSettingsPage.html":[1,0,98]
+"classSettingsCarouselController.html#abf33c85ed262918cc91b68c96bea65d2":[1,0,97,12]
 };

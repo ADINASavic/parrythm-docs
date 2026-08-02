@@ -17,10 +17,11 @@ var searchData=
   ['dockpos_14',['dockPos',['../classBulletNote.html#a915ce84157a52c8fe9b6be6dd97d7141',1,'BulletNote']]],
   ['docktodespawnduration_15',['dockToDespawnDuration',['../classBulletNote.html#a0b76528e5236fb90cf70c476b2e7fae7',1,'BulletNote']]],
   ['driftgain_16',['driftGain',['../classBackgroundVideoSync.html#a1d91e3f44bb6bee75b55e6ce7ceffee7',1,'BackgroundVideoSync']]],
-  ['duration_17',['duration',['../structSliderNoteInit.html#a353cf7847de3dfec6856fb3e0d68d426',1,'SliderNoteInit.duration'],['../classLevelChartData_1_1NoteEvent.html#af3140be4e45c3599bab1c26ff307350e',1,'LevelChartData.NoteEvent.duration']]],
-  ['durationbeats_18',['durationBeats',['../classLevelChartData_1_1NoteEvent.html#ae43d1a0918da352f5270bfb21dde03bf',1,'LevelChartData::NoteEvent']]],
-  ['durationbeatsoverride_19',['durationBeatsOverride',['../classSliderNote.html#a253e0b1d6b8326a5d22daeaa53ea1e06',1,'SliderNote']]],
-  ['durationoverride_20',['durationOverride',['../classSliderNote.html#a792ea0d1728a8fa5b2a2db6744ebc805',1,'SliderNote']]],
-  ['durationsec_21',['durationSec',['../classSongMeta.html#a7960e0d180debb400d2bb01fc926f78e',1,'SongMeta']]],
-  ['dynamicheight_22',['dynamicHeight',['../classFixed16x9Camera.html#aa684ddd959297010a4b71fcebf5a8eef',1,'Fixed16x9Camera']]]
+  ['driftrecoveryhalflifesec_17',['driftRecoveryHalfLifeSec',['../classUnityMusicController.html#a6188e6a146eec079771015747a111dae',1,'UnityMusicController']]],
+  ['duration_18',['duration',['../structSliderNoteInit.html#a353cf7847de3dfec6856fb3e0d68d426',1,'SliderNoteInit.duration'],['../classLevelChartData_1_1NoteEvent.html#af3140be4e45c3599bab1c26ff307350e',1,'LevelChartData.NoteEvent.duration']]],
+  ['durationbeats_19',['durationBeats',['../classLevelChartData_1_1NoteEvent.html#ae43d1a0918da352f5270bfb21dde03bf',1,'LevelChartData::NoteEvent']]],
+  ['durationbeatsoverride_20',['durationBeatsOverride',['../classSliderNote.html#a253e0b1d6b8326a5d22daeaa53ea1e06',1,'SliderNote']]],
+  ['durationoverride_21',['durationOverride',['../classSliderNote.html#a792ea0d1728a8fa5b2a2db6744ebc805',1,'SliderNote']]],
+  ['durationsec_22',['durationSec',['../classSongMeta.html#a7960e0d180debb400d2bb01fc926f78e',1,'SongMeta']]],
+  ['dynamicheight_23',['dynamicHeight',['../classFixed16x9Camera.html#aa684ddd959297010a4b71fcebf5a8eef',1,'Fixed16x9Camera']]]
 ];

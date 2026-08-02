@@ -9,10 +9,13 @@ var classUnityMusicController =
     [ "audioFilePath", "classUnityMusicController.html#a80db67c13d1ef1043697e3ab09b25a6a", null ],
     [ "audioSource", "classUnityMusicController.html#a3f114f47e64e92f48fba37ca7bb00467", null ],
     [ "countInEvent", "classUnityMusicController.html#a868a13f29ed6ca69242d4f74d5f7a77f", null ],
+    [ "driftRecoveryHalfLifeSec", "classUnityMusicController.html#a6188e6a146eec079771015747a111dae", null ],
+    [ "resyncThresholdSec", "classUnityMusicController.html#a40eb86ff8782fc4cbe058aa7ab3dd33f", null ],
     [ "video", "classUnityMusicController.html#ace6168d618fa0dde7a25af1df09ea64e", null ],
     [ "IsPaused", "classUnityMusicController.html#a6062133478dec7591b7cbc96e602bad8", null ],
     [ "IsPlaying", "classUnityMusicController.html#aa2a731c0fe84696e60824951bff2570f", null ],
     [ "IsReady", "classUnityMusicController.html#add151777659ada410522e0eaef62a832", null ],
     [ "Now", "classUnityMusicController.html#adc60de8db1965171d75482025ab9a319", null ],
-    [ "TimelineSeconds", "classUnityMusicController.html#aaf38b8246c053dc0fd682874d1b27e19", null ]
+    [ "TimelineSeconds", "classUnityMusicController.html#aaf38b8246c053dc0fd682874d1b27e19", null ],
+    [ "VisualNow", "classUnityMusicController.html#a7e49f6910c2cea419bfe4968be09502e", null ]
 ];

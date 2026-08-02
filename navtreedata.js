@@ -63,9 +63,9 @@ var NAVTREEINDEX =
 "classFmodMusicControllerLegacy.html#a8a9d3a0b44282f745424c6aa35ce68c1",
 "classLevelChartData_1_1NoteEvent.html#a8da3ded8d133ed4f61f463c8aa3c5097",
 "classNotes_1_1Lane_1_1LaneRouter.html",
-"classNotes_1_1Square_1_1SquareVisualNormal.html#aeb99fa8e246bd160b53cae12e4f7ff6b",
-"classSettingsPage.html#a079107c54c38be043eef9bc427abfd45",
-"functions_func_g.html"
+"classNotes_1_1Square_1_1SquareVisualNormal.html#a775ec2aa0cd8f24210cedb5421703fd4",
+"classSettingsCarouselController.html#ac682f42cf88e9db2f180b45479013a85",
+"functions_func.html"
 ];
 
 var SYNCONMSG = '패널 동기화를 비활성화하기 위해 클릭하십시오';

@@ -11,8 +11,9 @@ var searchData=
   ['resultnavigationbar_8',['resultNavigationBar',['../classResultsUI.html#ac1a3d7aacfd8edafe14ddf337fc63376',1,'ResultsUI']]],
   ['resultsui_9',['resultsui',['../classChartEndWatcher.html#abf3f06dd69ccbd0e16a3fee644f8f394',1,'ChartEndWatcher.resultsUI'],['../classGameBootstrap.html#a018a5f7a1f5c0fa949aedca1ac46b51c',1,'GameBootstrap.resultsUI']]],
   ['resumebutton_10',['resumeButton',['../classTextExitHoldIndicator.html#a7b56e2df48fb6e7a8ef5eae44fbb4561',1,'TextExitHoldIndicator']]],
-  ['retrybutton_11',['retryButton',['../classTextExitHoldIndicator.html#ae3731e4fd0322034d77fe7bbc7f3055b',1,'TextExitHoldIndicator']]],
-  ['root_12',['root',['../classDifficultyStrip.html#a827803598b38757f65ad66c54b949cb5',1,'DifficultyStrip']]],
-  ['router_13',['router',['../classNoteBase.html#afe6e6bbc9b77e5c80eaaeb5c48c4a35c',1,'NoteBase']]],
-  ['rows_14',['rows',['../classGridManager.html#a7a965b828e1b175ffd9151629ea50e2a',1,'GridManager']]]
+  ['resyncthresholdsec_11',['resyncThresholdSec',['../classUnityMusicController.html#a40eb86ff8782fc4cbe058aa7ab3dd33f',1,'UnityMusicController']]],
+  ['retrybutton_12',['retryButton',['../classTextExitHoldIndicator.html#ae3731e4fd0322034d77fe7bbc7f3055b',1,'TextExitHoldIndicator']]],
+  ['root_13',['root',['../classDifficultyStrip.html#a827803598b38757f65ad66c54b949cb5',1,'DifficultyStrip']]],
+  ['router_14',['router',['../classNoteBase.html#afe6e6bbc9b77e5c80eaaeb5c48c4a35c',1,'NoteBase']]],
+  ['rows_15',['rows',['../classGridManager.html#a7a965b828e1b175ffd9151629ea50e2a',1,'GridManager']]]
 ];
