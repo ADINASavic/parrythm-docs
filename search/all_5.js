@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['facingaxis_0',['facingaxis',['../classBulletNote.html#a3b431a481454b6beb677b0b1c9323290',1,'BulletNote.facingAxis'],['../classBulletNote.html#a34dae04d2d7cf44ab823c5b2ac55b83b',1,'BulletNote.FacingAxis']]],
+  ['facingaxis_0',['facingaxis',['../classBulletNote.html#a34dae04d2d7cf44ab823c5b2ac55b83b',1,'BulletNote.FacingAxis'],['../classBulletNote.html#a3b431a481454b6beb677b0b1c9323290',1,'BulletNote.facingAxis']]],
   ['fadebeat_1',['fadeBeat',['../classLevelChartData_1_1NoteEvent.html#a169b2f37109554a9d33ca9c0c61ff20f',1,'LevelChartData::NoteEvent']]],
   ['fadeduration_2',['fadeDuration',['../classCanvasGameIntroController.html#a106d8c1118939064d85053ab6600d264',1,'CanvasGameIntroController']]],
   ['fadeinbeat_3',['fadeInBeat',['../classLevelChartData_1_1NoteEvent.html#ac73edd2545125945c45fe08b3505230d',1,'LevelChartData::NoteEvent']]],

@@ -1,5 +1,8 @@
 var NAVTREEINDEX1 =
 {
+"classCanvasSongIntroController.html#a88a89dbb95af5171305901504c482ee6":[1,0,15,8],
+"classCanvasSongIntroController.html#ac09b4663c8b6a50a22fd196431b7ef0e":[1,0,15,6],
+"classCanvasSongIntroController.html#ac8478f35c56380044204ef174294b177":[1,0,15,9],
 "classCanvasSongIntroController.html#ae5ae2c0672dc49209e65e826ba75ff73":[1,0,15,7],
 "classCanvasSongIntroController.html#af26b4f7bdfd866ab4f337bc3a07efb27":[1,0,15,1],
 "classCanvasSongIntroController.html#af891f8da446a43b654eb4d59aa0836bb":[1,0,15,3],
@@ -151,8 +154,9 @@ var NAVTREEINDEX1 =
 "classCircleNote.html#a67c48881bf1d9a1a89873984334f3a1b":[1,0,23,2],
 "classCircleNote.html#a69551afaf1d55c38325f04ab76bf97d4":[1,0,23,11],
 "classCircleNote.html#a6bf8c80916f316edb572472080062731":[1,0,23,3],
-"classCircleNote.html#a7db101b71b462279c83eabee4171fa3d":[1,0,23,16],
+"classCircleNote.html#a7db101b71b462279c83eabee4171fa3d":[1,0,23,17],
 "classCircleNote.html#a84d79ff3ca0da85b258354b407e8ac3d":[1,0,23,12],
+"classCircleNote.html#a86c9eefb503818d0f27c824bd078b670":[1,0,23,15],
 "classCircleNote.html#a9fb6f046faa002caa24903cf1d0bfb68":[1,0,23,7],
 "classCircleNote.html#aafe3575b4b92e7d7fc59edf676661fc6":[1,0,23,0],
 "classCircleNote.html#ab00ba6a2b08806b61badfbadad0160b0":[1,0,23,9],
@@ -160,7 +164,7 @@ var NAVTREEINDEX1 =
 "classCircleNote.html#ab85d3df48d4361c84e8d8c99005dfdf2":[1,0,23,8],
 "classCircleNote.html#ad120b8f8d1f1648de9171aae4f4f7bdf":[1,0,23,6],
 "classCircleNote.html#ae6f0000eb77950b5f062f80743159c81":[1,0,23,1],
-"classCircleNote.html#aebf93f5101c71e6b5817c652fa34ab02":[1,0,23,15],
+"classCircleNote.html#aebf93f5101c71e6b5817c652fa34ab02":[1,0,23,16],
 "classCircleNoteVisual.html":[1,0,25],
 "classCircleNoteVisual.html#a005e9f8310aafdeb9152ab5150a08644":[1,0,25,0],
 "classCircleNoteVisual.html#a036bd04bdad4c5448796b79ddd7876a7":[1,0,25,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX1 =
 "classFixed16x9Camera.html#aeb03b197a913da49c5d676ef8498339d":[1,0,35,10],
 "classFixed16x9Camera.html#aed7a7c59e3434a55d67c0548c1aef6f4":[1,0,35,6],
 "classFmodMusicControllerLegacy.html":[1,0,36],
-"classFmodMusicControllerLegacy.html#a07d1e2fedfae77b1183b91f913f514a9":[1,0,36,5],
-"classFmodMusicControllerLegacy.html#a243e629ff2b65e9839dcfe0ac2d172c0":[1,0,36,12],
-"classFmodMusicControllerLegacy.html#a3168d6c802bc5786e6c5f152e3ce8357":[1,0,36,1],
-"classFmodMusicControllerLegacy.html#a4818a566e9d59e61e0656c96b6589383":[1,0,36,9],
-"classFmodMusicControllerLegacy.html#a5f16328aef14c7d6bd83c3dad6483950":[1,0,36,10]
+"classFmodMusicControllerLegacy.html#a07d1e2fedfae77b1183b91f913f514a9":[1,0,36,5]
 };

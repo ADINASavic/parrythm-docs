@@ -154,7 +154,10 @@ var NAVTREEINDEX0 =
 "VoiceEventHandler_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e":[2,0,0,0,1,0,4,1],
 "annotated.html":[1,0],
 "classAnimatedCharacterController.html":[1,0,1],
-"classAnimatedCharacterController.html#ad8685e1abd86d248bf20436754a383fb":[1,0,1,0],
+"classAnimatedCharacterController.html#a8dfd1840c64665d7e876a90602c99f2b":[1,0,1,0],
+"classAnimatedCharacterController.html#ab13153f46ba329ffa9d8fbcb68bc8d06":[1,0,1,1],
+"classAnimatedCharacterController.html#ad8685e1abd86d248bf20436754a383fb":[1,0,1,3],
+"classAnimatedCharacterController.html#ae2601a71af212f39bf0315d44f6740c5":[1,0,1,2],
 "classAnimatedCharacterPicker.html":[1,0,2],
 "classAnimatedCharacterPicker.html#a2e3e81852b260c4e1b828be1ce27010d":[1,0,2,1],
 "classAnimatedCharacterPicker.html#a9732a0f9e411f2d277f7d539657d60c6":[1,0,2,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX0 =
 "classCanvasSongIntroController.html":[1,0,15],
 "classCanvasSongIntroController.html#a14caafb94ff8a5b33a8496c6800e9c8c":[1,0,15,0],
 "classCanvasSongIntroController.html#a755578196ea6f6b117cf1bb123f903ba":[1,0,15,4],
-"classCanvasSongIntroController.html#a759a76058b09fb33afdcfd52cd7c966d":[1,0,15,5],
-"classCanvasSongIntroController.html#a88a89dbb95af5171305901504c482ee6":[1,0,15,8],
-"classCanvasSongIntroController.html#ac09b4663c8b6a50a22fd196431b7ef0e":[1,0,15,6],
-"classCanvasSongIntroController.html#ac8478f35c56380044204ef174294b177":[1,0,15,9]
+"classCanvasSongIntroController.html#a759a76058b09fb33afdcfd52cd7c966d":[1,0,15,5]
 };
