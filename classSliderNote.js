@@ -11,7 +11,6 @@ var classSliderNote =
     [ "ActiveSliders", "classSliderNote.html#a8e655bca0a2bf28435efede4f4ca0049", null ],
     [ "bulletRadiusScale", "classSliderNote.html#ab13871970a8ee9dc289271aa7710ebb7", null ],
     [ "curved", "classSliderNote.html#a8cf51f3315a9078596e9b46f9c3aabee", null ],
-    [ "curveSamplesPerSegment", "classSliderNote.html#a9ac506a420c0940b9f1ed87797ce7003", null ],
     [ "debugHeadColor", "classSliderNote.html#a481be6dcbef84153db60b03fd6fb8e6e", null ],
     [ "debugPathColor", "classSliderNote.html#a65a7d942f7a6f5f893dd3dbbf7e2cc18", null ],
     [ "debugRuntimeVisuals", "classSliderNote.html#a2b15a1e36341fbea6d0891d8e0d1492d", null ],

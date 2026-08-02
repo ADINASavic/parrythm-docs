@@ -45,6 +45,7 @@ var annotated_dup =
     [ "CircleTapHandler", "classCircleTapHandler.html", "classCircleTapHandler" ],
     [ "CleanCursor", "classCleanCursor.html", "classCleanCursor" ],
     [ "ConnectionHintController", "classConnectionHintController.html", "classConnectionHintController" ],
+    [ "CurveUtil", "classCurveUtil.html", "classCurveUtil" ],
     [ "DifficultyBlock", "classDifficultyBlock.html", "classDifficultyBlock" ],
     [ "DifficultyColorPalette", "classDifficultyColorPalette.html", "classDifficultyColorPalette" ],
     [ "DifficultyInfo", "classDifficultyInfo.html", "classDifficultyInfo" ],

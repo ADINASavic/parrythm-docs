@@ -191,9 +191,6 @@ Public 속성</h2></td></tr>
 <tr class="memitem:a8cf51f3315a9078596e9b46f9c3aabee" id="r_a8cf51f3315a9078596e9b46f9c3aabee"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#a8cf51f3315a9078596e9b46f9c3aabee">curved</a></td></tr>
 <tr class="memdesc:a8cf51f3315a9078596e9b46f9c3aabee"><td class="mdescLeft">&#160;</td><td class="mdescRight">Smooths the authored path with Catmull-Rom interpolation before runtime sampling.  <br /></td></tr>
 <tr class="separator:a8cf51f3315a9078596e9b46f9c3aabee"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9ac506a420c0940b9f1ed87797ce7003" id="r_a9ac506a420c0940b9f1ed87797ce7003"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#a9ac506a420c0940b9f1ed87797ce7003">curveSamplesPerSegment</a> = 16</td></tr>
-<tr class="memdesc:a9ac506a420c0940b9f1ed87797ce7003"><td class="mdescLeft">&#160;</td><td class="mdescRight">Number of interpolation samples generated per authored segment when <a class="el" href="classSliderNote.html#a8cf51f3315a9078596e9b46f9c3aabee" title="Smooths the authored path with Catmull-Rom interpolation before runtime sampling.">curved</a> is enabled.  <br /></td></tr>
-<tr class="separator:a9ac506a420c0940b9f1ed87797ce7003"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab13871970a8ee9dc289271aa7710ebb7" id="r_ab13871970a8ee9dc289271aa7710ebb7"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSliderNote.html#ab13871970a8ee9dc289271aa7710ebb7">bulletRadiusScale</a> = 1.0f</td></tr>
 <tr class="memdesc:ab13871970a8ee9dc289271aa7710ebb7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Scales the effective slider tube radius used for bullet overlap checks.  <br /></td></tr>
 <tr class="separator:ab13871970a8ee9dc289271aa7710ebb7"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -545,6 +542,18 @@ Public 속성</h2></td></tr>
 
 <p>Rebuilds the playable path, optionally smoothing the authored points first when curve mode is enabled. </p>
 <div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classSliderNote_ac8ba1caf52141955e8816a21a64e6762_cgraph.png" border="0" usemap="#aclassSliderNote_ac8ba1caf52141955e8816a21a64e6762_cgraph" alt=""/></div>
+<map name="aclassSliderNote_ac8ba1caf52141955e8816a21a64e6762_cgraph" id="aclassSliderNote_ac8ba1caf52141955e8816a21a64e6762_cgraph">
+<area shape="rect" title="Rebuilds the playable path, optionally smoothing the authored points first when curve mode is enabled..." alt="" coords="5,5,241,31"/>
+<area shape="rect" href="classCurveUtil.html#aa69c8df4170d292d0ec7fc4b1e8cf4d3" title="점들을 지나는 경로 생성기" alt="" coords="289,5,437,31"/>
+<area shape="poly" title=" " alt="" coords="242,15,275,15,275,21,242,21"/>
+<area shape="rect" href="classCurveUtil.html#a43eb1a14abe88b0192ea00843ca59322" title=" " alt="" coords="485,5,653,31"/>
+<area shape="poly" title=" " alt="" coords="438,15,472,15,472,21,438,21"/>
+</map>
+</div>
+<div class="dynheader">
 이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
 <div class="dyncontent">
 <div class="center"><img src="classSliderNote_ac8ba1caf52141955e8816a21a64e6762_icgraph.png" border="0" usemap="#aclassSliderNote_ac8ba1caf52141955e8816a21a64e6762_icgraph" alt=""/></div>
@@ -600,6 +609,10 @@ Public 속성</h2></td></tr>
 <area shape="rect" title="Replaces the authored world&#45;space path and rebuilds all runtime geometry derived from it." alt="" coords="5,5,213,31"/>
 <area shape="rect" href="classSliderNote.html#ac8ba1caf52141955e8816a21a64e6762" title="Rebuilds the playable path, optionally smoothing the authored points first when curve mode is enabled..." alt="" coords="261,5,497,31"/>
 <area shape="poly" title=" " alt="" coords="214,15,248,15,248,21,214,21"/>
+<area shape="rect" href="classCurveUtil.html#aa69c8df4170d292d0ec7fc4b1e8cf4d3" title="점들을 지나는 경로 생성기" alt="" coords="545,5,693,31"/>
+<area shape="poly" title=" " alt="" coords="498,15,531,15,531,21,498,21"/>
+<area shape="rect" href="classCurveUtil.html#a43eb1a14abe88b0192ea00843ca59322" title=" " alt="" coords="741,5,909,31"/>
+<area shape="poly" title=" " alt="" coords="694,15,728,15,728,21,694,21"/>
 </map>
 </div>
 <div class="dynheader">
@@ -741,22 +754,6 @@ Public 속성</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Smooths the authored path with Catmull-Rom interpolation before runtime sampling. </p>
-
-</div>
-</div>
-<a id="a9ac506a420c0940b9f1ed87797ce7003" name="a9ac506a420c0940b9f1ed87797ce7003"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9ac506a420c0940b9f1ed87797ce7003">&#9670;&#160;</a></span>curveSamplesPerSegment</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">int SliderNote.curveSamplesPerSegment = 16</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Number of interpolation samples generated per authored segment when <a class="el" href="classSliderNote.html#a8cf51f3315a9078596e9b46f9c3aabee" title="Smooths the authored path with Catmull-Rom interpolation before runtime sampling.">curved</a> is enabled. </p>
 
 </div>
 </div>

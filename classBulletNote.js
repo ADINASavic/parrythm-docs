@@ -9,7 +9,6 @@ var classBulletNote =
     [ "bossTarget", "classBulletNote.html#ac33c9877f0f0f07d6a0c476091ede349", null ],
     [ "clock", "classBulletNote.html#ac052daa2570b839bd617bca05c3bfa8f", null ],
     [ "curved", "classBulletNote.html#a7875e856832cc9b6ad01b6644200487e", null ],
-    [ "curveSamples", "classBulletNote.html#a3d9f37e5551c86578ef37a95b905a97c", null ],
     [ "despawnPos", "classBulletNote.html#a880aeda157ceea977c970aee8fa46518", null ],
     [ "dockPos", "classBulletNote.html#a915ce84157a52c8fe9b6be6dd97d7141", null ],
     [ "dockToDespawnDuration", "classBulletNote.html#a0b76528e5236fb90cf70c476b2e7fae7", null ],

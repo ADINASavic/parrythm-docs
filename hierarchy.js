@@ -5,6 +5,7 @@ var hierarchy =
     [ "ChartHashUtility", "classChartHashUtility.html", null ],
     [ "ChartTimelineRuntime", "classChartTimelineRuntime.html", null ],
     [ "CircleNoteInit", "structCircleNoteInit.html", null ],
+    [ "CurveUtil", "classCurveUtil.html", null ],
     [ "DifficultyColorPalette", "classDifficultyColorPalette.html", null ],
     [ "DifficultyInfo", "classDifficultyInfo.html", null ],
     [ "EaseUtil", "classEaseUtil.html", null ],

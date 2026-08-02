@@ -16,5 +16,6 @@ var searchData=
   ['circlenotevisual_13',['CircleNoteVisual',['../classCircleNoteVisual.html',1,'']]],
   ['circletaphandler_14',['CircleTapHandler',['../classCircleTapHandler.html',1,'']]],
   ['cleancursor_15',['CleanCursor',['../classCleanCursor.html',1,'']]],
-  ['connectionhintcontroller_16',['ConnectionHintController',['../classConnectionHintController.html',1,'']]]
+  ['connectionhintcontroller_16',['ConnectionHintController',['../classConnectionHintController.html',1,'']]],
+  ['curveutil_17',['CurveUtil',['../classCurveUtil.html',1,'']]]
 ];
