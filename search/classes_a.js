@@ -8,11 +8,12 @@ var searchData=
   ['leaderboardserviceprovider_5',['LeaderboardServiceProvider',['../classLeaderboardServiceProvider.html',1,'']]],
   ['levelchartdata_6',['LevelChartData',['../classLevelChartData.html',1,'']]],
   ['levelchartjsontool_7',['LevelChartJsonTool',['../classLevelChartJsonTool.html',1,'']]],
-  ['localleaderboardsavedata_8',['LocalLeaderboardSaveData',['../classLocalLeaderboardSaveData.html',1,'']]],
-  ['localleaderboardsaveservice_9',['LocalLeaderboardSaveService',['../classLocalLeaderboardSaveService.html',1,'']]],
-  ['localscorerecord_10',['LocalScoreRecord',['../classLocalScoreRecord.html',1,'']]],
-  ['localscoresavedata_11',['LocalScoreSaveData',['../classLocalScoreSaveData.html',1,'']]],
-  ['localscoresaveservice_12',['LocalScoreSaveService',['../classLocalScoreSaveService.html',1,'']]],
-  ['localsettingssavestorage_13',['LocalSettingsSaveStorage',['../classLocalSettingsSaveStorage.html',1,'']]],
-  ['longnotehandler_14',['LongNoteHandler',['../classLongNoteHandler.html',1,'']]]
+  ['localizationhelper_8',['LocalizationHelper',['../classLocalizationHelper.html',1,'']]],
+  ['localleaderboardsavedata_9',['LocalLeaderboardSaveData',['../classLocalLeaderboardSaveData.html',1,'']]],
+  ['localleaderboardsaveservice_10',['LocalLeaderboardSaveService',['../classLocalLeaderboardSaveService.html',1,'']]],
+  ['localscorerecord_11',['LocalScoreRecord',['../classLocalScoreRecord.html',1,'']]],
+  ['localscoresavedata_12',['LocalScoreSaveData',['../classLocalScoreSaveData.html',1,'']]],
+  ['localscoresaveservice_13',['LocalScoreSaveService',['../classLocalScoreSaveService.html',1,'']]],
+  ['localsettingssavestorage_14',['LocalSettingsSaveStorage',['../classLocalSettingsSaveStorage.html',1,'']]],
+  ['longnotehandler_15',['LongNoteHandler',['../classLongNoteHandler.html',1,'']]]
 ];

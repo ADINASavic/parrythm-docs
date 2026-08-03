@@ -81,6 +81,7 @@ var annotated_dup =
     [ "LeaderboardServiceProvider", "classLeaderboardServiceProvider.html", "classLeaderboardServiceProvider" ],
     [ "LevelChartData", "classLevelChartData.html", "classLevelChartData" ],
     [ "LevelChartJsonTool", "classLevelChartJsonTool.html", "classLevelChartJsonTool" ],
+    [ "LocalizationHelper", "classLocalizationHelper.html", "classLocalizationHelper" ],
     [ "LocalLeaderboardSaveData", "classLocalLeaderboardSaveData.html", "classLocalLeaderboardSaveData" ],
     [ "LocalLeaderboardSaveService", "classLocalLeaderboardSaveService.html", "classLocalLeaderboardSaveService" ],
     [ "LocalScoreRecord", "classLocalScoreRecord.html", "classLocalScoreRecord" ],

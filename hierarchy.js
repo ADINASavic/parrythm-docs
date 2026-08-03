@@ -65,6 +65,7 @@ var hierarchy =
     [ "LeaderboardServiceProvider", "classLeaderboardServiceProvider.html", null ],
     [ "LevelChartData", "classLevelChartData.html", null ],
     [ "LevelChartJsonTool", "classLevelChartJsonTool.html", null ],
+    [ "LocalizationHelper", "classLocalizationHelper.html", null ],
     [ "LocalLeaderboardSaveData", "classLocalLeaderboardSaveData.html", null ],
     [ "LocalScoreRecord", "classLocalScoreRecord.html", null ],
     [ "LocalScoreSaveData", "classLocalScoreSaveData.html", null ],

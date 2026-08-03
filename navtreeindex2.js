@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"classFmodMusicControllerLegacy.html#a07d1e2fedfae77b1183b91f913f514a9":[1,0,36,5],
 "classFmodMusicControllerLegacy.html#a243e629ff2b65e9839dcfe0ac2d172c0":[1,0,36,12],
 "classFmodMusicControllerLegacy.html#a3168d6c802bc5786e6c5f152e3ce8357":[1,0,36,1],
 "classFmodMusicControllerLegacy.html#a4818a566e9d59e61e0656c96b6589383":[1,0,36,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX2 =
 "classLevelChartData_1_1NoteEvent.html#a3953bff4a535317ecd05bafe8b7011b3":[1,0,63,0,38],
 "classLevelChartData_1_1NoteEvent.html#a39a18df2930a5657be9a294636add8f6":[1,0,63,0,29],
 "classLevelChartData_1_1NoteEvent.html#a40a36151babf62c594a5f65db32871c4":[1,0,63,0,1],
-"classLevelChartData_1_1NoteEvent.html#a43518418aaa34a74ba9d03d92af5fe1a":[1,0,63,0,30],
-"classLevelChartData_1_1NoteEvent.html#a48d0ff91f9b290df5b842bf8d042bcca":[1,0,63,0,57]
+"classLevelChartData_1_1NoteEvent.html#a43518418aaa34a74ba9d03d92af5fe1a":[1,0,63,0,30]
 };
