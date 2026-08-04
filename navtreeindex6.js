@@ -1,5 +1,6 @@
 var NAVTREEINDEX6 =
 {
+"classSettingsCarouselController.html#a0e048e8ed9c65e1fe1d26d64dc488223":[1,0,99,4],
 "classSettingsCarouselController.html#a126a9ca8945014ab367e94691182e740":[1,0,99,15],
 "classSettingsCarouselController.html#a2f0acc0caeb8a6df54b87ab2e147d633":[1,0,99,9],
 "classSettingsCarouselController.html#a34d84876a623a31c1bd772c188604805":[1,0,99,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX6 =
 "dir_9d7a45f240f7ee9093e307b8c3e3ccfc.html":[2,0,0,0,3,2],
 "dir_bcd15aae2a4f6a809eb49f2d6b7f8a35.html":[2,0,0,0,3,1],
 "dir_cb126342584796571ddcee3de8dd4b8a.html":[2,0,0,0,1],
-"dir_de46c42b51445eaf12cbdeca16286819.html":[2,0,0,0,9],
-"dir_e502b6effcbdbe49145dd874d28e2174.html":[2,0,0,0,3,0]
+"dir_de46c42b51445eaf12cbdeca16286819.html":[2,0,0,0,9]
 };

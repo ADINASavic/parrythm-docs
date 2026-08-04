@@ -1,5 +1,6 @@
 var classDifficultyInfo =
 [
+    [ "charter", "classDifficultyInfo.html#ada6ca00dfe2aa6eb1f90a0eb88348495", null ],
     [ "chartHash", "classDifficultyInfo.html#a29b9878c1c2fc4ca4afaefeee4c2e1b8", null ],
     [ "CurrentDifficulty", "classDifficultyInfo.html#ade5c0c703ad96fd31de1f8df90c418ac", null ],
     [ "level", "classDifficultyInfo.html#a664687b651c4e17161216a82c975f13e", null ],

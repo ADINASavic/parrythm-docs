@@ -1,5 +1,6 @@
 var NAVTREEINDEX3 =
 {
+"classLevelChartData_1_1NoteEvent.html#a43518418aaa34a74ba9d03d92af5fe1a":[1,0,63,0,30],
 "classLevelChartData_1_1NoteEvent.html#a48d0ff91f9b290df5b842bf8d042bcca":[1,0,63,0,57],
 "classLevelChartData_1_1NoteEvent.html#a534c864b2d19edc55be133657ffb4fcb":[1,0,63,0,13],
 "classLevelChartData_1_1NoteEvent.html#a5882c292d3992e4261c85cb61059c9f0":[1,0,63,0,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX3 =
 "classNotes_1_1Lane_1_1LaneOccupancyProvider.html":[0,0,0,0,0],
 "classNotes_1_1Lane_1_1LaneOccupancyProvider.html#a05f3d8dd28d6fcedcfa78fd6eb8427bc":[0,0,0,0,0,1],
 "classNotes_1_1Lane_1_1LaneOccupancyProvider.html#a05f3d8dd28d6fcedcfa78fd6eb8427bc":[1,0,0,0,0,1],
-"classNotes_1_1Lane_1_1LaneOccupancyProvider.html#a371ec12c6d25dfe5b933a5f4b8f67282":[0,0,0,0,0,0],
-"classNotes_1_1Lane_1_1LaneOccupancyProvider.html#a371ec12c6d25dfe5b933a5f4b8f67282":[1,0,0,0,0,0]
+"classNotes_1_1Lane_1_1LaneOccupancyProvider.html#a371ec12c6d25dfe5b933a5f4b8f67282":[0,0,0,0,0,0]
 };

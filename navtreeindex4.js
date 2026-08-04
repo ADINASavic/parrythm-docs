@@ -1,5 +1,6 @@
 var NAVTREEINDEX4 =
 {
+"classNotes_1_1Lane_1_1LaneOccupancyProvider.html#a371ec12c6d25dfe5b933a5f4b8f67282":[1,0,0,0,0,0],
 "classNotes_1_1Lane_1_1LaneOccupancyProvider.html#a63fb242bf6eae6f790b15b5ae8897051":[0,0,0,0,0,8],
 "classNotes_1_1Lane_1_1LaneOccupancyProvider.html#a63fb242bf6eae6f790b15b5ae8897051":[1,0,0,0,0,8],
 "classNotes_1_1Lane_1_1LaneOccupancyProvider.html#a9b5e6da70f4b04628888c5ed248428f7":[1,0,0,0,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX4 =
 "classNotes_1_1Square_1_1SquareVisualLong.html#aacd586a9c3f10f273eb3ae23bca13564":[1,0,0,1,5,8],
 "classNotes_1_1Square_1_1SquareVisualLong.html#ace3521bf1388d3d7d431c2ec92f5fd97":[0,0,0,1,5,6],
 "classNotes_1_1Square_1_1SquareVisualLong.html#ace3521bf1388d3d7d431c2ec92f5fd97":[1,0,0,1,5,6],
-"classNotes_1_1Square_1_1SquareVisualLong.html#ad104d515818a487aaf5dc48f56dabda0":[1,0,0,1,5,20],
-"classNotes_1_1Square_1_1SquareVisualLong.html#ad104d515818a487aaf5dc48f56dabda0":[0,0,0,1,5,20]
+"classNotes_1_1Square_1_1SquareVisualLong.html#ad104d515818a487aaf5dc48f56dabda0":[1,0,0,1,5,20]
 };

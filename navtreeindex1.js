@@ -219,11 +219,12 @@ var NAVTREEINDEX1 =
 "classDifficultyColorPalette.html#a4abb5c6234fefc577f4858c141bc4365":[1,0,31,3],
 "classDifficultyColorPalette.html#ad3263234dbf14b78a2cef8426e4911c4":[1,0,31,0],
 "classDifficultyInfo.html":[1,0,32],
-"classDifficultyInfo.html#a29b9878c1c2fc4ca4afaefeee4c2e1b8":[1,0,32,0],
-"classDifficultyInfo.html#a490918cb74a5e61673c48cd3159e5365":[1,0,32,4],
-"classDifficultyInfo.html#a664687b651c4e17161216a82c975f13e":[1,0,32,2],
-"classDifficultyInfo.html#acc35c996ed580038ba05e5536bdcf984":[1,0,32,3],
-"classDifficultyInfo.html#ade5c0c703ad96fd31de1f8df90c418ac":[1,0,32,1],
+"classDifficultyInfo.html#a29b9878c1c2fc4ca4afaefeee4c2e1b8":[1,0,32,1],
+"classDifficultyInfo.html#a490918cb74a5e61673c48cd3159e5365":[1,0,32,5],
+"classDifficultyInfo.html#a664687b651c4e17161216a82c975f13e":[1,0,32,3],
+"classDifficultyInfo.html#acc35c996ed580038ba05e5536bdcf984":[1,0,32,4],
+"classDifficultyInfo.html#ada6ca00dfe2aa6eb1f90a0eb88348495":[1,0,32,0],
+"classDifficultyInfo.html#ade5c0c703ad96fd31de1f8df90c418ac":[1,0,32,2],
 "classDifficultyStrip.html":[1,0,33],
 "classDifficultyStrip.html#a228a31810ba718bb1dbf55bc2e5bf885":[1,0,33,0],
 "classDifficultyStrip.html#a7ec988cdb546f28a2d5cda3b05fa9305":[1,0,33,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX1 =
 "classFixed16x9Camera.html#ad6276d018337d4eb6054a1d5c6c5ef73":[1,0,35,5],
 "classFixed16x9Camera.html#ad7a16ee8bc4686b3e9511c93e72e3080":[1,0,35,1],
 "classFixed16x9Camera.html#aeb03b197a913da49c5d676ef8498339d":[1,0,35,10],
-"classFixed16x9Camera.html#aed7a7c59e3434a55d67c0548c1aef6f4":[1,0,35,6],
-"classFmodMusicControllerLegacy.html":[1,0,36]
+"classFixed16x9Camera.html#aed7a7c59e3434a55d67c0548c1aef6f4":[1,0,35,6]
 };
