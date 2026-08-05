@@ -1,5 +1,9 @@
 var NAVTREEINDEX2 =
 {
+"classFixed16x9Camera.html#ad6276d018337d4eb6054a1d5c6c5ef73":[1,0,35,5],
+"classFixed16x9Camera.html#ad7a16ee8bc4686b3e9511c93e72e3080":[1,0,35,1],
+"classFixed16x9Camera.html#aeb03b197a913da49c5d676ef8498339d":[1,0,35,10],
+"classFixed16x9Camera.html#aed7a7c59e3434a55d67c0548c1aef6f4":[1,0,35,6],
 "classFmodMusicControllerLegacy.html":[1,0,36],
 "classFmodMusicControllerLegacy.html#a07d1e2fedfae77b1183b91f913f514a9":[1,0,36,5],
 "classFmodMusicControllerLegacy.html#a243e629ff2b65e9839dcfe0ac2d172c0":[1,0,36,12],
@@ -245,9 +249,5 @@ var NAVTREEINDEX2 =
 "classLevelChartData_1_1NoteEvent.html#a2c8ec68487e673241cc22ae79e057dc0":[1,0,63,0,39],
 "classLevelChartData_1_1NoteEvent.html#a31470718fd7d80c29571a628d76db8e7":[1,0,63,0,41],
 "classLevelChartData_1_1NoteEvent.html#a32f4617b778f7922fa0c08e4dccd7abc":[1,0,63,0,15],
-"classLevelChartData_1_1NoteEvent.html#a3638c5fe50d01aacd69681c361376cd7":[1,0,63,0,49],
-"classLevelChartData_1_1NoteEvent.html#a380f5d7edf310a98dfc58bc59805ef00":[1,0,63,0,7],
-"classLevelChartData_1_1NoteEvent.html#a3953bff4a535317ecd05bafe8b7011b3":[1,0,63,0,38],
-"classLevelChartData_1_1NoteEvent.html#a39a18df2930a5657be9a294636add8f6":[1,0,63,0,29],
-"classLevelChartData_1_1NoteEvent.html#a40a36151babf62c594a5f65db32871c4":[1,0,63,0,1]
+"classLevelChartData_1_1NoteEvent.html#a3638c5fe50d01aacd69681c361376cd7":[1,0,63,0,49]
 };

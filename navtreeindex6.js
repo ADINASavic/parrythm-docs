@@ -1,5 +1,9 @@
 var NAVTREEINDEX6 =
 {
+"classSettingsCardViewSettings.html#ab84e2d3f125511d86167270702e55b4f":[1,0,98,1],
+"classSettingsCardViewSettings.html#ac271f47f42da02b0bfb7a3307c765837":[1,0,98,3],
+"classSettingsCardViewSettings.html#ae12cafdbb8cb60a13f8306f9c5825539":[1,0,98,0],
+"classSettingsCarouselController.html":[1,0,99],
 "classSettingsCarouselController.html#a0e048e8ed9c65e1fe1d26d64dc488223":[1,0,99,4],
 "classSettingsCarouselController.html#a126a9ca8945014ab367e94691182e740":[1,0,99,15],
 "classSettingsCarouselController.html#a2f0acc0caeb8a6df54b87ab2e147d633":[1,0,99,9],
@@ -245,9 +249,5 @@ var NAVTREEINDEX6 =
 "dir_84bbf7b3c7f28a5a18725745e1505219.html":[2,0,0],
 "dir_873abad44f79f3adeb9a942dcf3467a4.html":[2,0,0,0,6,2],
 "dir_891e7c27d7c0f2bd9760734be822f459.html":[2,0,0,0,5],
-"dir_9ac1b3aab64b76272112d328f2cd5995.html":[2,0,0,0],
-"dir_9d7a45f240f7ee9093e307b8c3e3ccfc.html":[2,0,0,0,3,2],
-"dir_bcd15aae2a4f6a809eb49f2d6b7f8a35.html":[2,0,0,0,3,1],
-"dir_cb126342584796571ddcee3de8dd4b8a.html":[2,0,0,0,1],
-"dir_de46c42b51445eaf12cbdeca16286819.html":[2,0,0,0,9]
+"dir_9ac1b3aab64b76272112d328f2cd5995.html":[2,0,0,0]
 };

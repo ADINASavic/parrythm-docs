@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['facingaxis_0',['FacingAxis',['../classBulletNote.html#a34dae04d2d7cf44ab823c5b2ac55b83b',1,'BulletNote']]]
+  ['curvemode_0',['CurveMode',['../classCurveUtil.html#a6814ffee488b79e6ebb2877f6293e652',1,'CurveUtil']]]
 ];
