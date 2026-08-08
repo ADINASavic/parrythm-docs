@@ -1,13 +1,11 @@
 var classUnityMusicController =
 [
-    [ "DspTimeForTimeline", "classUnityMusicController.html#a951253ab40e22f4926fe9916ea8723ad", null ],
     [ "Play", "classUnityMusicController.html#a8ae6a6b03a6baa008c7b2fa1efa9521d", null ],
     [ "PlayWhenReady", "classUnityMusicController.html#a5144c68dde8ac25dea1e4096c0ba6989", null ],
     [ "Prepare", "classUnityMusicController.html#a588577caa0a3f580b6bebee997e3db2f", null ],
     [ "Stop", "classUnityMusicController.html#ae6dacbca57bf9018059da6881e3d0804", null ],
     [ "TogglePause", "classUnityMusicController.html#a0b7a18f0786365d7a63c10779a1c4863", null ],
     [ "audioFilePath", "classUnityMusicController.html#a80db67c13d1ef1043697e3ab09b25a6a", null ],
-    [ "audioSource", "classUnityMusicController.html#a3f114f47e64e92f48fba37ca7bb00467", null ],
     [ "countInEvent", "classUnityMusicController.html#a868a13f29ed6ca69242d4f74d5f7a77f", null ],
     [ "driftRecoveryHalfLifeSec", "classUnityMusicController.html#a6188e6a146eec079771015747a111dae", null ],
     [ "resyncThresholdSec", "classUnityMusicController.html#a40eb86ff8782fc4cbe058aa7ab3dd33f", null ],

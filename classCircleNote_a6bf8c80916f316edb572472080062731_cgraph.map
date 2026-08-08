@@ -1,7 +1,5 @@
 <map id="CircleNote.ForceConsume" name="CircleNote.ForceConsume">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,196,56"/>
-<area shape="rect" id="Node000002" href="$classJudge.html#a7b559acc5bfa54589c02f3f7b5f72b10" title=" " alt="" coords="244,5,439,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,31,230,27,231,32,196,36"/>
-<area shape="rect" id="Node000003" href="$classNoteBase.html#a93fc2dce778edc1645c206bf9f6a9279" title=" " alt="" coords="257,55,426,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,50,243,55,243,60,196,55"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,196,31"/>
+<area shape="rect" id="Node000002" href="$classNoteBase.html#a93fc2dce778edc1645c206bf9f6a9279" title=" " alt="" coords="244,5,413,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,15,230,15,230,21,196,21"/>
 </map>

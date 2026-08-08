@@ -1,12 +1,5 @@
 var NAVTREEINDEX3 =
 {
-"classLevelChartData_1_1NoteEvent.html#a380f5d7edf310a98dfc58bc59805ef00":[1,0,63,0,7],
-"classLevelChartData_1_1NoteEvent.html#a3953bff4a535317ecd05bafe8b7011b3":[1,0,63,0,38],
-"classLevelChartData_1_1NoteEvent.html#a39a18df2930a5657be9a294636add8f6":[1,0,63,0,29],
-"classLevelChartData_1_1NoteEvent.html#a40a36151babf62c594a5f65db32871c4":[1,0,63,0,1],
-"classLevelChartData_1_1NoteEvent.html#a43518418aaa34a74ba9d03d92af5fe1a":[1,0,63,0,30],
-"classLevelChartData_1_1NoteEvent.html#a48d0ff91f9b290df5b842bf8d042bcca":[1,0,63,0,57],
-"classLevelChartData_1_1NoteEvent.html#a534c864b2d19edc55be133657ffb4fcb":[1,0,63,0,13],
 "classLevelChartData_1_1NoteEvent.html#a5882c292d3992e4261c85cb61059c9f0":[1,0,63,0,9],
 "classLevelChartData_1_1NoteEvent.html#a64d5a01c28b54eac558710a95bbbe002":[1,0,63,0,48],
 "classLevelChartData_1_1NoteEvent.html#a663a32e4c537cbcb59d78803ed79092f":[1,0,63,0,43],
@@ -192,7 +185,6 @@ var NAVTREEINDEX3 =
 "classNoteSettings.html#aa4667d2877f8f9a664379127695d22ae":[1,0,77,42],
 "classNoteSettings.html#aae8a428f599fd19e348e08aad15e7aa7":[1,0,77,13],
 "classNoteSettings.html#abb8c948d3a5b4fb3a35f6b303ac0e01e":[1,0,77,65],
-"classNoteSettings.html#ac37c239f247d3e274d2f2474242e70f8":[1,0,77,88],
 "classNoteSettings.html#ac634b2ab3de50b392689df4a2bc76bb9":[1,0,77,68],
 "classNoteSettings.html#ac9cc9bee775654ea00e5dd44c037b2b4":[1,0,77,47],
 "classNoteSettings.html#acda247394dee11c0132d431953ba46ed":[1,0,77,40],
@@ -249,5 +241,13 @@ var NAVTREEINDEX3 =
 "classNoteSpawner.html#af56a03d27623dcb1acfcff5fcb78f36c":[1,0,82,14],
 "classNoteSpawner.html#af9e2fee4fea114323235d9c926cfdfa8":[1,0,82,16],
 "classNoteSpawner.html#afe45745751561ab2b347a67f298bc2e2":[1,0,82,6],
-"classNotes_1_1Lane_1_1LaneOccupancyProvider.html":[0,0,0,0,0]
+"classNotes_1_1Lane_1_1LaneOccupancyProvider.html":[0,0,0,0,0],
+"classNotes_1_1Lane_1_1LaneOccupancyProvider.html":[1,0,0,0,0],
+"classNotes_1_1Lane_1_1LaneOccupancyProvider.html#a05f3d8dd28d6fcedcfa78fd6eb8427bc":[0,0,0,0,0,1],
+"classNotes_1_1Lane_1_1LaneOccupancyProvider.html#a05f3d8dd28d6fcedcfa78fd6eb8427bc":[1,0,0,0,0,1],
+"classNotes_1_1Lane_1_1LaneOccupancyProvider.html#a371ec12c6d25dfe5b933a5f4b8f67282":[0,0,0,0,0,0],
+"classNotes_1_1Lane_1_1LaneOccupancyProvider.html#a371ec12c6d25dfe5b933a5f4b8f67282":[1,0,0,0,0,0],
+"classNotes_1_1Lane_1_1LaneOccupancyProvider.html#a63fb242bf6eae6f790b15b5ae8897051":[0,0,0,0,0,8],
+"classNotes_1_1Lane_1_1LaneOccupancyProvider.html#a63fb242bf6eae6f790b15b5ae8897051":[1,0,0,0,0,8],
+"classNotes_1_1Lane_1_1LaneOccupancyProvider.html#a9b5e6da70f4b04628888c5ed248428f7":[1,0,0,0,0,4]
 };

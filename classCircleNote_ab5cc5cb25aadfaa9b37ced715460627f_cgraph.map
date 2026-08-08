@@ -1,7 +1,5 @@
 <map id="CircleNote.UpdateTrailHold" name="CircleNote.UpdateTrailHold">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,42,204,67"/>
-<area shape="rect" id="Node000002" href="$classCircleNote.html#a64264207480052b8ef67e68c4ed81b22" title=" " alt="" coords="268,5,459,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,41,254,35,255,40,205,46"/>
-<area shape="rect" id="Node000003" href="$classJudge.html#a2db95eff9df07d50b00ac653fbe73192" title=" " alt="" coords="252,70,475,95"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,63,239,66,238,72,204,68"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,204,38"/>
+<area shape="rect" id="Node000002" href="$classCircleNote.html#a64264207480052b8ef67e68c4ed81b22" title=" " alt="" coords="252,5,443,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,23,238,23,238,28,204,28"/>
 </map>
