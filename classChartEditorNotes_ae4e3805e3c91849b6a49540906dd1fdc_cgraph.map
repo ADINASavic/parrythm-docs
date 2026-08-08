@@ -1,0 +1,7 @@
+<map id="ChartEditorNotes.ApplyNoteTime" name="ChartEditorNotes.ApplyNoteTime">
+<area shape="rect" id="Node000001" title="노트의 대표 시각을 sec/beat 양쪽에 한꺼번에 써 넣음. 필드가 타입마다 달라서 한곳에 모음." alt="" coords="5,31,244,56"/>
+<area shape="rect" id="Node000002" href="$classChartEditorNotes.html#ab4dfcfdbb89c0bd2dc1f1f342d8659c2" title="isLong/isTrail 때문에 저장 타입과 화면에 보이는 타입이 다름." alt="" coords="292,5,508,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,30,278,27,279,32,244,35"/>
+<area shape="rect" id="Node000003" href="$classChartEditorTime.html#abd22cf96e5553fcf34fb7a11334f82e8" title="1ms 격자로 반올림. 에디터가 쓰는 모든 시간 필드의 해상도." alt="" coords="319,55,481,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,51,305,56,305,62,244,56"/>
+</map>

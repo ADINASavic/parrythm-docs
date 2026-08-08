@@ -1,0 +1,11 @@
+<map id="ChartEditorNotes.NoteTimeSec" name="ChartEditorNotes.NoteTimeSec">
+<area shape="rect" id="Node000001" title="노트를 대표하는 시각(플레이백 초). 리스트 정렬과 파형 배치 기준." alt="" coords="5,63,229,88"/>
+<area shape="rect" id="Node000002" href="$classChartEditorNotes.html#ae2d772c4dbe96bfb90d7b2d0460ae815" title=" " alt="" coords="277,5,519,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,60,321,31,322,36,181,65"/>
+<area shape="rect" id="Node000003" href="$classChartEditorNotes.html#a46565c08ced34e4c791a05d689d10605" title="차트 시각(sec/beat 쌍) → 플레이백 초. 오프셋 포함." alt="" coords="295,55,501,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,73,281,73,281,78,229,78"/>
+<area shape="rect" id="Node000005" href="$classChartEditorNotes.html#ab4dfcfdbb89c0bd2dc1f1f342d8659c2" title="isLong/isTrail 때문에 저장 타입과 화면에 보이는 타입이 다름." alt="" coords="290,120,506,145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="181,85,322,115,321,120,180,91"/>
+<area shape="rect" id="Node000004" href="$classChartEditorTime.html#a2e6ceae38b0e560c9f1502cecc8ef2e9" title=" " alt="" coords="567,63,765,88"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="501,73,553,73,553,78,501,78"/>
+</map>

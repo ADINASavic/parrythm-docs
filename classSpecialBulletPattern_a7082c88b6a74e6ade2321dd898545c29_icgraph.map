@@ -1,0 +1,5 @@
+<map id="SpecialBulletPattern.OffscreenPointAlong" name="SpecialBulletPattern.OffscreenPointAlong">
+<area shape="rect" id="Node000001" title="from에서 방향 u로 직진해 화면 밖 margin까지 나간 지점." alt="" coords="268,5,487,45"/>
+<area shape="rect" id="Node000002" href="$classSpecialBulletPattern.html#a29c8f2ddd57696fffe9d9608ac6b7c1d" title="spawn→dock 방향으로 직진해 화면 밖으로 나가는 지점." alt="" coords="5,5,220,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,28,220,28,220,23,255,23"/>
+</map>

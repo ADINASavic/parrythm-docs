@@ -1,0 +1,5 @@
+<map id="PreviewView.ToLocal" name="PreviewView.ToLocal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,163,31"/>
+<area shape="rect" id="Node000002" href="$classPreviewView.html#ab50abf28e1a45e115b6f0e58aeeaeb26" title="16:9 레터박스 영역. 절대좌표는 항상 이 사각형 안으로 매핑됨." alt="" coords="211,5,393,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,15,197,15,197,21,163,21"/>
+</map>

@@ -20,6 +20,7 @@ var classLevelChartData =
     ] ],
     [ "ComputeTotalNotes", "classLevelChartData.html#a451065e2c1c36d480e84f00e8730c15e", null ],
     [ "bpm", "classLevelChartData.html#a4bb3b88603c5e86451a7b92e457d2b11", null ],
+    [ "bulletSpeed", "classLevelChartData.html#ae1819f5daa744a8d23985a383e48eb4a", null ],
     [ "circleRadius", "classLevelChartData.html#aa3450ce8424350622a9c78783d28871c", null ],
     [ "notes", "classLevelChartData.html#a59ce21ae9096319ff247086bc3582cba", null ],
     [ "startOffset", "classLevelChartData.html#a558dc92df8196c6d66d7b310a2b1631a", null ],

@@ -1,0 +1,11 @@
+<map id="NoteSpeedScale.Snap" name="NoteSpeedScale.Snap">
+<area shape="rect" id="Node000001" title="Snap a value to the nearest 0.25 step." alt="" coords="511,55,675,80"/>
+<area shape="rect" id="Node000002" href="$classNoteSpeedScale.html#adc6b8eee02529a9ddaab47282899c39c" title="UI label such as &quot;5.00 &#160;· &#160;1017 ms&quot;." alt="" coords="247,5,460,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="517,54,415,33,416,28,518,49"/>
+<area shape="rect" id="Node000003" href="$classNoteSpeedScale.html#afef5ddf2bd55ab978b3ff159be696bb8" title="Seconds &#45;&gt; dial value, snapped to the 0.25 grid and clamped to range." alt="" coords="244,55,463,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="497,70,463,70,463,65,497,65"/>
+<area shape="rect" id="Node000005" href="$classSettingsCardPlaySettings.html#a3430d5821383a70c9c39a6a98f5de645" title=" " alt="" coords="258,105,449,145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="526,86,438,107,437,102,525,81"/>
+<area shape="rect" id="Node000004" href="$classSettingsCardPlaySettings.html#aac5f156f0efbec4c20e6d8e24bb7576f" title=" " alt="" coords="5,47,196,87"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="230,70,196,70,196,65,230,65"/>
+</map>

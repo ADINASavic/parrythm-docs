@@ -1,5 +1,6 @@
 var classNoteSettings =
 [
+    [ "bgaDark", "classNoteSettings.html#a240e37f8b3d758a27b2eb3f7256edfc2", null ],
     [ "circleAppearLead", "classNoteSettings.html#adee68791f7db4cc813e124c6a4f1ae39", null ],
     [ "circleFillColor", "classNoteSettings.html#a114dddc42eb76c5e7179954f9e806199", null ],
     [ "circleGlowColor", "classNoteSettings.html#a826a86c985d2fc614c60f66f27fb8994", null ],

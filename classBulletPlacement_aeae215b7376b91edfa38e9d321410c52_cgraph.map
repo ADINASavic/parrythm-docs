@@ -1,0 +1,5 @@
+<map id="BulletPlacement.Solve" name="BulletPlacement.Solve">
+<area shape="rect" id="Node000001" title="방향점 하나와 dock 하나로 화면 밖 Spawn/Despawn과 구간 시간을 정함. 방향점은 각도만 쓰고 거리는 무시함." alt="" coords="5,13,175,38"/>
+<area shape="rect" id="Node000002" href="$classBulletPlacement.html#a4427dc6152e963ba9696e9307fbefff8" title="from에서 (ux,uy)로 직진해 화면 밖 margin까지 나간 지점." alt="" coords="223,5,417,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,23,209,23,209,28,175,28"/>
+</map>

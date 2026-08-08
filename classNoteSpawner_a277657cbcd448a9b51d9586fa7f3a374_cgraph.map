@@ -1,0 +1,5 @@
+<map id="NoteSpawner.SpawnBullet" name="NoteSpawner.SpawnBullet">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,199,31"/>
+<area shape="rect" id="Node000002" href="$classMods.html#a0f767017cbb4787925f1ac88334d2d14" title="Mirror a 1920x1080 world point for circle/slider/bullet notes." alt="" coords="247,5,391,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,15,232,15,232,21,199,21"/>
+</map>

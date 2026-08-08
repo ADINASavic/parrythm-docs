@@ -1,9 +1,11 @@
 <map id="PlayerNameSettings.GetDefaultPlayerName" name="PlayerNameSettings.GetDefaultPlayerName">
-<area shape="rect" id="Node000001" title=" " alt="" coords="588,35,819,75"/>
-<area shape="rect" id="Node000002" href="$classPlayerNameSettings.html#a92788555e53866f9db87635413167d50" title=" " alt="" coords="277,13,540,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="574,44,536,41,536,35,574,39"/>
-<area shape="rect" id="Node000004" href="$classPlayerNameSettings.html#a182bc461df04cf079b41113de76283a6" title=" " alt="" coords="311,63,507,103"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="574,70,507,76,507,71,574,64"/>
-<area shape="rect" id="Node000003" href="$classSettingsCardPlayerSettings.html#ab46c4d2ea964b03258f7706f01c183a4" title=" " alt="" coords="5,5,229,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="264,28,230,28,230,23,264,23"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="588,67,819,107"/>
+<area shape="rect" id="Node000002" href="$classPlayerNameSettings.html#a92788555e53866f9db87635413167d50" title=" " alt="" coords="277,45,540,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="574,76,536,73,536,67,574,71"/>
+<area shape="rect" id="Node000005" href="$classPlayerNameSettings.html#a182bc461df04cf079b41113de76283a6" title=" " alt="" coords="311,95,507,135"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="574,102,507,108,507,103,574,96"/>
+<area shape="rect" id="Node000003" href="$classTitleScreenController.html#afec1ca60418a1ddf4d00c4f7a93c79fd" title=" " alt="" coords="11,5,223,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="279,46,223,40,224,34,280,40"/>
+<area shape="rect" id="Node000004" href="$classSettingsCardPlayerSettings.html#ab46c4d2ea964b03258f7706f01c183a4" title=" " alt="" coords="5,69,229,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="279,74,230,80,229,74,279,69"/>
 </map>

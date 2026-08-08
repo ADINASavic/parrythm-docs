@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['gaugechanged_0',['GaugeChanged',['../classGaugeManager.html#ae757885f9edab7de6cf0b833a58c26af',1,'GaugeManager']]],
-  ['gaugedepleted_1',['GaugeDepleted',['../classGaugeManager.html#a5057754b0be2c989c571153449ea279e',1,'GaugeManager']]]
+  ['changed_0',['Changed',['../classChartEditorDocument.html#a4b6b862c78cab766e3d58b2f6862b577',1,'ChartEditorDocument']]],
+  ['clicked_1',['Clicked',['../classPreviewView.html#a054ef6295a88eea9244688e3179f0a82',1,'PreviewView']]]
 ];

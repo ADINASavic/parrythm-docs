@@ -1,10 +1,28 @@
 <map id="LocalScoreSaveService.GetBestScore" name="LocalScoreSaveService.GetBestScore">
-<area shape="rect" id="Node000001" title=" " alt="" coords="740,29,939,69"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="882,18,867,11,839,8,815,10,801,15,796,21,798,28,793,30,790,20,798,10,814,5,839,3,868,6,884,13"/>
-<area shape="rect" id="Node000002" href="$classSongCard.html#a06a28c3c58857ebae15621eb51d9c09e" title=" " alt="" coords="489,37,692,62"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="726,52,692,52,692,47,726,47"/>
-<area shape="rect" id="Node000003" href="$classSongCard.html#a2523028659860266fe7ba20141a01041" title=" " alt="" coords="299,37,441,62"/>
-<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="476,52,442,52,442,47,476,47"/>
-<area shape="rect" id="Node000004" href="$classCanvasSongSelectMenuController.html#aabfcf7a3a1511a92f6782812819e6f9b" title=" " alt="" coords="5,29,251,69"/>
-<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="285,52,251,52,251,47,285,47"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="1368,159,1567,199"/>
+<area shape="poly" id="edge10_Node000001_Node000001" title=" " alt="" coords="1510,148,1495,141,1467,138,1443,140,1429,145,1424,151,1426,158,1421,160,1418,150,1426,140,1442,135,1467,133,1496,136,1512,143"/>
+<area shape="rect" id="Node000002" href="$classRatingService.html#ab9fe02fa1996bcb3df8bf42d9d72454d" title="Every played chart (best score &gt; 0) as a rating entry, sorted highest rating first." alt="" coords="1119,102,1319,142"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1366,159,1305,145,1307,139,1367,154"/>
+<area shape="rect" id="Node000008" href="$classResultScreenController.html#ac885d36206adfeb4ab8e5ad00d786d15" title=" " alt="" coords="285,113,495,153"/>
+<area shape="poly" id="edge14_Node000001_Node000008" title=" " alt="" coords="1354,177,495,140,495,134,1354,172"/>
+<area shape="rect" id="Node000010" href="$classSongCard.html#a06a28c3c58857ebae15621eb51d9c09e" title=" " alt="" coords="1117,217,1320,243"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="1356,205,1282,220,1281,215,1355,199"/>
+<area shape="rect" id="Node000003" href="$classRatingService.html#ad437e0dc7386eebeb74df485e199eb2b" title="Top count &#160;rating entries (Best 15 by default)." alt="" coords="856,109,1069,135"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1105,125,1070,125,1070,119,1105,119"/>
+<area shape="rect" id="Node000004" href="$classRatingService.html#afbc8b2657b7d513c8b1fb88ffb74372d" title="The player rating: sum of the Best 15 chart ratings." alt="" coords="574,65,797,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="868,110,766,93,767,88,869,105"/>
+<area shape="poly" id="edge9_Node000003_Node000008" title=" " alt="" coords="842,127,495,133,495,128,842,122"/>
+<area shape="rect" id="Node000005" href="$classRatingService.html#ae00db2d668daea40319120278a7c7bc0" title="Player rating formatted for UI, e.g. &quot;42.37&quot;." alt="" coords="265,63,515,88"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="560,80,515,79,515,74,560,74"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="603,96,495,116,494,111,602,91"/>
+<area shape="rect" id="Node000006" href="$classRatingLabel.html#ad772ae377d45bb9f43fb03e2a69be2c7" title=" " alt="" coords="35,5,188,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="314,62,173,33,174,28,315,57"/>
+<area shape="rect" id="Node000007" href="$classTitleScreenController.html#afec1ca60418a1ddf4d00c4f7a93c79fd" title=" " alt="" coords="5,55,217,95"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="252,78,217,78,217,73,252,73"/>
+<area shape="rect" id="Node000009" href="$classChartEndWatcher.html#a86c9c6b91e78f3e73494e3120dfa9c0b" title=" " alt="" coords="9,120,214,145"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="271,135,214,135,214,130,271,130"/>
+<area shape="rect" id="Node000011" href="$classSongCard.html#a2523028659860266fe7ba20141a01041" title=" " alt="" coords="891,220,1034,245"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="1103,234,1034,235,1034,229,1103,229"/>
+<area shape="rect" id="Node000012" href="$classCanvasSongSelectMenuController.html#aabfcf7a3a1511a92f6782812819e6f9b" title=" " alt="" coords="563,217,808,257"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="878,237,808,238,808,232,878,231"/>
 </map>

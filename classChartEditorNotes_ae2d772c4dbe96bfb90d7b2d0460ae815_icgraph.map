@@ -1,0 +1,22 @@
+<map id="ChartEditorNotes.BulletSpawnSec" name="ChartEditorNotes.BulletSpawnSec">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1039,191,1280,217"/>
+<area shape="rect" id="Node000002" href="$classChartEditorNotes.html#adae2ab40750f77ca1092b737481134b4" title="노트를 대표하는 시각(플레이백 초). 리스트 정렬과 파형 배치 기준." alt="" coords="767,163,991,189"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1025,193,991,190,991,185,1025,188"/>
+<area shape="rect" id="Node000008" href="$classChartEditorNotes.html#a15771c488be1bd1d053ddff3d29aaf10" title="파형에 블록으로 그릴 구간. 점 이벤트는 최소 폭을 줌." alt="" coords="496,249,719,274"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="1025,221,719,252,719,247,1025,215"/>
+<area shape="rect" id="Node000003" href="$classChartEditorNotes.html#ad3a64bcc0a0841cedfbb399158670bc1" title=" " alt="" coords="507,5,708,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="852,156,793,108,756,82,717,60,689,48,691,43,720,55,759,77,796,103,855,152"/>
+<area shape="rect" id="Node000004" href="$classChartEditorDocument.html#afacbcb990537758f03857435e7c88700" title=" " alt="" coords="504,69,711,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="828,161,718,124,679,112,681,107,719,119,830,156"/>
+<area shape="rect" id="Node000005" href="$classChartEditorNotes.html#a4a9f015eb1dba5a221ccf41632b0cb2c" title="노트를 delta초만큼 통째로 민다. 다중 선택 이동용." alt="" coords="509,134,706,159"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="753,165,706,160,707,155,753,160"/>
+<area shape="rect" id="Node000007" href="$classChartEditorDocument.html#a356b0a32d8a1b30cd3a46d9e99936eba" title=" " alt="" coords="511,184,703,224"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="753,192,704,197,703,191,753,186"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="818,195,768,213,744,226,720,238,677,251,676,246,718,234,742,221,766,208,816,190"/>
+<area shape="rect" id="Node000006" href="$classChartEditorDocument.html#a3bb24515207fa7cc9c9c68ee6eec0621" title=" " alt="" coords="249,127,444,167"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="495,149,444,149,444,144,495,144"/>
+<area shape="rect" id="Node000009" href="$classChartEditorNotes.html#ac6e0bafe486f73e5a0aed02f4fc76b21" title="노트가 화면에 나타나기 시작하는 시각. 정렬용이라 대략만 맞으면 됨." alt="" coords="245,249,448,274"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="482,264,448,264,448,259,482,259"/>
+<area shape="rect" id="Node000010" href="$classChartEditorDocument.html#af464b48b311d733858d9b4e3ec0ffb1d" title="스폰 순서로 정렬. 런타임이 노트를 만드는 순서와 같음." alt="" coords="5,241,197,281"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="232,264,197,264,197,259,232,259"/>
+</map>

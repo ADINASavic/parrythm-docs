@@ -1,0 +1,7 @@
+<map id="WaveformView.SetView" name="WaveformView.SetView">
+<area shape="rect" id="Node000001" title=" " alt="" coords="261,31,439,56"/>
+<area shape="rect" id="Node000002" href="$classWaveformView.html#a3cea2b46cfaaff0eabc5a90fa0ec62e9" title="재생 커서가 화면 밖으로 나가면 따라감." alt="" coords="5,5,213,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,35,213,32,214,26,248,30"/>
+<area shape="rect" id="Node000003" href="$classWaveformView.html#abfc371420a05fb9b685e70fbc4a25f91" title=" " alt="" coords="21,55,197,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="248,56,198,61,197,56,247,51"/>
+</map>

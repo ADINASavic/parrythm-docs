@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['uitrailgraphic_2ecs_0',['UITrailGraphic.cs',['../UITrailGraphic_8cs.html',1,'']]],
-  ['unitymusiccontroller_2ecs_1',['UnityMusicController.cs',['../UnityMusicController_8cs.html',1,'']]]
+  ['textexitholdindicator_2ecs_0',['TextExitHoldIndicator.cs',['../TextExitHoldIndicator_8cs.html',1,'']]],
+  ['timingaccuracypanel_2ecs_1',['TimingAccuracyPanel.cs',['../TimingAccuracyPanel_8cs.html',1,'']]],
+  ['titlescreencontroller_2ecs_2',['TitleScreenController.cs',['../TitleScreenController_8cs.html',1,'']]]
 ];

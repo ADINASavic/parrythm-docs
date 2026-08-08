@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['vstate_0',['VState',['../classNotes_1_1Square_1_1SquareVisualBase.html#a5f0d4c5e181a0bc3c681c3b588c41ca7',1,'Notes::Square::SquareVisualBase']]]
+  ['placementsnap_0',['PlacementSnap',['../classChartEditorSettings.html#a615666b26a0a0a63215c454d93190ee9',1,'ChartEditorSettings']]]
 ];

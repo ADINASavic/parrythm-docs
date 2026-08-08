@@ -1,0 +1,7 @@
+<map id="PreviewView.AspectRect" name="PreviewView.AspectRect">
+<area shape="rect" id="Node000001" title="16:9 레터박스 영역. 절대좌표는 항상 이 사각형 안으로 매핑됨." alt="" coords="211,31,393,56"/>
+<area shape="rect" id="Node000002" href="$classPreviewView.html#aedb48fb5b60d07aa6855f1a187a33c38" title=" " alt="" coords="11,5,157,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,34,157,29,158,24,198,29"/>
+<area shape="rect" id="Node000003" href="$classPreviewView.html#ac383b80a63e27b04c9b28864a52cfffa" title=" " alt="" coords="5,55,163,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,58,163,61,162,56,197,52"/>
+</map>

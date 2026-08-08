@@ -1,7 +1,11 @@
 <map id="ParrythmInputRuntime.StateOverrideHandle.Dispose" name="ParrythmInputRuntime.StateOverrideHandle.Dispose">
-<area shape="rect" id="Node000001" title="자신이 나타내는 override를 해제한다. 중복 호출은 무시한다." alt="" coords="469,5,676,45"/>
-<area shape="rect" id="Node000002" href="$classResultsUI.html#a0600888a4ba89f6b0029a630af47cfdd" title=" " alt="" coords="259,13,421,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="456,28,421,28,421,23,456,23"/>
-<area shape="rect" id="Node000003" href="$classChartEndWatcher.html#a86c9c6b91e78f3e73494e3120dfa9c0b" title=" " alt="" coords="5,13,211,38"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="245,28,211,28,211,23,245,23"/>
+<area shape="rect" id="Node000001" title="자신이 나타내는 override를 해제한다. 중복 호출은 무시한다." alt="" coords="516,47,723,87"/>
+<area shape="rect" id="Node000002" href="$classMenuTypingLock.html#ab5ed8e5541b60018dc3e2ac53c15d7ab" title="락을 무조건 놓음. 런타임이 씬보다 오래 사니 OnDisable에서 반드시 불러야 함" alt="" coords="270,5,457,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="502,47,429,33,430,28,503,42"/>
+<area shape="rect" id="Node000003" href="$classResultsUI.html#a0600888a4ba89f6b0029a630af47cfdd" title=" " alt="" coords="282,55,445,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="502,70,445,70,445,65,502,65"/>
+<area shape="rect" id="Node000004" href="$classResultScreenController.html#ac885d36206adfeb4ab8e5ad00d786d15" title=" " alt="" coords="259,105,468,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="516,93,454,107,453,102,515,88"/>
+<area shape="rect" id="Node000005" href="$classChartEndWatcher.html#a86c9c6b91e78f3e73494e3120dfa9c0b" title=" " alt="" coords="5,112,211,137"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="245,127,211,127,211,122,245,122"/>
 </map>

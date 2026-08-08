@@ -1,0 +1,13 @@
+<map id="Mods.MirrorScreen" name="Mods.MirrorScreen">
+<area shape="rect" id="Node000001" title="Mirror a 1920x1080 world point for circle/slider/bullet notes." alt="" coords="485,55,629,80"/>
+<area shape="rect" id="Node000002" href="$classNoteSpawner.html#a277657cbcd448a9b51d9586fa7f3a374" title=" " alt="" coords="244,5,437,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="487,54,397,33,398,28,488,49"/>
+<area shape="rect" id="Node000004" href="$classNoteSpawner.html#ac816987d2955ae0723339b140e39f214" title=" " alt="" coords="245,55,437,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="471,70,437,70,437,65,471,65"/>
+<area shape="rect" id="Node000005" href="$classNoteSpawner.html#aa6340ab1975a5f5c64db058bfe3d8a48" title=" " alt="" coords="245,104,437,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="488,86,398,107,397,101,487,80"/>
+<area shape="rect" id="Node000003" href="$classBulletNoteHandler.html#ad40706410268056f3a395b2e50fbb299" title=" " alt="" coords="5,5,196,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="230,21,196,21,196,15,230,15"/>
+<area shape="rect" id="Node000006" href="$classSliderNoteHandler.html#a11968495f5e72ef382681ef50c0afc64" title=" " alt="" coords="5,104,196,129"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="231,119,196,119,196,114,231,114"/>
+</map>

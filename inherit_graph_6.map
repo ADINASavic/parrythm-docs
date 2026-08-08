@@ -1,3 +1,3 @@
 <map id="그래픽컬한 클래스 계통도" name="그래픽컬한 클래스 계통도">
-<area shape="rect" id="Node000000" href="$classDifficultyColorPalette.html" title=" " alt="" coords="5,5,165,31"/>
+<area shape="rect" id="Node000000" href="$classChartEditorNotes.html" title="노트 하나에서 &quot;지금 몇 초짜리냐&quot;를 뽑는 규칙. core.js의 getNoteTimeSec / getSliderStartSec / getBulletSpawnSec 계열을 그대로 옮..." alt="" coords="5,5,139,31"/>
 </map>

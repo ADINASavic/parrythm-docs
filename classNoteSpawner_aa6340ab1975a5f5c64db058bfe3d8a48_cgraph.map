@@ -1,11 +1,13 @@
 <map id="NoteSpawner.SpawnSlider" name="NoteSpawner.SpawnSlider">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,197,145"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,145,197,170"/>
 <area shape="rect" id="Node000002" href="$classSliderNote.html#aeb8e091fd2dd9cd269b44588b52f7bec" title="Applies an additive visual boost to guide&#45;related layers used for gap presentation." alt="" coords="522,27,717,53"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,117,533,53,534,58,174,122"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,142,185,123,245,104,382,74,509,52,510,57,383,79,246,109,187,128,135,147"/>
 <area shape="rect" id="Node000004" href="$classSliderNote.html#ac97047644f81873457531b21850b4fb7" title="Binds the generated visual after spawner&#45;owned runtime fields have been assigned." alt="" coords="268,119,431,145"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="198,129,254,129,254,135,198,135"/>
-<area shape="rect" id="Node000010" href="$classSliderNote.html#a18ecd177b306ce4c8e503dcefdc1944f" title="Replaces the authored world&#45;space path and rebuilds all runtime geometry derived from it." alt="" coords="245,169,453,194"/>
-<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="166,142,272,163,271,169,165,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="197,145,254,139,255,144,198,150"/>
+<area shape="rect" id="Node000010" href="$classMods.html#a0f767017cbb4787925f1ac88334d2d14" title="Mirror a 1920x1080 world point for circle/slider/bullet notes." alt="" coords="277,169,421,194"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="198,164,264,170,263,176,197,169"/>
+<area shape="rect" id="Node000011" href="$classSliderNote.html#a18ecd177b306ce4c8e503dcefdc1944f" title="Replaces the authored world&#45;space path and rebuilds all runtime geometry derived from it." alt="" coords="245,238,453,263"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="137,168,303,231,301,235,135,173"/>
 <area shape="rect" id="Node000003" href="$classSliderNoteVisual.html#a699874c56e0fd8b3ad6aad16d863192f" title="Applies extra guide emphasis without allowing the guide to shrink below the configured minimum." alt="" coords="786,5,995,45"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="717,32,772,29,772,34,717,37"/>
 <area shape="rect" id="Node000005" href="$classSliderNoteVisual.html#a43d5d5f8680915b5e519a07219e48ada" title="Binds note settings, caches derived visual constants, and reapplies any existing path or progress sta..." alt="" coords="538,119,701,145"/>
@@ -19,8 +21,8 @@
 <area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="681,142,785,164,784,170,680,147"/>
 <area shape="rect" id="Node000009" href="$classSliderNoteVisual.html#a1e9832fd23e7e3454884cee23e7165ff" title="Rebuilds the timing guide mesh that previews where the lead fill has currently advanced." alt="" coords="791,233,991,273"/>
 <area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="643,143,706,179,786,219,806,226,804,231,784,224,703,184,640,147"/>
-<area shape="rect" id="Node000011" href="$classSliderNote.html#ac8ba1caf52141955e8816a21a64e6762" title="Rebuilds the playable path, optionally smoothing the authored points first when curve mode is enabled..." alt="" coords="501,233,737,258"/>
-<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="405,192,552,227,551,232,404,197"/>
-<area shape="rect" id="Node000012" href="$classCurveUtil.html#a47e7bfd91bf991a5ac92d1614bd7ce11" title="점들을 지나는 경로 생성기" alt="" coords="817,298,965,323"/>
-<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="674,255,824,292,823,297,672,261"/>
+<area shape="rect" id="Node000012" href="$classSliderNote.html#ac8ba1caf52141955e8816a21a64e6762" title="Rebuilds the playable path, optionally smoothing the authored points first when curve mode is enabled..." alt="" coords="501,278,737,303"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="436,261,520,273,520,279,435,266"/>
+<area shape="rect" id="Node000013" href="$classCurveUtil.html#a47e7bfd91bf991a5ac92d1614bd7ce11" title="점들을 지나는 경로 생성기" alt="" coords="817,298,965,323"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="738,297,803,302,803,307,737,302"/>
 </map>

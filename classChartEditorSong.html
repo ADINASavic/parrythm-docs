@@ -1,0 +1,684 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ko">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=11"/>
+<meta name="generator" content="Doxygen 1.9.8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Parrythm: ChartEditorSong 클래스 참조</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtreedata.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+  $(document).ready(function() { init_search(); });
+/* @license-end */
+</script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+<link href="doxygen-awesome.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr id="projectrow">
+  <td id="projectalign">
+   <div id="projectname">Parrythm
+   </div>
+  </td>
+    <td>        <div id="MSearchBox" class="MSearchBoxInactive">
+        <span class="left">
+          <span id="MSearchSelect"                onmouseover="return searchBox.OnSearchSelectShow()"                onmouseout="return searchBox.OnSearchSelectHide()">&#160;</span>
+          <input type="text" id="MSearchField" value="" placeholder="검색" accesskey="S"
+               onfocus="searchBox.OnSearchFieldFocus(true)" 
+               onblur="searchBox.OnSearchFieldFocus(false)" 
+               onkeyup="searchBox.OnSearchFieldChange(event)"/>
+          </span><span class="right">
+            <a id="MSearchClose" href="javascript:searchBox.CloseResultsWindow()"><img id="MSearchCloseImg" border="0" src="search/close.svg" alt=""/></a>
+          </span>
+        </div>
+</td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- 다음에 의해 생성됨 :  Doxygen 1.9.8 -->
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+var searchBox = new SearchBox("searchBox", "search/",'.html');
+/* @license-end */
+</script>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+$(document).ready(function(){initNavTree('classChartEditorSong.html',''); initResizable(); });
+/* @license-end */
+</script>
+<div id="doc-content">
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<div id="MSearchResults">
+<div class="SRPage">
+<div id="SRIndex">
+<div id="SRResults"></div>
+<div class="SRStatus" id="Loading">로딩중...</div>
+<div class="SRStatus" id="Searching">검색중...</div>
+<div class="SRStatus" id="NoMatches">일치하는것 없음</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="header">
+  <div class="summary">
+<a href="#pub-methods">Public 멤버 함수</a> &#124;
+<a href="#pub-static-methods">정적 Public 멤버 함수</a> &#124;
+<a href="#properties">속성</a> &#124;
+<a href="classChartEditorSong-members.html">모든 멤버 목록</a>  </div>
+  <div class="headertitle"><div class="title">ChartEditorSong 클래스 참조<span class="mlabels"><span class="mlabel">sealed</span></span></div></div>
+</div><!--header-->
+<div class="contents">
+
+<p>곡 폴더 입출력. 브라우저 에디터의 폴더 열기/난이도 전환/오디오 로드를 파일 시스템 기준으로 옮긴 것. song.json 모델과 오디오 타입 판별은 게임이 쓰는 <a class="el" href="classSongMeta.html">SongMeta</a> / MusicAudioPathResolver를 그대로 씀.  
+ <a href="classChartEditorSong.html#details">더 자세히 ...</a></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public 멤버 함수</h2></td></tr>
+<tr class="memitem:a36b7f99c491117335f8a515a30d6258e" id="r_a36b7f99c491117335f8a515a30d6258e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorSong.html#a36b7f99c491117335f8a515a30d6258e">LoadFolder</a> (string folderPath, out string error)</td></tr>
+<tr class="separator:a36b7f99c491117335f8a515a30d6258e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5e80475262a2de9a022c1b6cc10c8f75" id="r_a5e80475262a2de9a022c1b6cc10c8f75"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorSong.html#a5e80475262a2de9a022c1b6cc10c8f75">SelectDifficulty</a> (int index)</td></tr>
+<tr class="separator:a5e80475262a2de9a022c1b6cc10c8f75"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad8db6a5384e7b9e1cc17779e04b0a0ae" id="r_ad8db6a5384e7b9e1cc17779e04b0a0ae"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorSong.html#ad8db6a5384e7b9e1cc17779e04b0a0ae">ChartPathFor</a> (<a class="el" href="classDifficultyInfo.html">DifficultyInfo</a> diff)</td></tr>
+<tr class="separator:ad8db6a5384e7b9e1cc17779e04b0a0ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a33c1f345c35cbff148107c6efbd63a50" id="r_a33c1f345c35cbff148107c6efbd63a50"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorSong.html#a33c1f345c35cbff148107c6efbd63a50">ReadChartText</a> (<a class="el" href="classDifficultyInfo.html">DifficultyInfo</a> diff, out string error)</td></tr>
+<tr class="separator:a33c1f345c35cbff148107c6efbd63a50"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2619a02b89a1fcc30d6ad9f453a3b7c8" id="r_a2619a02b89a1fcc30d6ad9f453a3b7c8"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorSong.html#a2619a02b89a1fcc30d6ad9f453a3b7c8">WriteChartText</a> (<a class="el" href="classDifficultyInfo.html">DifficultyInfo</a> diff, string json, out string error)</td></tr>
+<tr class="separator:a2619a02b89a1fcc30d6ad9f453a3b7c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0218c1e8c52b04b31860b165c06c2bb1" id="r_a0218c1e8c52b04b31860b165c06c2bb1"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorSong.html#a0218c1e8c52b04b31860b165c06c2bb1">WriteSongMeta</a> (out string error)</td></tr>
+<tr class="separator:a0218c1e8c52b04b31860b165c06c2bb1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a510818681b29331b7776534e2ab18b79" id="r_a510818681b29331b7776534e2ab18b79"><td class="memItemLeft" align="right" valign="top">IEnumerator&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorSong.html#a510818681b29331b7776534e2ab18b79">LoadAudio</a> ()</td></tr>
+<tr class="memdesc:a510818681b29331b7776534e2ab18b79"><td class="mdescLeft">&#160;</td><td class="mdescRight">오디오는 스트리밍이 아니라 통째로 읽음. 파형을 뽑으려면 샘플이 다 필요함.  <br /></td></tr>
+<tr class="separator:a510818681b29331b7776534e2ab18b79"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+정적 Public 멤버 함수</h2></td></tr>
+<tr class="memitem:a450145c167acbdc324bf83afa994b903" id="r_a450145c167acbdc324bf83afa994b903"><td class="memItemLeft" align="right" valign="top">static List&lt; string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorSong.html#a450145c167acbdc324bf83afa994b903">ListSongFolders</a> (string root)</td></tr>
+<tr class="separator:a450145c167acbdc324bf83afa994b903"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="properties" name="properties"></a>
+속성</h2></td></tr>
+<tr class="memitem:a30b2548719ad44abf586f501a67c9d6c" id="r_a30b2548719ad44abf586f501a67c9d6c"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorSong.html#a30b2548719ad44abf586f501a67c9d6c">FolderPath</a><code> [get]</code></td></tr>
+<tr class="separator:a30b2548719ad44abf586f501a67c9d6c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa6a5dd36a1b495c6eee8e34bdd3b2307" id="r_aa6a5dd36a1b495c6eee8e34bdd3b2307"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classSongMeta.html">SongMeta</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorSong.html#aa6a5dd36a1b495c6eee8e34bdd3b2307">Meta</a><code> [get]</code></td></tr>
+<tr class="separator:aa6a5dd36a1b495c6eee8e34bdd3b2307"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5d403559d69c6995045ae646c6186eab" id="r_a5d403559d69c6995045ae646c6186eab"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorSong.html#a5d403559d69c6995045ae646c6186eab">DifficultyIndex</a> = -1<code> [get]</code></td></tr>
+<tr class="separator:a5d403559d69c6995045ae646c6186eab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a47f3dce7cb776ba17d6a5f86a48ed5bd" id="r_a47f3dce7cb776ba17d6a5f86a48ed5bd"><td class="memItemLeft" align="right" valign="top">AudioClip&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorSong.html#a47f3dce7cb776ba17d6a5f86a48ed5bd">Clip</a><code> [get]</code></td></tr>
+<tr class="separator:a47f3dce7cb776ba17d6a5f86a48ed5bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac0006b4ff658a2740d494da770318ff6" id="r_ac0006b4ff658a2740d494da770318ff6"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorSong.html#ac0006b4ff658a2740d494da770318ff6">AudioError</a><code> [get]</code></td></tr>
+<tr class="separator:ac0006b4ff658a2740d494da770318ff6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a86e6a0191ed8f31e2a2551357e1ef68f" id="r_a86e6a0191ed8f31e2a2551357e1ef68f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorSong.html#a86e6a0191ed8f31e2a2551357e1ef68f">HasSong</a><code> [get]</code></td></tr>
+<tr class="separator:a86e6a0191ed8f31e2a2551357e1ef68f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a71d8fb2c4191796646070a124ac9cb03" id="r_a71d8fb2c4191796646070a124ac9cb03"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorSong.html#a71d8fb2c4191796646070a124ac9cb03">FolderName</a><code> [get]</code></td></tr>
+<tr class="separator:a71d8fb2c4191796646070a124ac9cb03"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a946b9c92d4b758347fc63eced3e988ef" id="r_a946b9c92d4b758347fc63eced3e988ef"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classDifficultyInfo.html">DifficultyInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorSong.html#a946b9c92d4b758347fc63eced3e988ef">CurrentDifficulty</a><code> [get]</code></td></tr>
+<tr class="separator:a946b9c92d4b758347fc63eced3e988ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab89e5e8873ed815a203f0c15a0bc6f46" id="r_ab89e5e8873ed815a203f0c15a0bc6f46"><td class="memItemLeft" align="right" valign="top">static string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorSong.html#ab89e5e8873ed815a203f0c15a0bc6f46">DefaultChartsRoot</a><code> [get]</code></td></tr>
+<tr class="memdesc:ab89e5e8873ed815a203f0c15a0bc6f46"><td class="mdescLeft">&#160;</td><td class="mdescRight">기본 채보 루트. 게임이 실제로 읽는 곳이라 여기부터 보여주면 됨.  <br /></td></tr>
+<tr class="separator:ab89e5e8873ed815a203f0c15a0bc6f46"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a269f8068cbbce14be1896d77598ecb4b" id="r_a269f8068cbbce14be1896d77598ecb4b"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorSong.html#a269f8068cbbce14be1896d77598ecb4b">AudioPath</a><code> [get]</code></td></tr>
+<tr class="separator:a269f8068cbbce14be1896d77598ecb4b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">상세한 설명</h2>
+<div class="textblock"><p>곡 폴더 입출력. 브라우저 에디터의 폴더 열기/난이도 전환/오디오 로드를 파일 시스템 기준으로 옮긴 것. song.json 모델과 오디오 타입 판별은 게임이 쓰는 <a class="el" href="classSongMeta.html">SongMeta</a> / MusicAudioPathResolver를 그대로 씀. </p>
+</div><h2 class="groupheader">멤버 함수 문서화</h2>
+<a id="ad8db6a5384e7b9e1cc17779e04b0a0ae" name="ad8db6a5384e7b9e1cc17779e04b0a0ae"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad8db6a5384e7b9e1cc17779e04b0a0ae">&#9670;&#160;</a></span>ChartPathFor()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">string ChartEditorSong.ChartPathFor </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classDifficultyInfo.html">DifficultyInfo</a>&#160;</td>
+          <td class="paramname"><em>diff</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="dynheader">
+이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorSong_ad8db6a5384e7b9e1cc17779e04b0a0ae_icgraph.png" border="0" usemap="#aclassChartEditorSong_ad8db6a5384e7b9e1cc17779e04b0a0ae_icgraph" alt=""/></div>
+<map name="aclassChartEditorSong_ad8db6a5384e7b9e1cc17779e04b0a0ae_icgraph" id="aclassChartEditorSong_ad8db6a5384e7b9e1cc17779e04b0a0ae_icgraph">
+<area shape="rect" title=" " alt="" coords="281,31,496,56"/>
+<area shape="rect" href="classChartEditorSong.html#a33c1f345c35cbff148107c6efbd63a50" title=" " alt="" coords="6,5,233,31"/>
+<area shape="poly" title=" " alt="" coords="267,35,233,31,233,26,268,29"/>
+<area shape="rect" href="classChartEditorSong.html#a2619a02b89a1fcc30d6ad9f453a3b7c8" title=" " alt="" coords="5,55,233,80"/>
+<area shape="poly" title=" " alt="" coords="268,57,234,60,233,55,268,51"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a450145c167acbdc324bf83afa994b903" name="a450145c167acbdc324bf83afa994b903"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a450145c167acbdc324bf83afa994b903">&#9670;&#160;</a></span>ListSongFolders()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static List&lt; string &gt; ChartEditorSong.ListSongFolders </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>root</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a510818681b29331b7776534e2ab18b79" name="a510818681b29331b7776534e2ab18b79"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a510818681b29331b7776534e2ab18b79">&#9670;&#160;</a></span>LoadAudio()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">IEnumerator ChartEditorSong.LoadAudio </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>오디오는 스트리밍이 아니라 통째로 읽음. 파형을 뽑으려면 샘플이 다 필요함. </p>
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorSong_a510818681b29331b7776534e2ab18b79_cgraph.png" border="0" usemap="#aclassChartEditorSong_a510818681b29331b7776534e2ab18b79_cgraph" alt=""/></div>
+<map name="aclassChartEditorSong_a510818681b29331b7776534e2ab18b79_cgraph" id="aclassChartEditorSong_a510818681b29331b7776534e2ab18b79_cgraph">
+<area shape="rect" title="오디오는 스트리밍이 아니라 통째로 읽음. 파형을 뽑으려면 샘플이 다 필요함." alt="" coords="5,13,204,38"/>
+<area shape="rect" href="classMusicAudioPathResolver.html#a8c20c60a6d3730c7c28f88307d859862" title=" " alt="" coords="252,5,489,45"/>
+<area shape="poly" title=" " alt="" coords="204,23,238,23,238,28,204,28"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a36b7f99c491117335f8a515a30d6258e" name="a36b7f99c491117335f8a515a30d6258e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a36b7f99c491117335f8a515a30d6258e">&#9670;&#160;</a></span>LoadFolder()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ChartEditorSong.LoadFolder </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>folderPath</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">out string&#160;</td>
+          <td class="paramname"><em>error</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a33c1f345c35cbff148107c6efbd63a50" name="a33c1f345c35cbff148107c6efbd63a50"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a33c1f345c35cbff148107c6efbd63a50">&#9670;&#160;</a></span>ReadChartText()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">string ChartEditorSong.ReadChartText </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classDifficultyInfo.html">DifficultyInfo</a>&#160;</td>
+          <td class="paramname"><em>diff</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">out string&#160;</td>
+          <td class="paramname"><em>error</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorSong_a33c1f345c35cbff148107c6efbd63a50_cgraph.png" border="0" usemap="#aclassChartEditorSong_a33c1f345c35cbff148107c6efbd63a50_cgraph" alt=""/></div>
+<map name="aclassChartEditorSong_a33c1f345c35cbff148107c6efbd63a50_cgraph" id="aclassChartEditorSong_a33c1f345c35cbff148107c6efbd63a50_cgraph">
+<area shape="rect" title=" " alt="" coords="5,5,232,31"/>
+<area shape="rect" href="classChartEditorSong.html#ad8db6a5384e7b9e1cc17779e04b0a0ae" title=" " alt="" coords="280,5,495,31"/>
+<area shape="poly" title=" " alt="" coords="232,15,266,15,266,21,232,21"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a5e80475262a2de9a022c1b6cc10c8f75" name="a5e80475262a2de9a022c1b6cc10c8f75"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5e80475262a2de9a022c1b6cc10c8f75">&#9670;&#160;</a></span>SelectDifficulty()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ChartEditorSong.SelectDifficulty </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>index</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a2619a02b89a1fcc30d6ad9f453a3b7c8" name="a2619a02b89a1fcc30d6ad9f453a3b7c8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2619a02b89a1fcc30d6ad9f453a3b7c8">&#9670;&#160;</a></span>WriteChartText()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ChartEditorSong.WriteChartText </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classDifficultyInfo.html">DifficultyInfo</a>&#160;</td>
+          <td class="paramname"><em>diff</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>json</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">out string&#160;</td>
+          <td class="paramname"><em>error</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorSong_a2619a02b89a1fcc30d6ad9f453a3b7c8_cgraph.png" border="0" usemap="#aclassChartEditorSong_a2619a02b89a1fcc30d6ad9f453a3b7c8_cgraph" alt=""/></div>
+<map name="aclassChartEditorSong_a2619a02b89a1fcc30d6ad9f453a3b7c8_cgraph" id="aclassChartEditorSong_a2619a02b89a1fcc30d6ad9f453a3b7c8_cgraph">
+<area shape="rect" title=" " alt="" coords="5,5,233,31"/>
+<area shape="rect" href="classChartEditorSong.html#ad8db6a5384e7b9e1cc17779e04b0a0ae" title=" " alt="" coords="281,5,496,31"/>
+<area shape="poly" title=" " alt="" coords="233,15,267,15,267,21,233,21"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a0218c1e8c52b04b31860b165c06c2bb1" name="a0218c1e8c52b04b31860b165c06c2bb1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0218c1e8c52b04b31860b165c06c2bb1">&#9670;&#160;</a></span>WriteSongMeta()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ChartEditorSong.WriteSongMeta </td>
+          <td>(</td>
+          <td class="paramtype">out string&#160;</td>
+          <td class="paramname"><em>error</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">속성 문서화</h2>
+<a id="ac0006b4ff658a2740d494da770318ff6" name="ac0006b4ff658a2740d494da770318ff6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac0006b4ff658a2740d494da770318ff6">&#9670;&#160;</a></span>AudioError</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">string ChartEditorSong.AudioError</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a269f8068cbbce14be1896d77598ecb4b" name="a269f8068cbbce14be1896d77598ecb4b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a269f8068cbbce14be1896d77598ecb4b">&#9670;&#160;</a></span>AudioPath</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">string ChartEditorSong.AudioPath</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a47f3dce7cb776ba17d6a5f86a48ed5bd" name="a47f3dce7cb776ba17d6a5f86a48ed5bd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a47f3dce7cb776ba17d6a5f86a48ed5bd">&#9670;&#160;</a></span>Clip</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">AudioClip ChartEditorSong.Clip</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a946b9c92d4b758347fc63eced3e988ef" name="a946b9c92d4b758347fc63eced3e988ef"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a946b9c92d4b758347fc63eced3e988ef">&#9670;&#160;</a></span>CurrentDifficulty</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classDifficultyInfo.html">DifficultyInfo</a> ChartEditorSong.CurrentDifficulty</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ab89e5e8873ed815a203f0c15a0bc6f46" name="ab89e5e8873ed815a203f0c15a0bc6f46"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab89e5e8873ed815a203f0c15a0bc6f46">&#9670;&#160;</a></span>DefaultChartsRoot</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">string ChartEditorSong.DefaultChartsRoot</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">get</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>기본 채보 루트. 게임이 실제로 읽는 곳이라 여기부터 보여주면 됨. </p>
+
+</div>
+</div>
+<a id="a5d403559d69c6995045ae646c6186eab" name="a5d403559d69c6995045ae646c6186eab"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5d403559d69c6995045ae646c6186eab">&#9670;&#160;</a></span>DifficultyIndex</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int ChartEditorSong.DifficultyIndex = -1</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a71d8fb2c4191796646070a124ac9cb03" name="a71d8fb2c4191796646070a124ac9cb03"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a71d8fb2c4191796646070a124ac9cb03">&#9670;&#160;</a></span>FolderName</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">string ChartEditorSong.FolderName</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a30b2548719ad44abf586f501a67c9d6c" name="a30b2548719ad44abf586f501a67c9d6c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a30b2548719ad44abf586f501a67c9d6c">&#9670;&#160;</a></span>FolderPath</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">string ChartEditorSong.FolderPath</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a86e6a0191ed8f31e2a2551357e1ef68f" name="a86e6a0191ed8f31e2a2551357e1ef68f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a86e6a0191ed8f31e2a2551357e1ef68f">&#9670;&#160;</a></span>HasSong</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ChartEditorSong.HasSong</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aa6a5dd36a1b495c6eee8e34bdd3b2307" name="aa6a5dd36a1b495c6eee8e34bdd3b2307"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa6a5dd36a1b495c6eee8e34bdd3b2307">&#9670;&#160;</a></span>Meta</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classSongMeta.html">SongMeta</a> ChartEditorSong.Meta</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<hr/>이 클래스에 대한 문서화 페이지는 다음의 파일로부터 생성되었습니다.:<ul>
+<li>Assets/Features/ChartEditor/<a class="el" href="ChartEditorSong_8cs.html">ChartEditorSong.cs</a></li>
+</ul>
+</div><!-- contents -->
+</div><!-- doc-content -->
+<!-- start footer part -->
+<div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
+  <ul>
+    <li class="navelem"><a class="el" href="classChartEditorSong.html">ChartEditorSong</a></li>
+    <li class="footer">다음에 의해 생성됨 :  <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+  </ul>
+</div>
+</body>
+</html>

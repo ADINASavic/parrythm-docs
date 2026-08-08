@@ -1,0 +1,15 @@
+<map id="ChartEditorDocument.SortByTime" name="ChartEditorDocument.SortByTime">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,197,121"/>
+<area shape="rect" id="Node000002" href="$classChartEditorNotes.html#adae2ab40750f77ca1092b737481134b4" title="노트를 대표하는 시각(플레이백 초). 리스트 정렬과 파형 배치 기준." alt="" coords="245,63,469,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,89,231,85,232,90,198,94"/>
+<area shape="rect" id="Node000007" href="$classChartEditorDocument.html#a91072f4d5f1ae5b77d851b22df152e91" title="필드만 고쳤을 때. 구조 변경과 같은 취급으로 히스토리에 남김." alt="" coords="256,112,459,137"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="198,107,242,111,242,117,197,112"/>
+<area shape="rect" id="Node000003" href="$classChartEditorNotes.html#ae2d772c4dbe96bfb90d7b2d0460ae815" title=" " alt="" coords="517,5,759,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="420,60,561,31,562,36,421,65"/>
+<area shape="rect" id="Node000004" href="$classChartEditorNotes.html#a46565c08ced34e4c791a05d689d10605" title="차트 시각(sec/beat 쌍) → 플레이백 초. 오프셋 포함." alt="" coords="535,55,741,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="469,73,521,73,521,78,469,78"/>
+<area shape="rect" id="Node000006" href="$classChartEditorNotes.html#ab4dfcfdbb89c0bd2dc1f1f342d8659c2" title="isLong/isTrail 때문에 저장 타입과 화면에 보이는 타입이 다름." alt="" coords="530,120,746,145"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="421,85,562,115,561,120,420,91"/>
+<area shape="rect" id="Node000005" href="$classChartEditorTime.html#a2e6ceae38b0e560c9f1502cecc8ef2e9" title=" " alt="" coords="807,63,1005,88"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="741,73,793,73,793,78,741,78"/>
+</map>

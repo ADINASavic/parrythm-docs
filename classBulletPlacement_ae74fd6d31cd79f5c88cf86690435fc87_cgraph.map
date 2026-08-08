@@ -1,0 +1,7 @@
+<map id="BulletPlacement.BuildNote" name="BulletPlacement.BuildNote">
+<area shape="rect" id="Node000001" title="dock이 dockSecPlayback에 오도록 spawn 시각을 앞당겨 노트를 만듦." alt="" coords="5,31,203,56"/>
+<area shape="rect" id="Node000002" href="$classChartEditorTime.html#abd22cf96e5553fcf34fb7a11334f82e8" title="1ms 격자로 반올림. 에디터가 쓰는 모든 시간 필드의 해상도." alt="" coords="269,5,431,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,31,255,25,255,30,203,36"/>
+<area shape="rect" id="Node000003" href="$classChartEditorTime.html#abbfd9c6c25e840cde4bb90d9f36be0ad" title=" " alt="" coords="251,55,449,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,50,237,54,237,59,203,56"/>
+</map>

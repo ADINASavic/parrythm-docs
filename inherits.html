@@ -107,69 +107,129 @@ $(document).ready(function(){initNavTree('hierarchy.html',''); initResizable(); 
 <area shape="rect" href="classAppDataPaths.html" title=" " alt="" coords="5,5,119,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_1.png" border="0" usemap="#aChartEventDispatcher" alt=""/>
+<tr><td><img src="inherit_graph_1.png" border="0" usemap="#aBulletPlacement" alt=""/>
+<map name="aBulletPlacement" id="aBulletPlacement">
+<area shape="rect" href="classBulletPlacement.html" title="2&#45;Click 직선 불릿 계산. 웹 에디터에서 쓰던 것과 같은 규칙임. 방향점 하나와 Dock 지점 하나만 있으면 화면 밖 Spawn/Despawn과 구간 시간이 전부 정해짐...." alt="" coords="5,5,135,31"/>
+</map>
+</td></tr>
+<tr><td><img src="inherit_graph_2.png" border="0" usemap="#aBulletPlacement_8Triplet" alt=""/>
+<map name="aBulletPlacement_8Triplet" id="aBulletPlacement_8Triplet">
+<area shape="rect" href="structBulletPlacement_1_1Triplet.html" title=" " alt="" coords="5,5,179,31"/>
+</map>
+</td></tr>
+<tr><td><img src="inherit_graph_3.png" border="0" usemap="#aChartEditorDocument" alt=""/>
+<map name="aChartEditorDocument" id="aChartEditorDocument">
+<area shape="rect" href="classChartEditorDocument.html" title="편집 중인 차트 하나. 노트 CRUD와 undo/redo, dirty 상태를 들고 있음. 스냅샷은 그냥 차트 JSON 문자열임 — 저장 경로와 같은 코드라 되돌린 결과가 저장 결과와..." alt="" coords="5,5,168,31"/>
+</map>
+</td></tr>
+<tr><td><img src="inherit_graph_4.png" border="0" usemap="#aChartEditorDraw" alt=""/>
+<map name="aChartEditorDraw" id="aChartEditorDraw">
+<area shape="rect" href="classChartEditorDraw.html" title="Painter2D에 없는 것들 — 점선, 폴리라인 위 진행도, 원 채우기 — 을 모아둠." alt="" coords="5,5,135,31"/>
+</map>
+</td></tr>
+<tr><td><img src="inherit_graph_5.png" border="0" usemap="#aChartEditorJson" alt=""/>
+<map name="aChartEditorJson" id="aChartEditorJson">
+<area shape="rect" href="classChartEditorJson.html" title="LevelChartData → *.chart.json 직렬화. 읽기는 LevelChartJsonTool이 이미 하므로 쓰기만 담당함. 키 이름과 타입별로 내보내는 필드는 웹 에디터가..." alt="" coords="5,5,128,31"/>
+</map>
+</td></tr>
+<tr><td><img src="inherit_graph_6.png" border="0" usemap="#aChartEditorNotes" alt=""/>
+<map name="aChartEditorNotes" id="aChartEditorNotes">
+<area shape="rect" href="classChartEditorNotes.html" title="노트 하나에서 &quot;지금 몇 초짜리냐&quot;를 뽑는 규칙. core.js의 getNoteTimeSec / getSliderStartSec / getBulletSpawnSec 계열을 그대로 옮..." alt="" coords="5,5,139,31"/>
+</map>
+</td></tr>
+<tr><td><img src="inherit_graph_7.png" border="0" usemap="#aChartEditorSettings" alt=""/>
+<map name="aChartEditorSettings" id="aChartEditorSettings">
+<area shape="rect" href="classChartEditorSettings.html" title="스폰 계산·프리뷰용 값들. 웹 에디터의 &quot;Spawn Calc Settings&quot; 패널과 같은 역할임. 차트에 저장되는 값(circleRadius, bulletSpeed)은 문서 쪽에 ..." alt="" coords="5,5,153,31"/>
+</map>
+</td></tr>
+<tr><td><img src="inherit_graph_8.png" border="0" usemap="#aChartEditorSong" alt=""/>
+<map name="aChartEditorSong" id="aChartEditorSong">
+<area shape="rect" href="classChartEditorSong.html" title="곡 폴더 입출력. 브라우저 에디터의 폴더 열기/난이도 전환/오디오 로드를 파일 시스템 기준으로 옮긴 것. song.json 모델과 오디오 타입 판별은 게임이 쓰는 SongMeta /..." alt="" coords="5,5,132,31"/>
+</map>
+</td></tr>
+<tr><td><img src="inherit_graph_9.png" border="0" usemap="#aChartEditorTime" alt=""/>
+<map name="aChartEditorTime" id="aChartEditorTime">
+<area shape="rect" href="classChartEditorTime.html" title="웹 에디터(core.js)의 템포/박자 계산을 그대로 옮긴 것. 비트↔초 변환과 스냅이 전부 여기로 모임. 런타임 ChartTimelineRuntime과 같은 규칙을 써야 프리뷰가 ..." alt="" coords="5,5,133,31"/>
+</map>
+</td></tr>
+<tr><td><img src="inherit_graph_10.png" border="0" usemap="#aChartEditorTime_8BarInfo" alt=""/>
+<map name="aChartEditorTime_8BarInfo" id="aChartEditorTime_8BarInfo">
+<area shape="rect" href="structChartEditorTime_1_1BarInfo.html" title=" " alt="" coords="5,5,184,31"/>
+</map>
+</td></tr>
+<tr><td><img src="inherit_graph_11.png" border="0" usemap="#aChartEditorUi" alt=""/>
+<map name="aChartEditorUi" id="aChartEditorUi">
+<area shape="rect" href="classChartEditorUi.html" title="패널·행·숫자 필드 같은 조각을 만드는 헬퍼. 스타일은 전부 USS 클래스로 넘김. 런타임에서 확실히 되는 컨트롤만 씀 — 숫자 입력도 TextField 기반으로 직접 만듦." alt="" coords="5,5,115,31"/>
+</map>
+</td></tr>
+<tr><td><img src="inherit_graph_12.png" border="0" usemap="#aChartEventDispatcher" alt=""/>
 <map name="aChartEventDispatcher" id="aChartEventDispatcher">
 <area shape="rect" href="classChartEventDispatcher.html" title=" " alt="" coords="5,5,169,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_2.png" border="0" usemap="#aChartHashUtility" alt=""/>
+<tr><td><img src="inherit_graph_13.png" border="0" usemap="#aChartHashUtility" alt=""/>
 <map name="aChartHashUtility" id="aChartHashUtility">
 <area shape="rect" href="classChartHashUtility.html" title=" " alt="" coords="5,5,136,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_3.png" border="0" usemap="#aChartTimelineRuntime" alt=""/>
+<tr><td><img src="inherit_graph_14.png" border="0" usemap="#aChartImporter" alt=""/>
+<map name="aChartImporter" id="aChartImporter">
+<area shape="rect" href="classChartImporter.html" title="Imports a chart .zip into StreamingAssets/Charts. The zip may contain the song folder at its root or ..." alt="" coords="5,5,119,31"/>
+</map>
+</td></tr>
+<tr><td><img src="inherit_graph_15.png" border="0" usemap="#aChartTimelineRuntime" alt=""/>
 <map name="aChartTimelineRuntime" id="aChartTimelineRuntime">
 <area shape="rect" href="classChartTimelineRuntime.html" title=" " alt="" coords="5,5,175,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_4.png" border="0" usemap="#aCircleNoteInit" alt=""/>
+<tr><td><img src="inherit_graph_16.png" border="0" usemap="#aCircleNoteInit" alt=""/>
 <map name="aCircleNoteInit" id="aCircleNoteInit">
 <area shape="rect" href="structCircleNoteInit.html" title=" " alt="" coords="5,5,116,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_5.png" border="0" usemap="#aCurveUtil" alt=""/>
+<tr><td><img src="inherit_graph_17.png" border="0" usemap="#aCurveUtil" alt=""/>
 <map name="aCurveUtil" id="aCurveUtil">
 <area shape="rect" href="classCurveUtil.html" title="노트 경로를 오차 기준으로 폴리라인 근사하는 공용 유틸리티." alt="" coords="5,5,88,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_6.png" border="0" usemap="#aDifficultyColorPalette" alt=""/>
+<tr><td><img src="inherit_graph_18.png" border="0" usemap="#aDifficultyColorPalette" alt=""/>
 <map name="aDifficultyColorPalette" id="aDifficultyColorPalette">
 <area shape="rect" href="classDifficultyColorPalette.html" title=" " alt="" coords="5,5,165,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_7.png" border="0" usemap="#aDifficultyInfo" alt=""/>
+<tr><td><img src="inherit_graph_19.png" border="0" usemap="#aDifficultyInfo" alt=""/>
 <map name="aDifficultyInfo" id="aDifficultyInfo">
 <area shape="rect" href="classDifficultyInfo.html" title=" " alt="" coords="5,5,112,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_8.png" border="0" usemap="#aEaseUtil" alt=""/>
+<tr><td><img src="inherit_graph_20.png" border="0" usemap="#aEaseUtil" alt=""/>
 <map name="aEaseUtil" id="aEaseUtil">
 <area shape="rect" href="classEaseUtil.html" title=" " alt="" coords="5,5,81,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_9.png" border="0" usemap="#aGameSavePaths" alt=""/>
+<tr><td><img src="inherit_graph_21.png" border="0" usemap="#aGameSavePaths" alt=""/>
 <map name="aGameSavePaths" id="aGameSavePaths">
 <area shape="rect" href="classGameSavePaths.html" title=" " alt="" coords="5,5,133,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_10.png" border="0" usemap="#aGameSettingsSaveManifest" alt=""/>
+<tr><td><img src="inherit_graph_22.png" border="0" usemap="#aGameSettingsSaveManifest" alt=""/>
 <map name="aGameSettingsSaveManifest" id="aGameSettingsSaveManifest">
 <area shape="rect" href="classGameSettingsSaveManifest.html" title=" " alt="" coords="5,5,208,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_11.png" border="0" usemap="#aGameSettingsSaveService" alt=""/>
+<tr><td><img src="inherit_graph_23.png" border="0" usemap="#aGameSettingsSaveService" alt=""/>
 <map name="aGameSettingsSaveService" id="aGameSettingsSaveService">
 <area shape="rect" href="classGameSettingsSaveService.html" title=" " alt="" coords="5,5,200,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_12.png" border="0" usemap="#aGraphic" alt=""/>
+<tr><td><img src="inherit_graph_24.png" border="0" usemap="#aGraphic" alt=""/>
 <map name="aGraphic" id="aGraphic">
 <area shape="rect" title=" " alt="" coords="5,5,77,31"/>
 <area shape="rect" href="classUITrailGraphic.html" title=" " alt="" coords="125,5,239,31"/>
 <area shape="poly" title=" " alt="" coords="91,15,125,15,125,21,91,21"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_13.png" border="0" usemap="#aIDeselectHandler" alt=""/>
+<tr><td><img src="inherit_graph_25.png" border="0" usemap="#aIDeselectHandler" alt=""/>
 <map name="aIDeselectHandler" id="aIDeselectHandler">
 <area shape="rect" title=" " alt="" coords="5,5,140,31"/>
 <area shape="rect" href="classInputFieldFocusRelay.html" title="텍스트 입력 중 메뉴 내비게이션 입력이 함께 처리되지 않도록 TMP_InputField의 focus 상태를 owner에 전달하는 브릿지." alt="" coords="231,55,391,80"/>
@@ -181,7 +241,7 @@ $(document).ready(function(){initNavTree('hierarchy.html',''); initResizable(); 
 <area shape="poly" title=" " alt="" coords="145,65,231,65,231,70,145,70"/>
 <area shape="rect" href="interfaceISettingsController.html" title=" " alt="" coords="240,844,383,869"/>
 <area shape="rect" href="classSettingsCarouselController.html" title=" " alt="" coords="506,1189,702,1215"/>
-<area shape="poly" title=" " alt="" coords="397,861,418,869,436,880,475,915,507,956,535,1001,557,1047,588,1131,603,1188,597,1190,583,1133,552,1049,530,1004,503,960,471,919,433,884,415,874,395,866"/>
+<area shape="poly" title=" " alt="" coords="397,860,417,868,436,879,475,914,508,955,535,1001,557,1047,588,1131,603,1189,598,1190,583,1133,553,1049,531,1003,504,958,471,917,433,883,415,872,395,865"/>
 <area shape="rect" href="interfaceISettingsPage.html" title=" " alt="" coords="17,153,128,179"/>
 <area shape="rect" href="classSettingsPage.html" title=" " alt="" coords="258,153,365,179"/>
 <area shape="poly" title=" " alt="" coords="142,163,258,163,258,169,142,169"/>
@@ -192,129 +252,143 @@ $(document).ready(function(){initNavTree('hierarchy.html',''); initResizable(); 
 <area shape="rect" href="interfaceIStageEndTrigger.html" title=" " alt="" coords="7,203,138,228"/>
 <area shape="rect" href="classChartEndWatcher.html" title=" " alt="" coords="244,203,379,228"/>
 <area shape="poly" title=" " alt="" coords="152,213,244,213,244,218,152,218"/>
-<area shape="rect" title=" " alt="" coords="11,1411,135,1436"/>
-<area shape="poly" title=" " alt="" coords="72,1397,78,1132,96,715,110,502,130,313,155,169,169,120,186,90,206,74,230,65,232,70,209,79,190,93,174,122,160,170,135,313,116,502,101,715,83,1132,77,1397"/>
-<area shape="poly" title=" " alt="" coords="72,1397,79,1141,97,740,112,534,131,353,156,215,170,168,186,139,200,127,216,119,250,111,251,117,217,124,203,132,190,142,175,170,161,216,137,354,117,535,102,740,84,1141,77,1397"/>
-<area shape="poly" title=" " alt="" coords="72,1397,80,1149,99,764,114,567,133,393,157,261,171,216,186,188,201,176,219,167,258,160,258,165,221,172,204,180,190,192,175,218,162,262,138,394,119,568,104,764,85,1149,77,1397"/>
-<area shape="poly" title=" " alt="" coords="72,1397,80,1158,100,789,115,600,134,434,158,307,171,264,186,238,212,219,243,211,244,216,214,224,190,241,176,266,163,308,140,435,121,601,106,789,86,1158,77,1397"/>
+<area shape="rect" title=" " alt="" coords="11,1584,135,1609"/>
+<area shape="poly" title=" " alt="" coords="71,1570,75,1274,90,802,105,559,125,344,137,254,151,179,167,124,186,90,206,74,230,65,232,70,209,79,190,93,172,126,156,181,142,254,130,344,110,559,96,802,81,1274,77,1570"/>
+<area shape="poly" title=" " alt="" coords="72,1570,76,1283,92,827,106,592,126,384,138,297,152,226,168,172,186,139,200,127,216,119,250,111,251,117,217,124,203,132,190,142,173,174,157,227,144,298,131,385,112,593,97,827,81,1283,77,1570"/>
+<area shape="poly" title=" " alt="" coords="72,1570,77,1291,93,851,108,625,128,424,140,341,153,272,169,220,186,188,201,176,219,167,257,160,258,165,221,172,204,180,190,192,173,222,158,273,145,342,133,425,113,625,99,851,82,1292,77,1570"/>
+<area shape="poly" title=" " alt="" coords="72,1570,78,1301,95,876,110,658,129,465,141,385,154,318,169,268,186,238,212,219,243,211,244,216,214,224,190,241,174,270,159,319,146,385,134,466,115,659,100,876,83,1301,77,1571"/>
 <area shape="rect" href="classAnimatedCharacterController.html" title=" " alt="" coords="205,1041,417,1067"/>
-<area shape="poly" title=" " alt="" coords="72,1397,77,1332,93,1245,108,1200,128,1155,154,1113,186,1077,205,1065,208,1069,190,1081,158,1116,132,1157,113,1201,99,1247,82,1333,77,1397"/>
+<area shape="poly" title=" " alt="" coords="73,1570,84,1463,105,1314,121,1239,139,1170,161,1114,186,1076,204,1063,207,1068,190,1080,165,1117,144,1172,126,1240,111,1315,89,1463,79,1571"/>
 <area shape="rect" href="classAnimatedCharacterPicker.html" title=" " alt="" coords="218,1091,405,1116"/>
-<area shape="poly" title=" " alt="" coords="73,1396,82,1340,100,1267,115,1228,134,1191,157,1156,186,1127,216,1110,219,1114,190,1131,162,1160,138,1194,120,1230,106,1268,87,1341,79,1397"/>
+<area shape="poly" title=" " alt="" coords="74,1570,86,1472,109,1338,124,1271,142,1210,162,1159,186,1125,216,1107,219,1112,190,1129,167,1162,147,1211,129,1272,114,1339,92,1473,79,1571"/>
 <area shape="rect" href="classApproachCircleVisual.html" title=" " alt="" coords="231,1140,391,1165"/>
-<area shape="poly" title=" " alt="" coords="76,1396,87,1349,108,1289,140,1227,161,1200,186,1176,207,1163,230,1155,232,1160,210,1168,190,1180,165,1203,144,1230,112,1291,92,1350,81,1398"/>
-<area shape="rect" href="classAutoPlayController.html" title="8+2+5 입력으로 토글하는 오토플레이" alt="" coords="239,1189,383,1215"/>
-<area shape="poly" title=" " alt="" coords="79,1396,93,1357,115,1311,146,1264,186,1225,211,1212,238,1204,240,1209,213,1217,190,1229,150,1268,120,1314,98,1360,84,1398"/>
+<area shape="poly" title=" " alt="" coords="75,1570,89,1481,112,1362,145,1249,164,1205,186,1175,207,1161,230,1153,232,1158,209,1166,190,1179,169,1207,150,1251,118,1364,94,1482,80,1571"/>
+<area shape="rect" href="classAutoPlayController.html" title="오토플레이 상태와 인디케이터를 들고 있음. 토글은 곡선택 mods 버튼에서 함" alt="" coords="239,1189,383,1215"/>
+<area shape="poly" title=" " alt="" coords="71,1570,74,1501,90,1407,104,1357,124,1308,151,1263,186,1224,211,1209,238,1201,240,1206,213,1214,190,1228,156,1266,129,1311,109,1359,95,1408,80,1501,76,1570"/>
 <area shape="rect" href="classBackgroundVideoSync.html" title=" " alt="" coords="228,1239,395,1264"/>
-<area shape="poly" title=" " alt="" coords="84,1397,124,1334,152,1302,187,1274,227,1258,229,1263,189,1279,156,1306,128,1338,89,1399"/>
+<area shape="poly" title=" " alt="" coords="72,1570,79,1508,96,1428,111,1386,130,1344,155,1306,186,1273,206,1261,227,1253,229,1258,208,1266,190,1277,159,1310,135,1347,116,1388,102,1430,84,1509,78,1570"/>
 <area shape="rect" href="classBattleAnimationReaction.html" title=" " alt="" coords="219,1288,404,1313"/>
-<area shape="poly" title=" " alt="" coords="92,1399,133,1360,159,1340,187,1324,221,1311,223,1316,189,1328,162,1344,137,1364,96,1402"/>
+<area shape="poly" title=" " alt="" coords="74,1570,84,1517,103,1450,118,1415,136,1381,159,1350,186,1323,217,1306,220,1311,190,1327,163,1353,141,1384,123,1417,108,1452,89,1519,79,1571"/>
 <area shape="rect" href="classBulletNote.html" title=" " alt="" coords="266,1337,357,1363"/>
-<area shape="poly" title=" " alt="" coords="112,1402,187,1373,265,1355,266,1360,189,1378,114,1407"/>
+<area shape="poly" title=" " alt="" coords="77,1569,90,1526,111,1472,143,1417,163,1393,186,1372,205,1361,225,1354,265,1347,266,1352,226,1359,207,1366,190,1376,167,1397,147,1420,116,1474,95,1527,82,1571"/>
 <area shape="rect" href="classButtonPlayerProfile.html" title=" " alt="" coords="238,1387,385,1412"/>
-<area shape="poly" title=" " alt="" coords="148,1413,237,1404,238,1409,149,1418"/>
+<area shape="poly" title=" " alt="" coords="81,1570,96,1536,119,1495,149,1455,186,1421,211,1409,237,1401,239,1406,213,1414,190,1426,153,1458,123,1498,101,1538,86,1572"/>
 <area shape="rect" href="classButtonQuickSpeedSetting.html" title=" " alt="" coords="217,1436,405,1461"/>
-<area shape="poly" title=" " alt="" coords="149,1429,217,1436,217,1441,148,1434"/>
+<area shape="poly" title=" " alt="" coords="87,1571,128,1519,155,1492,187,1470,216,1458,218,1463,189,1475,159,1496,132,1523,91,1574"/>
 <area shape="rect" href="classCameraTweenTrack.html" title=" " alt="" coords="237,1485,385,1511"/>
-<area shape="poly" title=" " alt="" coords="111,1440,189,1471,238,1484,236,1489,187,1477,109,1444"/>
+<area shape="poly" title=" " alt="" coords="99,1573,139,1545,187,1520,236,1505,238,1510,189,1524,142,1550,102,1577"/>
 <area shape="rect" href="classCanvasGameIntroController.html" title=" " alt="" coords="210,1535,413,1560"/>
-<area shape="poly" title=" " alt="" coords="95,1445,136,1485,162,1504,189,1521,219,1532,217,1537,187,1526,159,1509,133,1489,92,1448"/>
+<area shape="poly" title=" " alt="" coords="143,1578,187,1569,243,1558,244,1563,189,1574,144,1584"/>
 <area shape="rect" href="classCanvasSongIntroController.html" title=" " alt="" coords="213,1584,409,1609"/>
-<area shape="poly" title=" " alt="" coords="88,1447,127,1510,156,1543,189,1570,214,1582,212,1587,187,1575,152,1547,123,1513,83,1450"/>
+<area shape="poly" title=" " alt="" coords="149,1594,213,1594,213,1599,149,1599"/>
 <area shape="rect" href="classCarouselController.html" title="Generic carousel UI controller for horizontal scrolling card selection. Handles visual layout,..." alt="" coords="240,1633,383,1659"/>
-<area shape="poly" title=" " alt="" coords="84,1448,97,1487,119,1534,150,1581,168,1602,189,1620,214,1632,240,1640,239,1645,212,1637,187,1624,165,1606,145,1584,114,1537,92,1489,79,1450"/>
-<area shape="rect" href="classChartPlayer.html" title=" " alt="" coords="262,1683,361,1708"/>
-<area shape="poly" title=" " alt="" coords="81,1449,91,1497,112,1557,144,1618,165,1646,190,1669,206,1679,224,1686,262,1693,261,1699,223,1692,204,1684,186,1673,161,1649,139,1621,107,1559,86,1498,75,1450"/>
-<area shape="rect" href="classCircleNoteVisual.html" title=" " alt="" coords="246,1732,377,1757"/>
-<area shape="poly" title=" " alt="" coords="79,1450,86,1506,105,1580,119,1618,138,1655,161,1689,190,1719,216,1734,246,1741,245,1747,214,1739,186,1723,157,1693,133,1658,114,1620,100,1581,81,1507,73,1450"/>
-<area shape="rect" href="classCleanCursor.html" title=" " alt="" coords="261,1781,362,1807"/>
-<area shape="poly" title=" " alt="" coords="77,1450,82,1515,98,1602,112,1647,132,1692,157,1733,190,1768,205,1779,223,1786,261,1793,260,1798,222,1791,203,1783,186,1772,153,1736,127,1694,107,1649,93,1603,77,1516,72,1450"/>
-<area shape="rect" href="classConnectionHintController.html" title=" " alt="" coords="218,1831,405,1856"/>
-<area shape="poly" title=" " alt="" coords="76,1449,78,1523,92,1623,106,1676,126,1728,154,1776,190,1817,219,1834,216,1839,186,1821,149,1779,121,1730,101,1678,86,1624,72,1523,70,1450"/>
-<area shape="rect" href="classDifficultyBlock.html" title=" " alt="" coords="253,1880,370,1905"/>
-<area shape="poly" title=" " alt="" coords="80,1450,93,1543,116,1669,131,1732,148,1790,168,1836,190,1867,219,1884,253,1891,252,1897,217,1889,186,1871,163,1839,143,1792,126,1734,111,1670,88,1544,74,1450"/>
-<area shape="rect" href="classDifficultyStrip.html" title=" " alt="" coords="256,1929,367,1955"/>
-<area shape="poly" title=" " alt="" coords="79,1449,91,1552,112,1693,127,1764,145,1829,166,1881,190,1916,204,1927,221,1934,256,1941,255,1947,219,1939,201,1931,186,1920,161,1884,140,1831,122,1766,107,1694,85,1553,74,1450"/>
-<area shape="rect" href="classFixed16x9Camera.html" title=" " alt="" coords="242,1979,381,2004"/>
-<area shape="poly" title=" " alt="" coords="78,1450,88,1562,109,1717,124,1796,142,1868,164,1927,177,1949,190,1965,214,1981,243,1989,241,1994,212,1986,186,1969,172,1952,159,1929,137,1870,119,1798,104,1718,83,1562,73,1450"/>
-<area shape="rect" href="classFmodMusicControllerLegacy.html" title=" " alt="" coords="208,2028,415,2053"/>
-<area shape="poly" title=" " alt="" coords="78,1450,86,1571,106,1742,121,1829,139,1908,162,1972,176,1997,190,2015,209,2029,206,2033,186,2019,171,1999,158,1974,134,1909,115,1830,101,1742,81,1572,73,1450"/>
-<area shape="rect" href="classGameBootstrap.html" title=" " alt="" coords="249,2077,373,2103"/>
-<area shape="poly" title=" " alt="" coords="78,1450,85,1580,103,1765,117,1860,136,1947,161,2017,175,2044,190,2064,217,2081,250,2089,249,2094,215,2086,186,2068,170,2047,156,2019,131,1948,112,1861,97,1766,79,1580,72,1450"/>
-<area shape="rect" href="classGridDrawer.html" title="화면 해상도 및 카메라 설정에 맞춰 2D 그리드를 LineRenderer로 생성/관리하는 컴포넌트." alt="" coords="263,2127,359,2152"/>
-<area shape="poly" title=" " alt="" coords="77,1450,83,1588,99,1789,114,1892,133,1986,159,2062,173,2092,190,2113,205,2125,224,2133,263,2140,262,2145,222,2138,203,2130,186,2117,169,2094,154,2064,128,1987,109,1892,94,1789,77,1588,72,1450"/>
-<area shape="rect" href="classGridManager.html" title=" " alt="" coords="258,2176,365,2201"/>
-<area shape="poly" title=" " alt="" coords="77,1450,81,1597,96,1813,111,1923,130,2025,157,2108,172,2139,190,2163,204,2174,221,2182,258,2189,257,2194,220,2187,202,2179,186,2167,168,2142,152,2110,125,2026,105,1924,91,1813,76,1598,71,1450"/>
-<area shape="rect" href="classInputRouter.html" title=" " alt="" coords="262,2225,361,2251"/>
-<area shape="poly" title=" " alt="" coords="77,1450,79,1606,93,1836,107,1955,127,2064,155,2153,171,2187,190,2212,205,2224,223,2232,262,2238,261,2244,221,2237,202,2229,186,2216,167,2189,150,2155,122,2065,102,1956,88,1836,74,1606,71,1450"/>
-<area shape="rect" href="classInputTimeMapper.html" title="Maps input&#45;system timestamps to Unity audio timeline time using DSP clock. Keeps a rolling sample of ..." alt="" coords="243,2275,380,2300"/>
-<area shape="poly" title=" " alt="" coords="76,1450,78,1614,82,1732,90,1859,104,1986,124,2103,137,2154,153,2198,170,2234,190,2261,214,2278,243,2286,242,2291,212,2283,186,2265,166,2237,148,2200,132,2155,119,2104,99,1987,85,1860,77,1732,72,1614,71,1450"/>
-<area shape="rect" href="classJudge.html" title=" " alt="" coords="282,2324,341,2349"/>
-<area shape="poly" title=" " alt="" coords="76,1450,76,1623,79,1748,87,1883,101,2018,121,2142,135,2196,151,2243,169,2282,190,2311,210,2325,234,2334,282,2337,282,2342,233,2339,208,2330,186,2315,164,2285,146,2245,130,2197,116,2143,95,2019,82,1883,74,1748,71,1623,71,1450"/>
-<area shape="rect" href="classKeyboardInputManager.html" title=" " alt="" coords="225,2373,398,2399"/>
-<area shape="poly" title=" " alt="" coords="78,1450,90,1644,113,1934,129,2081,147,2210,168,2308,179,2341,190,2360,206,2373,225,2381,223,2386,203,2377,186,2364,174,2343,163,2310,142,2211,124,2082,108,1935,85,1644,73,1450"/>
-<area shape="rect" href="classMarqueeText.html" title="텍스트가 마스크(부모 RectTransform) 너비보다 길 때 좌우로 마키 스크롤합니다. 부모 오브젝트에 RectMask2D 컴포넌트가 필요합니다...." alt="" coords="258,2423,365,2448"/>
-<area shape="poly" title=" " alt="" coords="78,1450,89,1653,112,1959,127,2114,146,2251,167,2355,178,2389,190,2410,204,2421,221,2429,258,2436,257,2441,219,2434,201,2426,186,2413,173,2391,162,2356,140,2252,122,2115,106,1960,84,1653,73,1450"/>
-<area shape="rect" href="classNoteBase.html" title=" " alt="" coords="269,2472,354,2497"/>
-<area shape="poly" title=" " alt="" coords="78,1450,88,1662,110,1984,126,2147,144,2292,166,2401,178,2437,190,2459,207,2472,226,2480,269,2485,268,2491,225,2485,204,2476,186,2462,173,2439,161,2402,139,2292,120,2148,105,1984,83,1662,72,1450"/>
-<area shape="rect" href="classNoteSpawner.html" title=" " alt="" coords="257,2521,366,2547"/>
-<area shape="poly" title=" " alt="" coords="78,1450,87,1671,109,2009,124,2181,143,2332,165,2447,177,2485,190,2508,204,2520,220,2527,257,2534,256,2540,219,2532,201,2524,186,2512,172,2488,160,2448,137,2333,119,2181,103,2010,82,1671,72,1450"/>
-<area shape="rect" href="classNotes_1_1Lane_1_1LaneOccupancyProvider.html" title=" " alt="" coords="211,2571,412,2611"/>
-<area shape="poly" title=" " alt="" coords="78,1449,87,1679,108,2032,124,2212,142,2371,165,2493,177,2533,190,2558,212,2575,209,2579,186,2561,172,2535,159,2494,137,2372,118,2213,103,2033,82,1679,72,1450"/>
-<area shape="rect" href="classNotes_1_1Lane_1_1LaneRouter.html" title="레인별 &quot;가장 먼저 생성된 노트 1개만&quot; 판정 활성화. (0.1초 내 두 노트가 같은 레인에서 동시에 터지는 문제 해결)" alt="" coords="225,2636,398,2661"/>
-<area shape="poly" title=" " alt="" coords="77,1449,85,1691,105,2065,120,2256,139,2425,163,2553,176,2596,190,2622,206,2634,226,2643,223,2648,203,2639,186,2625,171,2598,157,2554,134,2426,115,2257,100,2065,80,1691,72,1450"/>
-<area shape="rect" href="classNotes_1_1Square_1_1SquareNoteCore.html" title=" " alt="" coords="202,2685,421,2711"/>
-<area shape="poly" title=" " alt="" coords="77,1450,85,1700,103,2091,118,2290,138,2467,161,2601,175,2646,190,2672,203,2683,200,2688,186,2676,170,2648,156,2602,132,2467,113,2291,98,2091,79,1700,72,1450"/>
-<area shape="rect" href="classNotes_1_1Square_1_1SquareNoteJudge.html" title=" " alt="" coords="199,2735,424,2760"/>
-<area shape="poly" title=" " alt="" coords="77,1450,84,1710,102,2116,117,2324,136,2507,160,2647,175,2694,190,2722,203,2732,199,2737,186,2725,170,2696,155,2648,131,2508,111,2324,97,2116,78,1710,72,1450"/>
-<area shape="rect" href="classNotes_1_1Square_1_1SquareNoteTimeline.html" title=" " alt="" coords="188,252,435,277"/>
-<area shape="poly" title=" " alt="" coords="72,1397,81,1167,102,814,117,634,136,474,159,353,172,312,186,287,199,276,203,280,190,290,177,314,164,355,141,475,122,634,107,814,86,1167,77,1397"/>
-<area shape="rect" href="classNotes_1_1Square_1_1SquareNoteVisual.html" title="Square 노트 타입에 따라 적절한 시각 컴포넌트를 활성화하는 라우터." alt="" coords="197,301,426,327"/>
-<area shape="poly" title=" " alt="" coords="72,1397,82,1176,104,839,119,667,138,516,160,401,172,362,186,338,202,325,205,329,190,341,177,364,165,402,143,517,124,668,109,839,87,1176,78,1397"/>
-<area shape="rect" href="classNotes_1_1Square_1_1SquareVisualBase.html" title="Grid,Trail 노트의 공통 시각 처리 로직을 제공하는 베이스 클래스." alt="" coords="196,351,427,376"/>
-<area shape="poly" title=" " alt="" coords="72,1397,83,1185,105,864,121,701,139,557,161,447,173,410,186,387,202,374,205,378,190,390,178,412,166,448,144,558,126,701,110,864,88,1186,78,1397"/>
-<area shape="rect" href="classNotes_1_1Square_1_1SquareVisualLong.html" title=" " alt="" coords="197,400,426,425"/>
-<area shape="poly" title=" " alt="" coords="73,1397,84,1194,107,889,122,734,141,597,162,493,173,458,186,436,202,423,205,428,190,440,178,460,167,495,146,598,128,734,112,889,89,1194,78,1397"/>
-<area shape="rect" href="classParrythmInputRuntime.html" title="런타임 입력 상태를 총괄하는 관리자." alt="" coords="227,449,396,475"/>
-<area shape="poly" title=" " alt="" coords="73,1397,85,1203,108,913,124,767,142,638,163,540,174,506,186,486,204,471,226,463,228,468,207,476,190,489,179,508,168,541,147,639,129,768,114,914,90,1203,78,1397"/>
-<area shape="rect" href="classPlayerSpriteController.html" title=" " alt="" coords="229,499,394,524"/>
-<area shape="poly" title=" " alt="" coords="71,1397,71,1224,75,1100,82,965,96,830,117,706,130,652,146,604,165,565,186,535,205,520,228,511,230,516,208,525,190,539,169,568,151,606,135,653,122,707,101,831,88,965,80,1100,76,1224,76,1397"/>
-<area shape="rect" href="classResultsUI.html" title=" " alt="" coords="269,548,353,573"/>
-<area shape="poly" title=" " alt="" coords="71,1397,73,1233,77,1116,85,989,99,862,120,745,133,694,148,649,166,612,186,584,204,570,225,561,269,555,269,561,227,567,207,575,190,588,170,615,153,651,138,696,125,746,104,862,91,989,82,1116,78,1233,76,1397"/>
-<area shape="rect" href="classSettingsCardPlayerSettings.html" title=" " alt="" coords="212,597,411,623"/>
-<area shape="poly" title=" " alt="" coords="71,1397,74,1241,88,1011,102,893,123,784,150,694,167,660,186,633,210,617,213,621,190,637,171,663,155,696,128,785,108,894,94,1012,80,1241,77,1397"/>
-<area shape="rect" href="classSettingsCardViewSettings.html" title=" " alt="" coords="216,647,407,672"/>
-<area shape="poly" title=" " alt="" coords="72,1397,76,1250,91,1035,106,924,126,823,152,740,168,707,186,683,214,664,217,669,190,687,173,710,157,742,131,824,111,925,97,1036,81,1250,77,1397"/>
-<area shape="rect" href="classSliderNoteVisual.html" title="Renders the slider body, head, timing guide, and checkpoint markers from a cached local&#45;space path." alt="" coords="246,696,377,721"/>
-<area shape="poly" title=" " alt="" coords="72,1397,78,1259,94,1059,109,956,129,862,154,785,169,755,186,732,214,714,245,705,247,711,216,719,190,736,174,758,159,787,134,863,114,957,100,1060,83,1259,77,1397"/>
-<area shape="rect" href="classSongCard.html" title=" " alt="" coords="269,745,353,771"/>
-<area shape="poly" title=" " alt="" coords="72,1396,79,1267,98,1082,112,987,132,901,156,830,170,802,186,781,204,768,225,759,268,753,269,758,227,764,207,772,190,785,175,805,161,832,137,902,118,988,103,1083,85,1267,78,1397"/>
-<area shape="rect" href="classSongPreviewPlayer.html" title=" " alt="" coords="238,795,385,820"/>
-<area shape="poly" title=" " alt="" coords="73,1397,81,1276,101,1106,116,1019,135,940,158,875,171,850,186,831,210,814,237,806,239,811,212,819,190,835,176,853,163,877,140,941,121,1020,106,1107,87,1276,78,1397"/>
-<area shape="rect" href="classTextExitHoldIndicator.html" title=" " alt="" coords="231,893,392,919"/>
-<area shape="poly" title=" " alt="" coords="74,1397,85,1294,107,1154,123,1083,141,1018,162,965,186,929,206,915,229,907,231,912,209,920,190,933,166,968,146,1020,128,1084,113,1155,91,1295,79,1397"/>
-<area shape="rect" href="classTimingAccuracyPanel.html" title="완성형 정확도 표시기: 타이밍 히스토그램 막대 + FAST/SLOW 카운트. Judge의 통계를 받아 한 번에 갱신한다." alt="" coords="231,943,392,968"/>
-<area shape="poly" title=" " alt="" coords="75,1397,88,1303,111,1178,126,1115,144,1057,164,1011,186,979,206,965,229,956,231,961,209,969,190,983,168,1013,149,1059,131,1116,116,1179,93,1304,80,1397"/>
+<area shape="poly" title=" " alt="" coords="148,1610,189,1618,249,1631,248,1636,187,1623,147,1615"/>
+<area shape="rect" href="classChartEditorController.html" title="채보 에디터 씬의 본체. 웹 에디터가 하던 일 — 곡 열기, 재생, 배치, 저장 — 을 한곳에서 묶음. 씬 간 이동은 아직 안 봄. 이 씬만 켜면 바로 편집이 되는 게 목표임." alt="" coords="232,1683,391,1708"/>
+<area shape="poly" title=" " alt="" coords="102,1616,142,1643,189,1668,233,1681,231,1686,187,1672,139,1648,99,1620"/>
+<area shape="rect" href="classChartPlayer.html" title=" " alt="" coords="262,1732,361,1757"/>
+<area shape="poly" title=" " alt="" coords="92,1619,132,1670,159,1696,189,1717,225,1731,262,1739,261,1744,224,1737,187,1722,155,1700,128,1673,87,1622"/>
+<area shape="rect" href="classCircleNoteVisual.html" title=" " alt="" coords="246,1781,377,1807"/>
+<area shape="poly" title=" " alt="" coords="86,1621,101,1655,123,1694,153,1734,189,1766,217,1780,246,1788,245,1793,215,1785,187,1771,149,1737,119,1697,96,1657,81,1623"/>
+<area shape="rect" href="classCleanCursor.html" title=" " alt="" coords="261,1831,362,1856"/>
+<area shape="poly" title=" " alt="" coords="82,1622,95,1665,116,1718,147,1772,167,1795,189,1816,224,1833,261,1840,260,1845,222,1838,187,1820,163,1799,143,1775,111,1721,90,1667,77,1624"/>
+<area shape="rect" href="classConnectionHintController.html" title=" " alt="" coords="218,1880,405,1905"/>
+<area shape="poly" title=" " alt="" coords="80,1623,89,1675,109,1741,123,1775,141,1809,163,1839,190,1865,219,1881,216,1886,186,1869,159,1843,137,1811,119,1778,104,1743,84,1676,74,1624"/>
+<area shape="rect" href="classDifficultyBlock.html" title=" " alt="" coords="253,1929,370,1955"/>
+<area shape="poly" title=" " alt="" coords="78,1623,84,1683,102,1763,116,1805,135,1845,160,1882,190,1915,219,1931,253,1939,252,1944,217,1936,186,1919,155,1886,131,1848,111,1807,97,1764,79,1684,72,1623"/>
+<area shape="rect" href="classDifficultyStrip.html" title=" " alt="" coords="256,1979,367,2004"/>
+<area shape="poly" title=" " alt="" coords="76,1623,80,1692,95,1785,110,1834,130,1882,156,1926,190,1964,204,1974,221,1982,256,1989,255,1995,219,1987,202,1979,186,1968,152,1929,125,1884,105,1836,90,1786,75,1693,71,1623"/>
+<area shape="rect" href="classFixed16x9Camera.html" title=" " alt="" coords="242,2028,381,2053"/>
+<area shape="poly" title=" " alt="" coords="80,1623,94,1711,118,1829,150,1942,169,1985,190,2013,214,2029,243,2037,241,2042,212,2034,186,2017,165,1987,145,1943,113,1830,89,1712,75,1624"/>
+<area shape="rect" href="classFmodMusicControllerLegacy.html" title=" " alt="" coords="208,2077,415,2103"/>
+<area shape="poly" title=" " alt="" coords="79,1622,92,1720,114,1853,129,1920,147,1981,167,2030,190,2063,209,2076,206,2080,186,2067,163,2033,142,1983,124,1921,109,1854,86,1721,74,1623"/>
+<area shape="rect" href="classGameBootstrap.html" title=" " alt="" coords="249,2127,373,2152"/>
+<area shape="poly" title=" " alt="" coords="79,1623,90,1731,111,1878,126,1953,144,2020,165,2075,190,2112,217,2129,250,2137,248,2142,215,2134,186,2116,161,2078,139,2022,121,1954,106,1879,84,1731,73,1624"/>
+<area shape="rect" href="classGridDrawer.html" title="화면 해상도 및 카메라 설정에 맞춰 2D 그리드를 LineRenderer로 생성/관리하는 컴포넌트." alt="" coords="263,2176,359,2201"/>
+<area shape="poly" title=" " alt="" coords="78,1623,88,1739,108,1901,123,1984,141,2059,164,2121,176,2144,190,2161,206,2173,224,2181,263,2188,263,2193,222,2186,203,2178,186,2165,172,2147,159,2123,136,2061,117,1985,102,1902,82,1739,73,1623"/>
+<area shape="rect" href="classGridManager.html" title=" " alt="" coords="258,2225,365,2251"/>
+<area shape="poly" title=" " alt="" coords="78,1623,86,1748,105,1925,119,2016,138,2099,162,2166,175,2192,190,2211,204,2222,221,2230,258,2237,257,2242,219,2235,202,2227,186,2215,171,2194,157,2168,133,2100,114,2017,99,1926,80,1748,72,1623"/>
+<area shape="rect" href="classInputRouter.html" title=" " alt="" coords="262,2275,361,2300"/>
+<area shape="poly" title=" " alt="" coords="77,1623,84,1757,101,1949,116,2048,135,2138,160,2211,174,2239,190,2260,205,2272,223,2280,262,2287,261,2292,222,2285,203,2277,186,2264,170,2242,155,2213,130,2139,111,2049,96,1950,78,1757,72,1623"/>
+<area shape="rect" href="classInputTimeMapper.html" title="Maps input&#45;system timestamps to Unity audio timeline time using DSP clock. Keeps a rolling sample of ..." alt="" coords="243,2324,380,2349"/>
+<area shape="poly" title=" " alt="" coords="77,1623,82,1766,98,1973,113,2080,132,2177,158,2256,173,2287,190,2309,214,2326,243,2334,241,2339,212,2331,186,2313,169,2290,153,2258,127,2178,107,2080,93,1974,77,1766,72,1624"/>
+<area shape="rect" href="classJudge.html" title=" " alt="" coords="282,2373,341,2399"/>
+<area shape="poly" title=" " alt="" coords="77,1623,80,1774,95,1996,109,2111,129,2216,156,2301,172,2334,190,2359,210,2373,234,2382,282,2386,282,2391,233,2387,208,2378,186,2363,167,2337,151,2303,124,2217,104,2112,90,1997,75,1774,71,1623"/>
+<area shape="rect" href="classKeyboardInputManager.html" title=" " alt="" coords="225,2423,398,2448"/>
+<area shape="poly" title=" " alt="" coords="76,1623,79,1783,83,1897,92,2020,106,2143,126,2255,154,2347,171,2382,190,2408,206,2421,225,2429,223,2434,203,2425,186,2412,166,2385,149,2349,121,2256,101,2143,87,2021,78,1897,73,1784,71,1623"/>
+<area shape="rect" href="classMarqueeText.html" title="텍스트가 마스크(부모 RectTransform) 너비보다 길 때 좌우로 마키 스크롤합니다. 부모 오브젝트에 RectMask2D 컴포넌트가 필요합니다...." alt="" coords="258,2472,365,2497"/>
+<area shape="poly" title=" " alt="" coords="76,1623,77,1792,81,1913,89,2043,103,2174,123,2294,137,2346,152,2392,170,2429,190,2458,204,2469,221,2477,258,2484,257,2489,219,2482,201,2474,186,2461,165,2432,147,2394,131,2348,118,2295,98,2175,84,2044,76,1913,72,1792,71,1623"/>
+<area shape="rect" href="classNoteBase.html" title=" " alt="" coords="269,2521,354,2547"/>
+<area shape="poly" title=" " alt="" coords="78,1623,90,1812,114,2094,130,2236,148,2362,168,2456,179,2488,190,2507,207,2520,226,2528,269,2534,268,2539,225,2533,204,2524,186,2510,174,2490,163,2458,143,2362,125,2237,109,2094,85,1812,73,1623"/>
+<area shape="rect" href="classNoteSpawner.html" title=" " alt="" coords="257,2571,366,2596"/>
+<area shape="poly" title=" " alt="" coords="78,1623,90,1821,113,2119,128,2269,147,2402,167,2503,179,2536,190,2556,204,2568,220,2575,257,2583,256,2588,219,2581,201,2572,186,2560,174,2538,162,2504,141,2403,123,2270,107,2119,84,1821,73,1623"/>
+<area shape="rect" href="classNotes_1_1Lane_1_1LaneOccupancyProvider.html" title=" " alt="" coords="211,2621,412,2661"/>
+<area shape="poly" title=" " alt="" coords="78,1623,89,1829,112,2142,128,2301,146,2442,167,2548,178,2584,190,2606,212,2623,209,2627,186,2609,173,2586,162,2550,141,2443,123,2302,107,2143,84,1830,73,1623"/>
+<area shape="rect" href="classNotes_1_1Lane_1_1LaneRouter.html" title="레인별 &quot;가장 먼저 생성된 노트 1개만&quot; 판정 활성화. (0.1초 내 두 노트가 같은 레인에서 동시에 터지는 문제 해결)" alt="" coords="225,2685,398,2711"/>
+<area shape="poly" title=" " alt="" coords="78,1623,88,1842,109,2177,124,2346,143,2496,165,2610,177,2648,190,2671,206,2684,226,2692,224,2697,203,2688,186,2674,172,2650,160,2612,138,2497,119,2347,104,2177,82,1842,72,1623"/>
+<area shape="rect" href="classNotes_1_1Square_1_1SquareNoteCore.html" title=" " alt="" coords="202,2735,421,2760"/>
+<area shape="poly" title=" " alt="" coords="77,1623,87,1850,107,2201,123,2379,142,2537,164,2656,177,2696,190,2720,205,2733,202,2737,186,2724,172,2699,159,2658,136,2538,117,2380,102,2201,81,1851,72,1623"/>
+<area shape="rect" href="classNotes_1_1Square_1_1SquareNoteJudge.html" title=" " alt="" coords="199,2784,424,2809"/>
+<area shape="poly" title=" " alt="" coords="77,1623,86,1860,106,2226,121,2413,140,2578,163,2703,176,2745,190,2770,205,2782,202,2786,186,2773,171,2747,158,2704,135,2578,116,2413,101,2227,81,1861,72,1623"/>
+<area shape="rect" href="classNotes_1_1Square_1_1SquareNoteTimeline.html" title=" " alt="" coords="188,2833,435,2859"/>
+<area shape="poly" title=" " alt="" coords="77,1623,85,1869,105,2251,120,2446,139,2618,162,2749,176,2793,190,2819,205,2831,202,2835,186,2822,171,2795,157,2750,133,2619,114,2446,99,2252,80,1870,72,1623"/>
+<area shape="rect" href="classNotes_1_1Square_1_1SquareNoteVisual.html" title="Square 노트 타입에 따라 적절한 시각 컴포넌트를 활성화하는 라우터." alt="" coords="197,2883,426,2908"/>
+<area shape="poly" title=" " alt="" coords="77,1623,84,1877,103,2275,118,2478,137,2658,161,2795,175,2841,190,2868,205,2881,202,2885,186,2872,170,2843,156,2796,132,2659,113,2479,98,2275,79,1877,72,1623"/>
+<area shape="rect" href="classNotes_1_1Square_1_1SquareVisualBase.html" title="Grid,Trail 노트의 공통 시각 처리 로직을 제공하는 베이스 클래스." alt="" coords="196,2932,427,2957"/>
+<area shape="poly" title=" " alt="" coords="77,1623,83,1887,101,2301,116,2513,135,2700,160,2843,174,2891,190,2919,203,2930,199,2934,186,2922,169,2893,155,2844,130,2701,111,2513,96,2302,78,1887,72,1623"/>
+<area shape="rect" href="classNotes_1_1Square_1_1SquareVisualLong.html" title=" " alt="" coords="197,2981,426,3007"/>
+<area shape="poly" title=" " alt="" coords="77,1623,83,1896,100,2326,114,2546,134,2741,146,2822,159,2889,174,2939,190,2968,203,2979,199,2983,186,2972,169,2941,154,2890,140,2823,129,2741,109,2546,94,2326,77,1896,72,1623"/>
+<area shape="rect" href="classOutgameBootstrap.html" title="Picks the starting screen once every screen controller has registered with OutgameNavigator (waits on..." alt="" coords="239,3031,384,3056"/>
+<area shape="poly" title=" " alt="" coords="77,1623,82,1904,98,2350,113,2579,132,2781,144,2866,158,2935,173,2987,190,3018,212,3034,239,3042,238,3047,210,3038,186,3021,168,2989,153,2936,139,2867,127,2782,107,2579,93,2350,77,1904,72,1623"/>
+<area shape="rect" href="classParrythmInputRuntime.html" title="런타임 입력 상태를 총괄하는 관리자." alt="" coords="227,3080,396,3105"/>
+<area shape="poly" title=" " alt="" coords="77,1623,81,1913,97,2375,111,2612,131,2822,143,2909,157,2981,173,3035,190,3067,207,3080,227,3088,225,3093,204,3085,186,3070,168,3037,152,2983,138,2910,126,2822,106,2612,91,2375,76,1914,71,1623"/>
+<area shape="rect" href="classPlayerSpriteController.html" title=" " alt="" coords="229,252,394,277"/>
+<area shape="poly" title=" " alt="" coords="72,1570,78,1309,96,900,111,691,131,505,155,364,170,316,186,287,205,272,227,263,229,268,208,277,190,290,175,318,160,366,136,506,116,691,102,901,84,1310,77,1570"/>
+<area shape="rect" href="classRatingLabel.html" title="Drop&#45;in label that shows the player rating (sum of Best 15) on a TMP_Text. Attach to the profile / PL..." alt="" coords="262,301,361,327"/>
+<area shape="poly" title=" " alt="" coords="72,1570,79,1318,98,925,113,724,132,546,156,410,170,365,186,336,202,323,221,315,261,308,262,313,223,320,205,328,190,340,175,367,161,412,137,547,118,724,103,925,84,1318,77,1570"/>
+<area shape="rect" href="classResultScreenController.html" title="UI Toolkit port of the ingame result screen (ResultScreen.uxml, shared ResultTheme...." alt="" coords="226,351,397,376"/>
+<area shape="poly" title=" " alt="" coords="72,1570,80,1327,99,949,114,757,134,586,157,457,171,413,186,386,204,371,225,363,227,368,207,376,190,389,176,415,162,458,139,587,120,757,105,950,85,1327,77,1570"/>
+<area shape="rect" href="classResultsUI.html" title=" " alt="" coords="269,400,353,425"/>
+<area shape="poly" title=" " alt="" coords="72,1570,81,1336,101,974,116,790,135,627,158,503,171,461,186,435,204,421,225,412,269,407,269,412,227,417,207,425,190,438,176,463,163,504,140,628,121,790,106,975,86,1336,77,1570"/>
+<area shape="rect" href="classSettingsCardPlayerSettings.html" title=" " alt="" coords="212,449,411,475"/>
+<area shape="poly" title=" " alt="" coords="72,1570,82,1344,103,998,118,823,137,667,159,549,172,509,186,484,210,467,213,471,190,488,177,511,164,550,142,668,123,823,108,999,87,1344,78,1570"/>
+<area shape="rect" href="classSettingsCardViewSettings.html" title=" " alt="" coords="216,499,407,524"/>
+<area shape="poly" title=" " alt="" coords="72,1570,82,1353,104,1023,119,856,138,708,160,595,172,557,186,534,199,522,214,515,217,519,202,527,190,537,177,559,165,597,143,709,125,856,109,1024,88,1354,78,1570"/>
+<area shape="rect" href="classSettingsScreenController.html" title="UI Toolkit port of the settings screen (Docs/Outgame/index.html → SettingsScreen.uxml)...." alt="" coords="220,548,403,573"/>
+<area shape="poly" title=" " alt="" coords="72,1570,83,1363,106,1049,121,889,140,749,161,642,173,605,186,583,201,571,219,562,221,567,204,575,190,586,178,608,166,643,145,749,126,890,111,1049,89,1363,78,1571"/>
+<area shape="rect" href="classSliderNoteVisual.html" title="Renders the slider body, head, timing guide, and checkpoint markers from a cached local&#45;space path." alt="" coords="246,597,377,623"/>
+<area shape="poly" title=" " alt="" coords="73,1570,84,1372,107,1073,123,922,141,789,162,688,174,653,186,632,213,614,245,606,246,611,215,619,190,636,178,656,167,689,146,790,128,923,112,1074,89,1372,78,1571"/>
+<area shape="rect" href="classSongCard.html" title=" " alt="" coords="269,647,353,672"/>
+<area shape="poly" title=" " alt="" coords="73,1570,85,1381,109,1098,125,955,143,830,163,734,174,702,186,682,204,668,225,659,269,653,269,659,227,664,207,672,190,685,179,704,168,736,148,831,130,956,114,1099,90,1381,78,1571"/>
+<area shape="rect" href="classSongPreviewPlayer.html" title=" " alt="" coords="238,696,385,721"/>
+<area shape="poly" title=" " alt="" coords="71,1570,71,1401,75,1280,83,1148,97,1017,118,897,131,844,147,798,165,760,186,731,209,714,237,706,238,711,212,719,190,735,170,763,152,800,136,846,123,898,102,1018,89,1149,81,1280,77,1401,76,1570"/>
+<area shape="rect" href="classSongSelectController.html" title="UI Toolkit port of the song&#45;select screen. Uses the real song library (SongScanner),..." alt="" coords="232,745,391,771"/>
+<area shape="poly" title=" " alt="" coords="71,1570,73,1409,78,1295,86,1172,100,1049,121,936,149,843,166,807,186,780,207,765,231,756,233,761,209,770,190,784,171,810,154,845,126,937,106,1049,92,1172,83,1296,78,1410,76,1570"/>
+<area shape="rect" href="classTextExitHoldIndicator.html" title=" " alt="" coords="231,795,392,820"/>
+<area shape="poly" title=" " alt="" coords="71,1570,75,1419,89,1196,104,1081,124,975,151,888,167,855,186,829,206,815,229,806,231,811,209,819,190,833,172,858,156,890,129,976,109,1081,95,1196,80,1419,77,1570"/>
+<area shape="rect" href="classTimingAccuracyPanel.html" title="완성형 정확도 표시기: 타이밍 히스토그램 막대 + FAST/SLOW 카운트. Judge의 통계를 받아 한 번에 갱신한다." alt="" coords="231,893,392,919"/>
+<area shape="poly" title=" " alt="" coords="72,1570,78,1436,96,1243,110,1144,130,1053,155,979,169,950,186,928,206,914,229,905,231,910,209,918,190,932,174,953,160,981,135,1054,116,1145,101,1243,84,1436,77,1570"/>
+<area shape="rect" href="classTitleScreenController.html" title="UI Toolkit port of the title screen: title → menu (PLAY / SETTINGS / IMPORT / QUIT)...." alt="" coords="232,943,391,968"/>
+<area shape="poly" title=" " alt="" coords="72,1570,80,1445,99,1266,114,1175,133,1092,157,1024,171,997,186,977,207,963,231,954,232,959,209,967,190,981,175,1000,161,1026,138,1094,119,1176,104,1267,85,1445,78,1570"/>
 <area shape="rect" href="classUnityMusicController.html" title=" " alt="" coords="232,992,391,1017"/>
-<area shape="poly" title=" " alt="" coords="70,1397,73,1324,87,1224,101,1171,122,1118,150,1070,186,1028,207,1014,231,1006,233,1011,210,1019,190,1032,154,1073,127,1121,106,1172,92,1225,78,1324,76,1397"/>
-<area shape="poly" title=" " alt="" coords="396,1638,415,1631,433,1620,478,1573,515,1518,543,1458,565,1397,580,1339,590,1286,599,1214,604,1215,595,1287,585,1340,570,1399,548,1460,520,1520,483,1576,436,1624,418,1636,397,1643"/>
-<area shape="rect" href="classCanvasSongSelectMenuController.html" title=" " alt="" coords="483,1633,725,1659"/>
-<area shape="poly" title=" " alt="" coords="397,1643,482,1643,482,1649,397,1649"/>
-<area shape="rect" href="classResultCarouselController.html" title=" " alt="" coords="512,1683,696,1708"/>
-<area shape="poly" title=" " alt="" coords="397,1658,528,1680,528,1685,396,1663"/>
-<area shape="rect" href="classSampleCarouselController.html" title="Template example of a CarouselController child class. Use this as a reference when creating your own ..." alt="" coords="508,1584,700,1609"/>
+<area shape="poly" title=" " alt="" coords="73,1570,82,1454,102,1290,117,1207,136,1131,159,1069,172,1045,186,1027,207,1012,231,1004,233,1009,209,1017,190,1031,176,1048,163,1071,141,1133,122,1208,107,1291,87,1454,78,1571"/>
+<area shape="poly" title=" " alt="" coords="396,1637,415,1630,433,1619,478,1572,515,1516,543,1457,564,1396,580,1338,590,1286,599,1214,604,1215,595,1287,585,1339,569,1398,548,1459,519,1519,482,1575,436,1623,418,1635,397,1642"/>
+<area shape="rect" href="classCanvasSongSelectMenuController.html" title=" " alt="" coords="483,1584,725,1609"/>
 <area shape="poly" title=" " alt="" coords="396,1629,528,1607,528,1612,397,1634"/>
-<area shape="rect" href="classCircleNote.html" title=" " alt="" coords="559,2447,649,2472"/>
-<area shape="poly" title=" " alt="" coords="367,2477,558,2461,559,2466,368,2483"/>
-<area shape="rect" href="classSliderNote.html" title="Owns slider path setup, follow&#45;state judging, and final checkpoint resolution for slider notes." alt="" coords="559,2496,649,2521"/>
-<area shape="poly" title=" " alt="" coords="368,2487,559,2502,558,2508,367,2492"/>
-<area shape="rect" href="classNotes_1_1Square_1_1SquareVisualNormal.html" title="기본 Square 노트의 시각 표현." alt="" coords="505,311,703,351"/>
-<area shape="poly" title=" " alt="" coords="440,347,504,340,505,345,441,352"/>
-<area shape="rect" href="classNotes_1_1Square_1_1SquareVisualTrail.html" title=" " alt="" coords="505,375,703,415"/>
-<area shape="poly" title=" " alt="" coords="441,375,505,382,504,387,440,380"/>
+<area shape="rect" href="classResultCarouselController.html" title=" " alt="" coords="512,1633,696,1659"/>
+<area shape="poly" title=" " alt="" coords="396,1643,512,1643,512,1649,396,1649"/>
+<area shape="rect" href="classSampleCarouselController.html" title="Template example of a CarouselController child class. Use this as a reference when creating your own ..." alt="" coords="508,1683,700,1708"/>
+<area shape="poly" title=" " alt="" coords="397,1658,528,1680,528,1685,396,1663"/>
+<area shape="rect" href="classCircleNote.html" title=" " alt="" coords="559,2497,649,2523"/>
+<area shape="poly" title=" " alt="" coords="367,2527,558,2511,559,2516,368,2532"/>
+<area shape="rect" href="classSliderNote.html" title="Owns slider path setup, follow&#45;state judging, and final checkpoint resolution for slider notes." alt="" coords="559,2547,649,2572"/>
+<area shape="poly" title=" " alt="" coords="368,2536,559,2553,558,2558,367,2541"/>
+<area shape="rect" href="classNotes_1_1Square_1_1SquareVisualNormal.html" title="기본 Square 노트의 시각 표현." alt="" coords="505,2893,703,2933"/>
+<area shape="poly" title=" " alt="" coords="440,2928,504,2921,505,2926,441,2933"/>
+<area shape="rect" href="classNotes_1_1Square_1_1SquareVisualTrail.html" title=" " alt="" coords="505,2957,703,2997"/>
+<area shape="poly" title=" " alt="" coords="441,2956,505,2963,504,2968,440,2961"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_14.png" border="0" usemap="#aIDisposable" alt=""/>
+<tr><td><img src="inherit_graph_26.png" border="0" usemap="#aIDisposable" alt=""/>
 <map name="aIDisposable" id="aIDisposable">
 <area shape="rect" title=" " alt="" coords="5,63,104,88"/>
 <area shape="rect" href="classParrythmInputActions.html" title="런타임 InputActionAsset을 역할별 액션 맵으로 감싸는 래퍼." alt="" coords="174,5,337,31"/>
@@ -325,19 +399,19 @@ $(document).ready(function(){initNavTree('hierarchy.html',''); initResizable(); 
 <area shape="poly" title=" " alt="" coords="105,90,153,105,200,117,199,122,151,110,104,95"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_15.png" border="0" usemap="#aILeaderboardService" alt=""/>
+<tr><td><img src="inherit_graph_27.png" border="0" usemap="#aILeaderboardService" alt=""/>
 <map name="aILeaderboardService" id="aILeaderboardService">
 <area shape="rect" href="interfaceILeaderboardService.html" title=" " alt="" coords="5,5,160,31"/>
 <area shape="rect" href="classLocalLeaderboardSaveService.html" title=" " alt="" coords="208,5,425,31"/>
 <area shape="poly" title=" " alt="" coords="174,15,208,15,208,21,174,21"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_16.png" border="0" usemap="#aINote" alt=""/>
+<tr><td><img src="inherit_graph_28.png" border="0" usemap="#aINote" alt=""/>
 <map name="aINote" id="aINote">
 <area shape="rect" href="interfaceINote.html" title=" " alt="" coords="5,5,63,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_17.png" border="0" usemap="#aINoteEventHandler" alt=""/>
+<tr><td><img src="inherit_graph_29.png" border="0" usemap="#aINoteEventHandler" alt=""/>
 <map name="aINoteEventHandler" id="aINoteEventHandler">
 <area shape="rect" href="interfaceINoteEventHandler.html" title=" " alt="" coords="5,203,151,228"/>
 <area shape="rect" href="classBulletNoteHandler.html" title=" " alt="" coords="208,5,351,31"/>
@@ -360,196 +434,269 @@ $(document).ready(function(){initNavTree('hierarchy.html',''); initResizable(); 
 <area shape="poly" title=" " alt="" coords="93,239,133,312,164,351,200,385,223,398,221,402,197,390,160,355,129,315,88,242"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_18.png" border="0" usemap="#aINoteInit_3_01TInit_01_4" alt=""/>
+<tr><td><img src="inherit_graph_30.png" border="0" usemap="#aINoteInit_3_01TInit_01_4" alt=""/>
 <map name="aINoteInit_3_01TInit_01_4" id="aINoteInit_3_01TInit_01_4">
 <area shape="rect" href="interfaceINoteInit.html" title=" " alt="" coords="5,5,143,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_19.png" border="0" usemap="#aINoteVisual" alt=""/>
+<tr><td><img src="inherit_graph_31.png" border="0" usemap="#aINoteVisual" alt=""/>
 <map name="aINoteVisual" id="aINoteVisual">
 <area shape="rect" href="interfaceINoteVisual.html" title=" " alt="" coords="5,5,103,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_20.png" border="0" usemap="#aLeaderboardRecord" alt=""/>
+<tr><td><img src="inherit_graph_32.png" border="0" usemap="#aLeaderboardRecord" alt=""/>
 <map name="aLeaderboardRecord" id="aLeaderboardRecord">
 <area shape="rect" href="classLeaderboardRecord.html" title=" " alt="" coords="5,5,153,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_21.png" border="0" usemap="#aLeaderboardScoreUploadDto" alt=""/>
+<tr><td><img src="inherit_graph_33.png" border="0" usemap="#aLeaderboardScoreUploadDto" alt=""/>
 <map name="aLeaderboardScoreUploadDto" id="aLeaderboardScoreUploadDto">
 <area shape="rect" href="classLeaderboardScoreUploadDto.html" title=" " alt="" coords="5,5,213,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_22.png" border="0" usemap="#aLeaderboardServiceProvider" alt=""/>
+<tr><td><img src="inherit_graph_34.png" border="0" usemap="#aLeaderboardServiceProvider" alt=""/>
 <map name="aLeaderboardServiceProvider" id="aLeaderboardServiceProvider">
 <area shape="rect" href="classLeaderboardServiceProvider.html" title=" " alt="" coords="5,5,211,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_23.png" border="0" usemap="#aLevelChartData" alt=""/>
+<tr><td><img src="inherit_graph_35.png" border="0" usemap="#aLevelChartData" alt=""/>
 <map name="aLevelChartData" id="aLevelChartData">
 <area shape="rect" href="classLevelChartData.html" title=" " alt="" coords="5,5,128,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_24.png" border="0" usemap="#aLevelChartData_8NoteEvent" alt=""/>
+<tr><td><img src="inherit_graph_36.png" border="0" usemap="#aLevelChartData_8NoteEvent" alt=""/>
 <map name="aLevelChartData_8NoteEvent" id="aLevelChartData_8NoteEvent">
 <area shape="rect" href="classLevelChartData_1_1NoteEvent.html" title=" " alt="" coords="5,5,200,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_25.png" border="0" usemap="#aLevelChartData_8TempoPoint" alt=""/>
+<tr><td><img src="inherit_graph_37.png" border="0" usemap="#aLevelChartData_8TempoPoint" alt=""/>
 <map name="aLevelChartData_8TempoPoint" id="aLevelChartData_8TempoPoint">
 <area shape="rect" href="classLevelChartData_1_1TempoPoint.html" title=" " alt="" coords="5,5,208,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_26.png" border="0" usemap="#aLevelChartData_8TimeSigPoint" alt=""/>
+<tr><td><img src="inherit_graph_38.png" border="0" usemap="#aLevelChartData_8TimeSigPoint" alt=""/>
 <map name="aLevelChartData_8TimeSigPoint" id="aLevelChartData_8TimeSigPoint">
 <area shape="rect" href="classLevelChartData_1_1TimeSigPoint.html" title=" " alt="" coords="5,5,219,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_27.png" border="0" usemap="#aLevelChartJsonTool" alt=""/>
+<tr><td><img src="inherit_graph_39.png" border="0" usemap="#aLevelChartJsonTool" alt=""/>
 <map name="aLevelChartJsonTool" id="aLevelChartJsonTool">
 <area shape="rect" href="classLevelChartJsonTool.html" title=" " alt="" coords="5,5,151,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_28.png" border="0" usemap="#aLocalizationHelper" alt=""/>
+<tr><td><img src="inherit_graph_40.png" border="0" usemap="#aLocalizationHelper" alt=""/>
 <map name="aLocalizationHelper" id="aLocalizationHelper">
 <area shape="rect" href="classLocalizationHelper.html" title=" " alt="" coords="5,5,148,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_29.png" border="0" usemap="#aLocalLeaderboardSaveData" alt=""/>
+<tr><td><img src="inherit_graph_41.png" border="0" usemap="#aLocalLeaderboardSaveData" alt=""/>
 <map name="aLocalLeaderboardSaveData" id="aLocalLeaderboardSaveData">
 <area shape="rect" href="classLocalLeaderboardSaveData.html" title=" " alt="" coords="5,5,205,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_30.png" border="0" usemap="#aLocalScoreRecord" alt=""/>
+<tr><td><img src="inherit_graph_42.png" border="0" usemap="#aLocalScoreRecord" alt=""/>
 <map name="aLocalScoreRecord" id="aLocalScoreRecord">
 <area shape="rect" href="classLocalScoreRecord.html" title=" " alt="" coords="5,5,143,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_31.png" border="0" usemap="#aLocalScoreSaveData" alt=""/>
+<tr><td><img src="inherit_graph_43.png" border="0" usemap="#aLocalScoreSaveData" alt=""/>
 <map name="aLocalScoreSaveData" id="aLocalScoreSaveData">
 <area shape="rect" href="classLocalScoreSaveData.html" title=" " alt="" coords="5,5,160,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_32.png" border="0" usemap="#aLocalScoreSaveService" alt=""/>
+<tr><td><img src="inherit_graph_44.png" border="0" usemap="#aLocalScoreSaveService" alt=""/>
 <map name="aLocalScoreSaveService" id="aLocalScoreSaveService">
 <area shape="rect" href="classLocalScoreSaveService.html" title=" " alt="" coords="5,5,177,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_33.png" border="0" usemap="#aLocalSettingsSaveStorage" alt=""/>
+<tr><td><img src="inherit_graph_45.png" border="0" usemap="#aLocalSettingsSaveStorage" alt=""/>
 <map name="aLocalSettingsSaveStorage" id="aLocalSettingsSaveStorage">
 <area shape="rect" href="classLocalSettingsSaveStorage.html" title=" " alt="" coords="5,5,196,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_34.png" border="0" usemap="#aMeshUtil" alt=""/>
+<tr><td><img src="inherit_graph_46.png" border="0" usemap="#aMenuTypingLock" alt=""/>
+<map name="aMenuTypingLock" id="aMenuTypingLock">
+<area shape="rect" href="classMenuTypingLock.html" title="UITK TextField가 포커스를 쥐는 동안 메뉴 입력을 재움. uGUI쪽 InputFieldFocusRelay와 같은 역할임" alt="" coords="5,5,136,31"/>
+</map>
+</td></tr>
+<tr><td><img src="inherit_graph_47.png" border="0" usemap="#aMeshUtil" alt=""/>
 <map name="aMeshUtil" id="aMeshUtil">
 <area shape="rect" href="classMeshUtil.html" title="2D 메쉬 및 LineRenderer 형상을 생성하는 공용 유틸리티." alt="" coords="5,5,85,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_35.png" border="0" usemap="#aMusicAudioPathResolver" alt=""/>
+<tr><td><img src="inherit_graph_48.png" border="0" usemap="#aMods" alt=""/>
+<map name="aMods" id="aMods">
+<area shape="rect" href="classMods.html" title="Runtime gameplay modifiers chosen in the song&#45;select MODS panel. Static so the choice carries from th..." alt="" coords="5,5,63,31"/>
+</map>
+</td></tr>
+<tr><td><img src="inherit_graph_49.png" border="0" usemap="#aMusicAudioPathResolver" alt=""/>
 <map name="aMusicAudioPathResolver" id="aMusicAudioPathResolver">
 <area shape="rect" href="classMusicAudioPathResolver.html" title=" " alt="" coords="5,5,188,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_36.png" border="0" usemap="#aNotes_8Lane_8LaneUtil" alt=""/>
+<tr><td><img src="inherit_graph_50.png" border="0" usemap="#aNotes_8Lane_8LaneUtil" alt=""/>
 <map name="aNotes_8Lane_8LaneUtil" id="aNotes_8Lane_8LaneUtil">
 <area shape="rect" href="classNotes_1_1Lane_1_1LaneUtil.html" title=" " alt="" coords="5,5,159,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_37.png" border="0" usemap="#aNoteSettingsDefaultsProvider" alt=""/>
+<tr><td><img src="inherit_graph_51.png" border="0" usemap="#aNoteSettingsDefaultsProvider" alt=""/>
 <map name="aNoteSettingsDefaultsProvider" id="aNoteSettingsDefaultsProvider">
 <area shape="rect" href="classNoteSettingsDefaultsProvider.html" title="Loads the project default note settings and returns mutable runtime clones." alt="" coords="5,5,220,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_38.png" border="0" usemap="#aNoteSettingsIO" alt=""/>
+<tr><td><img src="inherit_graph_52.png" border="0" usemap="#aNoteSettingsIO" alt=""/>
 <map name="aNoteSettingsIO" id="aNoteSettingsIO">
 <area shape="rect" href="classNoteSettingsIO.html" title="Public facade for loading, saving, and resetting user note settings." alt="" coords="5,5,125,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_39.png" border="0" usemap="#aNoteSettingsJsonPatchUtility" alt=""/>
+<tr><td><img src="inherit_graph_53.png" border="0" usemap="#aNoteSettingsJsonPatchUtility" alt=""/>
 <map name="aNoteSettingsJsonPatchUtility" id="aNoteSettingsJsonPatchUtility">
 <area shape="rect" href="classNoteSettingsJsonPatchUtility.html" title="Builds and applies JSON patches for top&#45;level NoteSettings fields." alt="" coords="5,5,213,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_40.png" border="0" usemap="#aNoteSettingsJsonPatchUtility_8PatchApplyResult" alt=""/>
+<tr><td><img src="inherit_graph_54.png" border="0" usemap="#aNoteSettingsJsonPatchUtility_8PatchApplyResult" alt=""/>
 <map name="aNoteSettingsJsonPatchUtility_8PatchApplyResult" id="aNoteSettingsJsonPatchUtility_8PatchApplyResult">
 <area shape="rect" href="structNoteSettingsJsonPatchUtility_1_1PatchApplyResult.html" title=" " alt="" coords="5,5,216,45"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_41.png" border="0" usemap="#aNoteSettingsPatchRepository" alt=""/>
+<tr><td><img src="inherit_graph_55.png" border="0" usemap="#aNoteSettingsPatchRepository" alt=""/>
 <map name="aNoteSettingsPatchRepository" id="aNoteSettingsPatchRepository">
 <area shape="rect" href="classNoteSettingsPatchRepository.html" title="Persists raw note&#45;settings patch JSON through the save system." alt="" coords="5,5,216,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_42.png" border="0" usemap="#aParrythmInputActions_8IngameGameplayActions" alt=""/>
+<tr><td><img src="inherit_graph_56.png" border="0" usemap="#aNoteSpeedScale" alt=""/>
+<map name="aNoteSpeedScale" id="aNoteSpeedScale">
+<area shape="rect" href="classNoteSpeedScale.html" title="Converts the player&#45;facing &quot;note speed&quot; dial into the raw seconds the gameplay code actually uses...." alt="" coords="5,5,133,31"/>
+</map>
+</td></tr>
+<tr><td><img src="inherit_graph_57.png" border="0" usemap="#aOutgameMenuInput" alt=""/>
+<map name="aOutgameMenuInput" id="aOutgameMenuInput">
+<area shape="rect" href="classOutgameMenuInput.html" title="UITK 화면 하나가 쓰는 OutgameMenu 액션 리더. 현재 떠 있는 화면만 입력을 읽음" alt="" coords="5,5,156,31"/>
+</map>
+</td></tr>
+<tr><td><img src="inherit_graph_58.png" border="0" usemap="#aOutgameNavigator" alt=""/>
+<map name="aOutgameNavigator" id="aOutgameNavigator">
+<area shape="rect" href="classOutgameNavigator.html" title="Minimal screen switcher for the UI Toolkit outgame port. Each screen controller registers its root Vi..." alt="" coords="5,5,152,31"/>
+</map>
+</td></tr>
+<tr><td><img src="inherit_graph_59.png" border="0" usemap="#aOutgameOverlay" alt=""/>
+<map name="aOutgameOverlay" id="aOutgameOverlay">
+<area shape="rect" href="classOutgameOverlay.html" title="리더보드·베스트15 같은 덮개 창의 여닫기. display만 뒤집으면 전환이 안 걸리므로 한 프레임 뒤에 .shown을 더해 페이드를 태우고, 닫을 땐 페이드가 끝난 뒤 displa..." alt="" coords="5,5,139,31"/>
+</map>
+</td></tr>
+<tr><td><img src="inherit_graph_60.png" border="0" usemap="#aOutgameSfx" alt=""/>
+<map name="aOutgameSfx" id="aOutgameSfx">
+<area shape="rect" href="classOutgameSfx.html" title="아웃게임 UI 효과음. 레거시 CarouselController가 쓰던 이벤트를 그대로 씀" alt="" coords="5,5,108,31"/>
+</map>
+</td></tr>
+<tr><td><img src="inherit_graph_61.png" border="0" usemap="#aParrythmInputActions_8IngameGameplayActions" alt=""/>
 <map name="aParrythmInputActions_8IngameGameplayActions" id="aParrythmInputActions_8IngameGameplayActions">
 <area shape="rect" href="classParrythmInputActions_1_1IngameGameplayActions.html" title="인게임 플레이 로직에서 직접 소비하는 액션 맵 래퍼." alt="" coords="5,5,220,45"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_43.png" border="0" usemap="#aParrythmInputActions_8OutgameMenuActions" alt=""/>
+<tr><td><img src="inherit_graph_62.png" border="0" usemap="#aParrythmInputActions_8OutgameMenuActions" alt=""/>
 <map name="aParrythmInputActions_8OutgameMenuActions" id="aParrythmInputActions_8OutgameMenuActions">
 <area shape="rect" href="classParrythmInputActions_1_1OutgameMenuActions.html" title="아웃게임 메뉴 내비게이션에서 사용하는 액션 맵 래퍼." alt="" coords="5,5,232,45"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_44.png" border="0" usemap="#aParrythmInputActions_8ResultsMenuActions" alt=""/>
+<tr><td><img src="inherit_graph_63.png" border="0" usemap="#aParrythmInputActions_8ResultsMenuActions" alt=""/>
 <map name="aParrythmInputActions_8ResultsMenuActions" id="aParrythmInputActions_8ResultsMenuActions">
 <area shape="rect" href="classParrythmInputActions_1_1ResultsMenuActions.html" title="결과 화면 내비게이션에서 사용하는 액션 맵 래퍼. /summary&gt;" alt="" coords="5,5,220,45"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_45.png" border="0" usemap="#aParrythmInputActions_8UIActions" alt=""/>
+<tr><td><img src="inherit_graph_64.png" border="0" usemap="#aParrythmInputActions_8UIActions" alt=""/>
 <map name="aParrythmInputActions_8UIActions" id="aParrythmInputActions_8UIActions">
 <area shape="rect" href="classParrythmInputActions_1_1UIActions.html" title="Unity UI(EventSystem)가 소비하는 UI 액션 맵 래퍼." alt="" coords="5,5,233,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_46.png" border="0" usemap="#aPlayerNameSettings" alt=""/>
+<tr><td><img src="inherit_graph_65.png" border="0" usemap="#aPlayerNameSettings" alt=""/>
 <map name="aPlayerNameSettings" id="aPlayerNameSettings">
 <area shape="rect" href="classPlayerNameSettings.html" title=" " alt="" coords="5,5,160,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_47.png" border="0" usemap="#aProfileSaveData" alt=""/>
+<tr><td><img src="inherit_graph_66.png" border="0" usemap="#aProfileSaveData" alt=""/>
 <map name="aProfileSaveData" id="aProfileSaveData">
 <area shape="rect" href="classProfileSaveData.html" title=" " alt="" coords="5,5,132,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_48.png" border="0" usemap="#aSaveIdentity" alt=""/>
+<tr><td><img src="inherit_graph_67.png" border="0" usemap="#aRatingEntry" alt=""/>
+<map name="aRatingEntry" id="aRatingEntry">
+<area shape="rect" href="structRatingEntry.html" title="A single chart&#39;s contribution to the player rating." alt="" coords="5,5,104,31"/>
+</map>
+</td></tr>
+<tr><td><img src="inherit_graph_68.png" border="0" usemap="#aRatingService" alt=""/>
+<map name="aRatingService" id="aRatingService">
+<area shape="rect" href="classRatingService.html" title="Player rating = sum of the Best 15 chart ratings." alt="" coords="5,5,117,31"/>
+</map>
+</td></tr>
+<tr><td><img src="inherit_graph_69.png" border="0" usemap="#aSaveIdentity" alt=""/>
 <map name="aSaveIdentity" id="aSaveIdentity">
 <area shape="rect" href="classSaveIdentity.html" title=" " alt="" coords="5,5,109,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_49.png" border="0" usemap="#aScoreGradeUtility" alt=""/>
+<tr><td><img src="inherit_graph_70.png" border="0" usemap="#aSceneNames" alt=""/>
+<map name="aSceneNames" id="aSceneNames">
+<area shape="rect" href="classSceneNames.html" title="Central scene names. During the UI Toolkit migration the outgame return target is repointed to the ne..." alt="" coords="5,5,112,31"/>
+</map>
+</td></tr>
+<tr><td><img src="inherit_graph_71.png" border="0" usemap="#aScoreGradeUtility" alt=""/>
 <map name="aScoreGradeUtility" id="aScoreGradeUtility">
 <area shape="rect" href="classScoreGradeUtility.html" title=" " alt="" coords="5,5,143,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_50.png" border="0" usemap="#aScriptableObject" alt=""/>
+<tr><td><img src="inherit_graph_72.png" border="0" usemap="#aScriptableObject" alt=""/>
 <map name="aScriptableObject" id="aScriptableObject">
 <area shape="rect" title=" " alt="" coords="5,5,135,31"/>
 <area shape="rect" href="classNoteSettings.html" title=" " alt="" coords="183,5,289,31"/>
 <area shape="poly" title=" " alt="" coords="148,15,183,15,183,21,148,21"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_51.png" border="0" usemap="#aSettingsCardService" alt=""/>
+<tr><td><img src="inherit_graph_73.png" border="0" usemap="#aSettingsCardService" alt=""/>
 <map name="aSettingsCardService" id="aSettingsCardService">
 <area shape="rect" href="classSettingsCardService.html" title=" " alt="" coords="5,5,159,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_52.png" border="0" usemap="#aSliderNoteInit" alt=""/>
+<tr><td><img src="inherit_graph_74.png" border="0" usemap="#aSliderNoteInit" alt=""/>
 <map name="aSliderNoteInit" id="aSliderNoteInit">
 <area shape="rect" href="structSliderNoteInit.html" title=" " alt="" coords="5,5,116,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_53.png" border="0" usemap="#aSongEntry" alt=""/>
+<tr><td><img src="inherit_graph_75.png" border="0" usemap="#aSongEntry" alt=""/>
 <map name="aSongEntry" id="aSongEntry">
 <area shape="rect" href="classSongEntry.html" title=" " alt="" coords="5,5,93,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_54.png" border="0" usemap="#aSongMeta" alt=""/>
+<tr><td><img src="inherit_graph_76.png" border="0" usemap="#aSongMeta" alt=""/>
 <map name="aSongMeta" id="aSongMeta">
 <area shape="rect" href="classSongMeta.html" title=" " alt="" coords="5,5,92,31"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_55.png" border="0" usemap="#aSongScanner" alt=""/>
+<tr><td><img src="inherit_graph_77.png" border="0" usemap="#aSongScanner" alt=""/>
 <map name="aSongScanner" id="aSongScanner">
 <area shape="rect" href="classSongScanner.html" title=" " alt="" coords="5,5,112,31"/>
+</map>
+</td></tr>
+<tr><td><img src="inherit_graph_78.png" border="0" usemap="#aSpecialBulletPattern" alt=""/>
+<map name="aSpecialBulletPattern" id="aSpecialBulletPattern">
+<area shape="rect" href="classSpecialBulletPattern.html" title="특수 불릿 패턴 좌표 생성기. core.js의 patternPointFrom / specialTripletFor를 그대로 옮김. 미리보기와 실제 생성이 같은 좌표를 쓰도록 계산은 전..." alt="" coords="5,5,159,31"/>
+</map>
+</td></tr>
+<tr><td><img src="inherit_graph_79.png" border="0" usemap="#aSpecialBulletPattern_8Params" alt=""/>
+<map name="aSpecialBulletPattern_8Params" id="aSpecialBulletPattern_8Params">
+<area shape="rect" href="classSpecialBulletPattern_1_1Params.html" title="패턴 하나가 쓰는 값 묶음. 안 쓰는 필드는 UI에서 감춤." alt="" coords="5,5,211,31"/>
+</map>
+</td></tr>
+<tr><td><img src="inherit_graph_80.png" border="0" usemap="#aVisualElement" alt=""/>
+<map name="aVisualElement" id="aVisualElement">
+<area shape="rect" title=" " alt="" coords="5,80,121,105"/>
+<area shape="rect" href="classMiniMapView.html" title="곡 전체를 한 줄로 보여주는 개요 막대. 웹 에디터의 waveMini에 해당함. 노트 밀도와 지금 보고 있는 구간을 표시하고, 클릭하면 그 시각으로 이동함." alt="" coords="175,5,285,31"/>
+<area shape="poly" title=" " alt="" coords="101,71,168,40,195,28,197,33,170,44,103,76"/>
+<area shape="rect" href="classNumField.html" title="숫자 입력. FloatField 대신 TextField로 직접 만들어서 표기(소수 3자리)와 커밋 시점을 웹 에디터와 맞춤. 편집 중에는 값을 덮어쓰지 않음 — 타이핑 도중 커서가 ..." alt="" coords="188,55,272,80"/>
+<area shape="poly" title=" " alt="" coords="135,79,187,71,188,76,136,84"/>
+<area shape="rect" href="classPreviewView.html" title="1920x1080 절대좌표 프리뷰. 웹 에디터의 #view 캔버스를 그대로 옮긴 것. 현재 커서 시각의 인게임 모습을 그리고, 클릭으로 노트를 놓는 면이기도 함." alt="" coords="177,104,283,129"/>
+<area shape="poly" title=" " alt="" coords="136,100,177,106,176,112,135,106"/>
+<area shape="rect" href="classWaveformView.html" title="파형 + 비트 그리드 + 노트 블록. 웹 에디터의 #wave 캔버스를 옮긴 것. 클릭으로 시킹, 드래그로 패닝, Shift+드래그로 구간 선택, Ctrl+휠로 줌." alt="" coords="169,153,291,179"/>
+<area shape="poly" title=" " alt="" coords="105,109,170,138,199,151,197,156,168,143,103,114"/>
 </map>
 </td></tr>
 </table>

@@ -5,5 +5,6 @@ var dir_fe283edb510b3a967d72ea2326c506d4 =
     [ "NoteSettingsIO.cs", "NoteSettingsIO_8cs.html", "NoteSettingsIO_8cs" ],
     [ "NoteSettingsJsonPatchUtility.cs", "NoteSettingsJsonPatchUtility_8cs.html", "NoteSettingsJsonPatchUtility_8cs" ],
     [ "NoteSettingsPatchRepository.cs", "NoteSettingsPatchRepository_8cs.html", "NoteSettingsPatchRepository_8cs" ],
+    [ "NoteSpeedScale.cs", "NoteSpeedScale_8cs.html", "NoteSpeedScale_8cs" ],
     [ "PlayerNameSettings.cs", "PlayerNameSettings_8cs.html", "PlayerNameSettings_8cs" ]
 ];

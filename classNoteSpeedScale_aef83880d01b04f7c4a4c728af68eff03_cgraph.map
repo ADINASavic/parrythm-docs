@@ -1,0 +1,5 @@
+<map id="NoteSpeedScale.ToMilliseconds" name="NoteSpeedScale.ToMilliseconds">
+<area shape="rect" id="Node000001" title="Dial value &#45;&gt; milliseconds (rounded), for the readout label." alt="" coords="5,5,232,31"/>
+<area shape="rect" id="Node000002" href="$classNoteSpeedScale.html#a77745b4315b72bbf5749f299c157cd2d" title="Dial value (1~20) &#45;&gt; grow/appear time in seconds." alt="" coords="280,5,480,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,15,266,15,266,21,232,21"/>
+</map>

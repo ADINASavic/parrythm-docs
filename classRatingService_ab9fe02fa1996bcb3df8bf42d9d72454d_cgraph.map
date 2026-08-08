@@ -1,0 +1,12 @@
+<map id="RatingService.GetAllPlayedEntries" name="RatingService.GetAllPlayedEntries">
+<area shape="rect" id="Node000001" title="Every played chart (best score &gt; 0) as a rating entry, sorted highest rating first." alt="" coords="5,93,205,133"/>
+<area shape="rect" id="Node000002" href="$classRatingService.html#aa08de3267e652feb395251c99c27c2c4" title="Per&#45;chart rating: level x accuracy. Returns 0 for invalid input." alt="" coords="253,5,464,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,91,252,55,276,47,278,52,254,60,158,96"/>
+<area shape="rect" id="Node000003" href="$classLocalScoreSaveService.html#a55f704f0060305a1e1cfff737df74ccf" title=" " alt="" coords="259,93,458,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,111,246,111,246,116,205,116"/>
+<area shape="rect" id="Node000005" href="$classSongScanner.html#abc765422ac2b4142ede50a0641cfeb2b" title=" " alt="" coords="280,158,437,183"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="195,131,289,152,288,158,194,136"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="312,94,309,84,316,74,333,69,359,67,388,70,404,77,402,82,387,75,359,72,334,74,319,79,314,85,317,92"/>
+<area shape="rect" id="Node000004" href="$classLocalScoreSaveService.html#a36f373f8b6b5b0bd1ff2ade5d75cabaa" title=" " alt="" coords="512,101,719,126"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="458,111,498,111,498,116,458,116"/>
+</map>

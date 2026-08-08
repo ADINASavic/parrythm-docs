@@ -1,0 +1,8 @@
+<map id="CurveUtil.ClosestPointOnSegment" name="CurveUtil.ClosestPointOnSegment">
+<area shape="rect" id="Node000001" title="선분 a &#45;b &#160;위에서 p 에 가장 가까운 점을 구함." alt="" coords="477,35,664,75"/>
+<area shape="rect" id="Node000002" href="$classChartEditorDraw.html#aeeeccdd4b72d1c892e9de6e072e0e300" title="target에 가장 가까운 폴리라인 위 지점의 진행도(0~1). 곡선 불릿의 dock 위치를 찾는 데 씀." alt="" coords="241,5,429,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="463,44,429,40,430,34,464,39"/>
+<area shape="rect" id="Node000003" href="$classSpecialBulletPattern.html#afb96d0f579068800bdd07379cd43d3d8" title="dock 말고는 슬라이더 경로에 닿지 않게 최소 거리만큼 밀어냄." alt="" coords="5,35,193,75"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="464,60,429,60,241,60,193,59,193,54,241,55,429,55,464,54"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="228,41,194,46,193,40,227,36"/>
+</map>

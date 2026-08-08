@@ -1,0 +1,9 @@
+<map id="ResultScreenController" name="ResultScreenController">
+<area shape="rect" id="Node000001" title="UI Toolkit port of the ingame result screen (ResultScreen.uxml, shared ResultTheme...." alt="" coords="5,168,176,193"/>
+<area shape="rect" id="Node000002" href="$classJudge.html" title=" " alt="" coords="25,80,84,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,117,88,166,83,168,62,119"/>
+<area shape="rect" id="Node000003" href="$classGaugeManager.html" title=" " alt="" coords="109,80,230,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,117,104,169,100,166,148,114"/>
+<area shape="rect" id="Node000004" href="$interfaceIGaugeCommand.html" title=" " alt="" coords="102,5,237,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="172,45,172,80,167,80,167,45"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SettingsCardPlaySettings.BindToUI" name="SettingsCardPlaySettings.BindToUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,196,45"/>
+<area shape="rect" id="Node000002" href="$classNoteSpeedScale.html#afef5ddf2bd55ab978b3ff159be696bb8" title="Seconds &#45;&gt; dial value, snapped to the 0.25 grid and clamped to range." alt="" coords="244,13,463,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,23,230,23,230,28,196,28"/>
+<area shape="rect" id="Node000003" href="$classNoteSpeedScale.html#aac9d02bb2911e173dcd94ee2bb82f57b" title="Snap a value to the nearest 0.25 step." alt="" coords="511,13,675,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="463,23,497,23,497,28,463,28"/>
+</map>

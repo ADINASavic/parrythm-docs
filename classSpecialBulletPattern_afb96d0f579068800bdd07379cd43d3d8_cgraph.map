@@ -1,0 +1,8 @@
+<map id="SpecialBulletPattern.PushOffSliderPath" name="SpecialBulletPattern.PushOffSliderPath">
+<area shape="rect" id="Node000001" title="dock 말고는 슬라이더 경로에 닿지 않게 최소 거리만큼 밀어냄." alt="" coords="5,5,193,45"/>
+<area shape="rect" id="Node000002" href="$classCurveUtil.html#a8bc13d519d6eae3f1b1de193a732bfc9" title="선분 a &#45;b &#160;위에서 p 에 가장 가까운 점을 구함." alt="" coords="477,5,664,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,20,241,19,429,19,464,19,464,25,429,24,241,24,193,25"/>
+<area shape="rect" id="Node000003" href="$classChartEditorDraw.html#aeeeccdd4b72d1c892e9de6e072e0e300" title="target에 가장 가까운 폴리라인 위 지점의 진행도(0~1). 곡선 불릿의 dock 위치를 찾는 데 씀." alt="" coords="241,33,429,73"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,34,228,38,227,43,193,39"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="429,39,464,35,464,41,430,45"/>
+</map>

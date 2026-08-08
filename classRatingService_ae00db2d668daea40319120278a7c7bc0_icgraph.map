@@ -1,0 +1,7 @@
+<map id="RatingService.GetPlayerRatingText" name="RatingService.GetPlayerRatingText">
+<area shape="rect" id="Node000001" title="Player rating formatted for UI, e.g. &quot;42.37&quot;." alt="" coords="265,35,515,60"/>
+<area shape="rect" id="Node000002" href="$classRatingLabel.html#ad772ae377d45bb9f43fb03e2a69be2c7" title=" " alt="" coords="35,5,188,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,36,188,29,188,23,256,31"/>
+<area shape="rect" id="Node000003" href="$classTitleScreenController.html#afec1ca60418a1ddf4d00c4f7a93c79fd" title=" " alt="" coords="5,55,217,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,64,218,67,217,62,251,59"/>
+</map>

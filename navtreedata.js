@@ -59,13 +59,15 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "AnimatedCharacterController_8cs.html",
-"classCanvasSongIntroController.html#a759a76058b09fb33afdcfd52cd7c966d",
-"classFixed16x9Camera.html#ad6276d018337d4eb6054a1d5c6c5ef73",
-"classLevelChartData_1_1NoteEvent.html#a5882c292d3992e4261c85cb61059c9f0",
-"classNotes_1_1Lane_1_1LaneOccupancyProvider.html#a9b5e6da70f4b04628888c5ed248428f7",
-"classNotes_1_1Square_1_1SquareVisualLong.html#af5396b491163f80f5f683837c45894e2",
-"classSettingsCarouselController.html#a3891485d509e3918a72ae8854abfef3a",
-"functions.html"
+"classBulletNote.html#a915ce84157a52c8fe9b6be6dd97d7141",
+"classChartEditorTime.html#a3329f1771c67829270dd6bc1f1ea3c14",
+"classGameSettingsSaveService.html#ab238846df7b0cea3355178f82c766242",
+"classLocalLeaderboardSaveData.html#a63ad50183f016a869cbd2f75861f1f7a",
+"classNotes_1_1Lane_1_1LaneUtil.html",
+"classNotes_1_1Square_1_1SquareVisualTrail.html#a64285f2186a306aa91320615ece1b79a",
+"classSampleCarouselController.html#aeaefa296ae626dee7ce161d6122dc01e",
+"classSpecialBulletPattern.html#a66f61911fec908f48467572f9d7dcc20a2d9b9a764fb0be4be10e1b2fce63f561",
+"interfaceISettingsController.html"
 ];
 
 var SYNCONMSG = '패널 동기화를 비활성화하기 위해 클릭하십시오';

@@ -7,5 +7,6 @@ var searchData=
   ['goodend_4',['GoodEnd',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a0f9b9f342fafb1b12ffcdf0fbfc2fa12',1,'Notes::Square::SquareNoteTimeline']]],
   ['goodstart_5',['GoodStart',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#abefe31904bbabb071b0d8ec7445e2efe',1,'Notes::Square::SquareNoteTimeline']]],
   ['goodwindow_6',['GoodWindow',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#aa29135fe307a70bc1772aac8c193546f',1,'Notes::Square::SquareNoteTimeline']]],
-  ['growspeed_7',['GrowSpeed',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a25e5d13a52134be90340bb0ac775f95c',1,'Notes::Square::SquareNoteTimeline']]]
+  ['gridleadsec_7',['GridLeadSec',['../classChartEditorSettings.html#acdc54782f2d34b26557c340844d417c8',1,'ChartEditorSettings']]],
+  ['growspeed_8',['GrowSpeed',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a25e5d13a52134be90340bb0ac775f95c',1,'Notes::Square::SquareNoteTimeline']]]
 ];

@@ -1,0 +1,7 @@
+<map id="BulletPlacement.BuildManualNote" name="BulletPlacement.BuildManualNote">
+<area shape="rect" id="Node000001" title="Spawn/Dock/Despawn을 직접 찍었을 때. 시간은 지정한 구간 길이를 그대로 씀." alt="" coords="5,31,251,56"/>
+<area shape="rect" id="Node000002" href="$classChartEditorTime.html#abd22cf96e5553fcf34fb7a11334f82e8" title="1ms 격자로 반올림. 에디터가 쓰는 모든 시간 필드의 해상도." alt="" coords="317,5,479,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,29,303,24,303,30,251,34"/>
+<area shape="rect" id="Node000003" href="$classChartEditorTime.html#abbfd9c6c25e840cde4bb90d9f36be0ad" title=" " alt="" coords="299,55,497,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,52,285,55,285,60,251,57"/>
+</map>

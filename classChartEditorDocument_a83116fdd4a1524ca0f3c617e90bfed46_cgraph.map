@@ -1,0 +1,5 @@
+<map id="ChartEditorDocument.LoadJson" name="ChartEditorDocument.LoadJson">
+<area shape="rect" id="Node000001" title="실패하면 false를 주고 기존 차트를 그대로 둠. 열다 깨져서 작업물을 잃으면 안 됨." alt="" coords="5,13,229,38"/>
+<area shape="rect" id="Node000002" href="$classLevelChartJsonTool.html#a140c85a493cbb3c9a0237b5576889503" title=" " alt="" coords="277,5,469,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,23,263,23,263,28,229,28"/>
+</map>

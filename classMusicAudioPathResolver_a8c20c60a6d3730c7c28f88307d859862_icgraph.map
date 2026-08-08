@@ -1,0 +1,5 @@
+<map id="MusicAudioPathResolver.ResolveAudioType" name="MusicAudioPathResolver.ResolveAudioType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="252,5,489,45"/>
+<area shape="rect" id="Node000002" href="$classChartEditorSong.html#a510818681b29331b7776534e2ab18b79" title="오디오는 스트리밍이 아니라 통째로 읽음. 파형을 뽑으려면 샘플이 다 필요함." alt="" coords="5,13,204,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,28,204,28,204,23,238,23"/>
+</map>

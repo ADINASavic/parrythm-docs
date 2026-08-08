@@ -1,0 +1,1801 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ko">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=11"/>
+<meta name="generator" content="Doxygen 1.9.8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Parrythm: ChartEditorNotes 클래스 참조</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtreedata.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+  $(document).ready(function() { init_search(); });
+/* @license-end */
+</script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+<link href="doxygen-awesome.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr id="projectrow">
+  <td id="projectalign">
+   <div id="projectname">Parrythm
+   </div>
+  </td>
+    <td>        <div id="MSearchBox" class="MSearchBoxInactive">
+        <span class="left">
+          <span id="MSearchSelect"                onmouseover="return searchBox.OnSearchSelectShow()"                onmouseout="return searchBox.OnSearchSelectHide()">&#160;</span>
+          <input type="text" id="MSearchField" value="" placeholder="검색" accesskey="S"
+               onfocus="searchBox.OnSearchFieldFocus(true)" 
+               onblur="searchBox.OnSearchFieldFocus(false)" 
+               onkeyup="searchBox.OnSearchFieldChange(event)"/>
+          </span><span class="right">
+            <a id="MSearchClose" href="javascript:searchBox.CloseResultsWindow()"><img id="MSearchCloseImg" border="0" src="search/close.svg" alt=""/></a>
+          </span>
+        </div>
+</td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- 다음에 의해 생성됨 :  Doxygen 1.9.8 -->
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+var searchBox = new SearchBox("searchBox", "search/",'.html');
+/* @license-end */
+</script>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+$(document).ready(function(){initNavTree('classChartEditorNotes.html',''); initResizable(); });
+/* @license-end */
+</script>
+<div id="doc-content">
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<div id="MSearchResults">
+<div class="SRPage">
+<div id="SRIndex">
+<div id="SRResults"></div>
+<div class="SRStatus" id="Loading">로딩중...</div>
+<div class="SRStatus" id="Searching">검색중...</div>
+<div class="SRStatus" id="NoMatches">일치하는것 없음</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="header">
+  <div class="summary">
+<a href="#pub-static-methods">정적 Public 멤버 함수</a> &#124;
+<a href="#pub-static-attribs">정적 Public 속성</a> &#124;
+<a href="classChartEditorNotes-members.html">모든 멤버 목록</a>  </div>
+  <div class="headertitle"><div class="title">ChartEditorNotes 클래스 참조</div></div>
+</div><!--header-->
+<div class="contents">
+
+<p>노트 하나에서 "지금 몇 초짜리냐"를 뽑는 규칙. core.js의 getNoteTimeSec / getSliderStartSec / getBulletSpawnSec 계열을 그대로 옮김. timeMode에 따라 sec와 beat 중 무엇이 진실인지가 달라짐.  
+ <a href="classChartEditorNotes.html#details">더 자세히 ...</a></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+정적 Public 멤버 함수</h2></td></tr>
+<tr class="memitem:add82b4c4db3f67f9fd0bf0a0faa045d6" id="r_add82b4c4db3f67f9fd0bf0a0faa045d6"><td class="memItemLeft" align="right" valign="top">static Vector2&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#add82b4c4db3f67f9fd0bf0a0faa045d6">CellToAbs</a> (int c, int r)</td></tr>
+<tr class="memdesc:add82b4c4db3f67f9fd0bf0a0faa045d6"><td class="mdescLeft">&#160;</td><td class="mdescRight">c는 0~2(좌→우), r은 0~2(아래=0). 웹 에디터 cellToAbsPos와 같은 인덱싱.  <br /></td></tr>
+<tr class="separator:add82b4c4db3f67f9fd0bf0a0faa045d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adbf6b704ccd85d1ea1577f81d5b980f0" id="r_adbf6b704ccd85d1ea1577f81d5b980f0"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#adbf6b704ccd85d1ea1577f81d5b980f0">TryAbsToCell</a> (Vector2 abs, out int c, out int r)</td></tr>
+<tr class="separator:adbf6b704ccd85d1ea1577f81d5b980f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a46565c08ced34e4c791a05d689d10605" id="r_a46565c08ced34e4c791a05d689d10605"><td class="memItemLeft" align="right" valign="top">static float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#a46565c08ced34e4c791a05d689d10605">ChartTimeToPlayback</a> (<a class="el" href="classChartEditorTime.html">ChartEditorTime</a> time, float sec, float beat)</td></tr>
+<tr class="memdesc:a46565c08ced34e4c791a05d689d10605"><td class="mdescLeft">&#160;</td><td class="mdescRight">차트 시각(sec/beat 쌍) → 플레이백 초. 오프셋 포함.  <br /></td></tr>
+<tr class="separator:a46565c08ced34e4c791a05d689d10605"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adae2ab40750f77ca1092b737481134b4" id="r_adae2ab40750f77ca1092b737481134b4"><td class="memItemLeft" align="right" valign="top">static float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#adae2ab40750f77ca1092b737481134b4">NoteTimeSec</a> (<a class="el" href="classChartEditorTime.html">ChartEditorTime</a> time, <a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a> n)</td></tr>
+<tr class="memdesc:adae2ab40750f77ca1092b737481134b4"><td class="mdescLeft">&#160;</td><td class="mdescRight">노트를 대표하는 시각(플레이백 초). 리스트 정렬과 파형 배치 기준.  <br /></td></tr>
+<tr class="separator:adae2ab40750f77ca1092b737481134b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad3a64bcc0a0841cedfbb399158670bc1" id="r_ad3a64bcc0a0841cedfbb399158670bc1"><td class="memItemLeft" align="right" valign="top">static float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#ad3a64bcc0a0841cedfbb399158670bc1">NoteTimeBeats</a> (<a class="el" href="classChartEditorTime.html">ChartEditorTime</a> time, <a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a> n)</td></tr>
+<tr class="separator:ad3a64bcc0a0841cedfbb399158670bc1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab4dfcfdbb89c0bd2dc1f1f342d8659c2" id="r_ab4dfcfdbb89c0bd2dc1f1f342d8659c2"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="ChartEditorNotes_8cs.html#a061bfdea8217ea83181b2a1c74fdf1ef">NoteType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#ab4dfcfdbb89c0bd2dc1f1f342d8659c2">DisplayType</a> (<a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a> n)</td></tr>
+<tr class="memdesc:ab4dfcfdbb89c0bd2dc1f1f342d8659c2"><td class="mdescLeft">&#160;</td><td class="mdescRight">isLong/isTrail 때문에 저장 타입과 화면에 보이는 타입이 다름.  <br /></td></tr>
+<tr class="separator:ab4dfcfdbb89c0bd2dc1f1f342d8659c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aace8b51bc10d35c2e2f19c9eaab062d5" id="r_aace8b51bc10d35c2e2f19c9eaab062d5"><td class="memItemLeft" align="right" valign="top">static string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#aace8b51bc10d35c2e2f19c9eaab062d5">DisplayTypeLabel</a> (<a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a> n)</td></tr>
+<tr class="separator:aace8b51bc10d35c2e2f19c9eaab062d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab135d60e56ffbf00f426c69527ca85e5" id="r_ab135d60e56ffbf00f426c69527ca85e5"><td class="memItemLeft" align="right" valign="top">static float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#ab135d60e56ffbf00f426c69527ca85e5">SliderStartSec</a> (<a class="el" href="classChartEditorTime.html">ChartEditorTime</a> time, <a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a> n)</td></tr>
+<tr class="separator:ab135d60e56ffbf00f426c69527ca85e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a859c179a951de2fc0ba67a86f7f60432" id="r_a859c179a951de2fc0ba67a86f7f60432"><td class="memItemLeft" align="right" valign="top">static float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#a859c179a951de2fc0ba67a86f7f60432">SliderDurationSec</a> (<a class="el" href="classChartEditorTime.html">ChartEditorTime</a> time, <a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a> n)</td></tr>
+<tr class="separator:a859c179a951de2fc0ba67a86f7f60432"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a639f6721a5f8a71e8ac7e3af0638c8b5" id="r_a639f6721a5f8a71e8ac7e3af0638c8b5"><td class="memItemLeft" align="right" valign="top">static float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#a639f6721a5f8a71e8ac7e3af0638c8b5">LongStartSec</a> (<a class="el" href="classChartEditorTime.html">ChartEditorTime</a> time, <a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a> n)</td></tr>
+<tr class="separator:a639f6721a5f8a71e8ac7e3af0638c8b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afd90f1906045f5566a407aad06d9bb26" id="r_afd90f1906045f5566a407aad06d9bb26"><td class="memItemLeft" align="right" valign="top">static float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#afd90f1906045f5566a407aad06d9bb26">LongDurationSec</a> (<a class="el" href="classChartEditorTime.html">ChartEditorTime</a> time, <a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a> n)</td></tr>
+<tr class="separator:afd90f1906045f5566a407aad06d9bb26"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae2d772c4dbe96bfb90d7b2d0460ae815" id="r_ae2d772c4dbe96bfb90d7b2d0460ae815"><td class="memItemLeft" align="right" valign="top">static float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#ae2d772c4dbe96bfb90d7b2d0460ae815">BulletSpawnSec</a> (<a class="el" href="classChartEditorTime.html">ChartEditorTime</a> time, <a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a> n)</td></tr>
+<tr class="separator:ae2d772c4dbe96bfb90d7b2d0460ae815"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7d7c33dbf2023b3b57abcfa34274f2db" id="r_a7d7c33dbf2023b3b57abcfa34274f2db"><td class="memItemLeft" align="right" valign="top">static float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#a7d7c33dbf2023b3b57abcfa34274f2db">BulletToDockSec</a> (<a class="el" href="classChartEditorTime.html">ChartEditorTime</a> time, <a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a> n)</td></tr>
+<tr class="separator:a7d7c33dbf2023b3b57abcfa34274f2db"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a69ac773b2a08fcbee5d38ace96360c5e" id="r_a69ac773b2a08fcbee5d38ace96360c5e"><td class="memItemLeft" align="right" valign="top">static float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#a69ac773b2a08fcbee5d38ace96360c5e">BulletDockToDespawnSec</a> (<a class="el" href="classChartEditorTime.html">ChartEditorTime</a> time, <a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a> n)</td></tr>
+<tr class="separator:a69ac773b2a08fcbee5d38ace96360c5e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a17bb059bb89630487edf3669b45bd655" id="r_a17bb059bb89630487edf3669b45bd655"><td class="memItemLeft" align="right" valign="top">static float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#a17bb059bb89630487edf3669b45bd655">CameraStartSec</a> (<a class="el" href="classChartEditorTime.html">ChartEditorTime</a> time, <a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a> n)</td></tr>
+<tr class="separator:a17bb059bb89630487edf3669b45bd655"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a562b1b6644a0349f04378af79086ef62" id="r_a562b1b6644a0349f04378af79086ef62"><td class="memItemLeft" align="right" valign="top">static float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#a562b1b6644a0349f04378af79086ef62">CameraDurationSec</a> (<a class="el" href="classChartEditorTime.html">ChartEditorTime</a> time, <a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a> n)</td></tr>
+<tr class="separator:a562b1b6644a0349f04378af79086ef62"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac6e0bafe486f73e5a0aed02f4fc76b21" id="r_ac6e0bafe486f73e5a0aed02f4fc76b21"><td class="memItemLeft" align="right" valign="top">static float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#ac6e0bafe486f73e5a0aed02f4fc76b21">SpawnSec</a> (<a class="el" href="classChartEditorTime.html">ChartEditorTime</a> time, <a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a> n)</td></tr>
+<tr class="memdesc:ac6e0bafe486f73e5a0aed02f4fc76b21"><td class="mdescLeft">&#160;</td><td class="mdescRight">노트가 화면에 나타나기 시작하는 시각. 정렬용이라 대략만 맞으면 됨.  <br /></td></tr>
+<tr class="separator:ac6e0bafe486f73e5a0aed02f4fc76b21"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a15771c488be1bd1d053ddff3d29aaf10" id="r_a15771c488be1bd1d053ddff3d29aaf10"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#a15771c488be1bd1d053ddff3d29aaf10">TimeWindow</a> (<a class="el" href="classChartEditorTime.html">ChartEditorTime</a> time, <a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a> n, out float t0, out float t1)</td></tr>
+<tr class="memdesc:a15771c488be1bd1d053ddff3d29aaf10"><td class="mdescLeft">&#160;</td><td class="mdescRight">파형에 블록으로 그릴 구간. 점 이벤트는 최소 폭을 줌.  <br /></td></tr>
+<tr class="separator:a15771c488be1bd1d053ddff3d29aaf10"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae4e3805e3c91849b6a49540906dd1fdc" id="r_ae4e3805e3c91849b6a49540906dd1fdc"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#ae4e3805e3c91849b6a49540906dd1fdc">ApplyNoteTime</a> (<a class="el" href="classChartEditorTime.html">ChartEditorTime</a> time, <a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a> n, float playbackSec, float beat)</td></tr>
+<tr class="memdesc:ae4e3805e3c91849b6a49540906dd1fdc"><td class="mdescLeft">&#160;</td><td class="mdescRight">노트의 대표 시각을 sec/beat 양쪽에 한꺼번에 써 넣음. 필드가 타입마다 달라서 한곳에 모음.  <br /></td></tr>
+<tr class="separator:ae4e3805e3c91849b6a49540906dd1fdc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a54c668e47a94cdd44f28bd2b2aee3205" id="r_a54c668e47a94cdd44f28bd2b2aee3205"><td class="memItemLeft" align="right" valign="top">static Vector2&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#a54c668e47a94cdd44f28bd2b2aee3205">SnapToAnchors</a> (<a class="el" href="classChartEditorSettings.html">ChartEditorSettings</a> settings, Vector2 target, Vector2? anchor, Vector2? prevAnchor)</td></tr>
+<tr class="memdesc:a54c668e47a94cdd44f28bd2b2aee3205"><td class="mdescLeft">&#160;</td><td class="mdescRight">직전에 찍은 점을 기준으로 클릭 위치를 일정 간격·각도에 맞춰 당김. core.js snapToAnchors와 같음. prevAnchor가 있으면 Direction 모드에서 그 방향을 이어감.  <br /></td></tr>
+<tr class="separator:a54c668e47a94cdd44f28bd2b2aee3205"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4a9f015eb1dba5a221ccf41632b0cb2c" id="r_a4a9f015eb1dba5a221ccf41632b0cb2c"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#a4a9f015eb1dba5a221ccf41632b0cb2c">ShiftNote</a> (<a class="el" href="classChartEditorTime.html">ChartEditorTime</a> time, <a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a> n, float deltaSec)</td></tr>
+<tr class="memdesc:a4a9f015eb1dba5a221ccf41632b0cb2c"><td class="mdescLeft">&#160;</td><td class="mdescRight">노트를 delta초만큼 통째로 민다. 다중 선택 이동용.  <br /></td></tr>
+<tr class="separator:a4a9f015eb1dba5a221ccf41632b0cb2c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acae69bdf9d44629f92022642038c6355" id="r_acae69bdf9d44629f92022642038c6355"><td class="memItemLeft" align="right" valign="top">static string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#acae69bdf9d44629f92022642038c6355">ShortLabel</a> (<a class="el" href="classChartEditorTime.html">ChartEditorTime</a> time, <a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a> n)</td></tr>
+<tr class="separator:acae69bdf9d44629f92022642038c6355"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af676723c5137fc3b2cb5e9d8f987f2cb" id="r_af676723c5137fc3b2cb5e9d8f987f2cb"><td class="memItemLeft" align="right" valign="top">static List&lt; Vector2 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#af676723c5137fc3b2cb5e9d8f987f2cb">ClonePath</a> (List&lt; Vector2 &gt; src)</td></tr>
+<tr class="separator:af676723c5137fc3b2cb5e9d8f987f2cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-attribs" name="pub-static-attribs"></a>
+정적 Public 속성</h2></td></tr>
+<tr class="memitem:a5c76b5d6f777b9b06998d22ca8e8970e" id="r_a5c76b5d6f777b9b06998d22ca8e8970e"><td class="memItemLeft" align="right" valign="top">const float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#a5c76b5d6f777b9b06998d22ca8e8970e">RefWidth</a> = 1920f</td></tr>
+<tr class="separator:a5c76b5d6f777b9b06998d22ca8e8970e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a06da2e112acd236cb682c11f32cf6064" id="r_a06da2e112acd236cb682c11f32cf6064"><td class="memItemLeft" align="right" valign="top">const float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#a06da2e112acd236cb682c11f32cf6064">RefHeight</a> = 1080f</td></tr>
+<tr class="separator:a06da2e112acd236cb682c11f32cf6064"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a708ec973b1bcdc4aaaf647c5a585960a" id="r_a708ec973b1bcdc4aaaf647c5a585960a"><td class="memItemLeft" align="right" valign="top">const float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#a708ec973b1bcdc4aaaf647c5a585960a">GridLeft</a> = 648f</td></tr>
+<tr class="separator:a708ec973b1bcdc4aaaf647c5a585960a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a29ddda3aac31adc3f4211dbb801f6bca" id="r_a29ddda3aac31adc3f4211dbb801f6bca"><td class="memItemLeft" align="right" valign="top">const float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#a29ddda3aac31adc3f4211dbb801f6bca">GridRight</a> = 1296f</td></tr>
+<tr class="separator:a29ddda3aac31adc3f4211dbb801f6bca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acc0d276b9ae72a9076d6a73eff83acfe" id="r_acc0d276b9ae72a9076d6a73eff83acfe"><td class="memItemLeft" align="right" valign="top">const float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#acc0d276b9ae72a9076d6a73eff83acfe">GridTop</a> = 216f</td></tr>
+<tr class="separator:acc0d276b9ae72a9076d6a73eff83acfe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6237f84a43fd37b216fd3161d43c74ed" id="r_a6237f84a43fd37b216fd3161d43c74ed"><td class="memItemLeft" align="right" valign="top">const float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#a6237f84a43fd37b216fd3161d43c74ed">GridBottom</a> = 864f</td></tr>
+<tr class="separator:a6237f84a43fd37b216fd3161d43c74ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad00b25920b6fe646fbb1e999754bb5f1" id="r_ad00b25920b6fe646fbb1e999754bb5f1"><td class="memItemLeft" align="right" valign="top">const float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#ad00b25920b6fe646fbb1e999754bb5f1">GridCell</a> = (<a class="el" href="classChartEditorNotes.html#a29ddda3aac31adc3f4211dbb801f6bca">GridRight</a> - <a class="el" href="classChartEditorNotes.html#a708ec973b1bcdc4aaaf647c5a585960a">GridLeft</a>) / 3f</td></tr>
+<tr class="separator:ad00b25920b6fe646fbb1e999754bb5f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3b86d042758d257d1a00beeec52f7714" id="r_a3b86d042758d257d1a00beeec52f7714"><td class="memItemLeft" align="right" valign="top">static readonly <a class="el" href="ChartEditorNotes_8cs.html#a061bfdea8217ea83181b2a1c74fdf1ef">NoteType</a>[]&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorNotes.html#a3b86d042758d257d1a00beeec52f7714">PlaceableTypes</a></td></tr>
+<tr class="separator:a3b86d042758d257d1a00beeec52f7714"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">상세한 설명</h2>
+<div class="textblock"><p>노트 하나에서 "지금 몇 초짜리냐"를 뽑는 규칙. core.js의 getNoteTimeSec / getSliderStartSec / getBulletSpawnSec 계열을 그대로 옮김. timeMode에 따라 sec와 beat 중 무엇이 진실인지가 달라짐. </p>
+</div><h2 class="groupheader">멤버 함수 문서화</h2>
+<a id="ae4e3805e3c91849b6a49540906dd1fdc" name="ae4e3805e3c91849b6a49540906dd1fdc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae4e3805e3c91849b6a49540906dd1fdc">&#9670;&#160;</a></span>ApplyNoteTime()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void ChartEditorNotes.ApplyNoteTime </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classChartEditorTime.html">ChartEditorTime</a>&#160;</td>
+          <td class="paramname"><em>time</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a>&#160;</td>
+          <td class="paramname"><em>n</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>playbackSec</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>beat</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>노트의 대표 시각을 sec/beat 양쪽에 한꺼번에 써 넣음. 필드가 타입마다 달라서 한곳에 모음. </p>
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_ae4e3805e3c91849b6a49540906dd1fdc_cgraph.png" border="0" usemap="#aclassChartEditorNotes_ae4e3805e3c91849b6a49540906dd1fdc_cgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_ae4e3805e3c91849b6a49540906dd1fdc_cgraph" id="aclassChartEditorNotes_ae4e3805e3c91849b6a49540906dd1fdc_cgraph">
+<area shape="rect" title="노트의 대표 시각을 sec/beat 양쪽에 한꺼번에 써 넣음. 필드가 타입마다 달라서 한곳에 모음." alt="" coords="5,31,244,56"/>
+<area shape="rect" href="classChartEditorNotes.html#ab4dfcfdbb89c0bd2dc1f1f342d8659c2" title="isLong/isTrail 때문에 저장 타입과 화면에 보이는 타입이 다름." alt="" coords="292,5,508,31"/>
+<area shape="poly" title=" " alt="" coords="244,30,278,27,279,32,244,35"/>
+<area shape="rect" href="classChartEditorTime.html#abd22cf96e5553fcf34fb7a11334f82e8" title="1ms 격자로 반올림. 에디터가 쓰는 모든 시간 필드의 해상도." alt="" coords="319,55,481,80"/>
+<area shape="poly" title=" " alt="" coords="244,51,305,56,305,62,244,56"/>
+</map>
+</div>
+<div class="dynheader">
+이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_ae4e3805e3c91849b6a49540906dd1fdc_icgraph.png" border="0" usemap="#aclassChartEditorNotes_ae4e3805e3c91849b6a49540906dd1fdc_icgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_ae4e3805e3c91849b6a49540906dd1fdc_icgraph" id="aclassChartEditorNotes_ae4e3805e3c91849b6a49540906dd1fdc_icgraph">
+<area shape="rect" title="노트의 대표 시각을 sec/beat 양쪽에 한꺼번에 써 넣음. 필드가 타입마다 달라서 한곳에 모음." alt="" coords="493,13,732,38"/>
+<area shape="rect" href="classChartEditorNotes.html#a4a9f015eb1dba5a221ccf41632b0cb2c" title="노트를 delta초만큼 통째로 민다. 다중 선택 이동용." alt="" coords="248,13,445,38"/>
+<area shape="poly" title=" " alt="" coords="480,28,446,28,446,23,480,23"/>
+<area shape="rect" href="classChartEditorDocument.html#a3bb24515207fa7cc9c9c68ee6eec0621" title=" " alt="" coords="5,5,200,45"/>
+<area shape="poly" title=" " alt="" coords="235,28,200,28,200,23,235,23"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a69ac773b2a08fcbee5d38ace96360c5e" name="a69ac773b2a08fcbee5d38ace96360c5e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a69ac773b2a08fcbee5d38ace96360c5e">&#9670;&#160;</a></span>BulletDockToDespawnSec()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static float ChartEditorNotes.BulletDockToDespawnSec </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classChartEditorTime.html">ChartEditorTime</a>&#160;</td>
+          <td class="paramname"><em>time</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a>&#160;</td>
+          <td class="paramname"><em>n</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_a69ac773b2a08fcbee5d38ace96360c5e_cgraph.png" border="0" usemap="#aclassChartEditorNotes_a69ac773b2a08fcbee5d38ace96360c5e_cgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_a69ac773b2a08fcbee5d38ace96360c5e_cgraph" id="aclassChartEditorNotes_a69ac773b2a08fcbee5d38ace96360c5e_cgraph">
+<area shape="rect" title=" " alt="" coords="5,23,213,63"/>
+<area shape="rect" href="classChartEditorTime.html#a433d15e2d830b098cb0d778dc54be715" title="startBeat부터 durationBeats만큼의 실제 길이(초). 템포가 바뀌어도 맞음." alt="" coords="261,5,472,31"/>
+<area shape="poly" title=" " alt="" coords="213,30,248,27,248,32,214,36"/>
+<area shape="rect" href="classChartEditorTime.html#abbfd9c6c25e840cde4bb90d9f36be0ad" title=" " alt="" coords="267,55,466,80"/>
+<area shape="poly" title=" " alt="" coords="214,50,254,54,254,59,213,56"/>
+</map>
+</div>
+<div class="dynheader">
+이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_a69ac773b2a08fcbee5d38ace96360c5e_icgraph.png" border="0" usemap="#aclassChartEditorNotes_a69ac773b2a08fcbee5d38ace96360c5e_icgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_a69ac773b2a08fcbee5d38ace96360c5e_icgraph" id="aclassChartEditorNotes_a69ac773b2a08fcbee5d38ace96360c5e_icgraph">
+<area shape="rect" title=" " alt="" coords="767,5,975,45"/>
+<area shape="rect" href="classChartEditorNotes.html#a15771c488be1bd1d053ddff3d29aaf10" title="파형에 블록으로 그릴 구간. 점 이벤트는 최소 폭을 줌." alt="" coords="496,13,719,38"/>
+<area shape="poly" title=" " alt="" coords="753,28,719,28,719,23,753,23"/>
+<area shape="rect" href="classChartEditorNotes.html#ac6e0bafe486f73e5a0aed02f4fc76b21" title="노트가 화면에 나타나기 시작하는 시각. 정렬용이라 대략만 맞으면 됨." alt="" coords="245,13,448,38"/>
+<area shape="poly" title=" " alt="" coords="482,28,448,28,448,23,482,23"/>
+<area shape="rect" href="classChartEditorDocument.html#af464b48b311d733858d9b4e3ec0ffb1d" title="스폰 순서로 정렬. 런타임이 노트를 만드는 순서와 같음." alt="" coords="5,5,197,45"/>
+<area shape="poly" title=" " alt="" coords="232,28,197,28,197,23,232,23"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="ae2d772c4dbe96bfb90d7b2d0460ae815" name="ae2d772c4dbe96bfb90d7b2d0460ae815"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae2d772c4dbe96bfb90d7b2d0460ae815">&#9670;&#160;</a></span>BulletSpawnSec()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static float ChartEditorNotes.BulletSpawnSec </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classChartEditorTime.html">ChartEditorTime</a>&#160;</td>
+          <td class="paramname"><em>time</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a>&#160;</td>
+          <td class="paramname"><em>n</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="dynheader">
+이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_ae2d772c4dbe96bfb90d7b2d0460ae815_icgraph.png" border="0" usemap="#aclassChartEditorNotes_ae2d772c4dbe96bfb90d7b2d0460ae815_icgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_ae2d772c4dbe96bfb90d7b2d0460ae815_icgraph" id="aclassChartEditorNotes_ae2d772c4dbe96bfb90d7b2d0460ae815_icgraph">
+<area shape="rect" title=" " alt="" coords="1039,191,1280,217"/>
+<area shape="rect" href="classChartEditorNotes.html#adae2ab40750f77ca1092b737481134b4" title="노트를 대표하는 시각(플레이백 초). 리스트 정렬과 파형 배치 기준." alt="" coords="767,163,991,189"/>
+<area shape="poly" title=" " alt="" coords="1025,193,991,190,991,185,1025,188"/>
+<area shape="rect" href="classChartEditorNotes.html#a15771c488be1bd1d053ddff3d29aaf10" title="파형에 블록으로 그릴 구간. 점 이벤트는 최소 폭을 줌." alt="" coords="496,249,719,274"/>
+<area shape="poly" title=" " alt="" coords="1025,221,719,252,719,247,1025,215"/>
+<area shape="rect" href="classChartEditorNotes.html#ad3a64bcc0a0841cedfbb399158670bc1" title=" " alt="" coords="507,5,708,45"/>
+<area shape="poly" title=" " alt="" coords="852,156,793,108,756,82,717,60,689,48,691,43,720,55,759,77,796,103,855,152"/>
+<area shape="rect" href="classChartEditorDocument.html#afacbcb990537758f03857435e7c88700" title=" " alt="" coords="504,69,711,109"/>
+<area shape="poly" title=" " alt="" coords="828,161,718,124,679,112,681,107,719,119,830,156"/>
+<area shape="rect" href="classChartEditorNotes.html#a4a9f015eb1dba5a221ccf41632b0cb2c" title="노트를 delta초만큼 통째로 민다. 다중 선택 이동용." alt="" coords="509,134,706,159"/>
+<area shape="poly" title=" " alt="" coords="753,165,706,160,707,155,753,160"/>
+<area shape="rect" href="classChartEditorDocument.html#a356b0a32d8a1b30cd3a46d9e99936eba" title=" " alt="" coords="511,184,703,224"/>
+<area shape="poly" title=" " alt="" coords="753,192,704,197,703,191,753,186"/>
+<area shape="poly" title=" " alt="" coords="818,195,768,213,744,226,720,238,677,251,676,246,718,234,742,221,766,208,816,190"/>
+<area shape="rect" href="classChartEditorDocument.html#a3bb24515207fa7cc9c9c68ee6eec0621" title=" " alt="" coords="249,127,444,167"/>
+<area shape="poly" title=" " alt="" coords="495,149,444,149,444,144,495,144"/>
+<area shape="rect" href="classChartEditorNotes.html#ac6e0bafe486f73e5a0aed02f4fc76b21" title="노트가 화면에 나타나기 시작하는 시각. 정렬용이라 대략만 맞으면 됨." alt="" coords="245,249,448,274"/>
+<area shape="poly" title=" " alt="" coords="482,264,448,264,448,259,482,259"/>
+<area shape="rect" href="classChartEditorDocument.html#af464b48b311d733858d9b4e3ec0ffb1d" title="스폰 순서로 정렬. 런타임이 노트를 만드는 순서와 같음." alt="" coords="5,241,197,281"/>
+<area shape="poly" title=" " alt="" coords="232,264,197,264,197,259,232,259"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a7d7c33dbf2023b3b57abcfa34274f2db" name="a7d7c33dbf2023b3b57abcfa34274f2db"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7d7c33dbf2023b3b57abcfa34274f2db">&#9670;&#160;</a></span>BulletToDockSec()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static float ChartEditorNotes.BulletToDockSec </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classChartEditorTime.html">ChartEditorTime</a>&#160;</td>
+          <td class="paramname"><em>time</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a>&#160;</td>
+          <td class="paramname"><em>n</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_a7d7c33dbf2023b3b57abcfa34274f2db_cgraph.png" border="0" usemap="#aclassChartEditorNotes_a7d7c33dbf2023b3b57abcfa34274f2db_cgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_a7d7c33dbf2023b3b57abcfa34274f2db_cgraph" id="aclassChartEditorNotes_a7d7c33dbf2023b3b57abcfa34274f2db_cgraph">
+<area shape="rect" title=" " alt="" coords="5,23,195,63"/>
+<area shape="rect" href="classChartEditorTime.html#a433d15e2d830b098cb0d778dc54be715" title="startBeat부터 durationBeats만큼의 실제 길이(초). 템포가 바뀌어도 맞음." alt="" coords="243,5,453,31"/>
+<area shape="poly" title=" " alt="" coords="195,31,229,27,229,33,195,36"/>
+<area shape="rect" href="classChartEditorTime.html#abbfd9c6c25e840cde4bb90d9f36be0ad" title=" " alt="" coords="249,55,447,80"/>
+<area shape="poly" title=" " alt="" coords="195,50,235,54,235,59,195,55"/>
+</map>
+</div>
+<div class="dynheader">
+이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_a7d7c33dbf2023b3b57abcfa34274f2db_icgraph.png" border="0" usemap="#aclassChartEditorNotes_a7d7c33dbf2023b3b57abcfa34274f2db_icgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_a7d7c33dbf2023b3b57abcfa34274f2db_icgraph" id="aclassChartEditorNotes_a7d7c33dbf2023b3b57abcfa34274f2db_icgraph">
+<area shape="rect" title=" " alt="" coords="767,5,956,45"/>
+<area shape="rect" href="classChartEditorNotes.html#a15771c488be1bd1d053ddff3d29aaf10" title="파형에 블록으로 그릴 구간. 점 이벤트는 최소 폭을 줌." alt="" coords="496,13,719,38"/>
+<area shape="poly" title=" " alt="" coords="753,28,719,28,719,23,753,23"/>
+<area shape="rect" href="classChartEditorNotes.html#ac6e0bafe486f73e5a0aed02f4fc76b21" title="노트가 화면에 나타나기 시작하는 시각. 정렬용이라 대략만 맞으면 됨." alt="" coords="245,13,448,38"/>
+<area shape="poly" title=" " alt="" coords="482,28,448,28,448,23,482,23"/>
+<area shape="rect" href="classChartEditorDocument.html#af464b48b311d733858d9b4e3ec0ffb1d" title="스폰 순서로 정렬. 런타임이 노트를 만드는 순서와 같음." alt="" coords="5,5,197,45"/>
+<area shape="poly" title=" " alt="" coords="232,28,197,28,197,23,232,23"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a562b1b6644a0349f04378af79086ef62" name="a562b1b6644a0349f04378af79086ef62"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a562b1b6644a0349f04378af79086ef62">&#9670;&#160;</a></span>CameraDurationSec()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static float ChartEditorNotes.CameraDurationSec </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classChartEditorTime.html">ChartEditorTime</a>&#160;</td>
+          <td class="paramname"><em>time</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a>&#160;</td>
+          <td class="paramname"><em>n</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="dynheader">
+이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_a562b1b6644a0349f04378af79086ef62_icgraph.png" border="0" usemap="#aclassChartEditorNotes_a562b1b6644a0349f04378af79086ef62_icgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_a562b1b6644a0349f04378af79086ef62_icgraph" id="aclassChartEditorNotes_a562b1b6644a0349f04378af79086ef62_icgraph">
+<area shape="rect" title=" " alt="" coords="767,13,1033,38"/>
+<area shape="rect" href="classChartEditorNotes.html#a15771c488be1bd1d053ddff3d29aaf10" title="파형에 블록으로 그릴 구간. 점 이벤트는 최소 폭을 줌." alt="" coords="496,13,719,38"/>
+<area shape="poly" title=" " alt="" coords="753,28,719,28,719,23,753,23"/>
+<area shape="rect" href="classChartEditorNotes.html#ac6e0bafe486f73e5a0aed02f4fc76b21" title="노트가 화면에 나타나기 시작하는 시각. 정렬용이라 대략만 맞으면 됨." alt="" coords="245,13,448,38"/>
+<area shape="poly" title=" " alt="" coords="482,28,448,28,448,23,482,23"/>
+<area shape="rect" href="classChartEditorDocument.html#af464b48b311d733858d9b4e3ec0ffb1d" title="스폰 순서로 정렬. 런타임이 노트를 만드는 순서와 같음." alt="" coords="5,5,197,45"/>
+<area shape="poly" title=" " alt="" coords="232,28,197,28,197,23,232,23"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a17bb059bb89630487edf3669b45bd655" name="a17bb059bb89630487edf3669b45bd655"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a17bb059bb89630487edf3669b45bd655">&#9670;&#160;</a></span>CameraStartSec()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static float ChartEditorNotes.CameraStartSec </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classChartEditorTime.html">ChartEditorTime</a>&#160;</td>
+          <td class="paramname"><em>time</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a>&#160;</td>
+          <td class="paramname"><em>n</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="dynheader">
+이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_a17bb059bb89630487edf3669b45bd655_icgraph.png" border="0" usemap="#aclassChartEditorNotes_a17bb059bb89630487edf3669b45bd655_icgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_a17bb059bb89630487edf3669b45bd655_icgraph" id="aclassChartEditorNotes_a17bb059bb89630487edf3669b45bd655_icgraph">
+<area shape="rect" title=" " alt="" coords="767,13,1009,38"/>
+<area shape="rect" href="classChartEditorNotes.html#a15771c488be1bd1d053ddff3d29aaf10" title="파형에 블록으로 그릴 구간. 점 이벤트는 최소 폭을 줌." alt="" coords="496,13,719,38"/>
+<area shape="poly" title=" " alt="" coords="753,28,719,28,719,23,753,23"/>
+<area shape="rect" href="classChartEditorNotes.html#ac6e0bafe486f73e5a0aed02f4fc76b21" title="노트가 화면에 나타나기 시작하는 시각. 정렬용이라 대략만 맞으면 됨." alt="" coords="245,13,448,38"/>
+<area shape="poly" title=" " alt="" coords="482,28,448,28,448,23,482,23"/>
+<area shape="rect" href="classChartEditorDocument.html#af464b48b311d733858d9b4e3ec0ffb1d" title="스폰 순서로 정렬. 런타임이 노트를 만드는 순서와 같음." alt="" coords="5,5,197,45"/>
+<area shape="poly" title=" " alt="" coords="232,28,197,28,197,23,232,23"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="add82b4c4db3f67f9fd0bf0a0faa045d6" name="add82b4c4db3f67f9fd0bf0a0faa045d6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#add82b4c4db3f67f9fd0bf0a0faa045d6">&#9670;&#160;</a></span>CellToAbs()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static Vector2 ChartEditorNotes.CellToAbs </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>c</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>r</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>c는 0~2(좌→우), r은 0~2(아래=0). 웹 에디터 cellToAbsPos와 같은 인덱싱. </p>
+
+</div>
+</div>
+<a id="a46565c08ced34e4c791a05d689d10605" name="a46565c08ced34e4c791a05d689d10605"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a46565c08ced34e4c791a05d689d10605">&#9670;&#160;</a></span>ChartTimeToPlayback()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static float ChartEditorNotes.ChartTimeToPlayback </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classChartEditorTime.html">ChartEditorTime</a>&#160;</td>
+          <td class="paramname"><em>time</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>sec</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>beat</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>차트 시각(sec/beat 쌍) → 플레이백 초. 오프셋 포함. </p>
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_a46565c08ced34e4c791a05d689d10605_cgraph.png" border="0" usemap="#aclassChartEditorNotes_a46565c08ced34e4c791a05d689d10605_cgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_a46565c08ced34e4c791a05d689d10605_cgraph" id="aclassChartEditorNotes_a46565c08ced34e4c791a05d689d10605_cgraph">
+<area shape="rect" title="차트 시각(sec/beat 쌍) → 플레이백 초. 오프셋 포함." alt="" coords="5,5,211,45"/>
+<area shape="rect" href="classChartEditorTime.html#a2e6ceae38b0e560c9f1502cecc8ef2e9" title=" " alt="" coords="259,13,457,38"/>
+<area shape="poly" title=" " alt="" coords="211,23,245,23,245,28,211,28"/>
+</map>
+</div>
+<div class="dynheader">
+이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_a46565c08ced34e4c791a05d689d10605_icgraph.png" border="0" usemap="#aclassChartEditorNotes_a46565c08ced34e4c791a05d689d10605_icgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_a46565c08ced34e4c791a05d689d10605_icgraph" id="aclassChartEditorNotes_a46565c08ced34e4c791a05d689d10605_icgraph">
+<area shape="rect" title="차트 시각(sec/beat 쌍) → 플레이백 초. 오프셋 포함." alt="" coords="1061,71,1267,111"/>
+<area shape="rect" href="classChartEditorNotes.html#afd90f1906045f5566a407aad06d9bb26" title=" " alt="" coords="767,33,1013,58"/>
+<area shape="poly" title=" " alt="" coords="1048,74,967,61,968,55,1048,69"/>
+<area shape="rect" href="classChartEditorNotes.html#adae2ab40750f77ca1092b737481134b4" title="노트를 대표하는 시각(플레이백 초). 리스트 정렬과 파형 배치 기준." alt="" coords="778,102,1002,127"/>
+<area shape="poly" title=" " alt="" coords="1048,104,1002,108,1002,102,1047,98"/>
+<area shape="rect" href="classChartEditorNotes.html#a15771c488be1bd1d053ddff3d29aaf10" title="파형에 블록으로 그릴 구간. 점 이벤트는 최소 폭을 줌." alt="" coords="496,13,719,38"/>
+<area shape="poly" title=" " alt="" coords="753,38,719,36,719,31,753,33"/>
+<area shape="rect" href="classChartEditorNotes.html#ac6e0bafe486f73e5a0aed02f4fc76b21" title="노트가 화면에 나타나기 시작하는 시각. 정렬용이라 대략만 맞으면 됨." alt="" coords="245,13,448,38"/>
+<area shape="poly" title=" " alt="" coords="482,28,448,28,448,23,482,23"/>
+<area shape="rect" href="classChartEditorDocument.html#af464b48b311d733858d9b4e3ec0ffb1d" title="스폰 순서로 정렬. 런타임이 노트를 만드는 순서와 같음." alt="" coords="5,5,197,45"/>
+<area shape="poly" title=" " alt="" coords="232,28,197,28,197,23,232,23"/>
+<area shape="poly" title=" " alt="" coords="840,100,766,72,718,53,671,41,672,36,719,48,768,67,842,95"/>
+<area shape="rect" href="classChartEditorNotes.html#ad3a64bcc0a0841cedfbb399158670bc1" title=" " alt="" coords="507,63,708,103"/>
+<area shape="poly" title=" " alt="" coords="764,103,708,97,709,91,764,98"/>
+<area shape="rect" href="classChartEditorDocument.html#afacbcb990537758f03857435e7c88700" title=" " alt="" coords="504,127,711,167"/>
+<area shape="poly" title=" " alt="" coords="764,132,711,138,711,132,764,126"/>
+<area shape="rect" href="classChartEditorNotes.html#a4a9f015eb1dba5a221ccf41632b0cb2c" title="노트를 delta초만큼 통째로 민다. 다중 선택 이동용." alt="" coords="509,191,706,217"/>
+<area shape="poly" title=" " alt="" coords="847,135,719,181,671,194,670,189,718,176,845,130"/>
+<area shape="rect" href="classChartEditorDocument.html#a356b0a32d8a1b30cd3a46d9e99936eba" title=" " alt="" coords="511,241,703,281"/>
+<area shape="poly" title=" " alt="" coords="864,138,800,184,720,230,686,244,685,239,718,226,797,180,860,134"/>
+<area shape="rect" href="classChartEditorDocument.html#a3bb24515207fa7cc9c9c68ee6eec0621" title=" " alt="" coords="249,184,444,224"/>
+<area shape="poly" title=" " alt="" coords="495,207,444,207,444,201,495,201"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="af676723c5137fc3b2cb5e9d8f987f2cb" name="af676723c5137fc3b2cb5e9d8f987f2cb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af676723c5137fc3b2cb5e9d8f987f2cb">&#9670;&#160;</a></span>ClonePath()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static List&lt; Vector2 &gt; ChartEditorNotes.ClonePath </td>
+          <td>(</td>
+          <td class="paramtype">List&lt; Vector2 &gt;&#160;</td>
+          <td class="paramname"><em>src</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ab4dfcfdbb89c0bd2dc1f1f342d8659c2" name="ab4dfcfdbb89c0bd2dc1f1f342d8659c2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab4dfcfdbb89c0bd2dc1f1f342d8659c2">&#9670;&#160;</a></span>DisplayType()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="el" href="ChartEditorNotes_8cs.html#a061bfdea8217ea83181b2a1c74fdf1ef">NoteType</a> ChartEditorNotes.DisplayType </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a>&#160;</td>
+          <td class="paramname"><em>n</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>isLong/isTrail 때문에 저장 타입과 화면에 보이는 타입이 다름. </p>
+<div class="dynheader">
+이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_ab4dfcfdbb89c0bd2dc1f1f342d8659c2_icgraph.png" border="0" usemap="#aclassChartEditorNotes_ab4dfcfdbb89c0bd2dc1f1f342d8659c2_icgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_ab4dfcfdbb89c0bd2dc1f1f342d8659c2_icgraph" id="aclassChartEditorNotes_ab4dfcfdbb89c0bd2dc1f1f342d8659c2_icgraph">
+<area shape="rect" title="isLong/isTrail 때문에 저장 타입과 화면에 보이는 타입이 다름." alt="" coords="1053,120,1269,145"/>
+<area shape="rect" href="classChartEditorNotes.html#ae4e3805e3c91849b6a49540906dd1fdc" title="노트의 대표 시각을 sec/beat 양쪽에 한꺼번에 써 넣음. 필드가 타입마다 달라서 한곳에 모음." alt="" coords="767,120,1005,145"/>
+<area shape="poly" title=" " alt="" coords="1039,135,1006,135,1006,130,1039,130"/>
+<area shape="rect" href="classChartEditorNotes.html#aace8b51bc10d35c2e2f19c9eaab062d5" title=" " alt="" coords="793,55,979,95"/>
+<area shape="poly" title=" " alt="" coords="1086,120,979,97,980,92,1087,115"/>
+<area shape="rect" href="classChartEditorNotes.html#acae69bdf9d44629f92022642038c6355" title=" " alt="" coords="504,5,711,31"/>
+<area shape="poly" title=" " alt="" coords="1131,114,1075,77,1040,60,1005,46,929,28,852,19,777,15,711,15,711,9,778,9,853,13,930,23,1006,41,1042,55,1077,73,1134,109"/>
+<area shape="rect" href="classChartEditorNotes.html#adae2ab40750f77ca1092b737481134b4" title="노트를 대표하는 시각(플레이백 초). 리스트 정렬과 파형 배치 기준." alt="" coords="774,173,998,199"/>
+<area shape="poly" title=" " alt="" coords="1082,151,953,176,952,171,1081,145"/>
+<area shape="rect" href="classChartEditorNotes.html#a15771c488be1bd1d053ddff3d29aaf10" title="파형에 블록으로 그릴 구간. 점 이벤트는 최소 폭을 줌." alt="" coords="496,297,719,323"/>
+<area shape="poly" title=" " alt="" coords="1128,155,1072,185,1006,214,927,241,864,256,719,287,666,300,665,295,718,282,863,251,926,235,1004,209,1070,180,1126,150"/>
+<area shape="rect" href="classChartEditorNotes.html#a4a9f015eb1dba5a221ccf41632b0cb2c" title="노트를 delta초만큼 통째로 민다. 다중 선택 이동용." alt="" coords="509,55,706,80"/>
+<area shape="poly" title=" " alt="" coords="807,120,766,110,718,95,667,83,668,78,719,90,767,105,808,114"/>
+<area shape="rect" href="classChartEditorDocument.html#a3bb24515207fa7cc9c9c68ee6eec0621" title=" " alt="" coords="249,47,444,87"/>
+<area shape="poly" title=" " alt="" coords="495,70,444,70,444,65,495,65"/>
+<area shape="poly" title=" " alt="" coords="778,56,669,33,671,28,780,51"/>
+<area shape="poly" title=" " alt="" coords="785,171,765,160,749,144,740,126,732,110,717,95,692,82,694,78,720,90,737,107,745,124,753,141,768,156,787,166"/>
+<area shape="rect" href="classChartEditorNotes.html#ad3a64bcc0a0841cedfbb399158670bc1" title=" " alt="" coords="507,105,708,145"/>
+<area shape="poly" title=" " alt="" coords="814,173,698,147,700,142,815,168"/>
+<area shape="rect" href="classChartEditorDocument.html#afacbcb990537758f03857435e7c88700" title=" " alt="" coords="504,169,711,209"/>
+<area shape="poly" title=" " alt="" coords="760,190,711,190,711,185,760,185"/>
+<area shape="rect" href="classChartEditorDocument.html#a356b0a32d8a1b30cd3a46d9e99936eba" title=" " alt="" coords="511,233,703,273"/>
+<area shape="poly" title=" " alt="" coords="820,204,693,235,691,230,818,199"/>
+<area shape="poly" title=" " alt="" coords="850,208,768,255,745,272,720,287,682,300,680,295,718,282,742,268,765,250,847,203"/>
+<area shape="rect" href="classChartEditorNotes.html#ac6e0bafe486f73e5a0aed02f4fc76b21" title="노트가 화면에 나타나기 시작하는 시각. 정렬용이라 대략만 맞으면 됨." alt="" coords="245,297,448,323"/>
+<area shape="poly" title=" " alt="" coords="482,313,448,313,448,307,482,307"/>
+<area shape="rect" href="classChartEditorDocument.html#af464b48b311d733858d9b4e3ec0ffb1d" title="스폰 순서로 정렬. 런타임이 노트를 만드는 순서와 같음." alt="" coords="5,290,197,330"/>
+<area shape="poly" title=" " alt="" coords="232,313,197,313,197,307,232,307"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="aace8b51bc10d35c2e2f19c9eaab062d5" name="aace8b51bc10d35c2e2f19c9eaab062d5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aace8b51bc10d35c2e2f19c9eaab062d5">&#9670;&#160;</a></span>DisplayTypeLabel()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static string ChartEditorNotes.DisplayTypeLabel </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a>&#160;</td>
+          <td class="paramname"><em>n</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_aace8b51bc10d35c2e2f19c9eaab062d5_cgraph.png" border="0" usemap="#aclassChartEditorNotes_aace8b51bc10d35c2e2f19c9eaab062d5_cgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_aace8b51bc10d35c2e2f19c9eaab062d5_cgraph" id="aclassChartEditorNotes_aace8b51bc10d35c2e2f19c9eaab062d5_cgraph">
+<area shape="rect" title=" " alt="" coords="5,5,192,45"/>
+<area shape="rect" href="classChartEditorNotes.html#ab4dfcfdbb89c0bd2dc1f1f342d8659c2" title="isLong/isTrail 때문에 저장 타입과 화면에 보이는 타입이 다름." alt="" coords="240,13,456,38"/>
+<area shape="poly" title=" " alt="" coords="192,23,226,23,226,28,192,28"/>
+</map>
+</div>
+<div class="dynheader">
+이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_aace8b51bc10d35c2e2f19c9eaab062d5_icgraph.png" border="0" usemap="#aclassChartEditorNotes_aace8b51bc10d35c2e2f19c9eaab062d5_icgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_aace8b51bc10d35c2e2f19c9eaab062d5_icgraph" id="aclassChartEditorNotes_aace8b51bc10d35c2e2f19c9eaab062d5_icgraph">
+<area shape="rect" title=" " alt="" coords="260,5,447,45"/>
+<area shape="rect" href="classChartEditorNotes.html#acae69bdf9d44629f92022642038c6355" title=" " alt="" coords="5,13,212,38"/>
+<area shape="poly" title=" " alt="" coords="246,28,212,28,212,23,246,23"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="afd90f1906045f5566a407aad06d9bb26" name="afd90f1906045f5566a407aad06d9bb26"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afd90f1906045f5566a407aad06d9bb26">&#9670;&#160;</a></span>LongDurationSec()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static float ChartEditorNotes.LongDurationSec </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classChartEditorTime.html">ChartEditorTime</a>&#160;</td>
+          <td class="paramname"><em>time</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a>&#160;</td>
+          <td class="paramname"><em>n</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_afd90f1906045f5566a407aad06d9bb26_cgraph.png" border="0" usemap="#aclassChartEditorNotes_afd90f1906045f5566a407aad06d9bb26_cgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_afd90f1906045f5566a407aad06d9bb26_cgraph" id="aclassChartEditorNotes_afd90f1906045f5566a407aad06d9bb26_cgraph">
+<area shape="rect" title=" " alt="" coords="5,70,252,95"/>
+<area shape="rect" href="classChartEditorNotes.html#a46565c08ced34e4c791a05d689d10605" title="차트 시각(sec/beat 쌍) → 플레이백 초. 오프셋 포함." alt="" coords="324,5,529,45"/>
+<area shape="poly" title=" " alt="" coords="195,67,310,45,311,50,196,73"/>
+<area shape="rect" href="classChartEditorNotes.html#a639f6721a5f8a71e8ac7e3af0638c8b5" title=" " alt="" coords="315,70,538,95"/>
+<area shape="poly" title=" " alt="" coords="252,80,301,80,301,85,252,85"/>
+<area shape="rect" href="classChartEditorNotes.html#a859c179a951de2fc0ba67a86f7f60432" title=" " alt="" coords="300,119,553,145"/>
+<area shape="poly" title=" " alt="" coords="206,93,336,114,335,120,206,98"/>
+<area shape="rect" href="classChartEditorTime.html#a2e6ceae38b0e560c9f1502cecc8ef2e9" title=" " alt="" coords="607,13,806,38"/>
+<area shape="poly" title=" " alt="" coords="530,23,593,23,593,28,530,28"/>
+<area shape="rect" href="classChartEditorTime.html#a433d15e2d830b098cb0d778dc54be715" title="startBeat부터 durationBeats만큼의 실제 길이(초). 템포가 바뀌어도 맞음." alt="" coords="601,94,812,119"/>
+<area shape="poly" title=" " alt="" coords="553,118,587,115,588,120,554,123"/>
+<area shape="rect" href="classChartEditorTime.html#abbfd9c6c25e840cde4bb90d9f36be0ad" title=" " alt="" coords="607,143,806,169"/>
+<area shape="poly" title=" " alt="" coords="554,140,594,144,593,149,553,146"/>
+</map>
+</div>
+<div class="dynheader">
+이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_afd90f1906045f5566a407aad06d9bb26_icgraph.png" border="0" usemap="#aclassChartEditorNotes_afd90f1906045f5566a407aad06d9bb26_icgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_afd90f1906045f5566a407aad06d9bb26_icgraph" id="aclassChartEditorNotes_afd90f1906045f5566a407aad06d9bb26_icgraph">
+<area shape="rect" title=" " alt="" coords="767,13,1013,38"/>
+<area shape="rect" href="classChartEditorNotes.html#a15771c488be1bd1d053ddff3d29aaf10" title="파형에 블록으로 그릴 구간. 점 이벤트는 최소 폭을 줌." alt="" coords="496,13,719,38"/>
+<area shape="poly" title=" " alt="" coords="753,28,719,28,719,23,753,23"/>
+<area shape="rect" href="classChartEditorNotes.html#ac6e0bafe486f73e5a0aed02f4fc76b21" title="노트가 화면에 나타나기 시작하는 시각. 정렬용이라 대략만 맞으면 됨." alt="" coords="245,13,448,38"/>
+<area shape="poly" title=" " alt="" coords="482,28,448,28,448,23,482,23"/>
+<area shape="rect" href="classChartEditorDocument.html#af464b48b311d733858d9b4e3ec0ffb1d" title="스폰 순서로 정렬. 런타임이 노트를 만드는 순서와 같음." alt="" coords="5,5,197,45"/>
+<area shape="poly" title=" " alt="" coords="232,28,197,28,197,23,232,23"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a639f6721a5f8a71e8ac7e3af0638c8b5" name="a639f6721a5f8a71e8ac7e3af0638c8b5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a639f6721a5f8a71e8ac7e3af0638c8b5">&#9670;&#160;</a></span>LongStartSec()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static float ChartEditorNotes.LongStartSec </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classChartEditorTime.html">ChartEditorTime</a>&#160;</td>
+          <td class="paramname"><em>time</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a>&#160;</td>
+          <td class="paramname"><em>n</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="dynheader">
+이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_a639f6721a5f8a71e8ac7e3af0638c8b5_icgraph.png" border="0" usemap="#aclassChartEditorNotes_a639f6721a5f8a71e8ac7e3af0638c8b5_icgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_a639f6721a5f8a71e8ac7e3af0638c8b5_icgraph" id="aclassChartEditorNotes_a639f6721a5f8a71e8ac7e3af0638c8b5_icgraph">
+<area shape="rect" title=" " alt="" coords="1061,31,1284,56"/>
+<area shape="rect" href="classChartEditorNotes.html#afd90f1906045f5566a407aad06d9bb26" title=" " alt="" coords="767,5,1013,31"/>
+<area shape="poly" title=" " alt="" coords="1047,35,1013,32,1014,26,1048,29"/>
+<area shape="rect" href="classChartEditorNotes.html#a15771c488be1bd1d053ddff3d29aaf10" title="파형에 블록으로 그릴 구간. 점 이벤트는 최소 폭을 줌." alt="" coords="496,31,719,56"/>
+<area shape="poly" title=" " alt="" coords="1048,46,719,46,719,41,1048,41"/>
+<area shape="poly" title=" " alt="" coords="753,33,719,36,719,31,753,28"/>
+<area shape="rect" href="classChartEditorNotes.html#ac6e0bafe486f73e5a0aed02f4fc76b21" title="노트가 화면에 나타나기 시작하는 시각. 정렬용이라 대략만 맞으면 됨." alt="" coords="245,31,448,56"/>
+<area shape="poly" title=" " alt="" coords="482,46,448,46,448,41,482,41"/>
+<area shape="rect" href="classChartEditorDocument.html#af464b48b311d733858d9b4e3ec0ffb1d" title="스폰 순서로 정렬. 런타임이 노트를 만드는 순서와 같음." alt="" coords="5,23,197,63"/>
+<area shape="poly" title=" " alt="" coords="232,46,197,46,197,41,232,41"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="ad3a64bcc0a0841cedfbb399158670bc1" name="ad3a64bcc0a0841cedfbb399158670bc1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad3a64bcc0a0841cedfbb399158670bc1">&#9670;&#160;</a></span>NoteTimeBeats()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static float ChartEditorNotes.NoteTimeBeats </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classChartEditorTime.html">ChartEditorTime</a>&#160;</td>
+          <td class="paramname"><em>time</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a>&#160;</td>
+          <td class="paramname"><em>n</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_ad3a64bcc0a0841cedfbb399158670bc1_cgraph.png" border="0" usemap="#aclassChartEditorNotes_ad3a64bcc0a0841cedfbb399158670bc1_cgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_ad3a64bcc0a0841cedfbb399158670bc1_cgraph" id="aclassChartEditorNotes_ad3a64bcc0a0841cedfbb399158670bc1_cgraph">
+<area shape="rect" title=" " alt="" coords="5,81,207,121"/>
+<area shape="rect" href="classChartEditorNotes.html#adae2ab40750f77ca1092b737481134b4" title="노트를 대표하는 시각(플레이백 초). 리스트 정렬과 파형 배치 기준." alt="" coords="255,63,479,88"/>
+<area shape="poly" title=" " alt="" coords="206,88,241,85,241,90,207,94"/>
+<area shape="rect" href="classChartEditorTime.html#abbfd9c6c25e840cde4bb90d9f36be0ad" title=" " alt="" coords="267,112,466,137"/>
+<area shape="poly" title=" " alt="" coords="207,107,254,112,253,117,206,113"/>
+<area shape="rect" href="classChartEditorNotes.html#ae2d772c4dbe96bfb90d7b2d0460ae815" title=" " alt="" coords="527,5,768,31"/>
+<area shape="poly" title=" " alt="" coords="429,60,571,31,572,36,430,65"/>
+<area shape="rect" href="classChartEditorNotes.html#a46565c08ced34e4c791a05d689d10605" title="차트 시각(sec/beat 쌍) → 플레이백 초. 오프셋 포함." alt="" coords="545,55,750,95"/>
+<area shape="poly" title=" " alt="" coords="479,73,531,73,531,78,479,78"/>
+<area shape="rect" href="classChartEditorNotes.html#ab4dfcfdbb89c0bd2dc1f1f342d8659c2" title="isLong/isTrail 때문에 저장 타입과 화면에 보이는 타입이 다름." alt="" coords="539,120,755,145"/>
+<area shape="poly" title=" " alt="" coords="430,85,572,115,571,120,429,91"/>
+<area shape="rect" href="classChartEditorTime.html#a2e6ceae38b0e560c9f1502cecc8ef2e9" title=" " alt="" coords="816,63,1015,88"/>
+<area shape="poly" title=" " alt="" coords="750,73,802,73,802,78,750,78"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="adae2ab40750f77ca1092b737481134b4" name="adae2ab40750f77ca1092b737481134b4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adae2ab40750f77ca1092b737481134b4">&#9670;&#160;</a></span>NoteTimeSec()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static float ChartEditorNotes.NoteTimeSec </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classChartEditorTime.html">ChartEditorTime</a>&#160;</td>
+          <td class="paramname"><em>time</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a>&#160;</td>
+          <td class="paramname"><em>n</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>노트를 대표하는 시각(플레이백 초). 리스트 정렬과 파형 배치 기준. </p>
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_adae2ab40750f77ca1092b737481134b4_cgraph.png" border="0" usemap="#aclassChartEditorNotes_adae2ab40750f77ca1092b737481134b4_cgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_adae2ab40750f77ca1092b737481134b4_cgraph" id="aclassChartEditorNotes_adae2ab40750f77ca1092b737481134b4_cgraph">
+<area shape="rect" title="노트를 대표하는 시각(플레이백 초). 리스트 정렬과 파형 배치 기준." alt="" coords="5,63,229,88"/>
+<area shape="rect" href="classChartEditorNotes.html#ae2d772c4dbe96bfb90d7b2d0460ae815" title=" " alt="" coords="277,5,519,31"/>
+<area shape="poly" title=" " alt="" coords="180,60,321,31,322,36,181,65"/>
+<area shape="rect" href="classChartEditorNotes.html#a46565c08ced34e4c791a05d689d10605" title="차트 시각(sec/beat 쌍) → 플레이백 초. 오프셋 포함." alt="" coords="295,55,501,95"/>
+<area shape="poly" title=" " alt="" coords="229,73,281,73,281,78,229,78"/>
+<area shape="rect" href="classChartEditorNotes.html#ab4dfcfdbb89c0bd2dc1f1f342d8659c2" title="isLong/isTrail 때문에 저장 타입과 화면에 보이는 타입이 다름." alt="" coords="290,120,506,145"/>
+<area shape="poly" title=" " alt="" coords="181,85,322,115,321,120,180,91"/>
+<area shape="rect" href="classChartEditorTime.html#a2e6ceae38b0e560c9f1502cecc8ef2e9" title=" " alt="" coords="567,63,765,88"/>
+<area shape="poly" title=" " alt="" coords="501,73,553,73,553,78,501,78"/>
+</map>
+</div>
+<div class="dynheader">
+이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_adae2ab40750f77ca1092b737481134b4_icgraph.png" border="0" usemap="#aclassChartEditorNotes_adae2ab40750f77ca1092b737481134b4_icgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_adae2ab40750f77ca1092b737481134b4_icgraph" id="aclassChartEditorNotes_adae2ab40750f77ca1092b737481134b4_icgraph">
+<area shape="rect" title="노트를 대표하는 시각(플레이백 초). 리스트 정렬과 파형 배치 기준." alt="" coords="767,134,991,159"/>
+<area shape="rect" href="classChartEditorNotes.html#ad3a64bcc0a0841cedfbb399158670bc1" title=" " alt="" coords="507,5,708,45"/>
+<area shape="poly" title=" " alt="" coords="845,129,787,94,718,60,685,48,687,43,720,55,790,90,848,124"/>
+<area shape="rect" href="classChartEditorDocument.html#afacbcb990537758f03857435e7c88700" title=" " alt="" coords="504,69,711,109"/>
+<area shape="poly" title=" " alt="" coords="804,134,702,112,703,107,805,129"/>
+<area shape="rect" href="classChartEditorNotes.html#a4a9f015eb1dba5a221ccf41632b0cb2c" title="노트를 delta초만큼 통째로 민다. 다중 선택 이동용." alt="" coords="509,134,706,159"/>
+<area shape="poly" title=" " alt="" coords="753,149,706,149,706,144,753,144"/>
+<area shape="rect" href="classChartEditorDocument.html#a356b0a32d8a1b30cd3a46d9e99936eba" title=" " alt="" coords="511,184,703,224"/>
+<area shape="poly" title=" " alt="" coords="805,165,703,187,702,181,804,160"/>
+<area shape="rect" href="classChartEditorNotes.html#a15771c488be1bd1d053ddff3d29aaf10" title="파형에 블록으로 그릴 구간. 점 이벤트는 최소 폭을 줌." alt="" coords="496,249,719,274"/>
+<area shape="poly" title=" " alt="" coords="849,169,790,205,720,238,678,251,677,246,718,234,788,200,846,165"/>
+<area shape="rect" href="classChartEditorDocument.html#a3bb24515207fa7cc9c9c68ee6eec0621" title=" " alt="" coords="249,127,444,167"/>
+<area shape="poly" title=" " alt="" coords="495,149,444,149,444,144,495,144"/>
+<area shape="rect" href="classChartEditorNotes.html#ac6e0bafe486f73e5a0aed02f4fc76b21" title="노트가 화면에 나타나기 시작하는 시각. 정렬용이라 대략만 맞으면 됨." alt="" coords="245,249,448,274"/>
+<area shape="poly" title=" " alt="" coords="482,264,448,264,448,259,482,259"/>
+<area shape="rect" href="classChartEditorDocument.html#af464b48b311d733858d9b4e3ec0ffb1d" title="스폰 순서로 정렬. 런타임이 노트를 만드는 순서와 같음." alt="" coords="5,241,197,281"/>
+<area shape="poly" title=" " alt="" coords="232,264,197,264,197,259,232,259"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a4a9f015eb1dba5a221ccf41632b0cb2c" name="a4a9f015eb1dba5a221ccf41632b0cb2c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4a9f015eb1dba5a221ccf41632b0cb2c">&#9670;&#160;</a></span>ShiftNote()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void ChartEditorNotes.ShiftNote </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classChartEditorTime.html">ChartEditorTime</a>&#160;</td>
+          <td class="paramname"><em>time</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a>&#160;</td>
+          <td class="paramname"><em>n</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>deltaSec</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>노트를 delta초만큼 통째로 민다. 다중 선택 이동용. </p>
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_a4a9f015eb1dba5a221ccf41632b0cb2c_cgraph.png" border="0" usemap="#aclassChartEditorNotes_a4a9f015eb1dba5a221ccf41632b0cb2c_cgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_a4a9f015eb1dba5a221ccf41632b0cb2c_cgraph" id="aclassChartEditorNotes_a4a9f015eb1dba5a221ccf41632b0cb2c_cgraph">
+<area shape="rect" title="노트를 delta초만큼 통째로 민다. 다중 선택 이동용." alt="" coords="5,104,203,129"/>
+<area shape="rect" href="classChartEditorNotes.html#ae4e3805e3c91849b6a49540906dd1fdc" title="노트의 대표 시각을 sec/beat 양쪽에 한꺼번에 써 넣음. 필드가 타입마다 달라서 한곳에 모음." alt="" coords="251,55,489,80"/>
+<area shape="poly" title=" " alt="" coords="173,101,287,80,288,85,174,107"/>
+<area shape="rect" href="classChartEditorNotes.html#adae2ab40750f77ca1092b737481134b4" title="노트를 대표하는 시각(플레이백 초). 리스트 정렬과 파형 배치 기준." alt="" coords="258,104,482,129"/>
+<area shape="poly" title=" " alt="" coords="203,114,244,114,244,119,203,119"/>
+<area shape="rect" href="classChartEditorTime.html#abbfd9c6c25e840cde4bb90d9f36be0ad" title=" " alt="" coords="271,153,469,179"/>
+<area shape="poly" title=" " alt="" coords="174,127,288,148,287,153,173,132"/>
+<area shape="rect" href="classChartEditorNotes.html#ab4dfcfdbb89c0bd2dc1f1f342d8659c2" title="isLong/isTrail 때문에 저장 타입과 화면에 보이는 타입이 다름." alt="" coords="550,55,766,80"/>
+<area shape="poly" title=" " alt="" coords="489,65,536,65,536,70,489,70"/>
+<area shape="rect" href="classChartEditorTime.html#abd22cf96e5553fcf34fb7a11334f82e8" title="1ms 격자로 반올림. 에디터가 쓰는 모든 시간 필드의 해상도." alt="" coords="577,5,739,31"/>
+<area shape="poly" title=" " alt="" coords="444,52,569,30,570,36,445,57"/>
+<area shape="poly" title=" " alt="" coords="444,101,569,80,570,85,445,107"/>
+<area shape="rect" href="classChartEditorNotes.html#ae2d772c4dbe96bfb90d7b2d0460ae815" title=" " alt="" coords="537,104,779,129"/>
+<area shape="poly" title=" " alt="" coords="482,114,523,114,523,119,482,119"/>
+<area shape="rect" href="classChartEditorNotes.html#a46565c08ced34e4c791a05d689d10605" title="차트 시각(sec/beat 쌍) → 플레이백 초. 오프셋 포함." alt="" coords="555,154,761,194"/>
+<area shape="poly" title=" " alt="" coords="435,127,544,149,543,154,434,132"/>
+<area shape="rect" href="classChartEditorTime.html#a2e6ceae38b0e560c9f1502cecc8ef2e9" title=" " alt="" coords="827,161,1025,187"/>
+<area shape="poly" title=" " alt="" coords="761,171,813,171,813,177,761,177"/>
+</map>
+</div>
+<div class="dynheader">
+이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_a4a9f015eb1dba5a221ccf41632b0cb2c_icgraph.png" border="0" usemap="#aclassChartEditorNotes_a4a9f015eb1dba5a221ccf41632b0cb2c_icgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_a4a9f015eb1dba5a221ccf41632b0cb2c_icgraph" id="aclassChartEditorNotes_a4a9f015eb1dba5a221ccf41632b0cb2c_icgraph">
+<area shape="rect" title="노트를 delta초만큼 통째로 민다. 다중 선택 이동용." alt="" coords="248,13,445,38"/>
+<area shape="rect" href="classChartEditorDocument.html#a3bb24515207fa7cc9c9c68ee6eec0621" title=" " alt="" coords="5,5,200,45"/>
+<area shape="poly" title=" " alt="" coords="235,28,200,28,200,23,235,23"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="acae69bdf9d44629f92022642038c6355" name="acae69bdf9d44629f92022642038c6355"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acae69bdf9d44629f92022642038c6355">&#9670;&#160;</a></span>ShortLabel()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static string ChartEditorNotes.ShortLabel </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classChartEditorTime.html">ChartEditorTime</a>&#160;</td>
+          <td class="paramname"><em>time</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a>&#160;</td>
+          <td class="paramname"><em>n</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_acae69bdf9d44629f92022642038c6355_cgraph.png" border="0" usemap="#aclassChartEditorNotes_acae69bdf9d44629f92022642038c6355_cgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_acae69bdf9d44629f92022642038c6355_cgraph" id="aclassChartEditorNotes_acae69bdf9d44629f92022642038c6355_cgraph">
+<area shape="rect" title=" " alt="" coords="5,5,212,31"/>
+<area shape="rect" href="classChartEditorNotes.html#ab4dfcfdbb89c0bd2dc1f1f342d8659c2" title="isLong/isTrail 때문에 저장 타입과 화면에 보이는 타입이 다름." alt="" coords="495,5,711,31"/>
+<area shape="poly" title=" " alt="" coords="212,12,260,11,447,11,481,12,481,17,447,17,260,17,212,18"/>
+<area shape="rect" href="classChartEditorNotes.html#aace8b51bc10d35c2e2f19c9eaab062d5" title=" " alt="" coords="260,26,447,66"/>
+<area shape="poly" title=" " alt="" coords="213,27,246,31,246,36,212,32"/>
+<area shape="poly" title=" " alt="" coords="447,33,481,29,481,34,447,38"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a859c179a951de2fc0ba67a86f7f60432" name="a859c179a951de2fc0ba67a86f7f60432"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a859c179a951de2fc0ba67a86f7f60432">&#9670;&#160;</a></span>SliderDurationSec()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static float ChartEditorNotes.SliderDurationSec </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classChartEditorTime.html">ChartEditorTime</a>&#160;</td>
+          <td class="paramname"><em>time</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a>&#160;</td>
+          <td class="paramname"><em>n</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_a859c179a951de2fc0ba67a86f7f60432_cgraph.png" border="0" usemap="#aclassChartEditorNotes_a859c179a951de2fc0ba67a86f7f60432_cgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_a859c179a951de2fc0ba67a86f7f60432_cgraph" id="aclassChartEditorNotes_a859c179a951de2fc0ba67a86f7f60432_cgraph">
+<area shape="rect" title=" " alt="" coords="5,31,259,56"/>
+<area shape="rect" href="classChartEditorTime.html#a433d15e2d830b098cb0d778dc54be715" title="startBeat부터 durationBeats만큼의 실제 길이(초). 템포가 바뀌어도 맞음." alt="" coords="307,5,517,31"/>
+<area shape="poly" title=" " alt="" coords="259,29,293,26,293,31,259,35"/>
+<area shape="rect" href="classChartEditorTime.html#abbfd9c6c25e840cde4bb90d9f36be0ad" title=" " alt="" coords="313,55,511,80"/>
+<area shape="poly" title=" " alt="" coords="259,52,299,55,299,60,259,57"/>
+</map>
+</div>
+<div class="dynheader">
+이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_a859c179a951de2fc0ba67a86f7f60432_icgraph.png" border="0" usemap="#aclassChartEditorNotes_a859c179a951de2fc0ba67a86f7f60432_icgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_a859c179a951de2fc0ba67a86f7f60432_icgraph" id="aclassChartEditorNotes_a859c179a951de2fc0ba67a86f7f60432_icgraph">
+<area shape="rect" title=" " alt="" coords="1061,31,1315,56"/>
+<area shape="rect" href="classChartEditorNotes.html#afd90f1906045f5566a407aad06d9bb26" title=" " alt="" coords="767,5,1013,31"/>
+<area shape="poly" title=" " alt="" coords="1047,34,1013,31,1014,26,1048,29"/>
+<area shape="rect" href="classChartEditorNotes.html#a15771c488be1bd1d053ddff3d29aaf10" title="파형에 블록으로 그릴 구간. 점 이벤트는 최소 폭을 줌." alt="" coords="496,31,719,56"/>
+<area shape="poly" title=" " alt="" coords="1048,46,719,46,719,41,1048,41"/>
+<area shape="poly" title=" " alt="" coords="753,33,719,36,719,31,753,28"/>
+<area shape="rect" href="classChartEditorNotes.html#ac6e0bafe486f73e5a0aed02f4fc76b21" title="노트가 화면에 나타나기 시작하는 시각. 정렬용이라 대략만 맞으면 됨." alt="" coords="245,31,448,56"/>
+<area shape="poly" title=" " alt="" coords="482,46,448,46,448,41,482,41"/>
+<area shape="rect" href="classChartEditorDocument.html#af464b48b311d733858d9b4e3ec0ffb1d" title="스폰 순서로 정렬. 런타임이 노트를 만드는 순서와 같음." alt="" coords="5,23,197,63"/>
+<area shape="poly" title=" " alt="" coords="232,46,197,46,197,41,232,41"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="ab135d60e56ffbf00f426c69527ca85e5" name="ab135d60e56ffbf00f426c69527ca85e5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab135d60e56ffbf00f426c69527ca85e5">&#9670;&#160;</a></span>SliderStartSec()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static float ChartEditorNotes.SliderStartSec </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classChartEditorTime.html">ChartEditorTime</a>&#160;</td>
+          <td class="paramname"><em>time</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a>&#160;</td>
+          <td class="paramname"><em>n</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="dynheader">
+이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_ab135d60e56ffbf00f426c69527ca85e5_icgraph.png" border="0" usemap="#aclassChartEditorNotes_ab135d60e56ffbf00f426c69527ca85e5_icgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_ab135d60e56ffbf00f426c69527ca85e5_icgraph" id="aclassChartEditorNotes_ab135d60e56ffbf00f426c69527ca85e5_icgraph">
+<area shape="rect" title=" " alt="" coords="767,13,995,38"/>
+<area shape="rect" href="classChartEditorNotes.html#a15771c488be1bd1d053ddff3d29aaf10" title="파형에 블록으로 그릴 구간. 점 이벤트는 최소 폭을 줌." alt="" coords="496,13,719,38"/>
+<area shape="poly" title=" " alt="" coords="753,28,719,28,719,23,753,23"/>
+<area shape="rect" href="classChartEditorNotes.html#ac6e0bafe486f73e5a0aed02f4fc76b21" title="노트가 화면에 나타나기 시작하는 시각. 정렬용이라 대략만 맞으면 됨." alt="" coords="245,13,448,38"/>
+<area shape="poly" title=" " alt="" coords="482,28,448,28,448,23,482,23"/>
+<area shape="rect" href="classChartEditorDocument.html#af464b48b311d733858d9b4e3ec0ffb1d" title="스폰 순서로 정렬. 런타임이 노트를 만드는 순서와 같음." alt="" coords="5,5,197,45"/>
+<area shape="poly" title=" " alt="" coords="232,28,197,28,197,23,232,23"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a54c668e47a94cdd44f28bd2b2aee3205" name="a54c668e47a94cdd44f28bd2b2aee3205"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a54c668e47a94cdd44f28bd2b2aee3205">&#9670;&#160;</a></span>SnapToAnchors()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static Vector2 ChartEditorNotes.SnapToAnchors </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classChartEditorSettings.html">ChartEditorSettings</a>&#160;</td>
+          <td class="paramname"><em>settings</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Vector2&#160;</td>
+          <td class="paramname"><em>target</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Vector2?&#160;</td>
+          <td class="paramname"><em>anchor</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Vector2?&#160;</td>
+          <td class="paramname"><em>prevAnchor</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>직전에 찍은 점을 기준으로 클릭 위치를 일정 간격·각도에 맞춰 당김. core.js snapToAnchors와 같음. prevAnchor가 있으면 Direction 모드에서 그 방향을 이어감. </p>
+
+</div>
+</div>
+<a id="ac6e0bafe486f73e5a0aed02f4fc76b21" name="ac6e0bafe486f73e5a0aed02f4fc76b21"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac6e0bafe486f73e5a0aed02f4fc76b21">&#9670;&#160;</a></span>SpawnSec()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static float ChartEditorNotes.SpawnSec </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classChartEditorTime.html">ChartEditorTime</a>&#160;</td>
+          <td class="paramname"><em>time</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a>&#160;</td>
+          <td class="paramname"><em>n</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>노트가 화면에 나타나기 시작하는 시각. 정렬용이라 대략만 맞으면 됨. </p>
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_ac6e0bafe486f73e5a0aed02f4fc76b21_cgraph.png" border="0" usemap="#aclassChartEditorNotes_ac6e0bafe486f73e5a0aed02f4fc76b21_cgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_ac6e0bafe486f73e5a0aed02f4fc76b21_cgraph" id="aclassChartEditorNotes_ac6e0bafe486f73e5a0aed02f4fc76b21_cgraph">
+<area shape="rect" title="노트가 화면에 나타나기 시작하는 시각. 정렬용이라 대략만 맞으면 됨." alt="" coords="5,275,208,301"/>
+<area shape="rect" href="classChartEditorNotes.html#a15771c488be1bd1d053ddff3d29aaf10" title="파형에 블록으로 그릴 구간. 점 이벤트는 최소 폭을 줌." alt="" coords="256,275,479,301"/>
+<area shape="poly" title=" " alt="" coords="208,285,242,285,242,291,208,291"/>
+<area shape="rect" href="classChartEditorNotes.html#a69ac773b2a08fcbee5d38ace96360c5e" title=" " alt="" coords="864,5,1072,45"/>
+<area shape="poly" title=" " alt="" coords="372,274,391,235,424,182,469,127,496,102,525,82,564,62,605,47,690,26,774,17,850,15,850,20,774,22,691,32,606,52,566,67,528,86,499,106,473,130,428,185,396,238,377,276"/>
+<area shape="rect" href="classChartEditorNotes.html#ae2d772c4dbe96bfb90d7b2d0460ae815" title=" " alt="" coords="847,319,1089,345"/>
+<area shape="poly" title=" " alt="" coords="437,298,527,311,686,322,833,328,833,333,685,328,526,316,437,303"/>
+<area shape="rect" href="classChartEditorNotes.html#a7d7c33dbf2023b3b57abcfa34274f2db" title=" " alt="" coords="873,69,1063,109"/>
+<area shape="poly" title=" " alt="" coords="374,273,396,241,430,200,474,158,525,124,567,108,609,95,698,79,783,74,860,76,860,81,783,79,698,85,611,100,568,113,528,129,477,162,434,203,401,245,379,276"/>
+<area shape="rect" href="classChartEditorNotes.html#a562b1b6644a0349f04378af79086ef62" title=" " alt="" coords="527,427,793,453"/>
+<area shape="poly" title=" " alt="" coords="384,299,443,351,484,380,528,406,571,421,569,426,526,410,481,385,440,355,380,303"/>
+<area shape="rect" href="classChartEditorNotes.html#a17bb059bb89630487edf3669b45bd655" title=" " alt="" coords="539,477,781,502"/>
+<area shape="poly" title=" " alt="" coords="378,299,399,333,433,378,476,425,528,463,541,470,539,474,525,468,473,429,429,382,395,336,374,302"/>
+<area shape="rect" href="classChartEditorNotes.html#ab4dfcfdbb89c0bd2dc1f1f342d8659c2" title="isLong/isTrail 때문에 저장 타입과 화면에 보이는 타입이 다름." alt="" coords="860,369,1076,394"/>
+<area shape="poly" title=" " alt="" coords="407,298,464,315,527,331,694,356,847,371,846,376,693,361,526,336,462,320,406,303"/>
+<area shape="rect" href="classChartEditorNotes.html#afd90f1906045f5566a407aad06d9bb26" title=" " alt="" coords="537,174,783,199"/>
+<area shape="poly" title=" " alt="" coords="393,273,453,245,526,216,582,200,584,205,528,221,455,250,395,278"/>
+<area shape="rect" href="classChartEditorNotes.html#a639f6721a5f8a71e8ac7e3af0638c8b5" title=" " alt="" coords="857,187,1079,213"/>
+<area shape="poly" title=" " alt="" coords="451,273,526,261,864,212,865,217,527,267,452,278"/>
+<area shape="rect" href="classChartEditorNotes.html#a859c179a951de2fc0ba67a86f7f60432" title=" " alt="" coords="841,134,1095,159"/>
+<area shape="poly" title=" " alt="" coords="377,273,435,215,478,183,526,159,569,145,614,136,704,125,791,125,868,130,867,135,791,130,705,131,614,141,570,150,528,164,481,188,439,219,381,277"/>
+<area shape="rect" href="classChartEditorNotes.html#adae2ab40750f77ca1092b737481134b4" title="노트를 대표하는 시각(플레이백 초). 리스트 정렬과 파형 배치 기준." alt="" coords="548,275,772,301"/>
+<area shape="poly" title=" " alt="" coords="479,285,534,285,534,291,479,291"/>
+<area shape="rect" href="classChartEditorNotes.html#ab135d60e56ffbf00f426c69527ca85e5" title=" " alt="" coords="546,526,774,551"/>
+<area shape="poly" title=" " alt="" coords="376,300,394,342,426,401,471,462,498,489,528,512,538,518,536,523,525,517,494,493,467,465,422,403,389,344,371,302"/>
+<area shape="rect" href="classChartEditorTime.html#a433d15e2d830b098cb0d778dc54be715" title="startBeat부터 durationBeats만큼의 실제 길이(초). 템포가 바뀌어도 맞음." alt="" coords="1143,102,1353,127"/>
+<area shape="poly" title=" " alt="" coords="1064,43,1096,55,1120,71,1144,87,1168,96,1166,101,1141,92,1117,76,1093,60,1062,48"/>
+<area shape="rect" href="classChartEditorTime.html#abbfd9c6c25e840cde4bb90d9f36be0ad" title=" " alt="" coords="1149,53,1347,78"/>
+<area shape="poly" title=" " alt="" coords="1073,38,1145,48,1144,53,1072,43"/>
+<area shape="poly" title=" " alt="" coords="1063,95,1129,101,1129,107,1063,101"/>
+<area shape="poly" title=" " alt="" coords="1063,79,1135,72,1135,78,1063,84"/>
+<area shape="rect" href="classChartEditorNotes.html#a46565c08ced34e4c791a05d689d10605" title="차트 시각(sec/beat 쌍) → 플레이백 초. 오프셋 포함." alt="" coords="865,247,1071,287"/>
+<area shape="poly" title=" " alt="" coords="710,197,877,241,876,246,709,202"/>
+<area shape="poly" title=" " alt="" coords="784,189,843,192,843,197,784,195"/>
+<area shape="poly" title=" " alt="" coords="758,171,856,158,857,164,759,177"/>
+<area shape="rect" href="classChartEditorTime.html#a2e6ceae38b0e560c9f1502cecc8ef2e9" title=" " alt="" coords="1149,254,1347,279"/>
+<area shape="poly" title=" " alt="" coords="1071,264,1135,264,1135,269,1071,269"/>
+<area shape="poly" title=" " alt="" coords="1079,131,1129,126,1129,131,1080,137"/>
+<area shape="poly" title=" " alt="" coords="1055,131,1094,119,1117,103,1141,87,1162,79,1163,84,1144,92,1120,108,1096,124,1056,136"/>
+<area shape="poly" title=" " alt="" coords="750,298,865,315,864,320,749,303"/>
+<area shape="poly" title=" " alt="" coords="691,298,759,327,842,355,876,363,875,368,841,360,757,332,689,303"/>
+<area shape="poly" title=" " alt="" coords="772,278,852,272,852,277,773,283"/>
+</map>
+</div>
+<div class="dynheader">
+이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_ac6e0bafe486f73e5a0aed02f4fc76b21_icgraph.png" border="0" usemap="#aclassChartEditorNotes_ac6e0bafe486f73e5a0aed02f4fc76b21_icgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_ac6e0bafe486f73e5a0aed02f4fc76b21_icgraph" id="aclassChartEditorNotes_ac6e0bafe486f73e5a0aed02f4fc76b21_icgraph">
+<area shape="rect" title="노트가 화면에 나타나기 시작하는 시각. 정렬용이라 대략만 맞으면 됨." alt="" coords="245,13,448,38"/>
+<area shape="rect" href="classChartEditorDocument.html#af464b48b311d733858d9b4e3ec0ffb1d" title="스폰 순서로 정렬. 런타임이 노트를 만드는 순서와 같음." alt="" coords="5,5,197,45"/>
+<area shape="poly" title=" " alt="" coords="232,28,197,28,197,23,232,23"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a15771c488be1bd1d053ddff3d29aaf10" name="a15771c488be1bd1d053ddff3d29aaf10"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a15771c488be1bd1d053ddff3d29aaf10">&#9670;&#160;</a></span>TimeWindow()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void ChartEditorNotes.TimeWindow </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classChartEditorTime.html">ChartEditorTime</a>&#160;</td>
+          <td class="paramname"><em>time</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="ChartEditorNotes_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a>&#160;</td>
+          <td class="paramname"><em>n</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">out float&#160;</td>
+          <td class="paramname"><em>t0</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">out float&#160;</td>
+          <td class="paramname"><em>t1</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>파형에 블록으로 그릴 구간. 점 이벤트는 최소 폭을 줌. </p>
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_a15771c488be1bd1d053ddff3d29aaf10_cgraph.png" border="0" usemap="#aclassChartEditorNotes_a15771c488be1bd1d053ddff3d29aaf10_cgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_a15771c488be1bd1d053ddff3d29aaf10_cgraph" id="aclassChartEditorNotes_a15771c488be1bd1d053ddff3d29aaf10_cgraph">
+<area shape="rect" title="파형에 블록으로 그릴 구간. 점 이벤트는 최소 폭을 줌." alt="" coords="5,275,228,301"/>
+<area shape="rect" href="classChartEditorNotes.html#a69ac773b2a08fcbee5d38ace96360c5e" title=" " alt="" coords="613,5,821,45"/>
+<area shape="poly" title=" " alt="" coords="121,274,141,235,173,182,218,127,245,102,275,82,313,62,354,47,439,26,523,17,599,15,599,20,524,22,440,32,356,52,315,67,277,86,248,106,222,130,178,185,145,238,126,276"/>
+<area shape="rect" href="classChartEditorNotes.html#ae2d772c4dbe96bfb90d7b2d0460ae815" title=" " alt="" coords="597,319,838,345"/>
+<area shape="poly" title=" " alt="" coords="187,298,276,311,435,322,583,328,582,333,435,328,276,316,186,303"/>
+<area shape="rect" href="classChartEditorNotes.html#a7d7c33dbf2023b3b57abcfa34274f2db" title=" " alt="" coords="623,69,812,109"/>
+<area shape="poly" title=" " alt="" coords="124,273,146,241,180,200,223,158,275,124,316,108,359,95,447,79,533,74,609,76,609,81,533,79,448,85,360,100,318,113,277,129,227,162,183,203,150,245,128,276"/>
+<area shape="rect" href="classChartEditorNotes.html#a562b1b6644a0349f04378af79086ef62" title=" " alt="" coords="276,427,543,453"/>
+<area shape="poly" title=" " alt="" coords="133,299,192,351,233,380,277,406,320,421,318,426,275,410,230,385,189,355,129,303"/>
+<area shape="rect" href="classChartEditorNotes.html#a17bb059bb89630487edf3669b45bd655" title=" " alt="" coords="288,477,531,502"/>
+<area shape="poly" title=" " alt="" coords="128,299,149,333,182,378,226,425,277,463,291,470,288,474,275,468,222,429,178,382,144,336,123,302"/>
+<area shape="rect" href="classChartEditorNotes.html#ab4dfcfdbb89c0bd2dc1f1f342d8659c2" title="isLong/isTrail 때문에 저장 타입과 화면에 보이는 타입이 다름." alt="" coords="609,369,825,394"/>
+<area shape="poly" title=" " alt="" coords="157,298,213,315,277,331,443,356,596,371,595,376,442,361,275,336,211,320,155,303"/>
+<area shape="rect" href="classChartEditorNotes.html#afd90f1906045f5566a407aad06d9bb26" title=" " alt="" coords="286,174,533,199"/>
+<area shape="poly" title=" " alt="" coords="142,273,202,245,275,216,332,200,333,205,277,221,204,250,144,278"/>
+<area shape="rect" href="classChartEditorNotes.html#a639f6721a5f8a71e8ac7e3af0638c8b5" title=" " alt="" coords="606,187,829,213"/>
+<area shape="poly" title=" " alt="" coords="200,273,276,261,614,212,614,217,276,267,201,278"/>
+<area shape="rect" href="classChartEditorNotes.html#a859c179a951de2fc0ba67a86f7f60432" title=" " alt="" coords="591,134,844,159"/>
+<area shape="poly" title=" " alt="" coords="127,273,185,215,227,183,275,159,318,145,363,136,454,125,541,125,617,130,617,135,541,130,454,131,364,141,320,150,277,164,230,188,188,219,130,277"/>
+<area shape="rect" href="classChartEditorNotes.html#adae2ab40750f77ca1092b737481134b4" title="노트를 대표하는 시각(플레이백 초). 리스트 정렬과 파형 배치 기준." alt="" coords="297,275,521,301"/>
+<area shape="poly" title=" " alt="" coords="228,285,284,285,284,291,228,291"/>
+<area shape="rect" href="classChartEditorNotes.html#ab135d60e56ffbf00f426c69527ca85e5" title=" " alt="" coords="295,526,523,551"/>
+<area shape="poly" title=" " alt="" coords="125,300,144,342,175,401,220,462,247,489,277,512,288,518,285,523,275,517,244,493,216,465,171,403,139,344,120,302"/>
+<area shape="rect" href="classChartEditorTime.html#a433d15e2d830b098cb0d778dc54be715" title="startBeat부터 durationBeats만큼의 실제 길이(초). 템포가 바뀌어도 맞음." alt="" coords="892,102,1103,127"/>
+<area shape="poly" title=" " alt="" coords="813,43,845,55,869,71,893,87,917,96,915,101,891,92,866,76,843,60,811,48"/>
+<area shape="rect" href="classChartEditorTime.html#abbfd9c6c25e840cde4bb90d9f36be0ad" title=" " alt="" coords="898,53,1097,78"/>
+<area shape="poly" title=" " alt="" coords="822,38,895,48,894,53,821,43"/>
+<area shape="poly" title=" " alt="" coords="812,95,879,101,878,107,812,101"/>
+<area shape="poly" title=" " alt="" coords="812,79,884,72,884,78,812,84"/>
+<area shape="rect" href="classChartEditorNotes.html#a46565c08ced34e4c791a05d689d10605" title="차트 시각(sec/beat 쌍) → 플레이백 초. 오프셋 포함." alt="" coords="615,247,820,287"/>
+<area shape="poly" title=" " alt="" coords="460,197,627,241,625,246,458,202"/>
+<area shape="poly" title=" " alt="" coords="533,189,593,192,592,197,533,195"/>
+<area shape="poly" title=" " alt="" coords="507,171,605,158,606,164,508,177"/>
+<area shape="rect" href="classChartEditorTime.html#a2e6ceae38b0e560c9f1502cecc8ef2e9" title=" " alt="" coords="898,254,1097,279"/>
+<area shape="poly" title=" " alt="" coords="820,264,884,264,884,269,820,269"/>
+<area shape="poly" title=" " alt="" coords="828,131,878,126,879,131,829,137"/>
+<area shape="poly" title=" " alt="" coords="804,131,843,119,867,103,891,87,911,79,913,84,893,92,870,108,845,124,806,136"/>
+<area shape="poly" title=" " alt="" coords="499,298,614,315,614,320,498,303"/>
+<area shape="poly" title=" " alt="" coords="440,298,509,327,591,355,625,363,624,368,590,360,507,332,438,303"/>
+<area shape="poly" title=" " alt="" coords="522,278,601,272,601,277,522,283"/>
+</map>
+</div>
+<div class="dynheader">
+이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorNotes_a15771c488be1bd1d053ddff3d29aaf10_icgraph.png" border="0" usemap="#aclassChartEditorNotes_a15771c488be1bd1d053ddff3d29aaf10_icgraph" alt=""/></div>
+<map name="aclassChartEditorNotes_a15771c488be1bd1d053ddff3d29aaf10_icgraph" id="aclassChartEditorNotes_a15771c488be1bd1d053ddff3d29aaf10_icgraph">
+<area shape="rect" title="파형에 블록으로 그릴 구간. 점 이벤트는 최소 폭을 줌." alt="" coords="496,13,719,38"/>
+<area shape="rect" href="classChartEditorNotes.html#ac6e0bafe486f73e5a0aed02f4fc76b21" title="노트가 화면에 나타나기 시작하는 시각. 정렬용이라 대략만 맞으면 됨." alt="" coords="245,13,448,38"/>
+<area shape="poly" title=" " alt="" coords="482,28,448,28,448,23,482,23"/>
+<area shape="rect" href="classChartEditorDocument.html#af464b48b311d733858d9b4e3ec0ffb1d" title="스폰 순서로 정렬. 런타임이 노트를 만드는 순서와 같음." alt="" coords="5,5,197,45"/>
+<area shape="poly" title=" " alt="" coords="232,28,197,28,197,23,232,23"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="adbf6b704ccd85d1ea1577f81d5b980f0" name="adbf6b704ccd85d1ea1577f81d5b980f0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adbf6b704ccd85d1ea1577f81d5b980f0">&#9670;&#160;</a></span>TryAbsToCell()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static bool ChartEditorNotes.TryAbsToCell </td>
+          <td>(</td>
+          <td class="paramtype">Vector2&#160;</td>
+          <td class="paramname"><em>abs</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">out int&#160;</td>
+          <td class="paramname"><em>c</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">out int&#160;</td>
+          <td class="paramname"><em>r</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">멤버 데이터 문서화</h2>
+<a id="a6237f84a43fd37b216fd3161d43c74ed" name="a6237f84a43fd37b216fd3161d43c74ed"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6237f84a43fd37b216fd3161d43c74ed">&#9670;&#160;</a></span>GridBottom</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">const float ChartEditorNotes.GridBottom = 864f</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad00b25920b6fe646fbb1e999754bb5f1" name="ad00b25920b6fe646fbb1e999754bb5f1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad00b25920b6fe646fbb1e999754bb5f1">&#9670;&#160;</a></span>GridCell</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">const float ChartEditorNotes.GridCell = (<a class="el" href="classChartEditorNotes.html#a29ddda3aac31adc3f4211dbb801f6bca">GridRight</a> - <a class="el" href="classChartEditorNotes.html#a708ec973b1bcdc4aaaf647c5a585960a">GridLeft</a>) / 3f</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a708ec973b1bcdc4aaaf647c5a585960a" name="a708ec973b1bcdc4aaaf647c5a585960a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a708ec973b1bcdc4aaaf647c5a585960a">&#9670;&#160;</a></span>GridLeft</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">const float ChartEditorNotes.GridLeft = 648f</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a29ddda3aac31adc3f4211dbb801f6bca" name="a29ddda3aac31adc3f4211dbb801f6bca"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a29ddda3aac31adc3f4211dbb801f6bca">&#9670;&#160;</a></span>GridRight</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">const float ChartEditorNotes.GridRight = 1296f</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="acc0d276b9ae72a9076d6a73eff83acfe" name="acc0d276b9ae72a9076d6a73eff83acfe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acc0d276b9ae72a9076d6a73eff83acfe">&#9670;&#160;</a></span>GridTop</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">const float ChartEditorNotes.GridTop = 216f</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a3b86d042758d257d1a00beeec52f7714" name="a3b86d042758d257d1a00beeec52f7714"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3b86d042758d257d1a00beeec52f7714">&#9670;&#160;</a></span>PlaceableTypes</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">readonly <a class="el" href="ChartEditorNotes_8cs.html#a061bfdea8217ea83181b2a1c74fdf1ef">NoteType</a> [] ChartEditorNotes.PlaceableTypes</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<b>초기값:</b><div class="fragment"><div class="line">=</div>
+<div class="line">    {</div>
+<div class="line">        <a class="code hl_typedef" href="ChartEditorController_8cs.html#a061bfdea8217ea83181b2a1c74fdf1ef">NoteType</a>.Grid, <a class="code hl_typedef" href="ChartEditorController_8cs.html#a061bfdea8217ea83181b2a1c74fdf1ef">NoteType</a>.Long, <a class="code hl_typedef" href="ChartEditorController_8cs.html#a061bfdea8217ea83181b2a1c74fdf1ef">NoteType</a>.CircleTap, <a class="code hl_typedef" href="ChartEditorController_8cs.html#a061bfdea8217ea83181b2a1c74fdf1ef">NoteType</a>.Slider, <a class="code hl_typedef" href="ChartEditorController_8cs.html#a061bfdea8217ea83181b2a1c74fdf1ef">NoteType</a>.Bullet, <a class="code hl_typedef" href="ChartEditorController_8cs.html#a061bfdea8217ea83181b2a1c74fdf1ef">NoteType</a>.Camera,</div>
+<div class="line">        <a class="code hl_typedef" href="ChartEditorController_8cs.html#a061bfdea8217ea83181b2a1c74fdf1ef">NoteType</a>.Voice, <a class="code hl_typedef" href="ChartEditorController_8cs.html#a061bfdea8217ea83181b2a1c74fdf1ef">NoteType</a>.Image, NoteType.Line</div>
+<div class="line">    }</div>
+<div class="ttc" id="aChartEditorController_8cs_html_a061bfdea8217ea83181b2a1c74fdf1ef"><div class="ttname"><a href="ChartEditorController_8cs.html#a061bfdea8217ea83181b2a1c74fdf1ef">NoteType</a></div><div class="ttdeci">LevelChartData.NoteType NoteType</div><div class="ttdef"><b>Definition</b> ChartEditorController.cs:7</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a06da2e112acd236cb682c11f32cf6064" name="a06da2e112acd236cb682c11f32cf6064"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a06da2e112acd236cb682c11f32cf6064">&#9670;&#160;</a></span>RefHeight</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">const float ChartEditorNotes.RefHeight = 1080f</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a5c76b5d6f777b9b06998d22ca8e8970e" name="a5c76b5d6f777b9b06998d22ca8e8970e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5c76b5d6f777b9b06998d22ca8e8970e">&#9670;&#160;</a></span>RefWidth</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">const float ChartEditorNotes.RefWidth = 1920f</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<hr/>이 클래스에 대한 문서화 페이지는 다음의 파일로부터 생성되었습니다.:<ul>
+<li>Assets/Features/ChartEditor/<a class="el" href="ChartEditorNotes_8cs.html">ChartEditorNotes.cs</a></li>
+</ul>
+</div><!-- contents -->
+</div><!-- doc-content -->
+<!-- start footer part -->
+<div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
+  <ul>
+    <li class="navelem"><a class="el" href="classChartEditorNotes.html">ChartEditorNotes</a></li>
+    <li class="footer">다음에 의해 생성됨 :  <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+  </ul>
+</div>
+</body>
+</html>

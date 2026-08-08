@@ -1,0 +1,1265 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ko">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=11"/>
+<meta name="generator" content="Doxygen 1.9.8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Parrythm: ChartEditorDocument 클래스 참조</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtreedata.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+  $(document).ready(function() { init_search(); });
+/* @license-end */
+</script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+<link href="doxygen-awesome.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr id="projectrow">
+  <td id="projectalign">
+   <div id="projectname">Parrythm
+   </div>
+  </td>
+    <td>        <div id="MSearchBox" class="MSearchBoxInactive">
+        <span class="left">
+          <span id="MSearchSelect"                onmouseover="return searchBox.OnSearchSelectShow()"                onmouseout="return searchBox.OnSearchSelectHide()">&#160;</span>
+          <input type="text" id="MSearchField" value="" placeholder="검색" accesskey="S"
+               onfocus="searchBox.OnSearchFieldFocus(true)" 
+               onblur="searchBox.OnSearchFieldFocus(false)" 
+               onkeyup="searchBox.OnSearchFieldChange(event)"/>
+          </span><span class="right">
+            <a id="MSearchClose" href="javascript:searchBox.CloseResultsWindow()"><img id="MSearchCloseImg" border="0" src="search/close.svg" alt=""/></a>
+          </span>
+        </div>
+</td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- 다음에 의해 생성됨 :  Doxygen 1.9.8 -->
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+var searchBox = new SearchBox("searchBox", "search/",'.html');
+/* @license-end */
+</script>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+$(document).ready(function(){initNavTree('classChartEditorDocument.html',''); initResizable(); });
+/* @license-end */
+</script>
+<div id="doc-content">
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<div id="MSearchResults">
+<div class="SRPage">
+<div id="SRIndex">
+<div id="SRResults"></div>
+<div class="SRStatus" id="Loading">로딩중...</div>
+<div class="SRStatus" id="Searching">검색중...</div>
+<div class="SRStatus" id="NoMatches">일치하는것 없음</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="header">
+  <div class="summary">
+<a href="#pub-methods">Public 멤버 함수</a> &#124;
+<a href="#pub-static-attribs">정적 Public 속성</a> &#124;
+<a href="#properties">속성</a> &#124;
+<a href="#events">이벤트</a> &#124;
+<a href="classChartEditorDocument-members.html">모든 멤버 목록</a>  </div>
+  <div class="headertitle"><div class="title">ChartEditorDocument 클래스 참조<span class="mlabels"><span class="mlabel">sealed</span></span></div></div>
+</div><!--header-->
+<div class="contents">
+
+<p>편집 중인 차트 하나. 노트 CRUD와 undo/redo, dirty 상태를 들고 있음. 스냅샷은 그냥 차트 JSON 문자열임 — 저장 경로와 같은 코드라 되돌린 결과가 저장 결과와 항상 일치함.  
+ <a href="classChartEditorDocument.html#details">더 자세히 ...</a></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public 멤버 함수</h2></td></tr>
+<tr class="memitem:a855dcf4cc7a777178e58f7a3a951ca73" id="r_a855dcf4cc7a777178e58f7a3a951ca73"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#a855dcf4cc7a777178e58f7a3a951ca73">ChartEditorDocument</a> ()</td></tr>
+<tr class="separator:a855dcf4cc7a777178e58f7a3a951ca73"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af0cc9892f627ea6a3ca35f2bedb9789a" id="r_af0cc9892f627ea6a3ca35f2bedb9789a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#af0cc9892f627ea6a3ca35f2bedb9789a">LoadEmpty</a> ()</td></tr>
+<tr class="separator:af0cc9892f627ea6a3ca35f2bedb9789a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a83116fdd4a1524ca0f3c617e90bfed46" id="r_a83116fdd4a1524ca0f3c617e90bfed46"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#a83116fdd4a1524ca0f3c617e90bfed46">LoadJson</a> (string json, out string error)</td></tr>
+<tr class="memdesc:a83116fdd4a1524ca0f3c617e90bfed46"><td class="mdescLeft">&#160;</td><td class="mdescRight">실패하면 false를 주고 기존 차트를 그대로 둠. 열다 깨져서 작업물을 잃으면 안 됨.  <br /></td></tr>
+<tr class="separator:a83116fdd4a1524ca0f3c617e90bfed46"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2d018a106ffd74715e3e3947d795f28f" id="r_a2d018a106ffd74715e3e3947d795f28f"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#a2d018a106ffd74715e3e3947d795f28f">ToJson</a> ()</td></tr>
+<tr class="separator:a2d018a106ffd74715e3e3947d795f28f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0be44e45fd1ae9728b55b6bc881f2e39" id="r_a0be44e45fd1ae9728b55b6bc881f2e39"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#a0be44e45fd1ae9728b55b6bc881f2e39">ClearDirty</a> ()</td></tr>
+<tr class="separator:a0be44e45fd1ae9728b55b6bc881f2e39"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae597fb984ef9040cc558a164ae7ec3a1" id="r_ae597fb984ef9040cc558a164ae7ec3a1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="ChartEditorDocument_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#ae597fb984ef9040cc558a164ae7ec3a1">NoteAt</a> (int index)</td></tr>
+<tr class="separator:ae597fb984ef9040cc558a164ae7ec3a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3d441820157788e4c27b839b053f70a5" id="r_a3d441820157788e4c27b839b053f70a5"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#a3d441820157788e4c27b839b053f70a5">Add</a> (<a class="el" href="ChartEditorDocument_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a> note)</td></tr>
+<tr class="separator:a3d441820157788e4c27b839b053f70a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ade94cbc033e475261a75a0cbcdf0ba60" id="r_ade94cbc033e475261a75a0cbcdf0ba60"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#ade94cbc033e475261a75a0cbcdf0ba60">AddRange</a> (IEnumerable&lt; <a class="el" href="ChartEditorDocument_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a> &gt; notes)</td></tr>
+<tr class="separator:ade94cbc033e475261a75a0cbcdf0ba60"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a69b64eab2e04e32446b1c2d0ca630f41" id="r_a69b64eab2e04e32446b1c2d0ca630f41"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#a69b64eab2e04e32446b1c2d0ca630f41">RemoveAt</a> (int index)</td></tr>
+<tr class="separator:a69b64eab2e04e32446b1c2d0ca630f41"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adca5eebbbe8a253850f4efe8243f1bd6" id="r_adca5eebbbe8a253850f4efe8243f1bd6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#adca5eebbbe8a253850f4efe8243f1bd6">RemoveSelected</a> ()</td></tr>
+<tr class="separator:adca5eebbbe8a253850f4efe8243f1bd6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a356b0a32d8a1b30cd3a46d9e99936eba" id="r_a356b0a32d8a1b30cd3a46d9e99936eba"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#a356b0a32d8a1b30cd3a46d9e99936eba">SortByTime</a> ()</td></tr>
+<tr class="separator:a356b0a32d8a1b30cd3a46d9e99936eba"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af464b48b311d733858d9b4e3ec0ffb1d" id="r_af464b48b311d733858d9b4e3ec0ffb1d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#af464b48b311d733858d9b4e3ec0ffb1d">SortBySpawn</a> (<a class="el" href="classNoteSettings.html">NoteSettings</a> noteSettings=null)</td></tr>
+<tr class="memdesc:af464b48b311d733858d9b4e3ec0ffb1d"><td class="mdescLeft">&#160;</td><td class="mdescRight">스폰 순서로 정렬. 런타임이 노트를 만드는 순서와 같음.  <br /></td></tr>
+<tr class="separator:af464b48b311d733858d9b4e3ec0ffb1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a65b0901d0686ce67c97c885e20e73bc4" id="r_a65b0901d0686ce67c97c885e20e73bc4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#a65b0901d0686ce67c97c885e20e73bc4">RebuildTime</a> ()</td></tr>
+<tr class="memdesc:a65b0901d0686ce67c97c885e20e73bc4"><td class="mdescLeft">&#160;</td><td class="mdescRight">차트 헤더(BPM/오프셋/템포맵)가 바뀌면 시간 계산을 다시 만들어야 함.  <br /></td></tr>
+<tr class="separator:a65b0901d0686ce67c97c885e20e73bc4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a91072f4d5f1ae5b77d851b22df152e91" id="r_a91072f4d5f1ae5b77d851b22df152e91"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#a91072f4d5f1ae5b77d851b22df152e91">Touch</a> ()</td></tr>
+<tr class="memdesc:a91072f4d5f1ae5b77d851b22df152e91"><td class="mdescLeft">&#160;</td><td class="mdescRight">필드만 고쳤을 때. 구조 변경과 같은 취급으로 히스토리에 남김.  <br /></td></tr>
+<tr class="separator:a91072f4d5f1ae5b77d851b22df152e91"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3c7377f4dbf4b344c99cc8d51b90b531" id="r_a3c7377f4dbf4b344c99cc8d51b90b531"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#a3c7377f4dbf4b344c99cc8d51b90b531">TouchWithoutHistory</a> ()</td></tr>
+<tr class="memdesc:a3c7377f4dbf4b344c99cc8d51b90b531"><td class="mdescLeft">&#160;</td><td class="mdescRight">드래그 중처럼 연속으로 바뀌는 경우. 히스토리를 남기지 않음.  <br /></td></tr>
+<tr class="separator:a3c7377f4dbf4b344c99cc8d51b90b531"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a904259ebf846dba08287ace69c50da80" id="r_a904259ebf846dba08287ace69c50da80"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#a904259ebf846dba08287ace69c50da80">ClearSelection</a> ()</td></tr>
+<tr class="separator:a904259ebf846dba08287ace69c50da80"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac9a7e118b16723d75336ba11f7942b36" id="r_ac9a7e118b16723d75336ba11f7942b36"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#ac9a7e118b16723d75336ba11f7942b36">SelectAll</a> ()</td></tr>
+<tr class="separator:ac9a7e118b16723d75336ba11f7942b36"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad0da91f8879d1d3b222f0bc70de277bd" id="r_ad0da91f8879d1d3b222f0bc70de277bd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#ad0da91f8879d1d3b222f0bc70de277bd">SetSelection</a> (int index)</td></tr>
+<tr class="separator:ad0da91f8879d1d3b222f0bc70de277bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a458545dbd63d7fca2954e948eb6d7c6e" id="r_a458545dbd63d7fca2954e948eb6d7c6e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#a458545dbd63d7fca2954e948eb6d7c6e">ToggleSelection</a> (int index)</td></tr>
+<tr class="separator:a458545dbd63d7fca2954e948eb6d7c6e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afacbcb990537758f03857435e7c88700" id="r_afacbcb990537758f03857435e7c88700"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#afacbcb990537758f03857435e7c88700">SelectRangeByTime</a> (float t0, float t1)</td></tr>
+<tr class="separator:afacbcb990537758f03857435e7c88700"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac40b0a28051e9e95606df1f969690aaa" id="r_ac40b0a28051e9e95606df1f969690aaa"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#ac40b0a28051e9e95606df1f969690aaa">IsSelected</a> (int index)</td></tr>
+<tr class="separator:ac40b0a28051e9e95606df1f969690aaa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3bb24515207fa7cc9c9c68ee6eec0621" id="r_a3bb24515207fa7cc9c9c68ee6eec0621"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#a3bb24515207fa7cc9c9c68ee6eec0621">ShiftSelected</a> (float deltaSec)</td></tr>
+<tr class="separator:a3bb24515207fa7cc9c9c68ee6eec0621"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abb501891b235ef249a4c912e2b9d2333" id="r_abb501891b235ef249a4c912e2b9d2333"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#abb501891b235ef249a4c912e2b9d2333">Undo</a> ()</td></tr>
+<tr class="separator:abb501891b235ef249a4c912e2b9d2333"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab2bc1aaa5bc48b4e9afb31c2218342d9" id="r_ab2bc1aaa5bc48b4e9afb31c2218342d9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#ab2bc1aaa5bc48b4e9afb31c2218342d9">Redo</a> ()</td></tr>
+<tr class="separator:ab2bc1aaa5bc48b4e9afb31c2218342d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-attribs" name="pub-static-attribs"></a>
+정적 Public 속성</h2></td></tr>
+<tr class="memitem:a412fbe3af66e9e87e4f671220d98f40d" id="r_a412fbe3af66e9e87e4f671220d98f40d"><td class="memItemLeft" align="right" valign="top">const int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#a412fbe3af66e9e87e4f671220d98f40d">UndoLimit</a> = 200</td></tr>
+<tr class="separator:a412fbe3af66e9e87e4f671220d98f40d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="properties" name="properties"></a>
+속성</h2></td></tr>
+<tr class="memitem:af9d55c1451605ff09180b6497b27a076" id="r_af9d55c1451605ff09180b6497b27a076"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classLevelChartData.html">LevelChartData</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#af9d55c1451605ff09180b6497b27a076">Chart</a><code> [get]</code></td></tr>
+<tr class="separator:af9d55c1451605ff09180b6497b27a076"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7100b7efa650d60431d86d43be84cb64" id="r_a7100b7efa650d60431d86d43be84cb64"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classChartEditorTime.html">ChartEditorTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#a7100b7efa650d60431d86d43be84cb64">Time</a> = new()<code> [get]</code></td></tr>
+<tr class="separator:a7100b7efa650d60431d86d43be84cb64"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7ee02483bc085328bc12437403c8287a" id="r_a7ee02483bc085328bc12437403c8287a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#a7ee02483bc085328bc12437403c8287a">Dirty</a><code> [get]</code></td></tr>
+<tr class="separator:a7ee02483bc085328bc12437403c8287a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a068582481cc8a4f464351bdc88f44739" id="r_a068582481cc8a4f464351bdc88f44739"><td class="memItemLeft" align="right" valign="top">IReadOnlyList&lt; <a class="el" href="ChartEditorDocument_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#a068582481cc8a4f464351bdc88f44739">Notes</a><code> [get]</code></td></tr>
+<tr class="separator:a068582481cc8a4f464351bdc88f44739"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7bfe77b665525b04a79faeb8dabaed5e" id="r_a7bfe77b665525b04a79faeb8dabaed5e"><td class="memItemLeft" align="right" valign="top">IReadOnlyList&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#a7bfe77b665525b04a79faeb8dabaed5e">Selection</a><code> [get]</code></td></tr>
+<tr class="separator:a7bfe77b665525b04a79faeb8dabaed5e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a984ba1a3e8060e46958b240c15efd5a2" id="r_a984ba1a3e8060e46958b240c15efd5a2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#a984ba1a3e8060e46958b240c15efd5a2">CanUndo</a><code> [get]</code></td></tr>
+<tr class="separator:a984ba1a3e8060e46958b240c15efd5a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7df78aee205a47557338d3318c54a3df" id="r_a7df78aee205a47557338d3318c54a3df"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#a7df78aee205a47557338d3318c54a3df">CanRedo</a><code> [get]</code></td></tr>
+<tr class="separator:a7df78aee205a47557338d3318c54a3df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="events" name="events"></a>
+이벤트</h2></td></tr>
+<tr class="memitem:a4b6b862c78cab766e3d58b2f6862b577" id="r_a4b6b862c78cab766e3d58b2f6862b577"><td class="memItemLeft" align="right" valign="top">Action&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorDocument.html#a4b6b862c78cab766e3d58b2f6862b577">Changed</a></td></tr>
+<tr class="memdesc:a4b6b862c78cab766e3d58b2f6862b577"><td class="mdescLeft">&#160;</td><td class="mdescRight">구조가 바뀌었을 때(노트 추가/삭제/undo). 뷰 전체를 다시 그려야 함.  <br /></td></tr>
+<tr class="separator:a4b6b862c78cab766e3d58b2f6862b577"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">상세한 설명</h2>
+<div class="textblock"><p>편집 중인 차트 하나. 노트 CRUD와 undo/redo, dirty 상태를 들고 있음. 스냅샷은 그냥 차트 JSON 문자열임 — 저장 경로와 같은 코드라 되돌린 결과가 저장 결과와 항상 일치함. </p>
+</div><h2 class="groupheader">생성자 &amp; 소멸자 문서화</h2>
+<a id="a855dcf4cc7a777178e58f7a3a951ca73" name="a855dcf4cc7a777178e58f7a3a951ca73"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a855dcf4cc7a777178e58f7a3a951ca73">&#9670;&#160;</a></span>ChartEditorDocument()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">ChartEditorDocument.ChartEditorDocument </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorDocument_a855dcf4cc7a777178e58f7a3a951ca73_cgraph.png" border="0" usemap="#aclassChartEditorDocument_a855dcf4cc7a777178e58f7a3a951ca73_cgraph" alt=""/></div>
+<map name="aclassChartEditorDocument_a855dcf4cc7a777178e58f7a3a951ca73_cgraph" id="aclassChartEditorDocument_a855dcf4cc7a777178e58f7a3a951ca73_cgraph">
+<area shape="rect" title=" " alt="" coords="5,5,207,45"/>
+<area shape="rect" href="classChartEditorDocument.html#af0cc9892f627ea6a3ca35f2bedb9789a" title=" " alt="" coords="255,5,452,45"/>
+<area shape="poly" title=" " alt="" coords="207,23,241,23,241,28,207,28"/>
+</map>
+</div>
+
+</div>
+</div>
+<h2 class="groupheader">멤버 함수 문서화</h2>
+<a id="a3d441820157788e4c27b839b053f70a5" name="a3d441820157788e4c27b839b053f70a5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3d441820157788e4c27b839b053f70a5">&#9670;&#160;</a></span>Add()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int ChartEditorDocument.Add </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="ChartEditorDocument_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a>&#160;</td>
+          <td class="paramname"><em>note</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorDocument_a3d441820157788e4c27b839b053f70a5_cgraph.png" border="0" usemap="#aclassChartEditorDocument_a3d441820157788e4c27b839b053f70a5_cgraph" alt=""/></div>
+<map name="aclassChartEditorDocument_a3d441820157788e4c27b839b053f70a5_cgraph" id="aclassChartEditorDocument_a3d441820157788e4c27b839b053f70a5_cgraph">
+<area shape="rect" title=" " alt="" coords="5,5,196,31"/>
+<area shape="rect" href="classChartEditorDocument.html#a91072f4d5f1ae5b77d851b22df152e91" title="필드만 고쳤을 때. 구조 변경과 같은 취급으로 히스토리에 남김." alt="" coords="244,5,447,31"/>
+<area shape="poly" title=" " alt="" coords="196,15,230,15,230,21,196,21"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="ade94cbc033e475261a75a0cbcdf0ba60" name="ade94cbc033e475261a75a0cbcdf0ba60"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ade94cbc033e475261a75a0cbcdf0ba60">&#9670;&#160;</a></span>AddRange()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ChartEditorDocument.AddRange </td>
+          <td>(</td>
+          <td class="paramtype">IEnumerable&lt; <a class="el" href="ChartEditorDocument_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a> &gt;&#160;</td>
+          <td class="paramname"><em>notes</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorDocument_ade94cbc033e475261a75a0cbcdf0ba60_cgraph.png" border="0" usemap="#aclassChartEditorDocument_ade94cbc033e475261a75a0cbcdf0ba60_cgraph" alt=""/></div>
+<map name="aclassChartEditorDocument_ade94cbc033e475261a75a0cbcdf0ba60_cgraph" id="aclassChartEditorDocument_ade94cbc033e475261a75a0cbcdf0ba60_cgraph">
+<area shape="rect" title=" " alt="" coords="5,5,237,31"/>
+<area shape="rect" href="classChartEditorDocument.html#a91072f4d5f1ae5b77d851b22df152e91" title="필드만 고쳤을 때. 구조 변경과 같은 취급으로 히스토리에 남김." alt="" coords="285,5,488,31"/>
+<area shape="poly" title=" " alt="" coords="237,15,272,15,272,21,237,21"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a0be44e45fd1ae9728b55b6bc881f2e39" name="a0be44e45fd1ae9728b55b6bc881f2e39"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0be44e45fd1ae9728b55b6bc881f2e39">&#9670;&#160;</a></span>ClearDirty()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ChartEditorDocument.ClearDirty </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorDocument_a0be44e45fd1ae9728b55b6bc881f2e39_cgraph.png" border="0" usemap="#aclassChartEditorDocument_a0be44e45fd1ae9728b55b6bc881f2e39_cgraph" alt=""/></div>
+<map name="aclassChartEditorDocument_a0be44e45fd1ae9728b55b6bc881f2e39_cgraph" id="aclassChartEditorDocument_a0be44e45fd1ae9728b55b6bc881f2e39_cgraph">
+<area shape="rect" title=" " alt="" coords="5,5,205,45"/>
+<area shape="rect" href="classChartEditorTime.html#ab375dca62e688e74c8e08bb8ed3e2af3" title=" " alt="" coords="253,13,435,38"/>
+<area shape="poly" title=" " alt="" coords="205,23,239,23,239,28,205,28"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a904259ebf846dba08287ace69c50da80" name="a904259ebf846dba08287ace69c50da80"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a904259ebf846dba08287ace69c50da80">&#9670;&#160;</a></span>ClearSelection()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ChartEditorDocument.ClearSelection </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ac40b0a28051e9e95606df1f969690aaa" name="ac40b0a28051e9e95606df1f969690aaa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac40b0a28051e9e95606df1f969690aaa">&#9670;&#160;</a></span>IsSelected()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ChartEditorDocument.IsSelected </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>index</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="af0cc9892f627ea6a3ca35f2bedb9789a" name="af0cc9892f627ea6a3ca35f2bedb9789a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af0cc9892f627ea6a3ca35f2bedb9789a">&#9670;&#160;</a></span>LoadEmpty()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ChartEditorDocument.LoadEmpty </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="dynheader">
+이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorDocument_af0cc9892f627ea6a3ca35f2bedb9789a_icgraph.png" border="0" usemap="#aclassChartEditorDocument_af0cc9892f627ea6a3ca35f2bedb9789a_icgraph" alt=""/></div>
+<map name="aclassChartEditorDocument_af0cc9892f627ea6a3ca35f2bedb9789a_icgraph" id="aclassChartEditorDocument_af0cc9892f627ea6a3ca35f2bedb9789a_icgraph">
+<area shape="rect" title=" " alt="" coords="255,5,452,45"/>
+<area shape="rect" href="classChartEditorDocument.html#a855dcf4cc7a777178e58f7a3a951ca73" title=" " alt="" coords="5,5,207,45"/>
+<area shape="poly" title=" " alt="" coords="241,28,207,28,207,23,241,23"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a83116fdd4a1524ca0f3c617e90bfed46" name="a83116fdd4a1524ca0f3c617e90bfed46"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a83116fdd4a1524ca0f3c617e90bfed46">&#9670;&#160;</a></span>LoadJson()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ChartEditorDocument.LoadJson </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>json</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">out string&#160;</td>
+          <td class="paramname"><em>error</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>실패하면 false를 주고 기존 차트를 그대로 둠. 열다 깨져서 작업물을 잃으면 안 됨. </p>
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorDocument_a83116fdd4a1524ca0f3c617e90bfed46_cgraph.png" border="0" usemap="#aclassChartEditorDocument_a83116fdd4a1524ca0f3c617e90bfed46_cgraph" alt=""/></div>
+<map name="aclassChartEditorDocument_a83116fdd4a1524ca0f3c617e90bfed46_cgraph" id="aclassChartEditorDocument_a83116fdd4a1524ca0f3c617e90bfed46_cgraph">
+<area shape="rect" title="실패하면 false를 주고 기존 차트를 그대로 둠. 열다 깨져서 작업물을 잃으면 안 됨." alt="" coords="5,13,229,38"/>
+<area shape="rect" href="classLevelChartJsonTool.html#a140c85a493cbb3c9a0237b5576889503" title=" " alt="" coords="277,5,469,45"/>
+<area shape="poly" title=" " alt="" coords="229,23,263,23,263,28,229,28"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="ae597fb984ef9040cc558a164ae7ec3a1" name="ae597fb984ef9040cc558a164ae7ec3a1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae597fb984ef9040cc558a164ae7ec3a1">&#9670;&#160;</a></span>NoteAt()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="ChartEditorDocument_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a> ChartEditorDocument.NoteAt </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>index</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="dynheader">
+이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorDocument_ae597fb984ef9040cc558a164ae7ec3a1_icgraph.png" border="0" usemap="#aclassChartEditorDocument_ae597fb984ef9040cc558a164ae7ec3a1_icgraph" alt=""/></div>
+<map name="aclassChartEditorDocument_ae597fb984ef9040cc558a164ae7ec3a1_icgraph" id="aclassChartEditorDocument_ae597fb984ef9040cc558a164ae7ec3a1_icgraph">
+<area shape="rect" title=" " alt="" coords="248,13,459,38"/>
+<area shape="rect" href="classChartEditorDocument.html#a3bb24515207fa7cc9c9c68ee6eec0621" title=" " alt="" coords="5,5,200,45"/>
+<area shape="poly" title=" " alt="" coords="235,28,200,28,200,23,235,23"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a65b0901d0686ce67c97c885e20e73bc4" name="a65b0901d0686ce67c97c885e20e73bc4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a65b0901d0686ce67c97c885e20e73bc4">&#9670;&#160;</a></span>RebuildTime()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ChartEditorDocument.RebuildTime </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>차트 헤더(BPM/오프셋/템포맵)가 바뀌면 시간 계산을 다시 만들어야 함. </p>
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorDocument_a65b0901d0686ce67c97c885e20e73bc4_cgraph.png" border="0" usemap="#aclassChartEditorDocument_a65b0901d0686ce67c97c885e20e73bc4_cgraph" alt=""/></div>
+<map name="aclassChartEditorDocument_a65b0901d0686ce67c97c885e20e73bc4_cgraph" id="aclassChartEditorDocument_a65b0901d0686ce67c97c885e20e73bc4_cgraph">
+<area shape="rect" title="차트 헤더(BPM/오프셋/템포맵)가 바뀌면 시간 계산을 다시 만들어야 함." alt="" coords="5,31,253,56"/>
+<area shape="rect" href="classChartEditorTime.html#ab375dca62e688e74c8e08bb8ed3e2af3" title=" " alt="" coords="312,5,493,31"/>
+<area shape="poly" title=" " alt="" coords="253,29,298,25,298,30,254,34"/>
+<area shape="rect" href="classChartEditorDocument.html#a91072f4d5f1ae5b77d851b22df152e91" title="필드만 고쳤을 때. 구조 변경과 같은 취급으로 히스토리에 남김." alt="" coords="301,55,504,80"/>
+<area shape="poly" title=" " alt="" coords="254,52,288,55,287,60,253,57"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="ab2bc1aaa5bc48b4e9afb31c2218342d9" name="ab2bc1aaa5bc48b4e9afb31c2218342d9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab2bc1aaa5bc48b4e9afb31c2218342d9">&#9670;&#160;</a></span>Redo()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ChartEditorDocument.Redo </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a69b64eab2e04e32446b1c2d0ca630f41" name="a69b64eab2e04e32446b1c2d0ca630f41"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a69b64eab2e04e32446b1c2d0ca630f41">&#9670;&#160;</a></span>RemoveAt()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ChartEditorDocument.RemoveAt </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>index</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorDocument_a69b64eab2e04e32446b1c2d0ca630f41_cgraph.png" border="0" usemap="#aclassChartEditorDocument_a69b64eab2e04e32446b1c2d0ca630f41_cgraph" alt=""/></div>
+<map name="aclassChartEditorDocument_a69b64eab2e04e32446b1c2d0ca630f41_cgraph" id="aclassChartEditorDocument_a69b64eab2e04e32446b1c2d0ca630f41_cgraph">
+<area shape="rect" title=" " alt="" coords="5,5,240,31"/>
+<area shape="rect" href="classChartEditorDocument.html#a91072f4d5f1ae5b77d851b22df152e91" title="필드만 고쳤을 때. 구조 변경과 같은 취급으로 히스토리에 남김." alt="" coords="288,5,491,31"/>
+<area shape="poly" title=" " alt="" coords="240,15,274,15,274,21,240,21"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="adca5eebbbe8a253850f4efe8243f1bd6" name="adca5eebbbe8a253850f4efe8243f1bd6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adca5eebbbe8a253850f4efe8243f1bd6">&#9670;&#160;</a></span>RemoveSelected()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ChartEditorDocument.RemoveSelected </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorDocument_adca5eebbbe8a253850f4efe8243f1bd6_cgraph.png" border="0" usemap="#aclassChartEditorDocument_adca5eebbbe8a253850f4efe8243f1bd6_cgraph" alt=""/></div>
+<map name="aclassChartEditorDocument_adca5eebbbe8a253850f4efe8243f1bd6_cgraph" id="aclassChartEditorDocument_adca5eebbbe8a253850f4efe8243f1bd6_cgraph">
+<area shape="rect" title=" " alt="" coords="5,5,225,45"/>
+<area shape="rect" href="classChartEditorDocument.html#a91072f4d5f1ae5b77d851b22df152e91" title="필드만 고쳤을 때. 구조 변경과 같은 취급으로 히스토리에 남김." alt="" coords="273,13,476,38"/>
+<area shape="poly" title=" " alt="" coords="226,23,260,23,260,28,226,28"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="ac9a7e118b16723d75336ba11f7942b36" name="ac9a7e118b16723d75336ba11f7942b36"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac9a7e118b16723d75336ba11f7942b36">&#9670;&#160;</a></span>SelectAll()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ChartEditorDocument.SelectAll </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="afacbcb990537758f03857435e7c88700" name="afacbcb990537758f03857435e7c88700"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afacbcb990537758f03857435e7c88700">&#9670;&#160;</a></span>SelectRangeByTime()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ChartEditorDocument.SelectRangeByTime </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>t0</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>t1</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorDocument_afacbcb990537758f03857435e7c88700_cgraph.png" border="0" usemap="#aclassChartEditorDocument_afacbcb990537758f03857435e7c88700_cgraph" alt=""/></div>
+<map name="aclassChartEditorDocument_afacbcb990537758f03857435e7c88700_cgraph" id="aclassChartEditorDocument_afacbcb990537758f03857435e7c88700_cgraph">
+<area shape="rect" title=" " alt="" coords="5,55,212,95"/>
+<area shape="rect" href="classChartEditorNotes.html#adae2ab40750f77ca1092b737481134b4" title="노트를 대표하는 시각(플레이백 초). 리스트 정렬과 파형 배치 기준." alt="" coords="260,63,484,88"/>
+<area shape="poly" title=" " alt="" coords="212,73,246,73,246,78,212,78"/>
+<area shape="rect" href="classChartEditorNotes.html#ae2d772c4dbe96bfb90d7b2d0460ae815" title=" " alt="" coords="532,5,773,31"/>
+<area shape="poly" title=" " alt="" coords="434,60,576,31,577,36,436,65"/>
+<area shape="rect" href="classChartEditorNotes.html#a46565c08ced34e4c791a05d689d10605" title="차트 시각(sec/beat 쌍) → 플레이백 초. 오프셋 포함." alt="" coords="550,55,755,95"/>
+<area shape="poly" title=" " alt="" coords="484,73,536,73,536,78,484,78"/>
+<area shape="rect" href="classChartEditorNotes.html#ab4dfcfdbb89c0bd2dc1f1f342d8659c2" title="isLong/isTrail 때문에 저장 타입과 화면에 보이는 타입이 다름." alt="" coords="545,120,761,145"/>
+<area shape="poly" title=" " alt="" coords="436,85,577,115,576,120,434,91"/>
+<area shape="rect" href="classChartEditorTime.html#a2e6ceae38b0e560c9f1502cecc8ef2e9" title=" " alt="" coords="821,63,1020,88"/>
+<area shape="poly" title=" " alt="" coords="755,73,807,73,807,78,755,78"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="ad0da91f8879d1d3b222f0bc70de277bd" name="ad0da91f8879d1d3b222f0bc70de277bd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad0da91f8879d1d3b222f0bc70de277bd">&#9670;&#160;</a></span>SetSelection()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ChartEditorDocument.SetSelection </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>index</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a3bb24515207fa7cc9c9c68ee6eec0621" name="a3bb24515207fa7cc9c9c68ee6eec0621"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3bb24515207fa7cc9c9c68ee6eec0621">&#9670;&#160;</a></span>ShiftSelected()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ChartEditorDocument.ShiftSelected </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>deltaSec</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorDocument_a3bb24515207fa7cc9c9c68ee6eec0621_cgraph.png" border="0" usemap="#aclassChartEditorDocument_a3bb24515207fa7cc9c9c68ee6eec0621_cgraph" alt=""/></div>
+<map name="aclassChartEditorDocument_a3bb24515207fa7cc9c9c68ee6eec0621_cgraph" id="aclassChartEditorDocument_a3bb24515207fa7cc9c9c68ee6eec0621_cgraph">
+<area shape="rect" title=" " alt="" coords="5,97,200,137"/>
+<area shape="rect" href="classChartEditorDocument.html#ae597fb984ef9040cc558a164ae7ec3a1" title=" " alt="" coords="248,55,459,80"/>
+<area shape="poly" title=" " alt="" coords="200,95,274,80,275,85,201,100"/>
+<area shape="rect" href="classChartEditorNotes.html#a4a9f015eb1dba5a221ccf41632b0cb2c" title="노트를 delta초만큼 통째로 민다. 다중 선택 이동용." alt="" coords="255,104,452,129"/>
+<area shape="poly" title=" " alt="" coords="200,114,241,114,241,119,200,119"/>
+<area shape="rect" href="classChartEditorDocument.html#a91072f4d5f1ae5b77d851b22df152e91" title="필드만 고쳤을 때. 구조 변경과 같은 취급으로 히스토리에 남김." alt="" coords="252,153,455,179"/>
+<area shape="poly" title=" " alt="" coords="201,133,275,148,274,153,200,138"/>
+<area shape="rect" href="classChartEditorNotes.html#ae4e3805e3c91849b6a49540906dd1fdc" title="노트의 대표 시각을 sec/beat 양쪽에 한꺼번에 써 넣음. 필드가 타입마다 달라서 한곳에 모음." alt="" coords="507,55,745,80"/>
+<area shape="poly" title=" " alt="" coords="424,101,541,80,542,85,425,107"/>
+<area shape="rect" href="classChartEditorNotes.html#adae2ab40750f77ca1092b737481134b4" title="노트를 대표하는 시각(플레이백 초). 리스트 정렬과 파형 배치 기준." alt="" coords="514,104,738,129"/>
+<area shape="poly" title=" " alt="" coords="452,114,500,114,500,119,452,119"/>
+<area shape="rect" href="classChartEditorTime.html#abbfd9c6c25e840cde4bb90d9f36be0ad" title=" " alt="" coords="527,153,725,179"/>
+<area shape="poly" title=" " alt="" coords="425,127,542,148,541,153,424,132"/>
+<area shape="rect" href="classChartEditorNotes.html#ab4dfcfdbb89c0bd2dc1f1f342d8659c2" title="isLong/isTrail 때문에 저장 타입과 화면에 보이는 타입이 다름." alt="" coords="806,55,1022,80"/>
+<area shape="poly" title=" " alt="" coords="745,65,792,65,792,70,745,70"/>
+<area shape="rect" href="classChartEditorTime.html#abd22cf96e5553fcf34fb7a11334f82e8" title="1ms 격자로 반올림. 에디터가 쓰는 모든 시간 필드의 해상도." alt="" coords="833,5,995,31"/>
+<area shape="poly" title=" " alt="" coords="700,52,825,30,826,36,701,57"/>
+<area shape="poly" title=" " alt="" coords="700,101,825,80,826,85,701,107"/>
+<area shape="rect" href="classChartEditorNotes.html#ae2d772c4dbe96bfb90d7b2d0460ae815" title=" " alt="" coords="793,104,1035,129"/>
+<area shape="poly" title=" " alt="" coords="738,114,779,114,779,119,738,119"/>
+<area shape="rect" href="classChartEditorNotes.html#a46565c08ced34e4c791a05d689d10605" title="차트 시각(sec/beat 쌍) → 플레이백 초. 오프셋 포함." alt="" coords="811,154,1017,194"/>
+<area shape="poly" title=" " alt="" coords="691,127,800,149,799,154,690,132"/>
+<area shape="rect" href="classChartEditorTime.html#a2e6ceae38b0e560c9f1502cecc8ef2e9" title=" " alt="" coords="1083,161,1281,187"/>
+<area shape="poly" title=" " alt="" coords="1017,171,1069,171,1069,177,1017,177"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="af464b48b311d733858d9b4e3ec0ffb1d" name="af464b48b311d733858d9b4e3ec0ffb1d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af464b48b311d733858d9b4e3ec0ffb1d">&#9670;&#160;</a></span>SortBySpawn()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ChartEditorDocument.SortBySpawn </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classNoteSettings.html">NoteSettings</a>&#160;</td>
+          <td class="paramname"><em>noteSettings</em> = <code>null</code></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>스폰 순서로 정렬. 런타임이 노트를 만드는 순서와 같음. </p>
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorDocument_af464b48b311d733858d9b4e3ec0ffb1d_cgraph.png" border="0" usemap="#aclassChartEditorDocument_af464b48b311d733858d9b4e3ec0ffb1d_cgraph" alt=""/></div>
+<map name="aclassChartEditorDocument_af464b48b311d733858d9b4e3ec0ffb1d_cgraph" id="aclassChartEditorDocument_af464b48b311d733858d9b4e3ec0ffb1d_cgraph">
+<area shape="rect" title="스폰 순서로 정렬. 런타임이 노트를 만드는 순서와 같음." alt="" coords="5,293,197,333"/>
+<area shape="rect" href="classChartEditorNotes.html#ac6e0bafe486f73e5a0aed02f4fc76b21" title="노트가 화면에 나타나기 시작하는 시각. 정렬용이라 대략만 맞으면 됨." alt="" coords="245,275,448,301"/>
+<area shape="poly" title=" " alt="" coords="197,301,232,297,232,302,198,306"/>
+<area shape="rect" href="classChartEditorDocument.html#a91072f4d5f1ae5b77d851b22df152e91" title="필드만 고쳤을 때. 구조 변경과 같은 취급으로 히스토리에 남김." alt="" coords="245,325,448,350"/>
+<area shape="poly" title=" " alt="" coords="198,320,232,323,232,329,197,325"/>
+<area shape="rect" href="classChartEditorNotes.html#a15771c488be1bd1d053ddff3d29aaf10" title="파형에 블록으로 그릴 구간. 점 이벤트는 최소 폭을 줌." alt="" coords="496,275,719,301"/>
+<area shape="poly" title=" " alt="" coords="448,285,482,285,482,291,448,291"/>
+<area shape="rect" href="classChartEditorNotes.html#a69ac773b2a08fcbee5d38ace96360c5e" title=" " alt="" coords="1104,5,1312,45"/>
+<area shape="poly" title=" " alt="" coords="612,274,631,235,664,182,709,127,736,102,765,82,804,62,845,47,930,26,1014,17,1090,15,1090,20,1014,22,931,32,846,52,806,67,768,86,739,106,713,130,668,185,636,238,617,276"/>
+<area shape="rect" href="classChartEditorNotes.html#ae2d772c4dbe96bfb90d7b2d0460ae815" title=" " alt="" coords="1087,319,1329,345"/>
+<area shape="poly" title=" " alt="" coords="677,298,767,311,926,322,1073,328,1073,333,925,328,766,316,677,303"/>
+<area shape="rect" href="classChartEditorNotes.html#a7d7c33dbf2023b3b57abcfa34274f2db" title=" " alt="" coords="1113,69,1303,109"/>
+<area shape="poly" title=" " alt="" coords="614,273,636,241,670,200,714,158,765,124,807,108,849,95,938,79,1023,74,1100,76,1100,81,1023,79,938,85,851,100,808,113,768,129,717,162,674,203,641,245,619,276"/>
+<area shape="rect" href="classChartEditorNotes.html#a562b1b6644a0349f04378af79086ef62" title=" " alt="" coords="767,427,1033,453"/>
+<area shape="poly" title=" " alt="" coords="624,299,683,351,724,380,768,406,811,421,809,426,766,410,721,385,680,355,620,303"/>
+<area shape="rect" href="classChartEditorNotes.html#a17bb059bb89630487edf3669b45bd655" title=" " alt="" coords="779,477,1021,502"/>
+<area shape="poly" title=" " alt="" coords="618,299,639,333,673,378,716,425,768,463,781,470,779,474,765,468,713,429,669,382,635,336,614,302"/>
+<area shape="rect" href="classChartEditorNotes.html#ab4dfcfdbb89c0bd2dc1f1f342d8659c2" title="isLong/isTrail 때문에 저장 타입과 화면에 보이는 타입이 다름." alt="" coords="1100,369,1316,394"/>
+<area shape="poly" title=" " alt="" coords="647,298,704,315,767,331,934,356,1087,371,1086,376,933,361,766,336,702,320,646,303"/>
+<area shape="rect" href="classChartEditorNotes.html#afd90f1906045f5566a407aad06d9bb26" title=" " alt="" coords="777,174,1023,199"/>
+<area shape="poly" title=" " alt="" coords="633,273,693,245,766,216,822,200,824,205,768,221,695,250,635,278"/>
+<area shape="rect" href="classChartEditorNotes.html#a639f6721a5f8a71e8ac7e3af0638c8b5" title=" " alt="" coords="1097,187,1319,213"/>
+<area shape="poly" title=" " alt="" coords="691,273,766,261,1104,212,1105,217,767,267,692,278"/>
+<area shape="rect" href="classChartEditorNotes.html#a859c179a951de2fc0ba67a86f7f60432" title=" " alt="" coords="1081,134,1335,159"/>
+<area shape="poly" title=" " alt="" coords="617,273,675,215,718,183,766,159,809,145,854,136,944,125,1031,125,1108,130,1107,135,1031,130,945,131,854,141,810,150,768,164,721,188,679,219,621,277"/>
+<area shape="rect" href="classChartEditorNotes.html#adae2ab40750f77ca1092b737481134b4" title="노트를 대표하는 시각(플레이백 초). 리스트 정렬과 파형 배치 기준." alt="" coords="788,275,1012,301"/>
+<area shape="poly" title=" " alt="" coords="719,285,774,285,774,291,719,291"/>
+<area shape="rect" href="classChartEditorNotes.html#ab135d60e56ffbf00f426c69527ca85e5" title=" " alt="" coords="786,526,1014,551"/>
+<area shape="poly" title=" " alt="" coords="616,300,634,342,666,401,711,462,738,489,768,512,778,518,776,523,765,517,734,493,707,465,662,403,629,344,611,302"/>
+<area shape="rect" href="classChartEditorTime.html#a433d15e2d830b098cb0d778dc54be715" title="startBeat부터 durationBeats만큼의 실제 길이(초). 템포가 바뀌어도 맞음." alt="" coords="1383,102,1593,127"/>
+<area shape="poly" title=" " alt="" coords="1304,43,1336,55,1360,71,1384,87,1408,96,1406,101,1381,92,1357,76,1333,60,1302,48"/>
+<area shape="rect" href="classChartEditorTime.html#abbfd9c6c25e840cde4bb90d9f36be0ad" title=" " alt="" coords="1389,53,1587,78"/>
+<area shape="poly" title=" " alt="" coords="1313,38,1385,48,1384,53,1312,43"/>
+<area shape="poly" title=" " alt="" coords="1303,95,1369,101,1369,107,1303,101"/>
+<area shape="poly" title=" " alt="" coords="1303,79,1375,72,1375,78,1303,84"/>
+<area shape="rect" href="classChartEditorNotes.html#a46565c08ced34e4c791a05d689d10605" title="차트 시각(sec/beat 쌍) → 플레이백 초. 오프셋 포함." alt="" coords="1105,247,1311,287"/>
+<area shape="poly" title=" " alt="" coords="950,197,1117,241,1116,246,949,202"/>
+<area shape="poly" title=" " alt="" coords="1024,189,1083,192,1083,197,1024,195"/>
+<area shape="poly" title=" " alt="" coords="998,171,1096,158,1097,164,999,177"/>
+<area shape="rect" href="classChartEditorTime.html#a2e6ceae38b0e560c9f1502cecc8ef2e9" title=" " alt="" coords="1389,254,1587,279"/>
+<area shape="poly" title=" " alt="" coords="1311,264,1375,264,1375,269,1311,269"/>
+<area shape="poly" title=" " alt="" coords="1319,131,1369,126,1369,131,1320,137"/>
+<area shape="poly" title=" " alt="" coords="1295,131,1334,119,1357,103,1381,87,1402,79,1403,84,1384,92,1360,108,1336,124,1296,136"/>
+<area shape="poly" title=" " alt="" coords="990,298,1105,315,1104,320,989,303"/>
+<area shape="poly" title=" " alt="" coords="931,298,999,327,1082,355,1116,363,1115,368,1081,360,997,332,929,303"/>
+<area shape="poly" title=" " alt="" coords="1012,278,1092,272,1092,277,1013,283"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a356b0a32d8a1b30cd3a46d9e99936eba" name="a356b0a32d8a1b30cd3a46d9e99936eba"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a356b0a32d8a1b30cd3a46d9e99936eba">&#9670;&#160;</a></span>SortByTime()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ChartEditorDocument.SortByTime </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="dynheader">
+이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorDocument_a356b0a32d8a1b30cd3a46d9e99936eba_cgraph.png" border="0" usemap="#aclassChartEditorDocument_a356b0a32d8a1b30cd3a46d9e99936eba_cgraph" alt=""/></div>
+<map name="aclassChartEditorDocument_a356b0a32d8a1b30cd3a46d9e99936eba_cgraph" id="aclassChartEditorDocument_a356b0a32d8a1b30cd3a46d9e99936eba_cgraph">
+<area shape="rect" title=" " alt="" coords="5,81,197,121"/>
+<area shape="rect" href="classChartEditorNotes.html#adae2ab40750f77ca1092b737481134b4" title="노트를 대표하는 시각(플레이백 초). 리스트 정렬과 파형 배치 기준." alt="" coords="245,63,469,88"/>
+<area shape="poly" title=" " alt="" coords="197,89,231,85,232,90,198,94"/>
+<area shape="rect" href="classChartEditorDocument.html#a91072f4d5f1ae5b77d851b22df152e91" title="필드만 고쳤을 때. 구조 변경과 같은 취급으로 히스토리에 남김." alt="" coords="256,112,459,137"/>
+<area shape="poly" title=" " alt="" coords="198,107,242,111,242,117,197,112"/>
+<area shape="rect" href="classChartEditorNotes.html#ae2d772c4dbe96bfb90d7b2d0460ae815" title=" " alt="" coords="517,5,759,31"/>
+<area shape="poly" title=" " alt="" coords="420,60,561,31,562,36,421,65"/>
+<area shape="rect" href="classChartEditorNotes.html#a46565c08ced34e4c791a05d689d10605" title="차트 시각(sec/beat 쌍) → 플레이백 초. 오프셋 포함." alt="" coords="535,55,741,95"/>
+<area shape="poly" title=" " alt="" coords="469,73,521,73,521,78,469,78"/>
+<area shape="rect" href="classChartEditorNotes.html#ab4dfcfdbb89c0bd2dc1f1f342d8659c2" title="isLong/isTrail 때문에 저장 타입과 화면에 보이는 타입이 다름." alt="" coords="530,120,746,145"/>
+<area shape="poly" title=" " alt="" coords="421,85,562,115,561,120,420,91"/>
+<area shape="rect" href="classChartEditorTime.html#a2e6ceae38b0e560c9f1502cecc8ef2e9" title=" " alt="" coords="807,63,1005,88"/>
+<area shape="poly" title=" " alt="" coords="741,73,793,73,793,78,741,78"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a458545dbd63d7fca2954e948eb6d7c6e" name="a458545dbd63d7fca2954e948eb6d7c6e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a458545dbd63d7fca2954e948eb6d7c6e">&#9670;&#160;</a></span>ToggleSelection()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ChartEditorDocument.ToggleSelection </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>index</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a2d018a106ffd74715e3e3947d795f28f" name="a2d018a106ffd74715e3e3947d795f28f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2d018a106ffd74715e3e3947d795f28f">&#9670;&#160;</a></span>ToJson()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">string ChartEditorDocument.ToJson </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a91072f4d5f1ae5b77d851b22df152e91" name="a91072f4d5f1ae5b77d851b22df152e91"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a91072f4d5f1ae5b77d851b22df152e91">&#9670;&#160;</a></span>Touch()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ChartEditorDocument.Touch </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>필드만 고쳤을 때. 구조 변경과 같은 취급으로 히스토리에 남김. </p>
+<div class="dynheader">
+이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartEditorDocument_a91072f4d5f1ae5b77d851b22df152e91_icgraph.png" border="0" usemap="#aclassChartEditorDocument_a91072f4d5f1ae5b77d851b22df152e91_icgraph" alt=""/></div>
+<map name="aclassChartEditorDocument_a91072f4d5f1ae5b77d851b22df152e91_icgraph" id="aclassChartEditorDocument_a91072f4d5f1ae5b77d851b22df152e91_icgraph">
+<area shape="rect" title="필드만 고쳤을 때. 구조 변경과 같은 취급으로 히스토리에 남김." alt="" coords="301,183,504,208"/>
+<area shape="rect" href="classChartEditorDocument.html#a3d441820157788e4c27b839b053f70a5" title=" " alt="" coords="34,5,225,31"/>
+<area shape="poly" title=" " alt="" coords="383,173,330,107,294,73,252,44,224,33,226,28,255,40,297,69,334,104,387,169"/>
+<area shape="rect" href="classChartEditorDocument.html#ade94cbc033e475261a75a0cbcdf0ba60" title=" " alt="" coords="13,55,245,80"/>
+<area shape="poly" title=" " alt="" coords="376,176,321,133,288,112,252,94,219,83,221,78,254,89,290,107,324,129,379,171"/>
+<area shape="rect" href="classChartEditorDocument.html#a65b0901d0686ce67c97c885e20e73bc4" title="차트 헤더(BPM/오프셋/템포맵)가 바뀌면 시간 계산을 다시 만들어야 함." alt="" coords="5,104,253,129"/>
+<area shape="poly" title=" " alt="" coords="358,180,253,143,205,132,206,127,254,138,359,175"/>
+<area shape="rect" href="classChartEditorDocument.html#a69b64eab2e04e32446b1c2d0ca630f41" title=" " alt="" coords="12,153,247,179"/>
+<area shape="poly" title=" " alt="" coords="288,186,246,181,247,176,288,180"/>
+<area shape="rect" href="classChartEditorDocument.html#adca5eebbbe8a253850f4efe8243f1bd6" title=" " alt="" coords="19,203,239,243"/>
+<area shape="poly" title=" " alt="" coords="288,210,240,215,239,209,288,204"/>
+<area shape="rect" href="classChartEditorDocument.html#a3bb24515207fa7cc9c9c68ee6eec0621" title=" " alt="" coords="32,267,227,307"/>
+<area shape="poly" title=" " alt="" coords="362,216,254,258,214,270,213,265,252,253,360,211"/>
+<area shape="rect" href="classChartEditorDocument.html#af464b48b311d733858d9b4e3ec0ffb1d" title="스폰 순서로 정렬. 런타임이 노트를 만드는 순서와 같음." alt="" coords="33,331,225,371"/>
+<area shape="poly" title=" " alt="" coords="382,220,328,272,292,299,255,322,226,334,224,329,252,317,289,294,324,267,378,217"/>
+<area shape="rect" href="classChartEditorDocument.html#a356b0a32d8a1b30cd3a46d9e99936eba" title=" " alt="" coords="33,395,225,435"/>
+<area shape="poly" title=" " alt="" coords="391,222,370,258,339,303,301,348,255,386,227,400,225,395,252,381,297,344,335,300,365,256,386,219"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a3c7377f4dbf4b344c99cc8d51b90b531" name="a3c7377f4dbf4b344c99cc8d51b90b531"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3c7377f4dbf4b344c99cc8d51b90b531">&#9670;&#160;</a></span>TouchWithoutHistory()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ChartEditorDocument.TouchWithoutHistory </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>드래그 중처럼 연속으로 바뀌는 경우. 히스토리를 남기지 않음. </p>
+
+</div>
+</div>
+<a id="abb501891b235ef249a4c912e2b9d2333" name="abb501891b235ef249a4c912e2b9d2333"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abb501891b235ef249a4c912e2b9d2333">&#9670;&#160;</a></span>Undo()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ChartEditorDocument.Undo </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">멤버 데이터 문서화</h2>
+<a id="a412fbe3af66e9e87e4f671220d98f40d" name="a412fbe3af66e9e87e4f671220d98f40d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a412fbe3af66e9e87e4f671220d98f40d">&#9670;&#160;</a></span>UndoLimit</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">const int ChartEditorDocument.UndoLimit = 200</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">속성 문서화</h2>
+<a id="a7df78aee205a47557338d3318c54a3df" name="a7df78aee205a47557338d3318c54a3df"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7df78aee205a47557338d3318c54a3df">&#9670;&#160;</a></span>CanRedo</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ChartEditorDocument.CanRedo</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a984ba1a3e8060e46958b240c15efd5a2" name="a984ba1a3e8060e46958b240c15efd5a2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a984ba1a3e8060e46958b240c15efd5a2">&#9670;&#160;</a></span>CanUndo</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ChartEditorDocument.CanUndo</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="af9d55c1451605ff09180b6497b27a076" name="af9d55c1451605ff09180b6497b27a076"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af9d55c1451605ff09180b6497b27a076">&#9670;&#160;</a></span>Chart</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classLevelChartData.html">LevelChartData</a> ChartEditorDocument.Chart</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a7ee02483bc085328bc12437403c8287a" name="a7ee02483bc085328bc12437403c8287a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7ee02483bc085328bc12437403c8287a">&#9670;&#160;</a></span>Dirty</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ChartEditorDocument.Dirty</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a068582481cc8a4f464351bdc88f44739" name="a068582481cc8a4f464351bdc88f44739"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a068582481cc8a4f464351bdc88f44739">&#9670;&#160;</a></span>Notes</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">IReadOnlyList&lt;<a class="el" href="ChartEditorDocument_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e">NoteEvent</a>&gt; ChartEditorDocument.Notes</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a7bfe77b665525b04a79faeb8dabaed5e" name="a7bfe77b665525b04a79faeb8dabaed5e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7bfe77b665525b04a79faeb8dabaed5e">&#9670;&#160;</a></span>Selection</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">IReadOnlyList&lt;int&gt; ChartEditorDocument.Selection</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a7100b7efa650d60431d86d43be84cb64" name="a7100b7efa650d60431d86d43be84cb64"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7100b7efa650d60431d86d43be84cb64">&#9670;&#160;</a></span>Time</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classChartEditorTime.html">ChartEditorTime</a> ChartEditorDocument.Time = new()</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">이벤트 문서화</h2>
+<a id="a4b6b862c78cab766e3d58b2f6862b577" name="a4b6b862c78cab766e3d58b2f6862b577"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4b6b862c78cab766e3d58b2f6862b577">&#9670;&#160;</a></span>Changed</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Action ChartEditorDocument.Changed</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>구조가 바뀌었을 때(노트 추가/삭제/undo). 뷰 전체를 다시 그려야 함. </p>
+
+</div>
+</div>
+<hr/>이 클래스에 대한 문서화 페이지는 다음의 파일로부터 생성되었습니다.:<ul>
+<li>Assets/Features/ChartEditor/<a class="el" href="ChartEditorDocument_8cs.html">ChartEditorDocument.cs</a></li>
+</ul>
+</div><!-- contents -->
+</div><!-- doc-content -->
+<!-- start footer part -->
+<div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
+  <ul>
+    <li class="navelem"><a class="el" href="classChartEditorDocument.html">ChartEditorDocument</a></li>
+    <li class="footer">다음에 의해 생성됨 :  <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+  </ul>
+</div>
+</body>
+</html>

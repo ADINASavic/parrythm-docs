@@ -1,0 +1,25 @@
+var classWaveformView =
+[
+    [ "WaveformView", "classWaveformView.html#a7ff49c96e9ec0c8012f7569a64cd7076", null ],
+    [ "BuildPeaks", "classWaveformView.html#ad75795e4b8d633021322b2143b7cbc57", null ],
+    [ "ClearSelection", "classWaveformView.html#a79ba1b0a7d4159d9034517102b03d5cb", null ],
+    [ "Fit", "classWaveformView.html#ae04bee8923b4a94f7708dbfbdba02501", null ],
+    [ "FollowCursor", "classWaveformView.html#a3cea2b46cfaaff0eabc5a90fa0ec62e9", null ],
+    [ "SetSelection", "classWaveformView.html#a7871285f7042ccc94aca586fb1863f2e", null ],
+    [ "SetView", "classWaveformView.html#a2e2f579eea52f5f754fd8c36379836bd", null ],
+    [ "TimeToX", "classWaveformView.html#a26d512bb5c947211c455d5ab0b701fb0", null ],
+    [ "XToTime", "classWaveformView.html#a39811b98ce26056a11fee74641505789", null ],
+    [ "ZoomAt", "classWaveformView.html#abfc371420a05fb9b685e70fbc4a25f91", null ],
+    [ "Document", "classWaveformView.html#a3e60d2c2ab7b47d16c40ed4e40d3ef84", null ],
+    [ "DurationSec", "classWaveformView.html#a72ae252d0bf6562355f6b97562bc31e8", null ],
+    [ "NoteTypeFilter", "classWaveformView.html#a7f3d5ff8ab7b2847280e9033b4bd529f", null ],
+    [ "NowSec", "classWaveformView.html#afbf1cca531316de811aeb0b41661e1c0", null ],
+    [ "Settings", "classWaveformView.html#aa4308e9ec370085163d21ff7f3bf6090", null ],
+    [ "HasSelection", "classWaveformView.html#a54932e15bb4673d8830809315fb5035a", null ],
+    [ "SelectionEnd", "classWaveformView.html#a8896c6c629fe2a3f0828f0e2ec5be15f", null ],
+    [ "SelectionStart", "classWaveformView.html#ac2ee2bdce6bce30782e43f937ac5bf03", null ],
+    [ "ViewEnd", "classWaveformView.html#af50bf3600eea00b21ced36df283210c8", null ],
+    [ "ViewStart", "classWaveformView.html#a727d73e33d1bd9d3c5d6d69e5dc3e27a", null ],
+    [ "RangeSelected", "classWaveformView.html#ac1244fae23d79660131b74e8e27a9e05", null ],
+    [ "SeekRequested", "classWaveformView.html#aab989e3fdd2753c9de619f26db6c6d14", null ]
+];

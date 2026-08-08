@@ -1,0 +1,8 @@
+<map id="ChartEditorNotes.ShortLabel" name="ChartEditorNotes.ShortLabel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,212,31"/>
+<area shape="rect" id="Node000002" href="$classChartEditorNotes.html#ab4dfcfdbb89c0bd2dc1f1f342d8659c2" title="isLong/isTrail 때문에 저장 타입과 화면에 보이는 타입이 다름." alt="" coords="495,5,711,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,12,260,11,447,11,481,12,481,17,447,17,260,17,212,18"/>
+<area shape="rect" id="Node000003" href="$classChartEditorNotes.html#aace8b51bc10d35c2e2f19c9eaab062d5" title=" " alt="" coords="260,26,447,66"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,27,246,31,246,36,212,32"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="447,33,481,29,481,34,447,38"/>
+</map>

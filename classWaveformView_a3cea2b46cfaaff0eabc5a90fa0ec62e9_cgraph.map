@@ -1,0 +1,5 @@
+<map id="WaveformView.FollowCursor" name="WaveformView.FollowCursor">
+<area shape="rect" id="Node000001" title="재생 커서가 화면 밖으로 나가면 따라감." alt="" coords="5,5,213,31"/>
+<area shape="rect" id="Node000002" href="$classWaveformView.html#a2e2f579eea52f5f754fd8c36379836bd" title=" " alt="" coords="261,5,439,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,15,248,15,248,21,214,21"/>
+</map>

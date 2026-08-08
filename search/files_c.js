@@ -7,5 +7,6 @@ var searchData=
   ['notesettingsio_2ecs_4',['NoteSettingsIO.cs',['../NoteSettingsIO_8cs.html',1,'']]],
   ['notesettingsjsonpatchutility_2ecs_5',['NoteSettingsJsonPatchUtility.cs',['../NoteSettingsJsonPatchUtility_8cs.html',1,'']]],
   ['notesettingspatchrepository_2ecs_6',['NoteSettingsPatchRepository.cs',['../NoteSettingsPatchRepository_8cs.html',1,'']]],
-  ['notespawner_2ecs_7',['NoteSpawner.cs',['../NoteSpawner_8cs.html',1,'']]]
+  ['notespawner_2ecs_7',['NoteSpawner.cs',['../NoteSpawner_8cs.html',1,'']]],
+  ['notespeedscale_2ecs_8',['NoteSpeedScale.cs',['../NoteSpeedScale_8cs.html',1,'']]]
 ];

@@ -34,6 +34,7 @@ var classJudge =
     [ "AverageTimingOffsetMs", "classJudge.html#a34d3dee99e507ae42735626d01d63053", null ],
     [ "FastCount", "classJudge.html#a09794dfa7072d4cd8479669265c48192", null ],
     [ "GoodCount", "classJudge.html#abd8a272c7c173eaffd84cadb9c2b73ef", null ],
+    [ "MaxCombo", "classJudge.html#a01ed3b20ffae3798ff854a99d83298ad", null ],
     [ "MissCount", "classJudge.html#a5a96b3f044e64c7f7d97c42c81fdbfc0", null ],
     [ "PerfectCount", "classJudge.html#acab4b6af3547c76cda310510248e18ba", null ],
     [ "SlowCount", "classJudge.html#a6328cd087ca083d3f0f5642f2b77d566", null ],

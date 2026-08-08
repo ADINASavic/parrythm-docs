@@ -1,0 +1,30 @@
+<map id="ChartEditorNotes.DisplayType" name="ChartEditorNotes.DisplayType">
+<area shape="rect" id="Node000001" title="isLong/isTrail 때문에 저장 타입과 화면에 보이는 타입이 다름." alt="" coords="1053,120,1269,145"/>
+<area shape="rect" id="Node000002" href="$classChartEditorNotes.html#ae4e3805e3c91849b6a49540906dd1fdc" title="노트의 대표 시각을 sec/beat 양쪽에 한꺼번에 써 넣음. 필드가 타입마다 달라서 한곳에 모음." alt="" coords="767,120,1005,145"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1039,135,1006,135,1006,130,1039,130"/>
+<area shape="rect" id="Node000005" href="$classChartEditorNotes.html#aace8b51bc10d35c2e2f19c9eaab062d5" title=" " alt="" coords="793,55,979,95"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1086,120,979,97,980,92,1087,115"/>
+<area shape="rect" id="Node000006" href="$classChartEditorNotes.html#acae69bdf9d44629f92022642038c6355" title=" " alt="" coords="504,5,711,31"/>
+<area shape="poly" id="edge14_Node000001_Node000006" title=" " alt="" coords="1131,114,1075,77,1040,60,1005,46,929,28,852,19,777,15,711,15,711,9,778,9,853,13,930,23,1006,41,1042,55,1077,73,1134,109"/>
+<area shape="rect" id="Node000007" href="$classChartEditorNotes.html#adae2ab40750f77ca1092b737481134b4" title="노트를 대표하는 시각(플레이백 초). 리스트 정렬과 파형 배치 기준." alt="" coords="774,173,998,199"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1082,151,953,176,952,171,1081,145"/>
+<area shape="rect" id="Node000011" href="$classChartEditorNotes.html#a15771c488be1bd1d053ddff3d29aaf10" title="파형에 블록으로 그릴 구간. 점 이벤트는 최소 폭을 줌." alt="" coords="496,297,719,323"/>
+<area shape="poly" id="edge15_Node000001_Node000011" title=" " alt="" coords="1128,155,1072,185,1006,214,927,241,864,256,719,287,666,300,665,295,718,282,863,251,926,235,1004,209,1070,180,1126,150"/>
+<area shape="rect" id="Node000003" href="$classChartEditorNotes.html#a4a9f015eb1dba5a221ccf41632b0cb2c" title="노트를 delta초만큼 통째로 민다. 다중 선택 이동용." alt="" coords="509,55,706,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="807,120,766,110,718,95,667,83,668,78,719,90,767,105,808,114"/>
+<area shape="rect" id="Node000004" href="$classChartEditorDocument.html#a3bb24515207fa7cc9c9c68ee6eec0621" title=" " alt="" coords="249,47,444,87"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="495,70,444,70,444,65,495,65"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="778,56,669,33,671,28,780,51"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="785,171,765,160,749,144,740,126,732,110,717,95,692,82,694,78,720,90,737,107,745,124,753,141,768,156,787,166"/>
+<area shape="rect" id="Node000008" href="$classChartEditorNotes.html#ad3a64bcc0a0841cedfbb399158670bc1" title=" " alt="" coords="507,105,708,145"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="814,173,698,147,700,142,815,168"/>
+<area shape="rect" id="Node000009" href="$classChartEditorDocument.html#afacbcb990537758f03857435e7c88700" title=" " alt="" coords="504,169,711,209"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="760,190,711,190,711,185,760,185"/>
+<area shape="rect" id="Node000010" href="$classChartEditorDocument.html#a356b0a32d8a1b30cd3a46d9e99936eba" title=" " alt="" coords="511,233,703,273"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="820,204,693,235,691,230,818,199"/>
+<area shape="poly" id="edge11_Node000007_Node000011" title=" " alt="" coords="850,208,768,255,745,272,720,287,682,300,680,295,718,282,742,268,765,250,847,203"/>
+<area shape="rect" id="Node000012" href="$classChartEditorNotes.html#ac6e0bafe486f73e5a0aed02f4fc76b21" title="노트가 화면에 나타나기 시작하는 시각. 정렬용이라 대략만 맞으면 됨." alt="" coords="245,297,448,323"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="482,313,448,313,448,307,482,307"/>
+<area shape="rect" id="Node000013" href="$classChartEditorDocument.html#af464b48b311d733858d9b4e3ec0ffb1d" title="스폰 순서로 정렬. 런타임이 노트를 만드는 순서와 같음." alt="" coords="5,290,197,330"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="232,313,197,313,197,307,232,307"/>
+</map>

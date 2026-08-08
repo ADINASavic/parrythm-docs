@@ -1,0 +1,5 @@
+<map id="NoteSpeedScale.FromSeconds" name="NoteSpeedScale.FromSeconds">
+<area shape="rect" id="Node000001" title="Seconds &#45;&gt; dial value, snapped to the 0.25 grid and clamped to range." alt="" coords="244,13,463,38"/>
+<area shape="rect" id="Node000002" href="$classSettingsCardPlaySettings.html#aac5f156f0efbec4c20e6d8e24bb7576f" title=" " alt="" coords="5,5,196,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,28,196,28,196,23,230,23"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="ChartEditorTime.SecToBeat" name="ChartEditorTime.SecToBeat">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1363,156,1561,181"/>
+<area shape="rect" id="Node000002" href="$classBulletPlacement.html#a4daec6f2c287ca9f8bd2a75945d083aa" title="Spawn/Dock/Despawn을 직접 찍었을 때. 시간은 지정한 구간 길이를 그대로 씀." alt="" coords="1065,5,1311,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1439,147,1386,94,1351,67,1314,44,1284,33,1286,28,1316,40,1354,63,1390,90,1443,143"/>
+<area shape="rect" id="Node000003" href="$classBulletPlacement.html#ae74fd6d31cd79f5c88cf86690435fc87" title="dock이 dockSecPlayback에 오도록 spawn 시각을 앞당겨 노트를 만듦." alt="" coords="1089,55,1287,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1424,152,1373,127,1314,102,1249,83,1250,78,1316,97,1375,122,1427,147"/>
+<area shape="rect" id="Node000004" href="$classChartEditorNotes.html#a69ac773b2a08fcbee5d38ace96360c5e" title=" " alt="" coords="786,98,994,138"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1348,161,994,130,995,125,1349,156"/>
+<area shape="rect" id="Node000008" href="$classChartEditorNotes.html#a7d7c33dbf2023b3b57abcfa34274f2db" title=" " alt="" coords="795,162,985,202"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1349,174,985,182,985,177,1349,169"/>
+<area shape="rect" id="Node000009" href="$classChartEditorNotes.html#ad3a64bcc0a0841cedfbb399158670bc1" title=" " alt="" coords="1087,206,1289,246"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="1388,187,1285,209,1283,203,1387,182"/>
+<area shape="rect" id="Node000010" href="$classChartEditorNotes.html#a4a9f015eb1dba5a221ccf41632b0cb2c" title="노트를 delta초만큼 통째로 민다. 다중 선택 이동용." alt="" coords="1089,271,1287,296"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="1435,192,1381,227,1316,260,1274,273,1272,268,1314,256,1379,223,1432,187"/>
+<area shape="rect" id="Node000012" href="$classChartEditorNotes.html#a859c179a951de2fc0ba67a86f7f60432" title=" " alt="" coords="1061,320,1315,345"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="1445,194,1392,253,1356,284,1316,310,1283,322,1281,318,1313,305,1353,280,1388,249,1441,190"/>
+<area shape="rect" id="Node000005" href="$classChartEditorNotes.html#a15771c488be1bd1d053ddff3d29aaf10" title="파형에 블록으로 그릴 구간. 점 이벤트는 최소 폭을 줌." alt="" coords="496,231,719,256"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="788,145,768,152,689,193,628,233,625,228,686,189,766,148,787,140"/>
+<area shape="rect" id="Node000006" href="$classChartEditorNotes.html#ac6e0bafe486f73e5a0aed02f4fc76b21" title="노트가 화면에 나타나기 시작하는 시각. 정렬용이라 대략만 맞으면 됨." alt="" coords="245,231,448,256"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="482,246,448,246,448,241,482,241"/>
+<area shape="rect" id="Node000007" href="$classChartEditorDocument.html#af464b48b311d733858d9b4e3ec0ffb1d" title="스폰 순서로 정렬. 런타임이 노트를 만드는 순서와 같음." alt="" coords="5,223,197,263"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="232,246,197,246,197,241,232,241"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="784,208,667,233,666,228,783,202"/>
+<area shape="rect" id="Node000011" href="$classChartEditorDocument.html#a3bb24515207fa7cc9c9c68ee6eec0621" title=" " alt="" coords="793,226,987,266"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="1075,272,987,261,988,256,1076,267"/>
+<area shape="poly" id="edge15_Node000012_Node000005" title=" " alt="" coords="1054,321,915,303,766,281,661,259,662,253,767,275,916,298,1054,316"/>
+<area shape="rect" id="Node000013" href="$classChartEditorNotes.html#afd90f1906045f5566a407aad06d9bb26" title=" " alt="" coords="767,341,1013,367"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="1048,345,1014,348,1013,343,1047,340"/>
+<area shape="poly" id="edge14_Node000013_Node000005" title=" " alt="" coords="816,340,766,324,690,291,629,258,632,254,692,286,768,320,818,335"/>
+</map>

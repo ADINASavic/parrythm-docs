@@ -1,0 +1,5 @@
+<map id="NoteSpeedScale.FormatLabel" name="NoteSpeedScale.FormatLabel">
+<area shape="rect" id="Node000001" title="UI label such as &quot;5.00 &#160;· &#160;1017 ms&quot;." alt="" coords="5,5,219,31"/>
+<area shape="rect" id="Node000002" href="$classNoteSpeedScale.html#aac9d02bb2911e173dcd94ee2bb82f57b" title="Snap a value to the nearest 0.25 step." alt="" coords="267,5,431,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,15,253,15,253,21,219,21"/>
+</map>
