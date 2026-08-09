@@ -1,5 +1,6 @@
 var classJudge =
 [
+    [ "ApplyBulletMiss", "classJudge.html#aeb8f8e5005151d60297ac7481ff19826", null ],
     [ "ApplyBulletPerfect", "classJudge.html#aa5b8edd89f89abe73579ddfcd63ebee0", null ],
     [ "ApplyMissCustom", "classJudge.html#a3b0911bb0e6bccb849ca9ecff10df572", null ],
     [ "ApplyPerfect", "classJudge.html#a420d7d313b02df052975a6bb8a4fbcab", null ],
@@ -32,6 +33,7 @@ var classJudge =
     [ "timingSlowColor", "classJudge.html#aa42ed6d5fd3f3f4774ec53666cb4e31a", null ],
     [ "timingText", "classJudge.html#a44c9727ba6964965889477f6656de5e5", null ],
     [ "AverageTimingOffsetMs", "classJudge.html#a34d3dee99e507ae42735626d01d63053", null ],
+    [ "BulletMissCount", "classJudge.html#aba11c681f73f33a7cfa7d8f5df0dfcf0", null ],
     [ "FastCount", "classJudge.html#a09794dfa7072d4cd8479669265c48192", null ],
     [ "GoodCount", "classJudge.html#abd8a272c7c173eaffd84cadb9c2b73ef", null ],
     [ "MaxCombo", "classJudge.html#a01ed3b20ffae3798ff854a99d83298ad", null ],

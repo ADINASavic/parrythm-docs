@@ -1,0 +1,11 @@
+<map id="PlayFinishedInput" name="PlayFinishedInput">
+<area shape="rect" id="Node000001" title=" " alt="" coords="73,168,210,193"/>
+<area shape="rect" id="Node000002" href="$classJudge.html" title=" " alt="" coords="5,80,64,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,112,96,142,127,166,124,170,93,146,57,117"/>
+<area shape="rect" id="Node000003" href="$classDifficultyInfo.html" title=" " alt="" coords="88,80,195,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="144,119,144,167,139,167,139,119"/>
+<area shape="rect" id="Node000004" href="$classGaugeManager.html" title=" " alt="" coords="219,80,341,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="255,116,209,146,166,170,163,166,207,142,252,111"/>
+<area shape="rect" id="Node000005" href="$interfaceIGaugeCommand.html" title=" " alt="" coords="213,5,347,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="283,45,283,80,277,80,277,45"/>
+</map>

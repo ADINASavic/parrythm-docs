@@ -1,3 +1,3 @@
 <map id="그래픽컬한 클래스 계통도" name="그래픽컬한 클래스 계통도">
-<area shape="rect" id="Node000000" href="$classChartEditorJson.html" title="LevelChartData → *.chart.json 직렬화. 읽기는 LevelChartJsonTool이 이미 하므로 쓰기만 담당함. 키 이름과 타입별로 내보내는 필드는 웹 에디터가..." alt="" coords="5,5,128,31"/>
+<area shape="rect" id="Node000000" href="$classChartEditorDraw.html" title="Painter2D에 없는 것들 — 점선, 폴리라인 위 진행도, 원 채우기 — 을 모아둠." alt="" coords="5,5,135,31"/>
 </map>

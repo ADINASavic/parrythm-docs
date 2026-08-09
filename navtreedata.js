@@ -41,7 +41,7 @@ var NAVTREE =
         [ "함수", "functions_func.html", "functions_func" ],
         [ "변수", "functions_vars.html", "functions_vars" ],
         [ "열거형 타입", "functions_enum.html", null ],
-        [ "속성", "functions_prop.html", null ],
+        [ "속성", "functions_prop.html", "functions_prop" ],
         [ "이벤트", "functions_evnt.html", null ]
       ] ]
     ] ],
@@ -58,16 +58,16 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"AnimatedCharacterController_8cs.html",
-"classBulletNote.html#a915ce84157a52c8fe9b6be6dd97d7141",
-"classChartEditorTime.html#a3329f1771c67829270dd6bc1f1ea3c14",
-"classGameSettingsSaveService.html#ab238846df7b0cea3355178f82c766242",
-"classLocalLeaderboardSaveData.html#a63ad50183f016a869cbd2f75861f1f7a",
-"classNotes_1_1Lane_1_1LaneUtil.html",
-"classNotes_1_1Square_1_1SquareVisualTrail.html#a64285f2186a306aa91320615ece1b79a",
-"classSampleCarouselController.html#aeaefa296ae626dee7ce161d6122dc01e",
-"classSpecialBulletPattern.html#a66f61911fec908f48467572f9d7dcc20a2d9b9a764fb0be4be10e1b2fce63f561",
-"interfaceISettingsController.html"
+"AchievementService_8cs.html",
+"classBulletNote.html#a7f50149add7584775c024f2086b4b7e4",
+"classChartEditorSong.html#ad8db6a5384e7b9e1cc17779e04b0a0ae",
+"classGameSettingsSaveService.html#aa6dd9736c79d3076b76d48cd045482f6",
+"classLevelChartData_1_1TimeSigPoint.html#a6b93aa3189e92d7c13234798961e4ed4",
+"classNotes_1_1Lane_1_1LaneRouter.html#a547b157eb14e5864bc87db6b142bf721",
+"classNotes_1_1Square_1_1SquareVisualNormal.html#aeb99fa8e246bd160b53cae12e4f7ff6b",
+"classSampleCarouselController.html",
+"classSpecialBulletPattern.html#a3c35cbe674aecfd62a9043fba353c24d",
+"functions_w.html"
 ];
 
 var SYNCONMSG = '패널 동기화를 비활성화하기 위해 클릭하십시오';

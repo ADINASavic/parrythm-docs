@@ -1,3 +1,3 @@
 <map id="그래픽컬한 클래스 계통도" name="그래픽컬한 클래스 계통도">
-<area shape="rect" id="Node000000" href="$classChartEditorTime.html" title="웹 에디터(core.js)의 템포/박자 계산을 그대로 옮긴 것. 비트↔초 변환과 스냅이 전부 여기로 모임. 런타임 ChartTimelineRuntime과 같은 규칙을 써야 프리뷰가 ..." alt="" coords="5,5,133,31"/>
+<area shape="rect" id="Node000000" href="$classChartEditorSong.html" title="곡 폴더 입출력. 브라우저 에디터의 폴더 열기/난이도 전환/오디오 로드를 파일 시스템 기준으로 옮긴 것. song.json 모델과 오디오 타입 판별은 게임이 쓰는 SongMeta /..." alt="" coords="5,5,132,31"/>
 </map>

@@ -18,7 +18,7 @@ var searchData=
   ['gaphintsizepx_15',['gapHintSizePx',['../classChartPlayer.html#a38d7c5ee756d22de75ce315bccb96c55',1,'ChartPlayer']]],
   ['gaphintsprite_16',['gapHintSprite',['../classChartPlayer.html#a08a71d182b6a04eec6803b7851d00c3a',1,'ChartPlayer']]],
   ['gaphinttexture_17',['gapHintTexture',['../classChartPlayer.html#ae6f80e500dd862dd00824e8de8ac9cec',1,'ChartPlayer']]],
-  ['gaugemanager_18',['gaugemanager',['../classResultScreenController.html#acb3577e56c9fa9da9aea643ea826470d',1,'ResultScreenController.gaugeManager'],['../classGameBootstrap.html#a702da67a46744a65a4ba7be3d3fc7bbe',1,'GameBootstrap.gaugeManager']]],
+  ['gaugemanager_18',['gaugemanager',['../classGameBootstrap.html#a702da67a46744a65a4ba7be3d3fc7bbe',1,'GameBootstrap.gaugeManager'],['../classResultScreenController.html#acb3577e56c9fa9da9aea643ea826470d',1,'ResultScreenController.gaugeManager'],['../structPlayFinishedInput.html#a54b32c60461710fbac5f59d4c5735b22',1,'PlayFinishedInput.gaugeManager']]],
   ['gaugeslider_19',['gaugeSlider',['../classGaugeManager.html#a715efa01859448cf7c263b888728a65a',1,'GaugeManager']]],
   ['gaugetext_20',['gaugeText',['../classGaugeManager.html#a05ed51628e4efdd4521cca7c3ca67da2',1,'GaugeManager']]],
   ['ghostalpha_21',['ghostAlpha',['../classPlayerSpriteController.html#af832f3661093eac3cee245ccfd1ba337',1,'PlayerSpriteController']]],

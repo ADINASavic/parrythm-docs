@@ -1,5 +1,6 @@
 var hierarchy =
 [
+    [ "AchievementService", "classAchievementService.html", null ],
     [ "AppDataPaths", "classAppDataPaths.html", null ],
     [ "ChartEditorTime.BarInfo", "structChartEditorTime_1_1BarInfo.html", null ],
     [ "BulletPlacement", "classBulletPlacement.html", null ],
@@ -174,6 +175,7 @@ var hierarchy =
     [ "SpecialBulletPattern.Params", "classSpecialBulletPattern_1_1Params.html", null ],
     [ "NoteSettingsJsonPatchUtility.PatchApplyResult", "structNoteSettingsJsonPatchUtility_1_1PatchApplyResult.html", null ],
     [ "PlayerNameSettings", "classPlayerNameSettings.html", null ],
+    [ "PlayFinishedInput", "structPlayFinishedInput.html", null ],
     [ "ProfileSaveData", "classProfileSaveData.html", null ],
     [ "RatingEntry", "structRatingEntry.html", null ],
     [ "RatingService", "classRatingService.html", null ],

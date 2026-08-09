@@ -7,6 +7,7 @@ var searchData=
   ['patchapplyresult_4',['PatchApplyResult',['../structNoteSettingsJsonPatchUtility_1_1PatchApplyResult.html',1,'NoteSettingsJsonPatchUtility']]],
   ['playernamesettings_5',['PlayerNameSettings',['../classPlayerNameSettings.html',1,'']]],
   ['playerspritecontroller_6',['PlayerSpriteController',['../classPlayerSpriteController.html',1,'']]],
-  ['previewview_7',['PreviewView',['../classPreviewView.html',1,'']]],
-  ['profilesavedata_8',['ProfileSaveData',['../classProfileSaveData.html',1,'']]]
+  ['playfinishedinput_7',['PlayFinishedInput',['../structPlayFinishedInput.html',1,'']]],
+  ['previewview_8',['PreviewView',['../classPreviewView.html',1,'']]],
+  ['profilesavedata_9',['ProfileSaveData',['../classProfileSaveData.html',1,'']]]
 ];

@@ -27,6 +27,7 @@ var searchData=
   ['inputtimeoffsetms_24',['inputTimeOffsetMs',['../classNoteSettings.html#acda247394dee11c0132d431953ba46ed',1,'NoteSettings']]],
   ['inputtimeoffsetslider_25',['inputTimeOffsetSlider',['../classSettingsCardOffset.html#a469db39ceb602a79ed5c52e9564bc147',1,'SettingsCardOffset']]],
   ['intropanelcanvasgroup_26',['introPanelCanvasGroup',['../classCanvasSongIntroController.html#ac09b4663c8b6a50a22fd196431b7ef0e',1,'CanvasSongIntroController']]],
-  ['islong_27',['isLong',['../classLevelChartData_1_1NoteEvent.html#ac1709378fa69affb5b6a88ea4580ff72',1,'LevelChartData::NoteEvent']]],
-  ['istrail_28',['isTrail',['../classLevelChartData_1_1NoteEvent.html#ad5fb2ddd29dc178d881ff51d0cb7bc81',1,'LevelChartData::NoteEvent']]]
+  ['isautoplay_27',['isAutoPlay',['../structPlayFinishedInput.html#a7f34d5ca4f179f98e5fdd31de21d9b79',1,'PlayFinishedInput']]],
+  ['islong_28',['isLong',['../classLevelChartData_1_1NoteEvent.html#ac1709378fa69affb5b6a88ea4580ff72',1,'LevelChartData::NoteEvent']]],
+  ['istrail_29',['isTrail',['../classLevelChartData_1_1NoteEvent.html#ad5fb2ddd29dc178d881ff51d0cb7bc81',1,'LevelChartData::NoteEvent']]]
 ];

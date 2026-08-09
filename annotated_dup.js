@@ -17,6 +17,7 @@ var annotated_dup =
         [ "SquareVisualTrail", "classNotes_1_1Square_1_1SquareVisualTrail.html", "classNotes_1_1Square_1_1SquareVisualTrail" ]
       ] ]
     ] ],
+    [ "AchievementService", "classAchievementService.html", "classAchievementService" ],
     [ "AnimatedCharacterController", "classAnimatedCharacterController.html", "classAnimatedCharacterController" ],
     [ "AnimatedCharacterPicker", "classAnimatedCharacterPicker.html", "classAnimatedCharacterPicker" ],
     [ "AppDataPaths", "classAppDataPaths.html", "classAppDataPaths" ],
@@ -125,6 +126,7 @@ var annotated_dup =
     [ "ParrythmVirtualPointer", "classParrythmVirtualPointer.html", "classParrythmVirtualPointer" ],
     [ "PlayerNameSettings", "classPlayerNameSettings.html", "classPlayerNameSettings" ],
     [ "PlayerSpriteController", "classPlayerSpriteController.html", "classPlayerSpriteController" ],
+    [ "PlayFinishedInput", "structPlayFinishedInput.html", "structPlayFinishedInput" ],
     [ "PreviewView", "classPreviewView.html", "classPreviewView" ],
     [ "ProfileSaveData", "classProfileSaveData.html", "classProfileSaveData" ],
     [ "RatingEntry", "structRatingEntry.html", "structRatingEntry" ],
