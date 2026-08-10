@@ -1,63 +1,65 @@
 <map id="ChartEndWatcher.TriggerEnd" name="ChartEndWatcher.TriggerEnd">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,239,211,265"/>
-<area shape="rect" id="Node000002" href="$classResultScreenController.html#ac885d36206adfeb4ab8e5ad00d786d15" title=" " alt="" coords="259,203,468,243"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,238,245,234,245,239,211,243"/>
-<area shape="rect" id="Node000027" href="$classUnityMusicController.html#ae6dacbca57bf9018059da6881e3d0804" title=" " alt="" coords="268,267,459,293"/>
-<area shape="poly" id="edge34_Node000001_Node000027" title=" " alt="" coords="211,261,255,265,254,271,211,266"/>
-<area shape="rect" id="Node000003" href="$classRatingService.html#aa08de3267e652feb395251c99c27c2c4" title="Per&#45;chart rating: level x accuracy. Returns 0 for invalid input." alt="" coords="1343,25,1553,65"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="378,201,401,173,433,141,471,110,515,86,621,50,733,25,845,11,957,4,1064,3,1164,8,1329,24,1329,29,1164,13,1064,9,957,9,846,16,733,31,623,55,517,90,474,114,436,145,405,177,382,204"/>
-<area shape="rect" id="Node000004" href="$interfaceILeaderboardService.html#acf06c139471f3d25219726204a37e1c4" title=" " alt="" coords="526,349,729,389"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="448,241,470,254,487,275,494,296,501,316,518,335,525,341,522,345,514,339,497,319,489,298,482,278,466,258,445,245"/>
-<area shape="rect" id="Node000005" href="$classParrythmInputRuntime_1_1StateOverrideHandle.html#ae28a7d0e57ee17e0269a26fabdf5feb5" title="자신이 나타내는 override를 해제한다. 중복 호출은 무시한다." alt="" coords="524,413,731,453"/>
-<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="452,241,470,254,484,273,492,292,494,329,497,365,504,382,518,400,522,403,519,407,514,403,500,385,492,366,489,329,486,293,480,275,466,258,449,245"/>
-<area shape="rect" id="Node000006" href="$classRatingService.html#ad437e0dc7386eebeb74df485e199eb2b" title="Top count &#160;rating entries (Best 15 by default)." alt="" coords="795,90,1009,115"/>
-<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="385,201,441,157,477,135,515,119,582,102,651,92,719,89,781,90,781,95,719,94,652,98,583,107,517,124,479,140,444,161,388,205"/>
-<area shape="rect" id="Node000008" href="$classLocalScoreSaveService.html#a55f704f0060305a1e1cfff737df74ccf" title=" " alt="" coords="1349,164,1547,204"/>
-<area shape="poly" id="edge12_Node000002_Node000008" title=" " alt="" coords="468,215,516,213,1335,185,1335,190,516,219,468,221"/>
-<area shape="rect" id="Node000011" href="$classRatingService.html#afbc8b2657b7d513c8b1fb88ffb74372d" title="The player rating: sum of the Best 15 chart ratings." alt="" coords="516,134,739,159"/>
-<area shape="poly" id="edge13_Node000002_Node000011" title=" " alt="" coords="433,200,568,161,570,166,434,205"/>
-<area shape="rect" id="Node000012" href="$classAchievementService.html#aec043ccc8e0c9bb9926340c27f1cd702" title=" " alt="" coords="524,285,731,325"/>
-<area shape="poly" id="edge15_Node000002_Node000012" title=" " alt="" coords="429,240,550,279,549,284,427,245"/>
-<area shape="rect" id="Node000024" href="$classLocalScoreSaveService.html#a41cafea20dc5b7c1657158999b0f7a60" title=" " alt="" coords="1075,235,1269,275"/>
-<area shape="poly" id="edge28_Node000002_Node000024" title=" " alt="" coords="468,224,1061,248,1060,253,468,229"/>
-<area shape="rect" id="Node000007" href="$classRatingService.html#ab9fe02fa1996bcb3df8bf42d9d72454d" title="Every played chart (best score &gt; 0) as a rating entry, sorted highest rating first." alt="" coords="1072,83,1272,123"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1009,100,1058,100,1058,105,1009,105"/>
-<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="1268,80,1337,66,1338,71,1269,85"/>
-<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="1241,120,1367,157,1365,163,1240,125"/>
-<area shape="rect" id="Node000010" href="$classSongScanner.html#abc765422ac2b4142ede50a0641cfeb2b" title=" " alt="" coords="1369,90,1527,115"/>
-<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="1272,100,1356,100,1356,105,1272,105"/>
-<area shape="poly" id="edge9_Node000008_Node000008" title=" " alt="" coords="1398,165,1395,154,1403,145,1421,139,1448,137,1479,140,1497,147,1495,152,1478,145,1448,143,1422,145,1406,150,1400,155,1403,163"/>
-<area shape="rect" id="Node000009" href="$classLocalScoreSaveService.html#a36f373f8b6b5b0bd1ff2ade5d75cabaa" title=" " alt="" coords="1617,219,1824,245"/>
-<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="1548,199,1635,214,1634,220,1547,204"/>
-<area shape="poly" id="edge14_Node000011_Node000006" title=" " alt="" coords="707,131,808,115,809,120,707,137"/>
-<area shape="rect" id="Node000013" href="$classNoteSettingsIO.html#ab61b9ef5a846cd96c8955a99e67fd64b" title="Returns runtime note settings by applying the saved patch onto the defaults." alt="" coords="787,369,1017,394"/>
-<area shape="poly" id="edge16_Node000012_Node000013" title=" " alt="" coords="701,323,843,362,841,368,700,328"/>
-<area shape="rect" id="Node000014" href="$classNoteSettingsJsonPatchUtility.html#a547379637e42c5d94c6f04a9b16cdd79" title="Applies a stored patch JSON onto an existing NoteSettings instance." alt="" coords="1067,393,1277,433"/>
-<area shape="poly" id="edge17_Node000013_Node000014" title=" " alt="" coords="1010,391,1054,397,1053,402,1009,397"/>
-<area shape="rect" id="Node000016" href="$classNoteSettingsPatchRepository.html#ad4728f3df9212db724bca5bc64536eb0" title="Deletes the stored note&#45;settings patch JSON." alt="" coords="1065,457,1279,497"/>
-<area shape="poly" id="edge19_Node000013_Node000016" title=" " alt="" coords="934,392,1066,443,1089,451,1088,456,1064,448,933,397"/>
-<area shape="rect" id="Node000022" href="$classNoteSettingsPatchRepository.html#a3250724000a91c2b2c26bde28947094a" title="Loads the stored note&#45;settings patch JSON, or null when none exists." alt="" coords="1065,329,1279,369"/>
-<area shape="poly" id="edge25_Node000013_Node000022" title=" " alt="" coords="1009,366,1051,361,1052,366,1010,371"/>
-<area shape="rect" id="Node000015" href="$classNoteSettingsJsonPatchUtility.html#a603c96f1a737ec23ae79ae1079d22f72" title="Restores invalid field values back to the provided defaults." alt="" coords="1327,393,1569,433"/>
-<area shape="poly" id="edge18_Node000014_Node000015" title=" " alt="" coords="1277,411,1313,411,1313,416,1277,416"/>
-<area shape="rect" id="Node000017" href="$classGameSettingsSaveService.html#a6cbc4300113aa828dad5c3cb0defd045" title=" " alt="" coords="1349,457,1547,497"/>
-<area shape="poly" id="edge20_Node000016_Node000017" title=" " alt="" coords="1279,475,1335,475,1335,480,1279,480"/>
-<area shape="rect" id="Node000018" href="$classLocalSettingsSaveStorage.html#adb42a7032903c96ffaaf5ecb27a6f50b" title=" " alt="" coords="1623,435,1818,475"/>
-<area shape="poly" id="edge21_Node000017_Node000018" title=" " alt="" coords="1547,466,1609,461,1610,467,1548,472"/>
-<area shape="rect" id="Node000020" href="$classGameSettingsSaveService.html#aaaeb03d6f22467ad08e59d3497021d0c" title=" " alt="" coords="1621,347,1820,387"/>
-<area shape="poly" id="edge23_Node000017_Node000020" title=" " alt="" coords="1533,455,1568,443,1670,391,1673,396,1570,448,1535,460"/>
-<area shape="rect" id="Node000019" href="$classLocalSettingsSaveStorage.html#a04098d037e8125d33736346f2199394e" title=" " alt="" coords="1872,403,2067,443"/>
-<area shape="poly" id="edge22_Node000018_Node000019" title=" " alt="" coords="1818,440,1858,434,1859,440,1819,445"/>
-<area shape="rect" id="Node000021" href="$classLocalSettingsSaveStorage.html#a83f349c86c884c85ae233d2ee1600627" title=" " alt="" coords="1872,323,2067,363"/>
-<area shape="poly" id="edge24_Node000020_Node000021" title=" " alt="" coords="1820,354,1858,351,1859,356,1821,360"/>
-<area shape="rect" id="Node000023" href="$classGameSettingsSaveService.html#a20eaef03d18100e44bf44b8dccab4fad" title=" " alt="" coords="1348,329,1548,369"/>
-<area shape="poly" id="edge26_Node000022_Node000023" title=" " alt="" coords="1279,347,1334,347,1334,352,1279,352"/>
-<area shape="poly" id="edge27_Node000023_Node000020" title=" " alt="" coords="1549,353,1608,357,1608,362,1548,358"/>
-<area shape="poly" id="edge29_Node000024_Node000009" title=" " alt="" coords="1270,248,1603,234,1603,240,1270,253"/>
-<area shape="rect" id="Node000025" href="$classLocalScoreSaveService.html#a2bd1dd55ab26a68c171d56625d182860" title=" " alt="" coords="1344,279,1552,305"/>
-<area shape="poly" id="edge30_Node000024_Node000025" title=" " alt="" coords="1270,265,1341,275,1340,280,1269,271"/>
-<area shape="rect" id="Node000026" href="$classLocalSettingsSaveStorage.html#aad8de471d4ed920a72d56a210230363a" title=" " alt="" coords="1623,283,1818,323"/>
-<area shape="poly" id="edge31_Node000025_Node000026" title=" " alt="" coords="1552,293,1609,296,1609,301,1552,299"/>
-<area shape="poly" id="edge33_Node000026_Node000019" title=" " alt="" coords="1799,320,1825,332,1850,352,1874,373,1912,394,1909,399,1870,377,1847,356,1823,337,1797,325"/>
-<area shape="poly" id="edge32_Node000026_Node000021" title=" " alt="" coords="1819,316,1859,322,1858,328,1818,321"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,237,211,263"/>
+<area shape="rect" id="Node000002" href="$classResultScreenController.html#ac885d36206adfeb4ab8e5ad00d786d15" title=" " alt="" coords="259,201,468,241"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,236,245,232,245,237,211,241"/>
+<area shape="rect" id="Node000028" href="$classUnityMusicController.html#ae6dacbca57bf9018059da6881e3d0804" title=" " alt="" coords="268,265,459,291"/>
+<area shape="poly" id="edge35_Node000001_Node000028" title=" " alt="" coords="211,259,255,263,254,269,211,264"/>
+<area shape="rect" id="Node000003" href="$classOutgameOverlay.html#a28ec1b9945b7c1b65d01e40a6a8017d5" title=" " alt="" coords="542,5,713,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="375,199,429,125,469,83,515,48,546,33,548,37,517,52,472,87,433,129,379,202"/>
+<area shape="rect" id="Node000004" href="$classRatingService.html#aa08de3267e652feb395251c99c27c2c4" title="Per&#45;chart rating: level x accuracy. Returns 0 for invalid input." alt="" coords="1343,49,1553,89"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="379,199,434,142,472,114,515,92,583,74,674,62,780,55,896,51,1131,53,1329,60,1328,65,1131,58,896,56,780,60,674,67,584,79,517,96,475,118,438,146,383,202"/>
+<area shape="rect" id="Node000005" href="$interfaceILeaderboardService.html#acf06c139471f3d25219726204a37e1c4" title=" " alt="" coords="526,373,729,413"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="450,239,470,252,482,266,489,280,494,307,500,334,506,346,518,359,523,363,520,367,514,363,502,349,495,335,489,308,484,281,477,269,466,256,447,243"/>
+<area shape="rect" id="Node000006" href="$classParrythmInputRuntime_1_1StateOverrideHandle.html#ae28a7d0e57ee17e0269a26fabdf5feb5" title="자신이 나타내는 override를 해제한다. 중복 호출은 무시한다." alt="" coords="524,437,731,477"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="453,239,470,252,486,274,493,296,494,340,495,382,503,402,518,423,522,426,518,430,514,426,498,405,490,383,489,340,488,297,481,277,466,256,449,243"/>
+<area shape="rect" id="Node000007" href="$classRatingService.html#ad437e0dc7386eebeb74df485e199eb2b" title="Top count &#160;rating entries (Best 15 by default)." alt="" coords="795,113,1009,139"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="468,200,815,138,816,144,468,205"/>
+<area shape="rect" id="Node000009" href="$classLocalScoreSaveService.html#a55f704f0060305a1e1cfff737df74ccf" title=" " alt="" coords="1349,187,1547,227"/>
+<area shape="poly" id="edge13_Node000002_Node000009" title=" " alt="" coords="468,217,1335,206,1335,211,468,222"/>
+<area shape="rect" id="Node000012" href="$classRatingService.html#afbc8b2657b7d513c8b1fb88ffb74372d" title="The player rating: sum of the Best 15 chart ratings." alt="" coords="516,107,739,132"/>
+<area shape="poly" id="edge14_Node000002_Node000012" title=" " alt="" coords="403,198,515,149,563,133,564,138,517,154,406,203"/>
+<area shape="rect" id="Node000013" href="$classAchievementService.html#aec043ccc8e0c9bb9926340c27f1cd702" title=" " alt="" coords="524,309,731,349"/>
+<area shape="poly" id="edge16_Node000002_Node000013" title=" " alt="" coords="439,238,469,252,494,270,517,288,547,301,545,306,515,292,490,274,467,256,437,243"/>
+<area shape="rect" id="Node000025" href="$classLocalScoreSaveService.html#a41cafea20dc5b7c1657158999b0f7a60" title=" " alt="" coords="1075,258,1269,298"/>
+<area shape="poly" id="edge29_Node000002_Node000025" title=" " alt="" coords="469,232,516,237,812,258,1061,271,1061,276,811,264,516,242,468,237"/>
+<area shape="rect" id="Node000008" href="$classRatingService.html#ab9fe02fa1996bcb3df8bf42d9d72454d" title="Every played chart (best score &gt; 0) as a rating entry, sorted highest rating first." alt="" coords="1072,106,1272,146"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1009,123,1058,123,1058,129,1009,129"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="1268,103,1337,89,1338,94,1269,109"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="1241,143,1367,181,1365,186,1240,149"/>
+<area shape="rect" id="Node000011" href="$classSongScanner.html#abc765422ac2b4142ede50a0641cfeb2b" title=" " alt="" coords="1369,113,1527,139"/>
+<area shape="poly" id="edge12_Node000008_Node000011" title=" " alt="" coords="1272,123,1356,123,1356,129,1272,129"/>
+<area shape="poly" id="edge10_Node000009_Node000009" title=" " alt="" coords="1398,188,1395,178,1403,168,1421,163,1448,161,1479,163,1497,171,1495,176,1478,169,1448,166,1422,168,1406,173,1400,179,1403,186"/>
+<area shape="rect" id="Node000010" href="$classLocalScoreSaveService.html#a36f373f8b6b5b0bd1ff2ade5d75cabaa" title=" " alt="" coords="1617,243,1824,268"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="1548,222,1635,238,1634,243,1547,227"/>
+<area shape="poly" id="edge15_Node000012_Node000007" title=" " alt="" coords="739,119,782,120,782,126,739,125"/>
+<area shape="rect" id="Node000014" href="$classNoteSettingsIO.html#ab61b9ef5a846cd96c8955a99e67fd64b" title="Returns runtime note settings by applying the saved patch onto the defaults." alt="" coords="787,392,1017,417"/>
+<area shape="poly" id="edge17_Node000013_Node000014" title=" " alt="" coords="701,346,843,386,841,391,700,351"/>
+<area shape="rect" id="Node000015" href="$classNoteSettingsJsonPatchUtility.html#a547379637e42c5d94c6f04a9b16cdd79" title="Applies a stored patch JSON onto an existing NoteSettings instance." alt="" coords="1067,417,1277,457"/>
+<area shape="poly" id="edge18_Node000014_Node000015" title=" " alt="" coords="1010,415,1054,420,1053,425,1009,420"/>
+<area shape="rect" id="Node000017" href="$classNoteSettingsPatchRepository.html#ad4728f3df9212db724bca5bc64536eb0" title="Deletes the stored note&#45;settings patch JSON." alt="" coords="1065,481,1279,521"/>
+<area shape="poly" id="edge20_Node000014_Node000017" title=" " alt="" coords="934,415,1066,466,1089,474,1088,479,1064,471,933,420"/>
+<area shape="rect" id="Node000023" href="$classNoteSettingsPatchRepository.html#a3250724000a91c2b2c26bde28947094a" title="Loads the stored note&#45;settings patch JSON, or null when none exists." alt="" coords="1065,353,1279,393"/>
+<area shape="poly" id="edge26_Node000014_Node000023" title=" " alt="" coords="1009,389,1051,384,1052,390,1010,395"/>
+<area shape="rect" id="Node000016" href="$classNoteSettingsJsonPatchUtility.html#a603c96f1a737ec23ae79ae1079d22f72" title="Restores invalid field values back to the provided defaults." alt="" coords="1327,417,1569,457"/>
+<area shape="poly" id="edge19_Node000015_Node000016" title=" " alt="" coords="1277,434,1313,434,1313,439,1277,439"/>
+<area shape="rect" id="Node000018" href="$classGameSettingsSaveService.html#a6cbc4300113aa828dad5c3cb0defd045" title=" " alt="" coords="1349,481,1547,521"/>
+<area shape="poly" id="edge21_Node000017_Node000018" title=" " alt="" coords="1279,498,1335,498,1335,503,1279,503"/>
+<area shape="rect" id="Node000019" href="$classLocalSettingsSaveStorage.html#adb42a7032903c96ffaaf5ecb27a6f50b" title=" " alt="" coords="1623,458,1818,498"/>
+<area shape="poly" id="edge22_Node000018_Node000019" title=" " alt="" coords="1547,490,1609,485,1610,490,1548,495"/>
+<area shape="rect" id="Node000021" href="$classGameSettingsSaveService.html#aaaeb03d6f22467ad08e59d3497021d0c" title=" " alt="" coords="1621,370,1820,410"/>
+<area shape="poly" id="edge24_Node000018_Node000021" title=" " alt="" coords="1533,478,1568,466,1670,414,1673,419,1570,471,1535,483"/>
+<area shape="rect" id="Node000020" href="$classLocalSettingsSaveStorage.html#a04098d037e8125d33736346f2199394e" title=" " alt="" coords="1872,426,2067,466"/>
+<area shape="poly" id="edge23_Node000019_Node000020" title=" " alt="" coords="1818,463,1858,458,1859,463,1819,468"/>
+<area shape="rect" id="Node000022" href="$classLocalSettingsSaveStorage.html#a83f349c86c884c85ae233d2ee1600627" title=" " alt="" coords="1872,346,2067,386"/>
+<area shape="poly" id="edge25_Node000021_Node000022" title=" " alt="" coords="1820,378,1858,374,1859,379,1821,383"/>
+<area shape="rect" id="Node000024" href="$classGameSettingsSaveService.html#a20eaef03d18100e44bf44b8dccab4fad" title=" " alt="" coords="1348,353,1548,393"/>
+<area shape="poly" id="edge27_Node000023_Node000024" title=" " alt="" coords="1279,370,1334,370,1334,375,1279,375"/>
+<area shape="poly" id="edge28_Node000024_Node000021" title=" " alt="" coords="1549,376,1608,380,1608,385,1548,382"/>
+<area shape="poly" id="edge30_Node000025_Node000010" title=" " alt="" coords="1270,271,1603,257,1603,263,1270,277"/>
+<area shape="rect" id="Node000026" href="$classLocalScoreSaveService.html#a2bd1dd55ab26a68c171d56625d182860" title=" " alt="" coords="1344,303,1552,328"/>
+<area shape="poly" id="edge31_Node000025_Node000026" title=" " alt="" coords="1270,289,1341,298,1340,303,1269,294"/>
+<area shape="rect" id="Node000027" href="$classLocalSettingsSaveStorage.html#aad8de471d4ed920a72d56a210230363a" title=" " alt="" coords="1623,306,1818,346"/>
+<area shape="poly" id="edge32_Node000026_Node000027" title=" " alt="" coords="1552,317,1609,319,1609,324,1552,322"/>
+<area shape="poly" id="edge34_Node000027_Node000020" title=" " alt="" coords="1799,344,1825,356,1850,375,1874,396,1912,417,1909,422,1870,400,1847,379,1823,360,1797,349"/>
+<area shape="poly" id="edge33_Node000027_Node000022" title=" " alt="" coords="1819,339,1859,346,1858,351,1818,344"/>
 </map>

@@ -5,8 +5,8 @@ var searchData=
   ['beattosec_2',['beattosec',['../classChartTimelineRuntime.html#a19054a642b482a2aa77e43d41f82e129',1,'ChartTimelineRuntime.BeatToSec()'],['../classChartEditorTime.html#a2e6ceae38b0e560c9f1502cecc8ef2e9',1,'ChartEditorTime.BeatToSec(float beat)']]],
   ['beatunitatbeat_3',['BeatUnitAtBeat',['../classChartEditorTime.html#aae2ab83fa937392b480e38e7a9886e69',1,'ChartEditorTime']]],
   ['bind_4',['bind',['../classSliderNoteVisual.html#a43d5d5f8680915b5e519a07219e48ada',1,'SliderNoteVisual.Bind()'],['../interfaceISettingsPage.html#a3a8d6b46f8c6001d41c588b342c8eb5a',1,'ISettingsPage.Bind()'],['../classSettingsPage.html#a6eb8d2d6200a421eee2559f82500f52f',1,'SettingsPage.Bind()'],['../classMenuTypingLock.html#aa085118ccf14e06217ced838211a9f59',1,'MenuTypingLock.Bind()']]],
-  ['bindtoui_5',['bindtoui',['../classSettingsPage.html#ad58f1d44a6d295ff3c5f335539de9df9',1,'SettingsPage.BindToUI()'],['../classSettingsCardPlaySettings.html#aac5f156f0efbec4c20e6d8e24bb7576f',1,'SettingsCardPlaySettings.BindToUI()'],['../classSettingsCardOffset.html#a8ce7c9068001bb1e3a39a8280e51efce',1,'SettingsCardOffset.BindToUI(NoteSettings settings)']]],
-  ['binduievents_6',['binduievents',['../classSettingsCardOffset.html#af832ad9a604ae624116f89a98eec406b',1,'SettingsCardOffset.BindUiEvents()'],['../classSettingsCardPlaySettings.html#a7772fa80e09a508f323cc77d55ee6fe7',1,'SettingsCardPlaySettings.BindUiEvents()'],['../classSettingsPage.html#affe84487a3d3954a17f82d16e1c69bb0',1,'SettingsPage.BindUiEvents()']]],
+  ['bindtoui_5',['bindtoui',['../classSettingsCardOffset.html#a8ce7c9068001bb1e3a39a8280e51efce',1,'SettingsCardOffset.BindToUI()'],['../classSettingsCardPlaySettings.html#aac5f156f0efbec4c20e6d8e24bb7576f',1,'SettingsCardPlaySettings.BindToUI()'],['../classSettingsPage.html#ad58f1d44a6d295ff3c5f335539de9df9',1,'SettingsPage.BindToUI()']]],
+  ['binduievents_6',['binduievents',['../classSettingsCardOffset.html#af832ad9a604ae624116f89a98eec406b',1,'SettingsCardOffset.BindUiEvents()'],['../classSettingsPage.html#affe84487a3d3954a17f82d16e1c69bb0',1,'SettingsPage.BindUiEvents()'],['../classSettingsCardPlaySettings.html#a7772fa80e09a508f323cc77d55ee6fe7',1,'SettingsCardPlaySettings.BindUiEvents()']]],
   ['bindvisual_7',['BindVisual',['../classSliderNote.html#ac97047644f81873457531b21850b4fb7',1,'SliderNote']]],
   ['bootsequence_8',['BootSequence',['../classChartPlayer.html#aaa9379bf007a3fce94caf3cbffd501db',1,'ChartPlayer']]],
   ['bpmatbeat_9',['BpmAtBeat',['../classChartEditorTime.html#a78c68688ec4f774104edd5759b30f4d7',1,'ChartEditorTime']]],
@@ -30,5 +30,6 @@ var searchData=
   ['bulletspawnsec_27',['BulletSpawnSec',['../classChartEditorNotes.html#ae2d772c4dbe96bfb90d7b2d0460ae815',1,'ChartEditorNotes']]],
   ['bulletstartsec_28',['BulletStartSec',['../classChartTimelineRuntime.html#ac79e690bde9181f35832d6f91a1a7d48',1,'ChartTimelineRuntime']]],
   ['bullettodocksec_29',['bullettodocksec',['../classChartEditorNotes.html#a7d7c33dbf2023b3b57abcfa34274f2db',1,'ChartEditorNotes.BulletToDockSec()'],['../classChartTimelineRuntime.html#ae1677271f8ca4bb5f9055c12b8110ca3',1,'ChartTimelineRuntime.BulletToDockSec()']]],
-  ['button_30',['Button',['../classChartEditorUi.html#a98515483ec8db090d342f9e0265b0440',1,'ChartEditorUi']]]
+  ['burst_30',['Burst',['../classMarkSplashParticles.html#a35dbb0eb95c47669135750fc85343838',1,'MarkSplashParticles']]],
+  ['button_31',['Button',['../classChartEditorUi.html#a98515483ec8db090d342f9e0265b0440',1,'ChartEditorUi']]]
 ];

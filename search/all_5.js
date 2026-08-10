@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['facingaxis_0',['facingaxis',['../classBulletNote.html#a3b431a481454b6beb677b0b1c9323290',1,'BulletNote.facingAxis'],['../classBulletNote.html#a34dae04d2d7cf44ab823c5b2ac55b83b',1,'BulletNote.FacingAxis']]],
+  ['facingaxis_0',['facingaxis',['../classBulletNote.html#a34dae04d2d7cf44ab823c5b2ac55b83b',1,'BulletNote.FacingAxis'],['../classBulletNote.html#a3b431a481454b6beb677b0b1c9323290',1,'BulletNote.facingAxis']]],
   ['fadebeat_1',['fadeBeat',['../classLevelChartData_1_1NoteEvent.html#a169b2f37109554a9d33ca9c0c61ff20f',1,'LevelChartData::NoteEvent']]],
   ['fadeduration_2',['fadeDuration',['../classCanvasGameIntroController.html#a106d8c1118939064d85053ab6600d264',1,'CanvasGameIntroController']]],
   ['fadeinbeat_3',['fadeInBeat',['../classLevelChartData_1_1NoteEvent.html#ac73edd2545125945c45fe08b3505230d',1,'LevelChartData::NoteEvent']]],
@@ -29,7 +29,7 @@ var searchData=
   ['focusedindex_26',['focusedIndex',['../classCarouselController.html#a4064e4dbca80cdf042bba3cf67803575',1,'CarouselController']]],
   ['focusedscale_27',['focusedScale',['../classCarouselController.html#ae91d2926aecb1927256ae38063957dd8',1,'CarouselController']]],
   ['foldername_28',['FolderName',['../classChartEditorSong.html#a71d8fb2c4191796646070a124ac9cb03',1,'ChartEditorSong']]],
-  ['folderpath_29',['folderpath',['../classChartEditorSong.html#a30b2548719ad44abf586f501a67c9d6c',1,'ChartEditorSong.FolderPath'],['../classSongEntry.html#a3da524b06479eaddbb547119f15bdd9a',1,'SongEntry.folderPath']]],
+  ['folderpath_29',['folderpath',['../classSongEntry.html#a3da524b06479eaddbb547119f15bdd9a',1,'SongEntry.folderPath'],['../classChartEditorSong.html#a30b2548719ad44abf586f501a67c9d6c',1,'ChartEditorSong.FolderPath']]],
   ['followcursor_30',['FollowCursor',['../classWaveformView.html#a3cea2b46cfaaff0eabc5a90fa0ec62e9',1,'WaveformView']]],
   ['followmouse_31',['followMouse',['../classUITrailGraphic.html#a59f8f0edd159b5f6be8f6f2f371ccf35',1,'UITrailGraphic']]],
   ['followringalphamultiplier_32',['followRingAlphaMultiplier',['../classSliderNoteVisual.html#a8bb993d19194fba33ddf3091ca87a1bd',1,'SliderNoteVisual']]],

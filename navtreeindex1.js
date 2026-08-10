@@ -1,5 +1,6 @@
 var NAVTREEINDEX1 =
 {
+"classBulletNote.html#a7c00e3d3ae87a25e49cd45732d56d10b":[1,0,9,18],
 "classBulletNote.html#a7f50149add7584775c024f2086b4b7e4":[1,0,9,12],
 "classBulletNote.html#a880aeda157ceea977c970aee8fa46518":[1,0,9,6],
 "classBulletNote.html#a8efac9d696b4de4c2ce4f18cbc375bd7":[1,0,9,22],
@@ -248,6 +249,5 @@ var NAVTREEINDEX1 =
 "classChartEditorSong.html#a86e6a0191ed8f31e2a2551357e1ef68f":[1,0,26,16],
 "classChartEditorSong.html#a946b9c92d4b758347fc63eced3e988ef":[1,0,26,11],
 "classChartEditorSong.html#aa6a5dd36a1b495c6eee8e34bdd3b2307":[1,0,26,17],
-"classChartEditorSong.html#ab89e5e8873ed815a203f0c15a0bc6f46":[1,0,26,12],
-"classChartEditorSong.html#ac0006b4ff658a2740d494da770318ff6":[1,0,26,8]
+"classChartEditorSong.html#ab89e5e8873ed815a203f0c15a0bc6f46":[1,0,26,12]
 };

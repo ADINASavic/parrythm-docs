@@ -105,6 +105,7 @@ var NAVTREEINDEX0 =
 "LocalSettingsSaveStorage_8cs.html":[2,0,0,0,11,2,1],
 "LocalizationHelper_8cs.html":[2,0,0,0,7,0],
 "LongNoteHandler_8cs.html":[2,0,0,0,3,1,4],
+"MarkSplashParticles_8cs.html":[2,0,0,0,5,1,0,0],
 "MarqueeText_8cs.html":[2,0,0,0,9,1,6],
 "MenuTypingLock_8cs.html":[2,0,0,0,9,2,0],
 "MeshUtil_8cs.html":[2,0,0,0,8,2,4],
@@ -141,7 +142,7 @@ var NAVTREEINDEX0 =
 "RatingLabel_8cs.html":[2,0,0,0,4,7],
 "RatingService_8cs.html":[2,0,0,0,4,8],
 "ResultCarouselController_8cs.html":[2,0,0,0,5,1,2],
-"ResultScreenController_8cs.html":[2,0,0,0,5,1,0,0],
+"ResultScreenController_8cs.html":[2,0,0,0,5,1,0,1],
 "ResultsUI_8cs.html":[2,0,0,0,5,1,3],
 "SampleCarouselController_8cs.html":[2,0,0,0,9,6],
 "SaveIdentity_8cs.html":[2,0,0,0,4,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX0 =
 "classBulletNote.html#a55e17c21d33cbb94cd31785ac808485f":[1,0,9,24],
 "classBulletNote.html#a6426b55b1609182805ac7509628af378":[1,0,9,17],
 "classBulletNote.html#a680d3a1b3f51c293bef019dcf5adf1f0":[1,0,9,14],
-"classBulletNote.html#a7875e856832cc9b6ad01b6644200487e":[1,0,9,5],
-"classBulletNote.html#a7c00e3d3ae87a25e49cd45732d56d10b":[1,0,9,18]
+"classBulletNote.html#a7875e856832cc9b6ad01b6644200487e":[1,0,9,5]
 };

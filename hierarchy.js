@@ -197,6 +197,7 @@ var hierarchy =
     [ "BulletPlacement.Triplet", "structBulletPlacement_1_1Triplet.html", null ],
     [ "ParrythmInputActions.UIActions", "classParrythmInputActions_1_1UIActions.html", null ],
     [ "VisualElement", null, [
+      [ "MarkSplashParticles", "classMarkSplashParticles.html", null ],
       [ "MiniMapView", "classMiniMapView.html", null ],
       [ "NumField", "classNumField.html", null ],
       [ "PreviewView", "classPreviewView.html", null ],

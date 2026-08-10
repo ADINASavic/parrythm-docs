@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"classChartEditorSong.html#ac0006b4ff658a2740d494da770318ff6":[1,0,26,8],
 "classChartEditorSong.html#ad8db6a5384e7b9e1cc17779e04b0a0ae":[1,0,26,0],
 "classChartEditorTime.html":[1,0,27],
 "classChartEditorTime.html#a2e6ceae38b0e560c9f1502cecc8ef2e9":[1,0,27,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX2 =
 "classGameSettingsSaveService.html#a20eaef03d18100e44bf44b8dccab4fad":[1,0,52,3],
 "classGameSettingsSaveService.html#a6cbc4300113aa828dad5c3cb0defd045":[1,0,52,0],
 "classGameSettingsSaveService.html#a73266c7e92f3734187cc6daee965ec94":[1,0,52,7],
-"classGameSettingsSaveService.html#a9b4d028c2ec06272295f7bfef86610d0":[1,0,52,9],
-"classGameSettingsSaveService.html#a9d81a8a8c24d0ffc9fc032a3698fe1b2":[1,0,52,4]
+"classGameSettingsSaveService.html#a9b4d028c2ec06272295f7bfef86610d0":[1,0,52,9]
 };

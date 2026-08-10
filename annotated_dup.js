@@ -101,6 +101,7 @@ var annotated_dup =
     [ "LocalScoreSaveService", "classLocalScoreSaveService.html", "classLocalScoreSaveService" ],
     [ "LocalSettingsSaveStorage", "classLocalSettingsSaveStorage.html", "classLocalSettingsSaveStorage" ],
     [ "LongNoteHandler", "classLongNoteHandler.html", "classLongNoteHandler" ],
+    [ "MarkSplashParticles", "classMarkSplashParticles.html", "classMarkSplashParticles" ],
     [ "MarqueeText", "classMarqueeText.html", "classMarqueeText" ],
     [ "MenuTypingLock", "classMenuTypingLock.html", "classMenuTypingLock" ],
     [ "MeshUtil", "classMeshUtil.html", "classMeshUtil" ],
