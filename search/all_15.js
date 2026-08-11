@@ -3,7 +3,7 @@ var searchData=
   ['valid_0',['valid',['../structBulletPlacement_1_1Triplet.html#a9005a18ee7faaba04aa5956ee74e976c',1,'BulletPlacement::Triplet']]],
   ['value_1',['Value',['../classNumField.html#a1fd066f1d176142e5da956f747809ba4',1,'NumField']]],
   ['valuechanged_2',['ValueChanged',['../classNumField.html#a001221a1cd76ff62c11d1873710b2d5c',1,'NumField']]],
-  ['video_3',['video',['../classBackgroundVideoSync.html#a1e11a60b2ad2ea3312b3e31446e06f63',1,'BackgroundVideoSync.video'],['../classFmodMusicControllerLegacy.html#ac7145b7b0bfba747415411e56fa55f3a',1,'FmodMusicControllerLegacy.video'],['../classUnityMusicController.html#ace6168d618fa0dde7a25af1df09ea64e',1,'UnityMusicController.video']]],
+  ['video_3',['video',['../classFmodMusicControllerLegacy.html#ac7145b7b0bfba747415411e56fa55f3a',1,'FmodMusicControllerLegacy.video'],['../classUnityMusicController.html#ace6168d618fa0dde7a25af1df09ea64e',1,'UnityMusicController.video']]],
   ['viewend_4',['viewend',['../classMiniMapView.html#ad3ad1f54d111e6b0673398750f5c343b',1,'MiniMapView.ViewEnd'],['../classWaveformView.html#af50bf3600eea00b21ced36df283210c8',1,'WaveformView.ViewEnd']]],
   ['viewstart_5',['viewstart',['../classMiniMapView.html#a92595138333d7fa29389f74b556bce76',1,'MiniMapView.ViewStart'],['../classWaveformView.html#a727d73e33d1bd9d3c5d6d69e5dc3e27a',1,'WaveformView.ViewStart']]],
   ['virtualpointer_6',['VirtualPointer',['../classParrythmInputRuntime.html#aa5efbf19ecc6aa2767d4a1cfc7c6193f',1,'ParrythmInputRuntime']]],

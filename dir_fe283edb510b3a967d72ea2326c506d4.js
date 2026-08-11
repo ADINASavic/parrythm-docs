@@ -1,5 +1,6 @@
 var dir_fe283edb510b3a967d72ea2326c506d4 =
 [
+    [ "AudioVolume.cs", "AudioVolume_8cs.html", "AudioVolume_8cs" ],
     [ "NoteSettings.cs", "NoteSettings_8cs.html", "NoteSettings_8cs" ],
     [ "NoteSettingsDefaultsProvider.cs", "NoteSettingsDefaultsProvider_8cs.html", "NoteSettingsDefaultsProvider_8cs" ],
     [ "NoteSettingsIO.cs", "NoteSettingsIO_8cs.html", "NoteSettingsIO_8cs" ],

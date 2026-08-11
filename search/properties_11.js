@@ -8,8 +8,9 @@ var searchData=
   ['selectionend_5',['SelectionEnd',['../classWaveformView.html#a8896c6c629fe2a3f0828f0e2ec5be15f',1,'WaveformView']]],
   ['selectionstart_6',['SelectionStart',['../classWaveformView.html#ac2ee2bdce6bce30782e43f937ac5bf03',1,'WaveformView']]],
   ['settingscardservice_7',['SettingsCardService',['../classSettingsPage.html#ab2524ec2e494cc6601b13d274e84039a',1,'SettingsPage']]],
-  ['slowcount_8',['SlowCount',['../classJudge.html#a6328cd087ca083d3f0f5642f2b77d566',1,'Judge']]],
-  ['sorty_9',['SortY',['../classParrythmInputActions_1_1OutgameMenuActions.html#a825bc337f6d1729de2c1f09804fb179a',1,'ParrythmInputActions::OutgameMenuActions']]],
-  ['startsize_10',['StartSize',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a27fba72f5e5542926a964ccc091a46e0',1,'Notes::Square::SquareNoteTimeline']]],
-  ['submit_11',['Submit',['../classParrythmInputActions_1_1UIActions.html#a603b7ac583c0d75ade68537899cf1fc7',1,'ParrythmInputActions::UIActions']]]
+  ['sfx_8',['Sfx',['../classAudioVolume.html#a7dd465b7979893e9c64aea825cc382c9',1,'AudioVolume']]],
+  ['slowcount_9',['SlowCount',['../classJudge.html#a6328cd087ca083d3f0f5642f2b77d566',1,'Judge']]],
+  ['sorty_10',['SortY',['../classParrythmInputActions_1_1OutgameMenuActions.html#a825bc337f6d1729de2c1f09804fb179a',1,'ParrythmInputActions::OutgameMenuActions']]],
+  ['startsize_11',['StartSize',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a27fba72f5e5542926a964ccc091a46e0',1,'Notes::Square::SquareNoteTimeline']]],
+  ['submit_12',['Submit',['../classParrythmInputActions_1_1UIActions.html#a603b7ac583c0d75ade68537899cf1fc7',1,'ParrythmInputActions::UIActions']]]
 ];

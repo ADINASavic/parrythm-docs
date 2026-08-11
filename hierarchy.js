@@ -2,6 +2,7 @@ var hierarchy =
 [
     [ "AchievementService", "classAchievementService.html", null ],
     [ "AppDataPaths", "classAppDataPaths.html", null ],
+    [ "AudioVolume", "classAudioVolume.html", null ],
     [ "ChartEditorTime.BarInfo", "structChartEditorTime_1_1BarInfo.html", null ],
     [ "BulletPlacement", "classBulletPlacement.html", null ],
     [ "ChartEditorDocument", "classChartEditorDocument.html", null ],
@@ -91,7 +92,6 @@ var hierarchy =
       [ "AnimatedCharacterPicker", "classAnimatedCharacterPicker.html", null ],
       [ "ApproachCircleVisual", "classApproachCircleVisual.html", null ],
       [ "AutoPlayController", "classAutoPlayController.html", null ],
-      [ "BackgroundVideoSync", "classBackgroundVideoSync.html", null ],
       [ "BattleAnimationReaction", "classBattleAnimationReaction.html", null ],
       [ "BulletNote", "classBulletNote.html", null ],
       [ "ButtonPlayerProfile", "classButtonPlayerProfile.html", null ],
@@ -192,6 +192,7 @@ var hierarchy =
     [ "SongMeta", "classSongMeta.html", null ],
     [ "SongScanner", "classSongScanner.html", null ],
     [ "SpecialBulletPattern", "classSpecialBulletPattern.html", null ],
+    [ "StageBackground", "classStageBackground.html", null ],
     [ "LevelChartData.TempoPoint", "classLevelChartData_1_1TempoPoint.html", null ],
     [ "LevelChartData.TimeSigPoint", "classLevelChartData_1_1TimeSigPoint.html", null ],
     [ "BulletPlacement.Triplet", "structBulletPlacement_1_1Triplet.html", null ],

@@ -3,7 +3,7 @@ var searchData=
   ['add_0',['Add',['../classChartEditorDocument.html#a3d441820157788e4c27b839b053f70a5',1,'ChartEditorDocument']]],
   ['addpoint_1',['AddPoint',['../classUITrailGraphic.html#acf541b25d96c2c1052e0e0bfc503c260',1,'UITrailGraphic']]],
   ['addrange_2',['AddRange',['../classChartEditorDocument.html#ade94cbc033e475261a75a0cbcdf0ba60',1,'ChartEditorDocument']]],
-  ['apply_3',['Apply',['../classTimingAccuracyPanel.html#a5684daa0931ffad07a36d6dfdefd8155',1,'TimingAccuracyPanel']]],
+  ['apply_3',['apply',['../classTimingAccuracyPanel.html#a5684daa0931ffad07a36d6dfdefd8155',1,'TimingAccuracyPanel.Apply()'],['../classStageBackground.html#ae3302f163a7aa898b3d5cdb59d6130b8',1,'StageBackground.Apply()'],['../classAudioVolume.html#ac177c6ed4d032ab4c5ce835a88862145',1,'AudioVolume.Apply()']]],
   ['applybasecolors_4',['ApplyBaseColors',['../classNotes_1_1Square_1_1SquareVisualBase.html#ac4f3690c3bde325030768867755acf79',1,'Notes::Square::SquareVisualBase']]],
   ['applybulletmiss_5',['ApplyBulletMiss',['../classJudge.html#aeb8f8e5005151d60297ac7481ff19826',1,'Judge']]],
   ['applybulletperfect_6',['ApplyBulletPerfect',['../classJudge.html#aa5b8edd89f89abe73579ddfcd63ebee0',1,'Judge']]],

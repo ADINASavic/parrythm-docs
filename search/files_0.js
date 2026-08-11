@@ -5,5 +5,6 @@ var searchData=
   ['animatedcharacterpicker_2ecs_2',['AnimatedCharacterPicker.cs',['../AnimatedCharacterPicker_8cs.html',1,'']]],
   ['appdatapaths_2ecs_3',['AppDataPaths.cs',['../AppDataPaths_8cs.html',1,'']]],
   ['approachcirclevisual_2ecs_4',['ApproachCircleVisual.cs',['../ApproachCircleVisual_8cs.html',1,'']]],
-  ['autoplaycontroller_2ecs_5',['AutoPlayController.cs',['../AutoPlayController_8cs.html',1,'']]]
+  ['audiovolume_2ecs_5',['AudioVolume.cs',['../AudioVolume_8cs.html',1,'']]],
+  ['autoplaycontroller_2ecs_6',['AutoPlayController.cs',['../AutoPlayController_8cs.html',1,'']]]
 ];

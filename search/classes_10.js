@@ -31,6 +31,7 @@ var searchData=
   ['squarevisuallong_28',['SquareVisualLong',['../classNotes_1_1Square_1_1SquareVisualLong.html',1,'Notes::Square']]],
   ['squarevisualnormal_29',['SquareVisualNormal',['../classNotes_1_1Square_1_1SquareVisualNormal.html',1,'Notes::Square']]],
   ['squarevisualtrail_30',['SquareVisualTrail',['../classNotes_1_1Square_1_1SquareVisualTrail.html',1,'Notes::Square']]],
-  ['stateoverridehandle_31',['StateOverrideHandle',['../classParrythmInputRuntime_1_1StateOverrideHandle.html',1,'ParrythmInputRuntime']]],
-  ['styleeventhandler_32',['StyleEventHandler',['../classStyleEventHandler.html',1,'']]]
+  ['stagebackground_31',['StageBackground',['../classStageBackground.html',1,'']]],
+  ['stateoverridehandle_32',['StateOverrideHandle',['../classParrythmInputRuntime_1_1StateOverrideHandle.html',1,'ParrythmInputRuntime']]],
+  ['styleeventhandler_33',['StyleEventHandler',['../classStyleEventHandler.html',1,'']]]
 ];

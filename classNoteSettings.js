@@ -1,6 +1,7 @@
 var classNoteSettings =
 [
     [ "bgaDark", "classNoteSettings.html#a240e37f8b3d758a27b2eb3f7256edfc2", null ],
+    [ "bgmVolume", "classNoteSettings.html#a749bc74dd08a233c4738e9536acf4932", null ],
     [ "circleAppearLead", "classNoteSettings.html#adee68791f7db4cc813e124c6a4f1ae39", null ],
     [ "circleFillColor", "classNoteSettings.html#a114dddc42eb76c5e7179954f9e806199", null ],
     [ "circleGlowColor", "classNoteSettings.html#a826a86c985d2fc614c60f66f27fb8994", null ],
@@ -54,7 +55,7 @@ var classNoteSettings =
     [ "longStartColor", "classNoteSettings.html#a41998c32756669592d3c22a2aad6dabd", null ],
     [ "mouseSensitivity", "classNoteSettings.html#a9e62f4658f19a360eaeca46ec990abf8", null ],
     [ "mouseUseSensitivity", "classNoteSettings.html#a27c2535359cb02758d80829c6082c283", null ],
-    [ "perfectSfxVolume", "classNoteSettings.html#afe771d284fc8f7151472f2d5b8b7b7e1", null ],
+    [ "sfxVolume", "classNoteSettings.html#a0600f228311f44ffba43c4ff9326173a", null ],
     [ "simultaneousNoteAccentColor", "classNoteSettings.html#a619150076f0246d4d2242a7a04a37966", null ],
     [ "simultaneousNoteAccentEnabled", "classNoteSettings.html#a81e31616be366ffa50f60c42d94bd0d8", null ],
     [ "simultaneousNoteToleranceMs", "classNoteSettings.html#afba03017a1ffc5b7c5c715f864893a84", null ],

@@ -1,0 +1,13 @@
+<map id="그래픽컬한 클래스 계통도" name="그래픽컬한 클래스 계통도">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,104,121,129"/>
+<area shape="rect" id="Node000001" href="$classMarkSplashParticles.html" title="FC/AP 스플래시의 터짐. UITK엔 파티클이 없어서 generateVisualContent로 직접 그림 — ChartEditor의 MiniMapView/WaveformView와 ..." alt="" coords="169,5,323,31"/>
+<area shape="poly" id="edge92_Node000000_Node000001" title=" " alt="" coords="89,93,125,66,168,40,196,28,198,33,171,44,128,70,92,97"/>
+<area shape="rect" id="Node000002" href="$classMiniMapView.html" title="곡 전체를 한 줄로 보여주는 개요 막대. 웹 에디터의 waveMini에 해당함. 노트 밀도와 지금 보고 있는 구간을 표시하고, 클릭하면 그 시각으로 이동함." alt="" coords="191,55,301,80"/>
+<area shape="poly" id="edge93_Node000000_Node000002" title=" " alt="" coords="123,98,197,78,199,83,125,103"/>
+<area shape="rect" id="Node000003" href="$classNumField.html" title="숫자 입력. FloatField 대신 TextField로 직접 만들어서 표기(소수 3자리)와 커밋 시점을 웹 에디터와 맞춤. 편집 중에는 값을 덮어쓰지 않음 — 타이핑 도중 커서가 ..." alt="" coords="204,104,288,129"/>
+<area shape="poly" id="edge94_Node000000_Node000003" title=" " alt="" coords="135,114,203,114,203,119,135,119"/>
+<area shape="rect" id="Node000004" href="$classPreviewView.html" title="1920x1080 절대좌표 프리뷰. 웹 에디터의 #view 캔버스를 그대로 옮긴 것. 현재 커서 시각의 인게임 모습을 그리고, 클릭으로 노트를 놓는 면이기도 함." alt="" coords="193,153,299,179"/>
+<area shape="poly" id="edge95_Node000000_Node000004" title=" " alt="" coords="125,130,199,151,197,156,123,135"/>
+<area shape="rect" id="Node000005" href="$classWaveformView.html" title="파형 + 비트 그리드 + 노트 블록. 웹 에디터의 #wave 캔버스를 옮긴 것. 클릭으로 시킹, 드래그로 패닝, Shift+드래그로 구간 선택, Ctrl+휠로 줌." alt="" coords="185,203,307,228"/>
+<area shape="poly" id="edge96_Node000000_Node000005" title=" " alt="" coords="92,136,128,162,171,188,201,200,199,205,168,192,125,167,89,140"/>
+</map>

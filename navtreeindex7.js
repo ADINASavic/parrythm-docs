@@ -1,7 +1,5 @@
 var NAVTREEINDEX7 =
 {
-"classResultsUI.html#ac13b1d6225cac2669eb26e08356ec390":[1,0,119,8],
-"classResultsUI.html#ac1a3d7aacfd8edafe14ddf337fc63376":[1,0,119,17],
 "classResultsUI.html#ace45bd95a4c2b2e3e244cdba5ee12072":[1,0,119,6],
 "classResultsUI.html#af62fd61a3015fb8f54d2de650cc85812":[1,0,119,20],
 "classSampleCarouselController.html":[1,0,120],
@@ -249,5 +247,7 @@ var NAVTREEINDEX7 =
 "classSpecialBulletPattern.html#a16217c4c033c7293ec4614a741430768":[1,0,142,3],
 "classSpecialBulletPattern.html#a1e963ae9e6cd6a4959cd5ae9693639eb":[1,0,142,19],
 "classSpecialBulletPattern.html#a21af05ce054e5665132ebe81a2ccc734":[1,0,142,7],
-"classSpecialBulletPattern.html#a29c8f2ddd57696fffe9d9608ac6b7c1d":[1,0,142,2]
+"classSpecialBulletPattern.html#a29c8f2ddd57696fffe9d9608ac6b7c1d":[1,0,142,2],
+"classSpecialBulletPattern.html#a2c1dee49f1dac2b5b665547de3d08350":[1,0,142,16],
+"classSpecialBulletPattern.html#a37444e73d14aca408a03954d5384d95f":[1,0,142,10]
 };
