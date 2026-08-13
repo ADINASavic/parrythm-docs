@@ -15,6 +15,6 @@ var searchData=
   ['judgetextanimator_12',['judgeTextAnimator',['../classJudge.html#a77e70e0bd7e595a2b272714566a4b436',1,'Judge']]],
   ['judgetime_13',['judgetime',['../classCircleNote.html#a84d79ff3ca0da85b258354b407e8ac3d',1,'CircleNote.judgeTime'],['../structCircleNoteInit.html#aab19e299e62780a0d27bcea3818ad5d8',1,'CircleNoteInit.judgeTime'],['../classLevelChartData_1_1NoteEvent.html#a3638c5fe50d01aacd69681c361376cd7',1,'LevelChartData.NoteEvent.judgeTime']]],
   ['judgetimeoffsetinput_14',['judgeTimeOffsetInput',['../classSettingsCardOffset.html#a195f91dda0239664bfd375483268c2d4',1,'SettingsCardOffset']]],
-  ['judgetimeoffsetms_15',['judgeTimeOffsetMs',['../classNoteSettings.html#a2ea3a40a6339bf206c34ce7e011c3741',1,'NoteSettings']]],
+  ['judgetimeoffsetms_15',['judgetimeoffsetms',['../classNoteSettings.html#a2ea3a40a6339bf206c34ce7e011c3741',1,'NoteSettings.judgeTimeOffsetMs'],['../classPlayerSettings.html#aba41e57d876dcd670236507d6e2ccd66',1,'PlayerSettings.judgeTimeOffsetMs']]],
   ['judgetimeoffsetslider_16',['judgeTimeOffsetSlider',['../classSettingsCardOffset.html#ac8cbfb51bbfd1b97faf672ad9fe0057f',1,'SettingsCardOffset']]]
 ];
