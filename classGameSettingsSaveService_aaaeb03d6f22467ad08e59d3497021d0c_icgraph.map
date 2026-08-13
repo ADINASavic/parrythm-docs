@@ -1,54 +1,50 @@
 <map id="GameSettingsSaveService.Initialize" name="GameSettingsSaveService.Initialize">
-<area shape="rect" id="Node000001" title=" " alt="" coords="1633,165,1832,205"/>
-<area shape="rect" id="Node000002" href="$classGameSettingsSaveService.html#a6cbc4300113aa828dad5c3cb0defd045" title=" " alt="" coords="1385,30,1584,70"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1694,158,1643,122,1584,87,1551,73,1553,68,1587,82,1646,118,1697,154"/>
-<area shape="rect" id="Node000014" href="$classGameSettingsSaveService.html#a20eaef03d18100e44bf44b8dccab4fad" title=" " alt="" coords="1385,97,1585,137"/>
-<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1645,164,1557,139,1559,134,1647,158"/>
-<area shape="rect" id="Node000016" href="$classGameSettingsSaveService.html#a9d81a8a8c24d0ffc9fc032a3698fe1b2" title=" " alt="" coords="1385,165,1584,205"/>
-<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="1620,187,1584,187,1584,182,1620,182"/>
-<area shape="rect" id="Node000023" href="$classGameSettingsSaveService.html#ae94bb25dc3ce66050e420d46781e6af2" title=" " alt="" coords="1384,302,1585,342"/>
-<area shape="poly" id="edge23_Node000001_Node000023" title=" " alt="" coords="1695,215,1644,249,1587,283,1541,304,1538,299,1584,278,1641,244,1692,210"/>
-<area shape="rect" id="Node000025" href="$classGameSettingsSaveService.html#a73266c7e92f3734187cc6daee965ec94" title=" " alt="" coords="1385,229,1584,269"/>
-<area shape="poly" id="edge25_Node000001_Node000025" title=" " alt="" coords="1642,211,1563,231,1562,226,1641,206"/>
-<area shape="rect" id="Node000003" href="$classNoteSettingsPatchRepository.html#ad4728f3df9212db724bca5bc64536eb0" title="Deletes the stored note&#45;settings patch JSON." alt="" coords="1098,27,1311,67"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1372,52,1312,51,1312,46,1372,46"/>
-<area shape="rect" id="Node000004" href="$classNoteSettingsIO.html#a1cbbeced8aee7b33b168d1e64fc19beb" title="Deletes the saved note&#45;settings patch and restores default behavior." alt="" coords="811,27,1009,67"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1084,50,1010,50,1010,45,1084,45"/>
-<area shape="rect" id="Node000005" href="$classNoteSettingsIO.html#ab61b9ef5a846cd96c8955a99e67fd64b" title="Returns runtime note settings by applying the saved patch onto the defaults." alt="" coords="795,95,1025,120"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="1093,73,974,97,973,92,1092,68"/>
-<area shape="rect" id="Node000006" href="$classAudioVolume.html#ac177c6ed4d032ab4c5ce835a88862145" title=" " alt="" coords="561,5,710,31"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="824,93,793,82,779,73,769,63,759,54,746,46,709,33,711,28,748,41,763,50,773,59,782,68,796,77,826,88"/>
-<area shape="rect" id="Node000007" href="$classSettingsCardService.html#a7206a39390d875b4630721b26c4e6a20" title=" " alt="" coords="541,55,729,95"/>
-<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="787,96,729,89,730,84,788,90"/>
-<area shape="rect" id="Node000008" href="$classAchievementService.html#aec043ccc8e0c9bb9926340c27f1cd702" title=" " alt="" coords="532,119,739,159"/>
-<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="788,124,739,130,738,125,787,119"/>
-<area shape="rect" id="Node000012" href="$classParrythmVirtualPointer.html#a5321056429496fa487ba584ac7e68fef" title=" " alt="" coords="524,183,747,223"/>
-<area shape="poly" id="edge11_Node000005_Node000012" title=" " alt="" coords="830,126,796,139,772,156,748,174,719,186,717,181,745,169,769,152,793,134,828,121"/>
-<area shape="rect" id="Node000009" href="$classResultsUI.html#a0600888a4ba89f6b0029a630af47cfdd" title=" " alt="" coords="286,135,449,160"/>
-<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="518,145,449,148,449,142,518,140"/>
-<area shape="rect" id="Node000010" href="$classResultScreenController.html#ac885d36206adfeb4ab8e5ad00d786d15" title=" " alt="" coords="263,70,472,110"/>
-<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="518,120,472,112,473,107,519,115"/>
-<area shape="rect" id="Node000011" href="$classChartEndWatcher.html#a86c9c6b91e78f3e73494e3120dfa9c0b" title=" " alt="" coords="5,77,211,103"/>
-<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="249,93,211,93,211,87,249,87"/>
-<area shape="rect" id="Node000013" href="$classParrythmVirtualPointer.html#a0c7dc2a9e6ccd3d6581c60daf0beb0b3" title=" " alt="" coords="259,191,476,216"/>
-<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="510,206,476,206,476,201,510,201"/>
-<area shape="rect" id="Node000015" href="$classNoteSettingsPatchRepository.html#a3250724000a91c2b2c26bde28947094a" title="Loads the stored note&#45;settings patch JSON, or null when none exists." alt="" coords="1098,91,1311,131"/>
-<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="1371,117,1311,116,1312,111,1371,112"/>
-<area shape="poly" id="edge15_Node000015_Node000005" title=" " alt="" coords="1085,112,1025,112,1026,106,1085,107"/>
-<area shape="rect" id="Node000017" href="$classLocalLeaderboardSaveService.html#a4b80614c4514f9ea6ded7ed72640dab4" title=" " alt="" coords="1094,155,1315,195"/>
-<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="1372,184,1315,182,1315,176,1372,178"/>
-<area shape="rect" id="Node000018" href="$classPlayerNameSettings.html#a92788555e53866f9db87635413167d50" title=" " alt="" coords="1073,220,1336,245"/>
-<area shape="poly" id="edge18_Node000016_Node000018" title=" " alt="" coords="1372,207,1280,223,1279,217,1372,201"/>
-<area shape="rect" id="Node000021" href="$classPlayerNameSettings.html#a2bef7d99e9e3974412b666489f2cab6f" title=" " alt="" coords="1075,269,1335,295"/>
-<area shape="poly" id="edge21_Node000016_Node000021" title=" " alt="" coords="1399,212,1385,219,1372,229,1362,239,1352,249,1337,259,1302,272,1300,267,1335,254,1349,245,1358,235,1368,225,1383,214,1396,208"/>
-<area shape="rect" id="Node000019" href="$classTitleScreenController.html#afec1ca60418a1ddf4d00c4f7a93c79fd" title=" " alt="" coords="804,213,1016,253"/>
-<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="1060,235,1016,235,1016,230,1060,230"/>
-<area shape="rect" id="Node000020" href="$classSettingsCardPlayerSettings.html#ab46c4d2ea964b03258f7706f01c183a4" title=" " alt="" coords="798,149,1022,189"/>
-<area shape="poly" id="edge20_Node000018_Node000020" title=" " alt="" coords="1121,220,1073,210,992,191,993,186,1074,205,1123,215"/>
-<area shape="rect" id="Node000022" href="$classPlayerNameSettings.html#a182bc461df04cf079b41113de76283a6" title=" " alt="" coords="812,277,1008,317"/>
-<area shape="poly" id="edge22_Node000021_Node000022" title=" " alt="" coords="1061,292,1009,294,1008,289,1061,286"/>
-<area shape="rect" id="Node000024" href="$classNoteSettingsPatchRepository.html#ad5e25e6850abeb8274ac8fb246ab051b" title="Saves the raw note&#45;settings patch JSON." alt="" coords="1098,319,1311,359"/>
-<area shape="poly" id="edge24_Node000023_Node000024" title=" " alt="" coords="1371,332,1312,335,1312,330,1370,326"/>
-<area shape="poly" id="edge26_Node000025_Node000018" title=" " alt="" coords="1371,245,1336,243,1336,238,1372,240"/>
-<area shape="poly" id="edge27_Node000025_Node000021" title=" " alt="" coords="1372,265,1312,272,1311,267,1371,259"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="1633,143,1832,183"/>
+<area shape="rect" id="Node000002" href="$classGameSettingsSaveService.html#a6cbc4300113aa828dad5c3cb0defd045" title=" " alt="" coords="1385,8,1584,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1694,136,1643,100,1584,65,1551,51,1553,46,1587,60,1646,96,1697,132"/>
+<area shape="rect" id="Node000013" href="$classGameSettingsSaveService.html#a20eaef03d18100e44bf44b8dccab4fad" title=" " alt="" coords="1385,75,1585,115"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1645,142,1557,117,1559,112,1647,136"/>
+<area shape="rect" id="Node000015" href="$classGameSettingsSaveService.html#a9d81a8a8c24d0ffc9fc032a3698fe1b2" title=" " alt="" coords="1385,143,1584,183"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="1620,165,1584,165,1584,160,1620,160"/>
+<area shape="rect" id="Node000021" href="$classGameSettingsSaveService.html#ae94bb25dc3ce66050e420d46781e6af2" title=" " alt="" coords="1384,280,1585,320"/>
+<area shape="poly" id="edge21_Node000001_Node000021" title=" " alt="" coords="1695,193,1644,227,1587,261,1541,282,1538,277,1584,256,1641,222,1692,188"/>
+<area shape="rect" id="Node000023" href="$classGameSettingsSaveService.html#a73266c7e92f3734187cc6daee965ec94" title=" " alt="" coords="1385,207,1584,247"/>
+<area shape="poly" id="edge23_Node000001_Node000023" title=" " alt="" coords="1642,189,1563,209,1562,204,1641,184"/>
+<area shape="rect" id="Node000003" href="$classNoteSettingsPatchRepository.html#ad4728f3df9212db724bca5bc64536eb0" title="Deletes the stored note&#45;settings patch JSON." alt="" coords="1098,5,1311,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1372,30,1312,29,1312,24,1372,24"/>
+<area shape="rect" id="Node000004" href="$classNoteSettingsIO.html#a1cbbeced8aee7b33b168d1e64fc19beb" title="Deletes the saved note&#45;settings patch and restores default behavior." alt="" coords="811,5,1009,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1084,28,1010,28,1010,23,1084,23"/>
+<area shape="rect" id="Node000005" href="$classNoteSettingsIO.html#ab61b9ef5a846cd96c8955a99e67fd64b" title="Returns runtime note settings by applying the saved patch onto the defaults." alt="" coords="795,74,1025,99"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="1095,51,972,77,971,71,1094,46"/>
+<area shape="rect" id="Node000006" href="$classAudioVolume.html#ac177c6ed4d032ab4c5ce835a88862145" title=" " alt="" coords="561,17,710,42"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="835,74,696,45,697,39,836,69"/>
+<area shape="rect" id="Node000007" href="$classAchievementService.html#aec043ccc8e0c9bb9926340c27f1cd702" title=" " alt="" coords="532,67,739,107"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="781,89,739,89,739,84,781,84"/>
+<area shape="rect" id="Node000011" href="$classParrythmVirtualPointer.html#a5321056429496fa487ba584ac7e68fef" title=" " alt="" coords="524,131,747,171"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="842,105,723,133,721,128,840,100"/>
+<area shape="rect" id="Node000008" href="$classResultsUI.html#a0600888a4ba89f6b0029a630af47cfdd" title=" " alt="" coords="286,82,449,107"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="518,93,449,95,449,90,518,87"/>
+<area shape="rect" id="Node000009" href="$classResultScreenController.html#ac885d36206adfeb4ab8e5ad00d786d15" title=" " alt="" coords="263,17,472,57"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="518,68,472,59,473,54,519,63"/>
+<area shape="rect" id="Node000010" href="$classChartEndWatcher.html#a86c9c6b91e78f3e73494e3120dfa9c0b" title=" " alt="" coords="5,25,211,50"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="249,40,211,40,211,35,249,35"/>
+<area shape="rect" id="Node000012" href="$classParrythmVirtualPointer.html#a0c7dc2a9e6ccd3d6581c60daf0beb0b3" title=" " alt="" coords="259,138,476,163"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="510,153,476,153,476,148,510,148"/>
+<area shape="rect" id="Node000014" href="$classNoteSettingsPatchRepository.html#a3250724000a91c2b2c26bde28947094a" title="Loads the stored note&#45;settings patch JSON, or null when none exists." alt="" coords="1098,69,1311,109"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="1371,95,1311,94,1312,89,1371,90"/>
+<area shape="poly" id="edge14_Node000014_Node000005" title=" " alt="" coords="1085,91,1025,90,1026,85,1085,86"/>
+<area shape="rect" id="Node000016" href="$classLocalLeaderboardSaveService.html#a4b80614c4514f9ea6ded7ed72640dab4" title=" " alt="" coords="1094,133,1315,173"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="1372,162,1315,160,1315,154,1372,156"/>
+<area shape="rect" id="Node000017" href="$classPlayerNameSettings.html#a92788555e53866f9db87635413167d50" title=" " alt="" coords="1073,198,1336,223"/>
+<area shape="poly" id="edge17_Node000015_Node000017" title=" " alt="" coords="1372,185,1280,201,1279,195,1372,179"/>
+<area shape="rect" id="Node000019" href="$classPlayerNameSettings.html#a2bef7d99e9e3974412b666489f2cab6f" title=" " alt="" coords="1075,247,1335,273"/>
+<area shape="poly" id="edge19_Node000015_Node000019" title=" " alt="" coords="1399,190,1385,197,1372,207,1362,217,1352,227,1337,237,1302,250,1300,245,1335,232,1349,223,1358,213,1368,203,1383,192,1396,186"/>
+<area shape="rect" id="Node000018" href="$classTitleScreenController.html#afec1ca60418a1ddf4d00c4f7a93c79fd" title=" " alt="" coords="804,184,1016,224"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="1060,210,1016,209,1016,204,1060,205"/>
+<area shape="rect" id="Node000020" href="$classPlayerNameSettings.html#a182bc461df04cf079b41113de76283a6" title=" " alt="" coords="812,248,1008,288"/>
+<area shape="poly" id="edge20_Node000019_Node000020" title=" " alt="" coords="1061,267,1009,268,1008,263,1061,261"/>
+<area shape="rect" id="Node000022" href="$classNoteSettingsPatchRepository.html#ad5e25e6850abeb8274ac8fb246ab051b" title="Saves the raw note&#45;settings patch JSON." alt="" coords="1098,297,1311,337"/>
+<area shape="poly" id="edge22_Node000021_Node000022" title=" " alt="" coords="1371,310,1312,313,1312,308,1370,304"/>
+<area shape="poly" id="edge24_Node000023_Node000017" title=" " alt="" coords="1371,223,1336,221,1336,216,1372,218"/>
+<area shape="poly" id="edge25_Node000023_Node000019" title=" " alt="" coords="1372,243,1312,250,1311,245,1371,237"/>
 </map>

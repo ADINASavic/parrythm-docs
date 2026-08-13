@@ -8,10 +8,7 @@ var searchData=
   ['inoteeventhandler_5',['INoteEventHandler',['../interfaceINoteEventHandler.html',1,'']]],
   ['inoteinit_6',['INoteInit',['../interfaceINoteInit.html',1,'']]],
   ['inotevisual_7',['INoteVisual',['../interfaceINoteVisual.html',1,'']]],
-  ['inputfieldfocusrelay_8',['InputFieldFocusRelay',['../classInputFieldFocusRelay.html',1,'']]],
-  ['inputrouter_9',['InputRouter',['../classInputRouter.html',1,'']]],
-  ['inputtimemapper_10',['InputTimeMapper',['../classInputTimeMapper.html',1,'']]],
-  ['isettingscontroller_11',['ISettingsController',['../interfaceISettingsController.html',1,'']]],
-  ['isettingspage_12',['ISettingsPage',['../interfaceISettingsPage.html',1,'']]],
-  ['istageendtrigger_13',['IStageEndTrigger',['../interfaceIStageEndTrigger.html',1,'']]]
+  ['inputrouter_8',['InputRouter',['../classInputRouter.html',1,'']]],
+  ['inputtimemapper_9',['InputTimeMapper',['../classInputTimeMapper.html',1,'']]],
+  ['istageendtrigger_10',['IStageEndTrigger',['../interfaceIStageEndTrigger.html',1,'']]]
 ];

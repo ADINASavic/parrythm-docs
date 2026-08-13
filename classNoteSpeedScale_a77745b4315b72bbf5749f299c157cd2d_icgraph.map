@@ -1,7 +1,5 @@
 <map id="NoteSpeedScale.ToSeconds" name="NoteSpeedScale.ToSeconds">
-<area shape="rect" id="Node000001" title="Dial value (1~20) &#45;&gt; grow/appear time in seconds." alt="" coords="280,42,480,67"/>
-<area shape="rect" id="Node000002" href="$classSettingsCardPlaySettings.html#a3430d5821383a70c9c39a6a98f5de645" title=" " alt="" coords="23,5,214,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="266,45,214,39,214,33,267,39"/>
-<area shape="rect" id="Node000003" href="$classNoteSpeedScale.html#aef83880d01b04f7c4a4c728af68eff03" title="Dial value &#45;&gt; milliseconds (rounded), for the readout label." alt="" coords="5,70,232,95"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="266,69,233,73,232,68,266,64"/>
+<area shape="rect" id="Node000001" title="Dial value (1~20) &#45;&gt; grow/appear time in seconds." alt="" coords="280,5,480,31"/>
+<area shape="rect" id="Node000002" href="$classNoteSpeedScale.html#aef83880d01b04f7c4a4c728af68eff03" title="Dial value &#45;&gt; milliseconds (rounded), for the readout label." alt="" coords="5,5,232,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="266,21,232,21,232,15,266,15"/>
 </map>

@@ -10,7 +10,7 @@ var searchData=
   ['click_7',['Click',['../classParrythmInputActions_1_1UIActions.html#ae5e21205f56cf1c43cc38fa040f4d8a6',1,'ParrythmInputActions::UIActions']]],
   ['clip_8',['Clip',['../classChartEditorSong.html#a47f3dce7cb776ba17d6a5f86a48ed5bd',1,'ChartEditorSong']]],
   ['confirm_9',['confirm',['../classParrythmInputActions_1_1OutgameMenuActions.html#ad4cf1023b542230ec3b85c5757bdb049',1,'ParrythmInputActions.OutgameMenuActions.Confirm'],['../classParrythmInputActions_1_1ResultsMenuActions.html#a98831718c2d5ea6e915312ac90433137',1,'ParrythmInputActions.ResultsMenuActions.Confirm']]],
-  ['confirmaction_10',['confirmaction',['../classResultCarouselController.html#a22ea06c1b4b0bf91b2e00f49f05c9ba1',1,'ResultCarouselController.ConfirmAction'],['../classCarouselController.html#acbefa8e44de2f294645a67d2792937d2',1,'CarouselController.ConfirmAction'],['../classSettingsCarouselController.html#aa222e06c508cd5f94f9768dd745d1925',1,'SettingsCarouselController.ConfirmAction']]],
+  ['confirmaction_10',['confirmaction',['../classResultCarouselController.html#a22ea06c1b4b0bf91b2e00f49f05c9ba1',1,'ResultCarouselController.ConfirmAction'],['../classCarouselController.html#acbefa8e44de2f294645a67d2792937d2',1,'CarouselController.ConfirmAction']]],
   ['current_11',['current',['../classOutgameNavigator.html#a0febaea0fe55ab07da70c0c87e450ce5',1,'OutgameNavigator.Current'],['../classLeaderboardServiceProvider.html#ae4869a8f8f57e964b5a8fae73cf981b7',1,'LeaderboardServiceProvider.Current']]],
   ['currentcard_12',['CurrentCard',['../classCarouselController.html#ae0bcbf2f68ab0d489ccd46deb9c5a4f1',1,'CarouselController']]],
   ['currentdifficulty_13',['CurrentDifficulty',['../classChartEditorSong.html#a946b9c92d4b758347fc63eced3e988ef',1,'ChartEditorSong']]],

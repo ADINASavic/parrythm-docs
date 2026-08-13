@@ -13,15 +13,12 @@ var searchData=
   ['afterglowduration_10',['afterglowDuration',['../classNotes_1_1Square_1_1SquareVisualBase.html#af35403acaff7f90ddb261ff8a8211a4f',1,'Notes::Square::SquareVisualBase']]],
   ['aimblendspeed_11',['aimBlendSpeed',['../classAnimatedCharacterController.html#a8dfd1840c64665d7e876a90602c99f2b',1,'AnimatedCharacterController']]],
   ['alphaoverlifetime_12',['alphaOverLifetime',['../classUITrailGraphic.html#a6bed1d01c862385905de200327568310',1,'UITrailGraphic']]],
-  ['appearleadinput_13',['appearLeadInput',['../classSettingsCardPlaySettings.html#a04164eb55253e6dada40756a5f8698f3',1,'SettingsCardPlaySettings']]],
-  ['appearleadmstext_14',['appearLeadMsText',['../classSettingsCardPlaySettings.html#add35976ceb007d954a4dd4e57770e63f',1,'SettingsCardPlaySettings']]],
-  ['appearleadslider_15',['appearLeadSlider',['../classSettingsCardPlaySettings.html#ae199b625540c44ffa981fe2042853150',1,'SettingsCardPlaySettings']]],
-  ['arcdeg_16',['arcDeg',['../classSpecialBulletPattern_1_1Params.html#ab8fd687fac8ee9719b8896c96d436d80',1,'SpecialBulletPattern::Params']]],
-  ['arml_17',['armL',['../classAnimatedCharacterController.html#ab13153f46ba329ffa9d8fbcb68bc8d06',1,'AnimatedCharacterController']]],
-  ['artist_18',['artist',['../classSongMeta.html#a3e96cf528c76a56f8a97a456d0eac5da',1,'SongMeta']]],
-  ['artisttext_19',['artistText',['../classCanvasSongIntroController.html#af26b4f7bdfd866ab4f337bc3a07efb27',1,'CanvasSongIntroController']]],
-  ['audiofile_20',['audioFile',['../classSongMeta.html#a2e297c21dba3f4fc00cdbc7c69bc7bc3',1,'SongMeta']]],
-  ['audiofilepath_21',['audioFilePath',['../classUnityMusicController.html#a80db67c13d1ef1043697e3ab09b25a6a',1,'UnityMusicController']]],
-  ['autoplayonstart_22',['autoPlayOnStart',['../classChartPlayer.html#a741a76b9d0cfe2d7cecd001979f4311d',1,'ChartPlayer']]],
-  ['avgtext_23',['avgText',['../classTimingAccuracyPanel.html#af77223ee038e6293c7e0557c950acf42',1,'TimingAccuracyPanel']]]
+  ['arcdeg_13',['arcDeg',['../classSpecialBulletPattern_1_1Params.html#ab8fd687fac8ee9719b8896c96d436d80',1,'SpecialBulletPattern::Params']]],
+  ['arml_14',['armL',['../classAnimatedCharacterController.html#ab13153f46ba329ffa9d8fbcb68bc8d06',1,'AnimatedCharacterController']]],
+  ['artist_15',['artist',['../classSongMeta.html#a3e96cf528c76a56f8a97a456d0eac5da',1,'SongMeta']]],
+  ['artisttext_16',['artistText',['../classCanvasSongIntroController.html#af26b4f7bdfd866ab4f337bc3a07efb27',1,'CanvasSongIntroController']]],
+  ['audiofile_17',['audioFile',['../classSongMeta.html#a2e297c21dba3f4fc00cdbc7c69bc7bc3',1,'SongMeta']]],
+  ['audiofilepath_18',['audioFilePath',['../classUnityMusicController.html#a80db67c13d1ef1043697e3ab09b25a6a',1,'UnityMusicController']]],
+  ['autoplayonstart_19',['autoPlayOnStart',['../classChartPlayer.html#a741a76b9d0cfe2d7cecd001979f4311d',1,'ChartPlayer']]],
+  ['avgtext_20',['avgText',['../classTimingAccuracyPanel.html#af77223ee038e6293c7e0557c950acf42',1,'TimingAccuracyPanel']]]
 ];

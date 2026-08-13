@@ -15,9 +15,8 @@ var searchData=
   ['loadlocalizedsprite_12',['LoadLocalizedSprite',['../classLocalizationHelper.html#a899e400f0f9ee8d47c2c36156b00f34e',1,'LocalizationHelper']]],
   ['loadpatchjson_13',['LoadPatchJson',['../classNoteSettingsPatchRepository.html#a3250724000a91c2b2c26bde28947094a',1,'NoteSettingsPatchRepository']]],
   ['loadprofile_14',['LoadProfile',['../classGameSettingsSaveService.html#a9d81a8a8c24d0ffc9fc032a3698fe1b2',1,'GameSettingsSaveService']]],
-  ['loadsnapshot_15',['LoadSnapshot',['../classSettingsCardService.html#a7206a39390d875b4630721b26c4e6a20',1,'SettingsCardService']]],
-  ['localsettingssavestorage_16',['LocalSettingsSaveStorage',['../classLocalSettingsSaveStorage.html#a240d8e10d89c373d6e4b9e70f2f67af7',1,'LocalSettingsSaveStorage']]],
-  ['longdurationsec_17',['LongDurationSec',['../classChartEditorNotes.html#afd90f1906045f5566a407aad06d9bb26',1,'ChartEditorNotes']]],
-  ['longnotehandler_18',['LongNoteHandler',['../classLongNoteHandler.html#afd03fe857231d03ac04ff7540748ce8e',1,'LongNoteHandler']]],
-  ['longstartsec_19',['LongStartSec',['../classChartEditorNotes.html#a639f6721a5f8a71e8ac7e3af0638c8b5',1,'ChartEditorNotes']]]
+  ['localsettingssavestorage_15',['LocalSettingsSaveStorage',['../classLocalSettingsSaveStorage.html#a240d8e10d89c373d6e4b9e70f2f67af7',1,'LocalSettingsSaveStorage']]],
+  ['longdurationsec_16',['LongDurationSec',['../classChartEditorNotes.html#afd90f1906045f5566a407aad06d9bb26',1,'ChartEditorNotes']]],
+  ['longnotehandler_17',['LongNoteHandler',['../classLongNoteHandler.html#afd03fe857231d03ac04ff7540748ce8e',1,'LongNoteHandler']]],
+  ['longstartsec_18',['LongStartSec',['../classChartEditorNotes.html#a639f6721a5f8a71e8ac7e3af0638c8b5',1,'ChartEditorNotes']]]
 ];

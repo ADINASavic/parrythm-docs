@@ -1,4 +1,21 @@
 var searchData=
 [
-  ['quickspeedbutton_0',['quickSpeedButton',['../classCanvasSongSelectMenuController.html#a19db07427235b4733121c6c046de5375',1,'CanvasSongSelectMenuController']]]
+  ['radius_0',['radius',['../classBulletNote.html#a6426b55b1609182805ac7509628af378',1,'BulletNote.radius'],['../classSpecialBulletPattern_1_1Params.html#ae25923cbb6d9ada53b7bdef4f748f2ac',1,'SpecialBulletPattern.Params.radius']]],
+  ['radiusstep_1',['radiusStep',['../classSpecialBulletPattern_1_1Params.html#ab0ca7361d7fa26206478e418fa388975',1,'SpecialBulletPattern::Params']]],
+  ['rating_2',['rating',['../structRatingEntry.html#a02c14ef54ae288ab94c465dfb0377d4c',1,'RatingEntry']]],
+  ['reactonhitboss_3',['reactOnHitBoss',['../classBattleAnimationReaction.html#ae79bcc9f3a7c3e2821f03f9ce25f3b8d',1,'BattleAnimationReaction']]],
+  ['reactonreflect_4',['reactOnReflect',['../classBattleAnimationReaction.html#a907a813b18bf990e6726dfdaf767e8b9',1,'BattleAnimationReaction']]],
+  ['records_5',['records',['../classLocalLeaderboardSaveData.html#a80e245fea825e1b5b78f6042ad981cf7',1,'LocalLeaderboardSaveData.records'],['../classLocalScoreSaveData.html#a199c23ccc1bd98b25e55c75c04b24523',1,'LocalScoreSaveData.records']]],
+  ['refheight_6',['RefHeight',['../classChartEditorNotes.html#a06da2e112acd236cb682c11f32cf6064',1,'ChartEditorNotes']]],
+  ['refreshonenable_7',['refreshOnEnable',['../classRatingLabel.html#a2ab40565c9f03e14f2115664b447e505',1,'RatingLabel']]],
+  ['refwidth_8',['RefWidth',['../classChartEditorNotes.html#a5c76b5d6f777b9b06998d22ca8e8970e',1,'ChartEditorNotes']]],
+  ['resultcarousel_9',['resultCarousel',['../classResultsUI.html#aa19e39c210c361252195cbdde9a32531',1,'ResultsUI']]],
+  ['resultfade_10',['resultFade',['../classNotes_1_1Square_1_1SquareVisualLong.html#a83e6b53c5c3ed47e3035dc4338edbe57',1,'Notes::Square::SquareVisualLong']]],
+  ['resultnavigationbar_11',['resultNavigationBar',['../classResultsUI.html#ac1a3d7aacfd8edafe14ddf337fc63376',1,'ResultsUI']]],
+  ['resultsui_12',['resultsui',['../classChartEndWatcher.html#ae64e4c9ccdeaf90fffe68a7ca15d91e9',1,'ChartEndWatcher.resultsUI'],['../classGameBootstrap.html#ae755713acb6725d49e7ba92a7733b4aa',1,'GameBootstrap.resultsUI']]],
+  ['resumebutton_13',['resumeButton',['../classTextExitHoldIndicator.html#a7b56e2df48fb6e7a8ef5eae44fbb4561',1,'TextExitHoldIndicator']]],
+  ['resyncthresholdsec_14',['resyncThresholdSec',['../classUnityMusicController.html#a40eb86ff8782fc4cbe058aa7ab3dd33f',1,'UnityMusicController']]],
+  ['retrybutton_15',['retryButton',['../classTextExitHoldIndicator.html#ae3731e4fd0322034d77fe7bbc7f3055b',1,'TextExitHoldIndicator']]],
+  ['router_16',['router',['../classNoteBase.html#afe6e6bbc9b77e5c80eaaeb5c48c4a35c',1,'NoteBase']]],
+  ['rows_17',['rows',['../classGridManager.html#a7a965b828e1b175ffd9151629ea50e2a',1,'GridManager']]]
 ];

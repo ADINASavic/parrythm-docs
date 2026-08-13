@@ -15,9 +15,8 @@ var searchData=
   ['isplaying_12',['isplaying',['../classFmodMusicControllerLegacy.html#a5f16328aef14c7d6bd83c3dad6483950',1,'FmodMusicControllerLegacy.IsPlaying'],['../classUnityMusicController.html#aa2a731c0fe84696e60824951bff2570f',1,'UnityMusicController.IsPlaying']]],
   ['isprepared_13',['IsPrepared',['../classConnectionHintController.html#a911f027bdc9d5548aa0661e877dc9459',1,'ConnectionHintController']]],
   ['isready_14',['isready',['../classFmodMusicControllerLegacy.html#a78027cad956747123653574014f0643a',1,'FmodMusicControllerLegacy.IsReady'],['../classUnityMusicController.html#add151777659ada410522e0eaef62a832',1,'UnityMusicController.IsReady']]],
-  ['isrecommendationactive_15',['IsRecommendationActive',['../classButtonQuickSpeedSetting.html#ab8ff17af89c8b8c83de6cf199972f835',1,'ButtonQuickSpeedSetting']]],
-  ['isresolved_16',['IsResolved',['../classNotes_1_1Square_1_1SquareNoteJudge.html#aeedcfbde16f6afb9807538d77d2dacc3',1,'Notes::Square::SquareNoteJudge']]],
-  ['isrightbuttonpressed_17',['IsRightButtonPressed',['../classParrythmVirtualPointer.html#a9d1978c924aad7be940be540b37d9aa9',1,'ParrythmVirtualPointer']]],
-  ['issteamidentity_18',['IsSteamIdentity',['../classSaveIdentity.html#a2259c9bb617400523ea02595318e1e31',1,'SaveIdentity']]],
-  ['istrail_19',['IsTrail',['../classCircleNote.html#aebf93f5101c71e6b5817c652fa34ab02',1,'CircleNote']]]
+  ['isresolved_15',['IsResolved',['../classNotes_1_1Square_1_1SquareNoteJudge.html#aeedcfbde16f6afb9807538d77d2dacc3',1,'Notes::Square::SquareNoteJudge']]],
+  ['isrightbuttonpressed_16',['IsRightButtonPressed',['../classParrythmVirtualPointer.html#a9d1978c924aad7be940be540b37d9aa9',1,'ParrythmVirtualPointer']]],
+  ['issteamidentity_17',['IsSteamIdentity',['../classSaveIdentity.html#a2259c9bb617400523ea02595318e1e31',1,'SaveIdentity']]],
+  ['istrail_18',['IsTrail',['../classCircleNote.html#aebf93f5101c71e6b5817c652fa34ab02',1,'CircleNote']]]
 ];
