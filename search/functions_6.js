@@ -20,6 +20,6 @@ var searchData=
   ['getplayerratingtext_17',['GetPlayerRatingText',['../classRatingService.html#ae00db2d668daea40319120278a7c7bc0',1,'RatingService']]],
   ['gettoprecordsasync_18',['gettoprecordsasync',['../interfaceILeaderboardService.html#a8eb1a1a51a52a8730170d351512cb293',1,'ILeaderboardService.GetTopRecordsAsync()'],['../classLocalLeaderboardSaveService.html#a731e584209721335b59f8e1a916316d1',1,'LocalLeaderboardSaveService.GetTopRecordsAsync()']]],
   ['getviewportrectpixels_19',['GetViewportRectPixels',['../classFixed16x9Camera.html#aa3157be0b1a46f77db4dae4a31a5b568',1,'Fixed16x9Camera']]],
-  ['gobacktooutgamescene_20',['gobacktooutgamescene',['../classResultsUI.html#aa07907518332ee3b2b978ab34cde53ea',1,'ResultsUI.GoBackToOutgameScene()'],['../classResultScreenController.html#a2dd34d6113d23e4a4ca644b187afa1e8',1,'ResultScreenController.GoBackToOutgameScene()']]],
+  ['gobacktooutgamescene_20',['GoBackToOutgameScene',['../classResultScreenController.html#a2dd34d6113d23e4a4ca644b187afa1e8',1,'ResultScreenController']]],
   ['gridnotehandler_21',['GridNoteHandler',['../classGridNoteHandler.html#a3663502dd1cfd9034f5460c000c43f64',1,'GridNoteHandler']]]
 ];

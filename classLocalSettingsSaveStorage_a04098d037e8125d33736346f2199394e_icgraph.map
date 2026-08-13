@@ -12,10 +12,8 @@
 <area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1001,220,967,220,967,215,1001,215"/>
 <area shape="rect" id="Node000007" href="$classLocalScoreSaveService.html#a41cafea20dc5b7c1657158999b0f7a60" title=" " alt="" coords="516,197,711,237"/>
 <area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="745,220,711,220,711,215,745,215"/>
-<area shape="rect" id="Node000008" href="$classResultsUI.html#a0600888a4ba89f6b0029a630af47cfdd" title=" " alt="" coords="282,175,445,201"/>
-<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="502,207,444,200,445,195,503,202"/>
-<area shape="rect" id="Node000009" href="$classResultScreenController.html#ac885d36206adfeb4ab8e5ad00d786d15" title=" " alt="" coords="259,225,468,265"/>
-<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="503,232,468,236,468,231,502,227"/>
-<area shape="rect" id="Node000010" href="$classChartEndWatcher.html#a86c9c6b91e78f3e73494e3120dfa9c0b" title=" " alt="" coords="5,233,211,258"/>
-<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="245,248,211,248,211,243,245,243"/>
+<area shape="rect" id="Node000008" href="$classResultScreenController.html#ac885d36206adfeb4ab8e5ad00d786d15" title=" " alt="" coords="259,197,468,237"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="502,220,468,220,468,215,502,215"/>
+<area shape="rect" id="Node000009" href="$classChartEndWatcher.html#a86c9c6b91e78f3e73494e3120dfa9c0b" title=" " alt="" coords="5,205,211,230"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="245,220,211,220,211,215,245,215"/>
 </map>

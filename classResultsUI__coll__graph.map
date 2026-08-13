@@ -1,7 +1,0 @@
-<map id="ResultsUI" name="ResultsUI">
-<area shape="rect" id="Node000001" title=" " alt="" coords="59,93,143,119"/>
-<area shape="rect" id="Node000002" href="$classJudge.html" title=" " alt="" coords="5,5,64,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,40,94,91,90,94,50,43"/>
-<area shape="rect" id="Node000003" href="$classTimingAccuracyPanel.html" title="완성형 정확도 표시기: 타이밍 히스토그램 막대 + FAST/SLOW 카운트. Judge의 통계를 받아 한 번에 갱신한다." alt="" coords="89,5,250,31"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="154,43,113,94,109,91,149,40"/>
-</map>

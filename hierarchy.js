@@ -78,11 +78,6 @@ var hierarchy =
       [ "BattleAnimationReaction", "classBattleAnimationReaction.html", null ],
       [ "BulletNote", "classBulletNote.html", null ],
       [ "CameraTweenTrack", "classCameraTweenTrack.html", null ],
-      [ "CanvasSongIntroController", "classCanvasSongIntroController.html", null ],
-      [ "CarouselController", "classCarouselController.html", [
-        [ "ResultCarouselController", "classResultCarouselController.html", null ],
-        [ "SampleCarouselController", "classSampleCarouselController.html", null ]
-      ] ],
       [ "ChartEditorController", "classChartEditorController.html", null ],
       [ "ChartEndWatcher", "classChartEndWatcher.html", null ],
       [ "ChartPlayer", "classChartPlayer.html", null ],
@@ -120,13 +115,11 @@ var hierarchy =
       [ "PlayerSpriteController", "classPlayerSpriteController.html", null ],
       [ "RatingLabel", "classRatingLabel.html", null ],
       [ "ResultScreenController", "classResultScreenController.html", null ],
-      [ "ResultsUI", "classResultsUI.html", null ],
       [ "SettingsScreenController", "classSettingsScreenController.html", null ],
       [ "SliderNoteVisual", "classSliderNoteVisual.html", null ],
       [ "SongPreviewPlayer", "classSongPreviewPlayer.html", null ],
       [ "SongSelectController", "classSongSelectController.html", null ],
       [ "TextExitHoldIndicator", "classTextExitHoldIndicator.html", null ],
-      [ "TimingAccuracyPanel", "classTimingAccuracyPanel.html", null ],
       [ "TitleScreenController", "classTitleScreenController.html", null ],
       [ "UnityMusicController", "classUnityMusicController.html", null ]
     ] ],

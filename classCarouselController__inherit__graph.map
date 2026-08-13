@@ -1,7 +1,0 @@
-<map id="CarouselController" name="CarouselController">
-<area shape="rect" id="Node000001" title="Generic carousel UI controller for horizontal scrolling card selection. Handles visual layout,..." alt="" coords="131,5,274,31"/>
-<area shape="rect" id="Node000002" href="$classResultCarouselController.html" title=" " alt="" coords="5,79,189,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,41,116,81,113,76,173,36"/>
-<area shape="rect" id="Node000003" href="$classSampleCarouselController.html" title="Template example of a CarouselController child class. Use this as a reference when creating your own ..." alt="" coords="213,79,405,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,36,293,76,290,81,230,40"/>
-</map>

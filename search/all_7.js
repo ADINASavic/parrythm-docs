@@ -1,7 +1,7 @@
 var searchData=
 [
   ['halfwidthepsilon_0',['halfWidthEpsilon',['../classSliderNoteVisual.html#a6d53b6711917260ba115df5fa75b4ad8',1,'SliderNoteVisual']]],
-  ['handle_1',['handle',['../classCameraEventHandler.html#af566a11e0bb6ff8c2edd7c4d11aa470c',1,'CameraEventHandler.Handle()'],['../classSliderNoteHandler.html#a11968495f5e72ef382681ef50c0afc64',1,'SliderNoteHandler.Handle()'],['../classLongNoteHandler.html#a731192bd5058e8ecae66f3f5d51237ab',1,'LongNoteHandler.Handle()'],['../interfaceINoteEventHandler.html#a45542d9645e29efccb5a9f2d720c11fb',1,'INoteEventHandler.Handle()'],['../classGridNoteHandler.html#ae3482f87f309414b5269dd646d507b6d',1,'GridNoteHandler.Handle()'],['../classCircleTapHandler.html#ab5fdc085e6737e5097c9c4acd745f521',1,'CircleTapHandler.Handle()'],['../classBulletNoteHandler.html#ad40706410268056f3a395b2e50fbb299',1,'BulletNoteHandler.Handle()'],['../classVoiceEventHandler.html#a129cca962eeaa75c38055f7927a1a177',1,'VoiceEventHandler.Handle()'],['../classStyleEventHandler.html#adcba12e5bf7a8fa8d0394efed8fbdc97',1,'StyleEventHandler.Handle()'],['../classImageEventHandler.html#ae025bc49cb0005b28553639c375898d6',1,'ImageEventHandler.Handle()']]],
+  ['handle_1',['handle',['../classSliderNoteHandler.html#a11968495f5e72ef382681ef50c0afc64',1,'SliderNoteHandler.Handle()'],['../classLongNoteHandler.html#a731192bd5058e8ecae66f3f5d51237ab',1,'LongNoteHandler.Handle()'],['../interfaceINoteEventHandler.html#a45542d9645e29efccb5a9f2d720c11fb',1,'INoteEventHandler.Handle()'],['../classGridNoteHandler.html#ae3482f87f309414b5269dd646d507b6d',1,'GridNoteHandler.Handle()'],['../classCircleTapHandler.html#ab5fdc085e6737e5097c9c4acd745f521',1,'CircleTapHandler.Handle()'],['../classBulletNoteHandler.html#ad40706410268056f3a395b2e50fbb299',1,'BulletNoteHandler.Handle()'],['../classVoiceEventHandler.html#a129cca962eeaa75c38055f7927a1a177',1,'VoiceEventHandler.Handle()'],['../classStyleEventHandler.html#adcba12e5bf7a8fa8d0394efed8fbdc97',1,'StyleEventHandler.Handle()'],['../classImageEventHandler.html#ae025bc49cb0005b28553639c375898d6',1,'ImageEventHandler.Handle()'],['../classCameraEventHandler.html#af566a11e0bb6ff8c2edd7c4d11aa470c',1,'CameraEventHandler.Handle()']]],
   ['hard_2',['Hard',['../classDifficultyColorPalette.html#a1d0237b7bbf4803fcd48cf48720a6a01',1,'DifficultyColorPalette']]],
   ['hasanyheldcell_3',['HasAnyHeldCell',['../classKeyboardInputManager.html#ae2be5984bb0595cfbcf4bad70d7ac597',1,'KeyboardInputManager']]],
   ['hasfinalized_4',['HasFinalized',['../classSliderNote.html#a1731808032ca6989b465844a647c7e6c',1,'SliderNote']]],
@@ -22,14 +22,9 @@ var searchData=
   ['hide_19',['Hide',['../classApproachCircleVisual.html#a1234c6c3883dd0758a4aa036b2c71dc4',1,'ApproachCircleVisual']]],
   ['hideapproach_20',['HideApproach',['../classSliderNoteVisual.html#a8e9adb8f80e1bf6555f64ca6c467f1ed',1,'SliderNoteVisual']]],
   ['hideoutsideview_21',['hideOutsideView',['../classUITrailGraphic.html#a33ec290945990a8be7eec06bffd5650b',1,'UITrailGraphic']]],
-  ['highscorenamestext_22',['highscoreNamesText',['../classResultsUI.html#a0310eac41b4d2c367303266f0e401c69',1,'ResultsUI']]],
-  ['highscorescorestext_23',['highscoreScoresText',['../classResultsUI.html#a20a1373b40d58b1b4573b792d0764201',1,'ResultsUI']]],
-  ['hint_24',['Hint',['../classChartEditorUi.html#a61224a191991947369d178c2132cef67',1,'ChartEditorUi']]],
-  ['histogrambars_25',['histogramBars',['../classTimingAccuracyPanel.html#aa5e8b09967b900a75df9ffe7e10c2a6f',1,'TimingAccuracyPanel']]],
-  ['hittime_26',['hitTime',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a6d7fdd6b7b6badb609ced38f47a5766c',1,'Notes::Square::SquareNoteTimeline']]],
-  ['holdexit_27',['HoldExit',['../classParrythmInputActions_1_1IngameGameplayActions.html#a94b6875a0fb86d1dc2ba356f270f6896',1,'ParrythmInputActions::IngameGameplayActions']]],
-  ['holdmoveinterval_28',['holdMoveInterval',['../classCarouselController.html#a9f9c4e5a0968b4b6f9a634e6113a002e',1,'CarouselController']]],
-  ['holdtime_29',['holdTime',['../classCanvasSongIntroController.html#a759a76058b09fb33afdcfd52cd7c966d',1,'CanvasSongIntroController']]],
-  ['hoverabs_30',['HoverAbs',['../classPreviewView.html#a5db3e03dd21ad50db2d7b8f7094f3013',1,'PreviewView']]],
-  ['hovered_31',['Hovered',['../classPreviewView.html#ae1b6c4f1f00512d5fe3a0bf4808a47e5',1,'PreviewView']]]
+  ['hint_22',['Hint',['../classChartEditorUi.html#a61224a191991947369d178c2132cef67',1,'ChartEditorUi']]],
+  ['hittime_23',['hitTime',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a6d7fdd6b7b6badb609ced38f47a5766c',1,'Notes::Square::SquareNoteTimeline']]],
+  ['holdexit_24',['HoldExit',['../classParrythmInputActions_1_1IngameGameplayActions.html#a94b6875a0fb86d1dc2ba356f270f6896',1,'ParrythmInputActions::IngameGameplayActions']]],
+  ['hoverabs_25',['HoverAbs',['../classPreviewView.html#a5db3e03dd21ad50db2d7b8f7094f3013',1,'PreviewView']]],
+  ['hovered_26',['Hovered',['../classPreviewView.html#ae1b6c4f1f00512d5fe3a0bf4808a47e5',1,'PreviewView']]]
 ];

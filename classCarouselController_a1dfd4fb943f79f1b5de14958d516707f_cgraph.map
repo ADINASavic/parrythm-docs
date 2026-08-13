@@ -1,9 +1,0 @@
-<map id="CarouselController.SetFocusedIndex" name="CarouselController.SetFocusedIndex">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,225,103"/>
-<area shape="rect" id="Node000002" href="$classCarouselController.html#a15569d0299e4b9d9db9436bc9a7f01a7" title=" " alt="" coords="287,5,487,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,60,278,46,279,51,211,65"/>
-<area shape="rect" id="Node000003" href="$classCarouselController.html#a8dff4840622297abd67270d970a5906a" title=" " alt="" coords="273,70,500,95"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,80,260,80,260,85,226,85"/>
-<area shape="rect" id="Node000004" href="$classCarouselController.html#afbef08291aff7890520877b0dd72d9de" title=" " alt="" coords="287,120,486,160"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="211,100,279,115,278,120,210,105"/>
-</map>

@@ -8,13 +8,12 @@ var searchData=
   ['loadaudio_5',['LoadAudio',['../classChartEditorSong.html#a510818681b29331b7776534e2ab18b79',1,'ChartEditorSong']]],
   ['loadempty_6',['LoadEmpty',['../classChartEditorDocument.html#af0cc9892f627ea6a3ca35f2bedb9789a',1,'ChartEditorDocument']]],
   ['loadfolder_7',['LoadFolder',['../classChartEditorSong.html#a36b7f99c491117335f8a515a30d6258e',1,'ChartEditorSong']]],
-  ['loadingamesceneasync_8',['LoadIngameSceneAsync',['../classCanvasSongIntroController.html#a14caafb94ff8a5b33a8496c6800e9c8c',1,'CanvasSongIntroController']]],
-  ['loadjacketsprite_9',['LoadJacketSprite',['../classSongEntry.html#ac54783d13ee2b3c3ba774653ac960b4c',1,'SongEntry']]],
-  ['loadjson_10',['LoadJson',['../classChartEditorDocument.html#a83116fdd4a1524ca0f3c617e90bfed46',1,'ChartEditorDocument']]],
-  ['loadlocalizedsprite_11',['LoadLocalizedSprite',['../classLocalizationHelper.html#a899e400f0f9ee8d47c2c36156b00f34e',1,'LocalizationHelper']]],
-  ['loadprofile_12',['LoadProfile',['../classGameSettingsSaveService.html#a9d81a8a8c24d0ffc9fc032a3698fe1b2',1,'GameSettingsSaveService']]],
-  ['localsettingssavestorage_13',['LocalSettingsSaveStorage',['../classLocalSettingsSaveStorage.html#a240d8e10d89c373d6e4b9e70f2f67af7',1,'LocalSettingsSaveStorage']]],
-  ['longdurationsec_14',['LongDurationSec',['../classChartEditorNotes.html#afd90f1906045f5566a407aad06d9bb26',1,'ChartEditorNotes']]],
-  ['longnotehandler_15',['LongNoteHandler',['../classLongNoteHandler.html#afd03fe857231d03ac04ff7540748ce8e',1,'LongNoteHandler']]],
-  ['longstartsec_16',['LongStartSec',['../classChartEditorNotes.html#a639f6721a5f8a71e8ac7e3af0638c8b5',1,'ChartEditorNotes']]]
+  ['loadjacketsprite_8',['LoadJacketSprite',['../classSongEntry.html#ac54783d13ee2b3c3ba774653ac960b4c',1,'SongEntry']]],
+  ['loadjson_9',['LoadJson',['../classChartEditorDocument.html#a83116fdd4a1524ca0f3c617e90bfed46',1,'ChartEditorDocument']]],
+  ['loadlocalizedsprite_10',['LoadLocalizedSprite',['../classLocalizationHelper.html#a899e400f0f9ee8d47c2c36156b00f34e',1,'LocalizationHelper']]],
+  ['loadprofile_11',['LoadProfile',['../classGameSettingsSaveService.html#a9d81a8a8c24d0ffc9fc032a3698fe1b2',1,'GameSettingsSaveService']]],
+  ['localsettingssavestorage_12',['LocalSettingsSaveStorage',['../classLocalSettingsSaveStorage.html#a240d8e10d89c373d6e4b9e70f2f67af7',1,'LocalSettingsSaveStorage']]],
+  ['longdurationsec_13',['LongDurationSec',['../classChartEditorNotes.html#afd90f1906045f5566a407aad06d9bb26',1,'ChartEditorNotes']]],
+  ['longnotehandler_14',['LongNoteHandler',['../classLongNoteHandler.html#afd03fe857231d03ac04ff7540748ce8e',1,'LongNoteHandler']]],
+  ['longstartsec_15',['LongStartSec',['../classChartEditorNotes.html#a639f6721a5f8a71e8ac7e3af0638c8b5',1,'ChartEditorNotes']]]
 ];

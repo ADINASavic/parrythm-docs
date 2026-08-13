@@ -11,10 +11,5 @@ var searchData=
   ['headsortingorder_8',['headSortingOrder',['../classSliderNoteVisual.html#a293ce99b72758f44c94a697c310735e5',1,'SliderNoteVisual']]],
   ['height_9',['height',['../classGridDrawer.html#a1add5cd3d4fbc10e9c47b378331d0ecc',1,'GridDrawer.height'],['../classGridManager.html#a9f0ebe8de2b0056ac8fea18a9d2233f7',1,'GridManager.height']]],
   ['hideoutsideview_10',['hideOutsideView',['../classUITrailGraphic.html#a33ec290945990a8be7eec06bffd5650b',1,'UITrailGraphic']]],
-  ['highscorenamestext_11',['highscoreNamesText',['../classResultsUI.html#a0310eac41b4d2c367303266f0e401c69',1,'ResultsUI']]],
-  ['highscorescorestext_12',['highscoreScoresText',['../classResultsUI.html#a20a1373b40d58b1b4573b792d0764201',1,'ResultsUI']]],
-  ['histogrambars_13',['histogramBars',['../classTimingAccuracyPanel.html#aa5e8b09967b900a75df9ffe7e10c2a6f',1,'TimingAccuracyPanel']]],
-  ['hittime_14',['hitTime',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a6d7fdd6b7b6badb609ced38f47a5766c',1,'Notes::Square::SquareNoteTimeline']]],
-  ['holdmoveinterval_15',['holdMoveInterval',['../classCarouselController.html#a9f9c4e5a0968b4b6f9a634e6113a002e',1,'CarouselController']]],
-  ['holdtime_16',['holdTime',['../classCanvasSongIntroController.html#a759a76058b09fb33afdcfd52cd7c966d',1,'CanvasSongIntroController']]]
+  ['hittime_11',['hitTime',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a6d7fdd6b7b6badb609ced38f47a5766c',1,'Notes::Square::SquareNoteTimeline']]]
 ];

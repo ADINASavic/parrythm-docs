@@ -134,10 +134,10 @@ $(document).ready(function(){initNavTree('classRatingService.html',''); initResi
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">상세한 설명</h2>
 <div class="textblock"><p>Player rating = sum of the Best 15 chart ratings. </p>
-<p>Per-chart rating = level x accuracy, where accuracy = score / 100,000 (0~1). (Score is produced by <a class="el" href="classResultsUI.html">ResultsUI</a> as (Perfect*100000 + Good*50000) / totalNotes, so a full-perfect play == 100,000 == 100% accuracy == a chart rating equal to its level.)</p>
+<p>Per-chart rating = level x accuracy, where accuracy = score / 100,000 (0~1). (Score is produced by ResultsUI as (Perfect*100000 + Good*50000) / totalNotes, so a full-perfect play == 100,000 == 100% accuracy == a chart rating equal to its level.)</p>
 <p>Data source is the player's verified best scores:</p><ul>
 <li><a class="el" href="classSongScanner.html">SongScanner</a> supplies every chart's level + chartHash.</li>
-<li><a class="el" href="classLocalScoreSaveService.html">LocalScoreSaveService</a> supplies the best score per chartHash for the current <a class="el" href="classSaveIdentity.html">SaveIdentity</a>. Auto-play runs are excluded at save time in <a class="el" href="classResultsUI.html">ResultsUI</a> (best score / leaderboard upload only happen when AutoPlay is OFF), so every score feeding the rating is the same verified data that is pushed to the Steam leaderboard.</li>
+<li><a class="el" href="classLocalScoreSaveService.html">LocalScoreSaveService</a> supplies the best score per chartHash for the current <a class="el" href="classSaveIdentity.html">SaveIdentity</a>. Auto-play runs are excluded at save time in ResultsUI (best score / leaderboard upload only happen when AutoPlay is OFF), so every score feeding the rating is the same verified data that is pushed to the Steam leaderboard.</li>
 </ul>
 <p>There is no ranked/unranked tier concept in the game, so no chart is filtered out. </p>
 </div><h2 class="groupheader">멤버 함수 문서화</h2>

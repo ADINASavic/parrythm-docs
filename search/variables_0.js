@@ -16,9 +16,7 @@ var searchData=
   ['arcdeg_13',['arcDeg',['../classSpecialBulletPattern_1_1Params.html#ab8fd687fac8ee9719b8896c96d436d80',1,'SpecialBulletPattern::Params']]],
   ['arml_14',['armL',['../classAnimatedCharacterController.html#ab13153f46ba329ffa9d8fbcb68bc8d06',1,'AnimatedCharacterController']]],
   ['artist_15',['artist',['../classSongMeta.html#a3e96cf528c76a56f8a97a456d0eac5da',1,'SongMeta']]],
-  ['artisttext_16',['artistText',['../classCanvasSongIntroController.html#af26b4f7bdfd866ab4f337bc3a07efb27',1,'CanvasSongIntroController']]],
-  ['audiofile_17',['audioFile',['../classSongMeta.html#a2e297c21dba3f4fc00cdbc7c69bc7bc3',1,'SongMeta']]],
-  ['audiofilepath_18',['audioFilePath',['../classUnityMusicController.html#a80db67c13d1ef1043697e3ab09b25a6a',1,'UnityMusicController']]],
-  ['autoplayonstart_19',['autoPlayOnStart',['../classChartPlayer.html#a741a76b9d0cfe2d7cecd001979f4311d',1,'ChartPlayer']]],
-  ['avgtext_20',['avgText',['../classTimingAccuracyPanel.html#af77223ee038e6293c7e0557c950acf42',1,'TimingAccuracyPanel']]]
+  ['audiofile_16',['audioFile',['../classSongMeta.html#a2e297c21dba3f4fc00cdbc7c69bc7bc3',1,'SongMeta']]],
+  ['audiofilepath_17',['audioFilePath',['../classUnityMusicController.html#a80db67c13d1ef1043697e3ab09b25a6a',1,'UnityMusicController']]],
+  ['autoplayonstart_18',['autoPlayOnStart',['../classChartPlayer.html#a741a76b9d0cfe2d7cecd001979f4311d',1,'ChartPlayer']]]
 ];
