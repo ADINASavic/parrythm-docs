@@ -15,5 +15,6 @@ var searchData=
   ['localscorespath_12',['LocalScoresPath',['../classGameSavePaths.html#af2ae1632623dd5805202afaaf6c0d58a',1,'GameSavePaths']]],
   ['longabsencegrace_13',['LongAbsenceGrace',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a620963cef01ccf87d03f5f97a886365c',1,'Notes::Square::SquareNoteTimeline']]],
   ['longendtime_14',['LongEndTime',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#ae5d7ba30959a4641c84558d7ccdc1c01',1,'Notes::Square::SquareNoteTimeline']]],
-  ['longshrinkstart_15',['LongShrinkStart',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#aafa229da59d60502d33a119a2185a12c',1,'Notes::Square::SquareNoteTimeline']]]
+  ['longreleasetolerance_15',['LongReleaseTolerance',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a38896bd44746382771d139eb6cfadaa4',1,'Notes::Square::SquareNoteTimeline']]],
+  ['longshrinkstart_16',['LongShrinkStart',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#aafa229da59d60502d33a119a2185a12c',1,'Notes::Square::SquareNoteTimeline']]]
 ];

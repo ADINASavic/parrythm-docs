@@ -37,7 +37,7 @@ var searchData=
   ['bodygradientpower_34',['bodyGradientPower',['../classSliderNoteVisual.html#a561efdaa304bd00696a32a651a1351b7',1,'SliderNoteVisual']]],
   ['bootsequence_35',['BootSequence',['../classChartPlayer.html#aaa9379bf007a3fce94caf3cbffd501db',1,'ChartPlayer']]],
   ['bosstarget_36',['bosstarget',['../classBulletNote.html#ac33c9877f0f0f07d6a0c476091ede349',1,'BulletNote.bossTarget'],['../classNoteSpawner.html#ac6f020dd2795c7e0a2d47925e27c6dfb',1,'NoteSpawner.bossTarget']]],
-  ['bpm_37',['bpm',['../classLevelChartData.html#a4bb3b88603c5e86451a7b92e457d2b11',1,'LevelChartData.bpm'],['../classLevelChartData_1_1TempoPoint.html#a2cf6f05c3fab8a6acf3234a6b2489975',1,'LevelChartData.TempoPoint.bpm'],['../classSongMeta.html#a7de874f32223e4db90b8c5ac3f5b7a0b',1,'SongMeta.bpm'],['../classChartTimelineRuntime.html#a13194a5897227549478da0f5ec20eed9',1,'ChartTimelineRuntime.Bpm']]],
+  ['bpm_37',['bpm',['../classLevelChartData_1_1TempoPoint.html#a2cf6f05c3fab8a6acf3234a6b2489975',1,'LevelChartData.TempoPoint.bpm'],['../classChartTimelineRuntime.html#a13194a5897227549478da0f5ec20eed9',1,'ChartTimelineRuntime.Bpm'],['../classLevelChartData.html#a4bb3b88603c5e86451a7b92e457d2b11',1,'LevelChartData.bpm'],['../classSongMeta.html#a7de874f32223e4db90b8c5ac3f5b7a0b',1,'SongMeta.bpm']]],
   ['bpmatbeat_38',['BpmAtBeat',['../classChartEditorTime.html#a78c68688ec4f774104edd5759b30f4d7',1,'ChartEditorTime']]],
   ['bspline_39',['BSpline',['../classCurveUtil.html#a008cc4111bff1d3e263caba668861773',1,'CurveUtil']]],
   ['buildcurve_40',['BuildCurve',['../classChartEditorDraw.html#a833328dc9eeaf5ef3dc4527e07408dde',1,'ChartEditorDraw']]],
