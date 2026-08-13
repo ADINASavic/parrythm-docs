@@ -16,9 +16,8 @@ var searchData=
   ['applymisscustom_13',['ApplyMissCustom',['../classJudge.html#a3b0911bb0e6bccb849ca9ecff10df572',1,'Judge']]],
   ['applymode_14',['ApplyMode',['../classNotes_1_1Square_1_1SquareNoteVisual.html#a619e8d81b2338c1b46f1672daf65d961',1,'Notes::Square::SquareNoteVisual']]],
   ['applynotetime_15',['ApplyNoteTime',['../classChartEditorNotes.html#ae4e3805e3c91849b6a49540906dd1fdc',1,'ChartEditorNotes']]],
-  ['applypatchjson_16',['ApplyPatchJson',['../classNoteSettingsJsonPatchUtility.html#a547379637e42c5d94c6f04a9b16cdd79',1,'NoteSettingsJsonPatchUtility']]],
-  ['applyperfect_17',['ApplyPerfect',['../classJudge.html#a420d7d313b02df052975a6bb8a4fbcab',1,'Judge']]],
-  ['applyresult_18',['ApplyResult',['../classJudge.html#a3ac356c9438fcb089cdab7462a2c5554',1,'Judge']]],
-  ['aspectrect_19',['AspectRect',['../classPreviewView.html#ab50abf28e1a45e115b6f0e58aeeaeb26',1,'PreviewView']]],
-  ['awake_20',['awake',['../classUITrailGraphic.html#ac419e0194da8a7393bf03b638efe5d02',1,'UITrailGraphic.Awake()'],['../classNotes_1_1Square_1_1SquareVisualBase.html#a563e627ff8aa649486b34048761ff25f',1,'Notes.Square.SquareVisualBase.Awake()'],['../classNotes_1_1Square_1_1SquareVisualNormal.html#a775ec2aa0cd8f24210cedb5421703fd4',1,'Notes.Square.SquareVisualNormal.Awake()'],['../classNotes_1_1Square_1_1SquareVisualTrail.html#a7257c1763f512fed67ce12a585ec7987',1,'Notes.Square.SquareVisualTrail.Awake()']]]
+  ['applyperfect_16',['ApplyPerfect',['../classJudge.html#a420d7d313b02df052975a6bb8a4fbcab',1,'Judge']]],
+  ['applyresult_17',['ApplyResult',['../classJudge.html#a3ac356c9438fcb089cdab7462a2c5554',1,'Judge']]],
+  ['aspectrect_18',['AspectRect',['../classPreviewView.html#ab50abf28e1a45e115b6f0e58aeeaeb26',1,'PreviewView']]],
+  ['awake_19',['awake',['../classUITrailGraphic.html#ac419e0194da8a7393bf03b638efe5d02',1,'UITrailGraphic.Awake()'],['../classNotes_1_1Square_1_1SquareVisualBase.html#a563e627ff8aa649486b34048761ff25f',1,'Notes.Square.SquareVisualBase.Awake()'],['../classNotes_1_1Square_1_1SquareVisualNormal.html#a775ec2aa0cd8f24210cedb5421703fd4',1,'Notes.Square.SquareVisualNormal.Awake()'],['../classNotes_1_1Square_1_1SquareVisualTrail.html#a7257c1763f512fed67ce12a585ec7987',1,'Notes.Square.SquareVisualTrail.Awake()']]]
 ];

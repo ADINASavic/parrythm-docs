@@ -17,7 +17,6 @@ var hierarchy =
     [ "ChartHashUtility", "classChartHashUtility.html", null ],
     [ "ChartImporter", "classChartImporter.html", null ],
     [ "ChartTimelineRuntime", "classChartTimelineRuntime.html", null ],
-    [ "CircleNoteInit", "structCircleNoteInit.html", null ],
     [ "CurveUtil", "classCurveUtil.html", null ],
     [ "DeveloperSettings", "classDeveloperSettings.html", null ],
     [ "DifficultyColorPalette", "classDifficultyColorPalette.html", null ],
@@ -41,7 +40,6 @@ var hierarchy =
       [ "LocalLeaderboardSaveService", "classLocalLeaderboardSaveService.html", null ]
     ] ],
     [ "ParrythmInputActions.IngameGameplayActions", "classParrythmInputActions_1_1IngameGameplayActions.html", null ],
-    [ "INote", "interfaceINote.html", null ],
     [ "INoteEventHandler", "interfaceINoteEventHandler.html", [
       [ "BulletNoteHandler", "classBulletNoteHandler.html", null ],
       [ "CameraEventHandler", "classCameraEventHandler.html", null ],
@@ -54,7 +52,6 @@ var hierarchy =
       [ "VoiceEventHandler", "classVoiceEventHandler.html", null ]
     ] ],
     [ "INoteInit< TInit >", "interfaceINoteInit.html", null ],
-    [ "INoteVisual", "interfaceINoteVisual.html", null ],
     [ "IStageEndTrigger", "interfaceIStageEndTrigger.html", [
       [ "ChartEndWatcher", "classChartEndWatcher.html", null ]
     ] ],
@@ -135,10 +132,6 @@ var hierarchy =
     ] ],
     [ "MusicAudioPathResolver", "classMusicAudioPathResolver.html", null ],
     [ "LevelChartData.NoteEvent", "classLevelChartData_1_1NoteEvent.html", null ],
-    [ "NoteSettingsDefaultsProvider", "classNoteSettingsDefaultsProvider.html", null ],
-    [ "NoteSettingsIO", "classNoteSettingsIO.html", null ],
-    [ "NoteSettingsJsonPatchUtility", "classNoteSettingsJsonPatchUtility.html", null ],
-    [ "NoteSettingsPatchRepository", "classNoteSettingsPatchRepository.html", null ],
     [ "NoteSpeedScale", "classNoteSpeedScale.html", null ],
     [ "ParrythmInputActions.OutgameMenuActions", "classParrythmInputActions_1_1OutgameMenuActions.html", null ],
     [ "OutgameMenuInput", "classOutgameMenuInput.html", null ],
@@ -146,9 +139,9 @@ var hierarchy =
     [ "OutgameOverlay", "classOutgameOverlay.html", null ],
     [ "OutgameSfx", "classOutgameSfx.html", null ],
     [ "SpecialBulletPattern.Params", "classSpecialBulletPattern_1_1Params.html", null ],
-    [ "NoteSettingsJsonPatchUtility.PatchApplyResult", "structNoteSettingsJsonPatchUtility_1_1PatchApplyResult.html", null ],
     [ "PlayerNameSettings", "classPlayerNameSettings.html", null ],
     [ "PlayerPreferences", "classPlayerPreferences.html", null ],
+    [ "PlayerPreferencesService", "classPlayerPreferencesService.html", null ],
     [ "PlayFinishedInput", "structPlayFinishedInput.html", null ],
     [ "ProfileSaveData", "classProfileSaveData.html", null ],
     [ "RatingEntry", "structRatingEntry.html", null ],
@@ -157,10 +150,6 @@ var hierarchy =
     [ "SaveIdentity", "classSaveIdentity.html", null ],
     [ "SceneNames", "classSceneNames.html", null ],
     [ "ScoreGradeUtility", "classScoreGradeUtility.html", null ],
-    [ "ScriptableObject", null, [
-      [ "NoteSettings", "classNoteSettings.html", null ]
-    ] ],
-    [ "SliderNoteInit", "structSliderNoteInit.html", null ],
     [ "SongEntry", "classSongEntry.html", null ],
     [ "SongMeta", "classSongMeta.html", null ],
     [ "SongScanner", "classSongScanner.html", null ],

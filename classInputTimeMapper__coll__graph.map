@@ -1,7 +1,5 @@
 <map id="InputTimeMapper" name="InputTimeMapper">
-<area shape="rect" id="Node000001" title="Maps input&#45;system timestamps to Unity audio timeline time using DSP clock. Keeps a rolling sample of ..." alt="" coords="95,93,232,119"/>
+<area shape="rect" id="Node000001" title="Maps input&#45;system timestamps to Unity audio timeline time using DSP clock. Keeps a rolling sample of ..." alt="" coords="16,93,153,119"/>
 <area shape="rect" id="Node000002" href="$classUnityMusicController.html" title=" " alt="" coords="5,5,164,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,39,154,91,150,95,102,43"/>
-<area shape="rect" id="Node000003" href="$classNoteSettings.html" title=" " alt="" coords="189,5,295,31"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,43,176,95,172,91,220,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,45,87,93,82,93,82,45"/>
 </map>

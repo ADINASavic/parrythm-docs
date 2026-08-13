@@ -3,7 +3,6 @@ var classNotes_1_1Square_1_1SquareNoteTimeline =
     [ "clock", "classNotes_1_1Square_1_1SquareNoteTimeline.html#adcc0db5709201440fb3a1ceb4e0d2616", null ],
     [ "hitTime", "classNotes_1_1Square_1_1SquareNoteTimeline.html#a6d7fdd6b7b6badb609ced38f47a5766c", null ],
     [ "longDuration", "classNotes_1_1Square_1_1SquareNoteTimeline.html#a06696c0ca3682c292966948a34fc72bf", null ],
-    [ "settings", "classNotes_1_1Square_1_1SquareNoteTimeline.html#a6830802c823b03253df4c13febc105ce", null ],
     [ "AppearTime", "classNotes_1_1Square_1_1SquareNoteTimeline.html#a73fa6e228c8af4ae50b671fca6b48f81", null ],
     [ "GoodEnd", "classNotes_1_1Square_1_1SquareNoteTimeline.html#a0f9b9f342fafb1b12ffcdf0fbfc2fa12", null ],
     [ "GoodStart", "classNotes_1_1Square_1_1SquareNoteTimeline.html#abefe31904bbabb071b0d8ec7445e2efe", null ],

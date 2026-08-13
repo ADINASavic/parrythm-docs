@@ -104,7 +104,7 @@ $(document).ready(function(){initNavTree('classNoteSpeedScale.html',''); initRes
 </div><!--header-->
 <div class="contents">
 
-<p>Converts the player-facing "note speed" dial into the raw seconds the gameplay code actually uses. Gameplay stays in seconds (<a class="el" href="classNoteSettings.html">NoteSettings</a> is untouched); only the settings UI speaks in these dial values.  
+<p>Converts the player-facing "note speed" dial into the raw seconds the gameplay code actually uses. Gameplay stays in seconds; only the settings UI speaks in these dial values.  
  <a href="classNoteSpeedScale.html#details">더 자세히 ...</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
@@ -141,7 +141,7 @@ $(document).ready(function(){initNavTree('classNoteSpeedScale.html',''); initRes
 <tr class="separator:a25ed19413fe32ce589cc800d60efe07c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">상세한 설명</h2>
-<div class="textblock"><p>Converts the player-facing "note speed" dial into the raw seconds the gameplay code actually uses. Gameplay stays in seconds (<a class="el" href="classNoteSettings.html">NoteSettings</a> is untouched); only the settings UI speaks in these dial values. </p>
+<div class="textblock"><p>Converts the player-facing "note speed" dial into the raw seconds the gameplay code actually uses. Gameplay stays in seconds; only the settings UI speaks in these dial values. </p>
 <p>Dial value: 1.00 ~ 20.00 in 0.25 steps (keyboard entry allows any 0.01 in range). Time curve : LINEAR between the two anchors</p><ul>
 <li>v = 1 -&gt; 1.00 s (slowest)</li>
 <li>v = 20 -&gt; 0.20 s (fastest) Linear keeps the step size uniform (~42 ms per dial unit) so the whole 1.0~0.2 s band gets dense, evenly-spaced options. </li>

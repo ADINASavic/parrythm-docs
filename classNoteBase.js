@@ -8,7 +8,6 @@ var classNoteBase =
     [ "judge", "classNoteBase.html#adfb51d4aff25c448a89ba921912ec556", null ],
     [ "judged", "classNoteBase.html#acb6d6f71c7213b562db924e57c3ce0e7", null ],
     [ "router", "classNoteBase.html#afe6e6bbc9b77e5c80eaaeb5c48c4a35c", null ],
-    [ "settings", "classNoteBase.html#a2fe009f8dd4753dd91b947f8636d7c5d", null ],
     [ "IsJudged", "classNoteBase.html#a29449bad359a0f237b94efbe10a6e537", null ],
     [ "Now", "classNoteBase.html#af57233755e6e736cb287f98619409b70", null ],
     [ "VisualNow", "classNoteBase.html#a1d408919ea19f154e23c9ca4a7806ec6", null ]

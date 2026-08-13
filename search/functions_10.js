@@ -30,7 +30,6 @@ var searchData=
   ['resolveaudiotype_27',['ResolveAudioType',['../classMusicAudioPathResolver.html#a8c20c60a6d3730c7c28f88307d859862',1,'MusicAudioPathResolver']]],
   ['resolveindex_28',['ResolveIndex',['../classCarouselController.html#afbef08291aff7890520877b0dd72d9de',1,'CarouselController']]],
   ['resolvemargin_29',['ResolveMargin',['../classBulletPlacement.html#a6d3503e13eb940dff444bc6c9172065f',1,'BulletPlacement']]],
-  ['restoreinvalidfieldsfromdefaults_30',['RestoreInvalidFieldsFromDefaults',['../classNoteSettingsJsonPatchUtility.html#a603c96f1a737ec23ae79ae1079d22f72',1,'NoteSettingsJsonPatchUtility']]],
-  ['resultsmenuactions_31',['ResultsMenuActions',['../classParrythmInputActions_1_1ResultsMenuActions.html#ad5b243462adafc4a52a496abf5dcb4df',1,'ParrythmInputActions::ResultsMenuActions']]],
-  ['row_32',['Row',['../classChartEditorUi.html#abd91aedb20a3a11d57f2ad265925aa2c',1,'ChartEditorUi']]]
+  ['resultsmenuactions_30',['ResultsMenuActions',['../classParrythmInputActions_1_1ResultsMenuActions.html#ad5b243462adafc4a52a496abf5dcb4df',1,'ParrythmInputActions::ResultsMenuActions']]],
+  ['row_31',['Row',['../classChartEditorUi.html#abd91aedb20a3a11d57f2ad265925aa2c',1,'ChartEditorUi']]]
 ];

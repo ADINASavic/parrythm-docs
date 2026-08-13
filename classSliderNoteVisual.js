@@ -1,7 +1,7 @@
 var classSliderNoteVisual =
 [
     [ "ApplyGuideBoost", "classSliderNoteVisual.html#a699874c56e0fd8b3ad6aad16d863192f", null ],
-    [ "Bind", "classSliderNoteVisual.html#a43d5d5f8680915b5e519a07219e48ada", null ],
+    [ "Bind", "classSliderNoteVisual.html#a92d5eb2a2da29dbe4a00a223a6956415", null ],
     [ "EnableFollow", "classSliderNoteVisual.html#ad71f41eff1fbe530e0bc2bed0c7ec80b", null ],
     [ "EnterFollowLeadFill", "classSliderNoteVisual.html#adc7e48d20b0ff53fe3d5da36a91276e1", null ],
     [ "HideApproach", "classSliderNoteVisual.html#a8e9adb8f80e1bf6555f64ca6c467f1ed", null ],

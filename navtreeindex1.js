@@ -1,14 +1,5 @@
 var NAVTREEINDEX1 =
 {
-"classBulletPlacement.html#ae74fd6d31cd79f5c88cf86690435fc87":[1,0,11,2],
-"classBulletPlacement.html#aeae215b7376b91edfa38e9d321410c52":[1,0,11,6],
-"classCameraEventHandler.html":[1,0,12],
-"classCameraEventHandler.html#a8062e40a612c6e2421fc057da9c118d9":[1,0,12,0],
-"classCameraEventHandler.html#aceeed9fb1a8a1b90bfabe14de06deba4":[1,0,12,2],
-"classCameraEventHandler.html#af566a11e0bb6ff8c2edd7c4d11aa470c":[1,0,12,1],
-"classCameraTweenTrack.html":[1,0,13],
-"classCameraTweenTrack.html#ab0554d17a3628b7180e82e530aa528cd":[1,0,13,3],
-"classCameraTweenTrack.html#ab3b42a4d80c342dc28c715de91e48ca2":[1,0,13,2],
 "classCameraTweenTrack.html#ab8eafe9dfb42afbf0d2a9c0a159eb6d9":[1,0,13,0],
 "classCameraTweenTrack.html#ad8499530abd2e9dff4b4b089a7196b0f":[1,0,13,1],
 "classCanvasSongIntroController.html":[1,0,14],
@@ -80,6 +71,7 @@ var NAVTREEINDEX1 =
 "classChartEditorDocument.html#a458545dbd63d7fca2954e948eb6d7c6e":[1,0,17,19],
 "classChartEditorDocument.html#a4b6b862c78cab766e3d58b2f6862b577":[1,0,17,32],
 "classChartEditorDocument.html#a65b0901d0686ce67c97c885e20e73bc4":[1,0,17,9],
+"classChartEditorDocument.html#a679cac211cbd257f7cc224ee51dd6b05":[1,0,17,17],
 "classChartEditorDocument.html#a69b64eab2e04e32446b1c2d0ca630f41":[1,0,17,11],
 "classChartEditorDocument.html#a7100b7efa650d60431d86d43be84cb64":[1,0,17,31],
 "classChartEditorDocument.html#a7bfe77b665525b04a79faeb8dabaed5e":[1,0,17,30],
@@ -99,7 +91,6 @@ var NAVTREEINDEX1 =
 "classChartEditorDocument.html#ade94cbc033e475261a75a0cbcdf0ba60":[1,0,17,2],
 "classChartEditorDocument.html#ae597fb984ef9040cc558a164ae7ec3a1":[1,0,17,8],
 "classChartEditorDocument.html#af0cc9892f627ea6a3ca35f2bedb9789a":[1,0,17,6],
-"classChartEditorDocument.html#af464b48b311d733858d9b4e3ec0ffb1d":[1,0,17,17],
 "classChartEditorDocument.html#af9d55c1451605ff09180b6497b27a076":[1,0,17,27],
 "classChartEditorDocument.html#afacbcb990537758f03857435e7c88700":[1,0,17,14],
 "classChartEditorDraw.html":[1,0,18],
@@ -249,5 +240,14 @@ var NAVTREEINDEX1 =
 "classChartPlayer.html#aa186210a0e41de729a2dae6e8272a830":[1,0,29,1],
 "classChartPlayer.html#aa55e428a82c46f6a25fa50d6f1940b03":[1,0,29,9],
 "classChartPlayer.html#aa752d244a261328d9edc618f25d27b82":[1,0,29,24],
-"classChartPlayer.html#aaa9379bf007a3fce94caf3cbffd501db":[1,0,29,0]
+"classChartPlayer.html#aaa9379bf007a3fce94caf3cbffd501db":[1,0,29,0],
+"classChartPlayer.html#aac910570107157ff6685226c9d947c91":[1,0,29,17],
+"classChartPlayer.html#abea42e26ad71d58ea2caf542b2ae1f6c":[1,0,29,8],
+"classChartPlayer.html#ac2908f19e9aa090d08400c3134783e0a":[1,0,29,31],
+"classChartPlayer.html#ac53d546284d92dba67c110eb8714e805":[1,0,29,14],
+"classChartPlayer.html#ac857481c199ae78fc410266b137c16e3":[1,0,29,36],
+"classChartPlayer.html#acc4e2f903041c22893835afa8eb1c35a":[1,0,29,3],
+"classChartPlayer.html#ae18b4b28ef78012a48f0fe5051fc6c5b":[1,0,29,35],
+"classChartPlayer.html#ae2ae35616e121a2733965d262df92ce5":[1,0,29,32],
+"classChartPlayer.html#ae37931e4291211e875267a34231aa039":[1,0,29,29]
 };

@@ -20,10 +20,9 @@ var searchData=
   ['chartplayer_17',['ChartPlayer',['../classChartPlayer.html',1,'']]],
   ['charttimelineruntime_18',['ChartTimelineRuntime',['../classChartTimelineRuntime.html',1,'']]],
   ['circlenote_19',['CircleNote',['../classCircleNote.html',1,'']]],
-  ['circlenoteinit_20',['CircleNoteInit',['../structCircleNoteInit.html',1,'']]],
-  ['circlenotevisual_21',['CircleNoteVisual',['../classCircleNoteVisual.html',1,'']]],
-  ['circletaphandler_22',['CircleTapHandler',['../classCircleTapHandler.html',1,'']]],
-  ['cleancursor_23',['CleanCursor',['../classCleanCursor.html',1,'']]],
-  ['connectionhintcontroller_24',['ConnectionHintController',['../classConnectionHintController.html',1,'']]],
-  ['curveutil_25',['CurveUtil',['../classCurveUtil.html',1,'']]]
+  ['circlenotevisual_20',['CircleNoteVisual',['../classCircleNoteVisual.html',1,'']]],
+  ['circletaphandler_21',['CircleTapHandler',['../classCircleTapHandler.html',1,'']]],
+  ['cleancursor_22',['CleanCursor',['../classCleanCursor.html',1,'']]],
+  ['connectionhintcontroller_23',['ConnectionHintController',['../classConnectionHintController.html',1,'']]],
+  ['curveutil_24',['CurveUtil',['../classCurveUtil.html',1,'']]]
 ];

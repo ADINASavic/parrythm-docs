@@ -17,7 +17,7 @@ var classChartEditorDocument =
     [ "SelectRangeByTime", "classChartEditorDocument.html#afacbcb990537758f03857435e7c88700", null ],
     [ "SetSelection", "classChartEditorDocument.html#ad0da91f8879d1d3b222f0bc70de277bd", null ],
     [ "ShiftSelected", "classChartEditorDocument.html#a3bb24515207fa7cc9c9c68ee6eec0621", null ],
-    [ "SortBySpawn", "classChartEditorDocument.html#af464b48b311d733858d9b4e3ec0ffb1d", null ],
+    [ "SortBySpawn", "classChartEditorDocument.html#a679cac211cbd257f7cc224ee51dd6b05", null ],
     [ "SortByTime", "classChartEditorDocument.html#a356b0a32d8a1b30cd3a46d9e99936eba", null ],
     [ "ToggleSelection", "classChartEditorDocument.html#a458545dbd63d7fca2954e948eb6d7c6e", null ],
     [ "ToJson", "classChartEditorDocument.html#a2d018a106ffd74715e3e3947d795f28f", null ],

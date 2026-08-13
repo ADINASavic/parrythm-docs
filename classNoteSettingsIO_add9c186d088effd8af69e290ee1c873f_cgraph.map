@@ -1,5 +1,0 @@
-<map id="NoteSettingsIO.SaveNoteSettings" name="NoteSettingsIO.SaveNoteSettings">
-<area shape="rect" id="Node000001" title="Saves only fields changed from the defaults as a JSON patch." alt="" coords="5,13,245,38"/>
-<area shape="rect" id="Node000002" href="$classNoteSettingsJsonPatchUtility.html#a603c96f1a737ec23ae79ae1079d22f72" title="Restores invalid field values back to the provided defaults." alt="" coords="293,5,536,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,23,280,23,280,28,245,28"/>
-</map>

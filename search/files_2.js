@@ -20,10 +20,9 @@ var searchData=
   ['chartplayer_2ecs_17',['ChartPlayer.cs',['../ChartPlayer_8cs.html',1,'']]],
   ['charttimelineruntime_2ecs_18',['ChartTimeLineRuntime.cs',['../ChartTimeLineRuntime_8cs.html',1,'']]],
   ['circlenote_2ecs_19',['CircleNote.cs',['../CircleNote_8cs.html',1,'']]],
-  ['circlenoteinit_2ecs_20',['CircleNoteInit.cs',['../CircleNoteInit_8cs.html',1,'']]],
-  ['circlenotevisual_2ecs_21',['CircleNoteVisual.cs',['../CircleNoteVisual_8cs.html',1,'']]],
-  ['circletaphandler_2ecs_22',['CircleTapHandler.cs',['../CircleTapHandler_8cs.html',1,'']]],
-  ['cleancursor_2ecs_23',['CleanCursor.cs',['../CleanCursor_8cs.html',1,'']]],
-  ['connectionhintcontroller_2ecs_24',['ConnectionHintController.cs',['../ConnectionHintController_8cs.html',1,'']]],
-  ['curveutil_2ecs_25',['CurveUtil.cs',['../CurveUtil_8cs.html',1,'']]]
+  ['circlenotevisual_2ecs_20',['CircleNoteVisual.cs',['../CircleNoteVisual_8cs.html',1,'']]],
+  ['circletaphandler_2ecs_21',['CircleTapHandler.cs',['../CircleTapHandler_8cs.html',1,'']]],
+  ['cleancursor_2ecs_22',['CleanCursor.cs',['../CleanCursor_8cs.html',1,'']]],
+  ['connectionhintcontroller_2ecs_23',['ConnectionHintController.cs',['../ConnectionHintController_8cs.html',1,'']]],
+  ['curveutil_2ecs_24',['CurveUtil.cs',['../CurveUtil_8cs.html',1,'']]]
 ];

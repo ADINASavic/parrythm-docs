@@ -16,7 +16,7 @@ var searchData=
   ['judgestart_13',['JudgeStart',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#aa19eb44230663bcc79fb87813df6710c',1,'Notes::Square::SquareNoteTimeline']]],
   ['judgetext_14',['judgeText',['../classJudge.html#aab00a51503658fecebfbfdaa8d9811eb',1,'Judge']]],
   ['judgetextanimator_15',['judgeTextAnimator',['../classJudge.html#a77e70e0bd7e595a2b272714566a4b436',1,'Judge']]],
-  ['judgetime_16',['judgetime',['../classCircleNote.html#a84d79ff3ca0da85b258354b407e8ac3d',1,'CircleNote.judgeTime'],['../structCircleNoteInit.html#aab19e299e62780a0d27bcea3818ad5d8',1,'CircleNoteInit.judgeTime'],['../classLevelChartData_1_1NoteEvent.html#a3638c5fe50d01aacd69681c361376cd7',1,'LevelChartData.NoteEvent.judgeTime']]],
-  ['judgetimeoffsetms_17',['judgetimeoffsetms',['../classNoteSettings.html#a2ea3a40a6339bf206c34ce7e011c3741',1,'NoteSettings.judgeTimeOffsetMs'],['../classPlayerPreferences.html#a9b2fcd54ab95008efb585c10c3abbd52',1,'PlayerPreferences.judgeTimeOffsetMs']]],
+  ['judgetime_16',['judgetime',['../classCircleNote.html#a84d79ff3ca0da85b258354b407e8ac3d',1,'CircleNote.judgeTime'],['../classLevelChartData_1_1NoteEvent.html#a3638c5fe50d01aacd69681c361376cd7',1,'LevelChartData.NoteEvent.judgeTime']]],
+  ['judgetimeoffsetms_17',['judgeTimeOffsetMs',['../classPlayerPreferences.html#a9b2fcd54ab95008efb585c10c3abbd52',1,'PlayerPreferences']]],
   ['judgewindow_18',['JudgeWindow',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#ae2fcaf18fd2dc55d16631ef9e8a22771',1,'Notes::Square::SquareNoteTimeline']]]
 ];
