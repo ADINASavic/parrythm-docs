@@ -65,8 +65,8 @@ var NAVTREEINDEX =
 "classLocalLeaderboardSaveData.html#a63ad50183f016a869cbd2f75861f1f7a",
 "classNotes_1_1Lane_1_1LaneRouter.html#aa0642eaacc1614ad67034b396923db4c",
 "classNotes_1_1Square_1_1SquareVisualTrail.html",
-"classResultsUI.html#a9d3557877d407e4b70859eebe56c5fe1",
-"classUnityMusicController.html#add151777659ada410522e0eaef62a832"
+"classResultsUI.html#a963b219d24ecc68050b513d73253a65f",
+"classUnityMusicController.html#adc60de8db1965171d75482025ab9a319"
 ];
 
 var SYNCONMSG = '패널 동기화를 비활성화하기 위해 클릭하십시오';

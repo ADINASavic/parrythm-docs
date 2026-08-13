@@ -1,5 +1,6 @@
 var NAVTREEINDEX8 =
 {
+"classUnityMusicController.html#adc60de8db1965171d75482025ab9a319":[1,0,133,13],
 "classUnityMusicController.html#add151777659ada410522e0eaef62a832":[1,0,133,12],
 "classUnityMusicController.html#ae6dacbca57bf9018059da6881e3d0804":[1,0,133,3],
 "classVoiceEventHandler.html":[1,0,134],
@@ -70,8 +71,8 @@ var NAVTREEINDEX8 =
 "functions_enum.html":[1,3,3],
 "functions_evnt.html":[1,3,5],
 "functions_f.html":[1,3,0,5],
-"functions_func.html":[1,3,1],
 "functions_func.html":[1,3,1,0],
+"functions_func.html":[1,3,1],
 "functions_func_b.html":[1,3,1,1],
 "functions_func_c.html":[1,3,1,2],
 "functions_func_d.html":[1,3,1,3],

@@ -19,7 +19,7 @@ var searchData=
   ['input_16',['input',['../classNotes_1_1Lane_1_1LaneOccupancyProvider.html#a63fb242bf6eae6f790b15b5ae8897051',1,'Notes::Lane::LaneOccupancyProvider']]],
   ['inputholdgrace_17',['inputHoldGrace',['../classInputRouter.html#a52e747e4fc9f1d67ab9e9c10ee236f16',1,'InputRouter']]],
   ['inputrouter_18',['inputrouter',['../classKeyboardInputManager.html#a2122447d8a25178d77ee7fe997662e35',1,'KeyboardInputManager.inputRouter'],['../classNoteSpawner.html#a24d530404d93a3319fa17b41574287b5',1,'NoteSpawner.inputRouter']]],
-  ['inputtimeoffsetms_19',['inputtimeoffsetms',['../classNoteSettings.html#acda247394dee11c0132d431953ba46ed',1,'NoteSettings.inputTimeOffsetMs'],['../classPlayerSettings.html#ace0ac2a58f2e578bc815cd992545b5ef',1,'PlayerSettings.inputTimeOffsetMs']]],
+  ['inputtimeoffsetms_19',['inputtimeoffsetms',['../classNoteSettings.html#acda247394dee11c0132d431953ba46ed',1,'NoteSettings.inputTimeOffsetMs'],['../classPlayerPreferences.html#a53270dc4e8c590f4982e16a991e1843f',1,'PlayerPreferences.inputTimeOffsetMs']]],
   ['intropanelcanvasgroup_20',['introPanelCanvasGroup',['../classCanvasSongIntroController.html#ac09b4663c8b6a50a22fd196431b7ef0e',1,'CanvasSongIntroController']]],
   ['isautoplay_21',['isAutoPlay',['../structPlayFinishedInput.html#a7f34d5ca4f179f98e5fdd31de21d9b79',1,'PlayFinishedInput']]],
   ['islong_22',['isLong',['../classLevelChartData_1_1NoteEvent.html#ac1709378fa69affb5b6a88ea4580ff72',1,'LevelChartData::NoteEvent']]],

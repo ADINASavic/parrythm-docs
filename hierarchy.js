@@ -148,7 +148,7 @@ var hierarchy =
     [ "SpecialBulletPattern.Params", "classSpecialBulletPattern_1_1Params.html", null ],
     [ "NoteSettingsJsonPatchUtility.PatchApplyResult", "structNoteSettingsJsonPatchUtility_1_1PatchApplyResult.html", null ],
     [ "PlayerNameSettings", "classPlayerNameSettings.html", null ],
-    [ "PlayerSettings", "classPlayerSettings.html", null ],
+    [ "PlayerPreferences", "classPlayerPreferences.html", null ],
     [ "PlayFinishedInput", "structPlayFinishedInput.html", null ],
     [ "ProfileSaveData", "classProfileSaveData.html", null ],
     [ "RatingEntry", "structRatingEntry.html", null ],

@@ -120,7 +120,7 @@ var NAVTREEINDEX0 =
 "ParrythmSteamRuntime_8cs.html":[2,0,0,0,13,0],
 "ParrythmVirtualPointer_8cs.html":[2,0,0,0,6,2],
 "PlayerNameSettings_8cs.html":[2,0,0,0,12,8],
-"PlayerSettings_8cs.html":[2,0,0,0,12,9],
+"PlayerPreferences_8cs.html":[2,0,0,0,12,9],
 "PlayerSpriteController_8cs.html":[2,0,0,0,5,17],
 "PreviewView_8cs.html":[2,0,0,0,2,11],
 "PreviewView_8cs.html#a061bfdea8217ea83181b2a1c74fdf1ef":[2,0,0,0,2,11,2],

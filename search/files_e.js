@@ -5,7 +5,7 @@ var searchData=
   ['parrythmsteamruntime_2ecs_2',['ParrythmSteamRuntime.cs',['../ParrythmSteamRuntime_8cs.html',1,'']]],
   ['parrythmvirtualpointer_2ecs_3',['ParrythmVirtualPointer.cs',['../ParrythmVirtualPointer_8cs.html',1,'']]],
   ['playernamesettings_2ecs_4',['PlayerNameSettings.cs',['../PlayerNameSettings_8cs.html',1,'']]],
-  ['playersettings_2ecs_5',['PlayerSettings.cs',['../PlayerSettings_8cs.html',1,'']]],
+  ['playerpreferences_2ecs_5',['PlayerPreferences.cs',['../PlayerPreferences_8cs.html',1,'']]],
   ['playerspritecontroller_2ecs_6',['PlayerSpriteController.cs',['../PlayerSpriteController_8cs.html',1,'']]],
   ['previewview_2ecs_7',['PreviewView.cs',['../PreviewView_8cs.html',1,'']]],
   ['profilesavemodels_2ecs_8',['ProfileSaveModels.cs',['../ProfileSaveModels_8cs.html',1,'']]]

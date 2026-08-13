@@ -9,5 +9,5 @@ var dir_fe283edb510b3a967d72ea2326c506d4 =
     [ "NoteSettingsPatchRepository.cs", "NoteSettingsPatchRepository_8cs.html", "NoteSettingsPatchRepository_8cs" ],
     [ "NoteSpeedScale.cs", "NoteSpeedScale_8cs.html", "NoteSpeedScale_8cs" ],
     [ "PlayerNameSettings.cs", "PlayerNameSettings_8cs.html", "PlayerNameSettings_8cs" ],
-    [ "PlayerSettings.cs", "PlayerSettings_8cs.html", "PlayerSettings_8cs" ]
+    [ "PlayerPreferences.cs", "PlayerPreferences_8cs.html", "PlayerPreferences_8cs" ]
 ];

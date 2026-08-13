@@ -17,7 +17,7 @@ var searchData=
   ['lanetocell_14',['LaneToCell',['../classNotes_1_1Lane_1_1LaneUtil.html#a3776f25de5f91efb1e3617949c8e9d79',1,'Notes::Lane::LaneUtil']]],
   ['laneutil_15',['LaneUtil',['../classNotes_1_1Lane_1_1LaneUtil.html',1,'Notes::Lane']]],
   ['laneutil_2ecs_16',['LaneUtil.cs',['../LaneUtil_8cs.html',1,'']]],
-  ['language_17',['language',['../classPlayerSettings.html#a41327dcb42ed929825e9c6823234fde9',1,'PlayerSettings']]],
+  ['language_17',['language',['../classPlayerPreferences.html#aa02dbfddbcf4f640f73265f741dafe46',1,'PlayerPreferences']]],
   ['lastholdmovetime_18',['lastHoldMoveTime',['../classCarouselController.html#a8446626862da951e8311aeea4189ab89',1,'CarouselController']]],
   ['lastmovesetime_19',['lastMoveSETime',['../classCarouselController.html#a8e801568bfa0d15c7559151bf54d22be',1,'CarouselController']]],
   ['latedowngood_20',['LateDownGood',['../classNotes_1_1Square_1_1SquareNoteJudge.html#a625af775558ed65067119adc0466639ea21b5c904efae98578bcdf2c4e31ca749',1,'Notes::Square::SquareNoteJudge']]],

@@ -48,7 +48,7 @@ var searchData=
   ['inputstateoverridemode_45',['InputStateOverrideMode',['../classParrythmInputRuntime.html#a2673a675e177e6d950eac0376ed5c2b3',1,'ParrythmInputRuntime']]],
   ['inputtimemapper_46',['InputTimeMapper',['../classInputTimeMapper.html',1,'']]],
   ['inputtimemapper_2ecs_47',['InputTimeMapper.cs',['../InputTimeMapper_8cs.html',1,'']]],
-  ['inputtimeoffsetms_48',['inputtimeoffsetms',['../classPlayerSettings.html#ace0ac2a58f2e578bc815cd992545b5ef',1,'PlayerSettings.inputTimeOffsetMs'],['../classNoteSettings.html#acda247394dee11c0132d431953ba46ed',1,'NoteSettings.inputTimeOffsetMs']]],
+  ['inputtimeoffsetms_48',['inputtimeoffsetms',['../classPlayerPreferences.html#a53270dc4e8c590f4982e16a991e1843f',1,'PlayerPreferences.inputTimeOffsetMs'],['../classNoteSettings.html#acda247394dee11c0132d431953ba46ed',1,'NoteSettings.inputTimeOffsetMs']]],
   ['inputupdate_49',['InputUpdate',['../classSliderNote.html#a0c6edc363da0f3f6f7e756f9e6cf96f6',1,'SliderNote']]],
   ['instance_50',['Instance',['../classParrythmInputRuntime.html#a3db7d946c0ec5d26f4c9203863ba01ef',1,'ParrythmInputRuntime']]],
   ['instanceornull_51',['InstanceOrNull',['../classParrythmInputRuntime.html#ab21c3d2b62982c981d673483b45d7965',1,'ParrythmInputRuntime']]],

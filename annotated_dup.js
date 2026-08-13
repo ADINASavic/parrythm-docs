@@ -117,7 +117,7 @@ var annotated_dup =
     [ "ParrythmInputRuntime", "classParrythmInputRuntime.html", "classParrythmInputRuntime" ],
     [ "ParrythmVirtualPointer", "classParrythmVirtualPointer.html", "classParrythmVirtualPointer" ],
     [ "PlayerNameSettings", "classPlayerNameSettings.html", "classPlayerNameSettings" ],
-    [ "PlayerSettings", "classPlayerSettings.html", "classPlayerSettings" ],
+    [ "PlayerPreferences", "classPlayerPreferences.html", "classPlayerPreferences" ],
     [ "PlayerSpriteController", "classPlayerSpriteController.html", "classPlayerSpriteController" ],
     [ "PlayFinishedInput", "structPlayFinishedInput.html", "structPlayFinishedInput" ],
     [ "PreviewView", "classPreviewView.html", "classPreviewView" ],

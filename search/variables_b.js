@@ -2,7 +2,7 @@ var searchData=
 [
   ['label_0',['label',['../classRatingLabel.html#a4d3625e486d5b3baea28efb29a54a6ed',1,'RatingLabel']]],
   ['lanerouter_1',['lanerouter',['../classKeyboardInputManager.html#a91cd884115d3b06533e47e685cd77de2',1,'KeyboardInputManager.laneRouter'],['../classNoteSpawner.html#a73750fa3f2a2063ae77faf5c62b96e2a',1,'NoteSpawner.laneRouter']]],
-  ['language_2',['language',['../classPlayerSettings.html#a41327dcb42ed929825e9c6823234fde9',1,'PlayerSettings']]],
+  ['language_2',['language',['../classPlayerPreferences.html#aa02dbfddbcf4f640f73265f741dafe46',1,'PlayerPreferences']]],
   ['lastholdmovetime_3',['lastHoldMoveTime',['../classCarouselController.html#a8446626862da951e8311aeea4189ab89',1,'CarouselController']]],
   ['lastmovesetime_4',['lastMoveSETime',['../classCarouselController.html#a8e801568bfa0d15c7559151bf54d22be',1,'CarouselController']]],
   ['leadfillcolor_5',['leadFillColor',['../classNoteSettings.html#aa4667d2877f8f9a664379127695d22ae',1,'NoteSettings']]],
