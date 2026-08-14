@@ -1,7 +1,5 @@
 var NAVTREEINDEX6 =
 {
-"classPreviewView.html#a1030b9f2e3660d55278f5741e86900cf":[1,0,95,16],
-"classPreviewView.html#a1d4fb007055032ec332f6aa9a5c99164":[1,0,95,13],
 "classPreviewView.html#a24ba681f5b00297f2022bc302b0e22de":[1,0,95,15],
 "classPreviewView.html#a2c0bce93e8990546518dac8e9f1435ca":[1,0,95,17],
 "classPreviewView.html#a5db3e03dd21ad50db2d7b8f7094f3013":[1,0,95,23],
@@ -249,5 +247,7 @@ var NAVTREEINDEX6 =
 "classTextExitHoldIndicator.html#a95ee47ef5d570920a033657690ab8bfe":[1,0,116,1],
 "classTextExitHoldIndicator.html#a9ef43cc571a3cd3b1acd83718d5fd72c":[1,0,116,0],
 "classTextExitHoldIndicator.html#aa71611b2fd86986afc4f33ef6504de47":[1,0,116,5],
-"classTextExitHoldIndicator.html#ab922538f50f066a4b715a8ace28917a4":[1,0,116,2]
+"classTextExitHoldIndicator.html#ab922538f50f066a4b715a8ace28917a4":[1,0,116,2],
+"classTextExitHoldIndicator.html#ae3731e4fd0322034d77fe7bbc7f3055b":[1,0,116,4],
+"classTitleScreenController.html":[1,0,117]
 };

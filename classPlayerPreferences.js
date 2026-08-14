@@ -7,7 +7,6 @@ var classPlayerPreferences =
     [ "inputTimeOffsetMs", "classPlayerPreferences.html#a53270dc4e8c590f4982e16a991e1843f", null ],
     [ "judgeTimeOffsetMs", "classPlayerPreferences.html#a9b2fcd54ab95008efb585c10c3abbd52", null ],
     [ "language", "classPlayerPreferences.html#aa02dbfddbcf4f640f73265f741dafe46", null ],
-    [ "masterVolume", "classPlayerPreferences.html#a0f870612cc5bf3c9348625b1178f3b80", null ],
     [ "mouseSensitivity", "classPlayerPreferences.html#a2b608679673f1729da0e9dfe6985231c", null ],
     [ "mouseUseSensitivity", "classPlayerPreferences.html#a00d822b79a772f7e564c32a412d67b7c", null ],
     [ "noteAppearLead", "classPlayerPreferences.html#a58c173b8f3e8fe7bcc19a01d74a8c7b1", null ],

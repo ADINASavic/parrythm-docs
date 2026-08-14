@@ -1,7 +1,5 @@
 var NAVTREEINDEX7 =
 {
-"classTextExitHoldIndicator.html#ae3731e4fd0322034d77fe7bbc7f3055b":[1,0,116,4],
-"classTitleScreenController.html":[1,0,117],
 "classTitleScreenController.html#afec1ca60418a1ddf4d00c4f7a93c79fd":[1,0,117,0],
 "classUITrailGraphic.html":[1,0,118],
 "classUITrailGraphic.html#a0cffbce9d814b66a63b25296d7bec530":[1,0,118,13],
@@ -94,8 +92,8 @@ var NAVTREEINDEX7 =
 "dir_fdc991a7e589e71f22acc2dbedfeffe5.html":[2,0,0,0,8,1],
 "dir_fe283edb510b3a967d72ea2326c506d4.html":[2,0,0,0,12],
 "files.html":[2,0],
-"functions.html":[1,3,0],
 "functions.html":[1,3,0,0],
+"functions.html":[1,3,0],
 "functions_b.html":[1,3,0,1],
 "functions_c.html":[1,3,0,2],
 "functions_d.html":[1,3,0,3],
@@ -103,8 +101,8 @@ var NAVTREEINDEX7 =
 "functions_enum.html":[1,3,3],
 "functions_evnt.html":[1,3,5],
 "functions_f.html":[1,3,0,5],
-"functions_func.html":[1,3,1,0],
 "functions_func.html":[1,3,1],
+"functions_func.html":[1,3,1,0],
 "functions_func_b.html":[1,3,1,1],
 "functions_func_c.html":[1,3,1,2],
 "functions_func_d.html":[1,3,1,3],

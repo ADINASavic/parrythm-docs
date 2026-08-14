@@ -9,7 +9,6 @@ var classDeveloperSettings =
     [ "circleLineColor", "classDeveloperSettings.html#a42b87e60d8c95193586163a01aa116d0", null ],
     [ "circleLineWidth", "classDeveloperSettings.html#a8375aae32709981e29a72c67e618dd8b", null ],
     [ "circleRadius", "classDeveloperSettings.html#add191fdffad7c690ad8600696886b5ff", null ],
-    [ "circleSegments", "classDeveloperSettings.html#a7bc1d8dbb201de09772f889378d25a21", null ],
     [ "circleTrailFillColor", "classDeveloperSettings.html#a2bbd14e42094b7e2d179358ade1cdfaf", null ],
     [ "circleTrailGlowColor", "classDeveloperSettings.html#a3198a71355d153de8354887515763f4f", null ],
     [ "circleTrailGoodFlashColor", "classDeveloperSettings.html#ad0cf8b768a62eddb41ed83c06283a179", null ],
