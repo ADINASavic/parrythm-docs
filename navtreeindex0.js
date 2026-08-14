@@ -60,9 +60,10 @@ var NAVTREEINDEX0 =
 "GridNoteHandler_8cs.html":[2,0,0,0,3,1,2],
 "IGaugeCommand_8cs.html":[2,0,0,0,5,10],
 "IGaugeCommand_8cs.html#a40492e94222bf203cfa823f5cf7594fb":[2,0,0,0,5,10,1],
+"IGaugeCommand_8cs.html#a40492e94222bf203cfa823f5cf7594fba0c6ad70beb3a7e76c3fc7adab7c46acc":[2,0,0,0,5,10,1,2],
 "IGaugeCommand_8cs.html#a40492e94222bf203cfa823f5cf7594fba2581014f0e288d0f2c4eba245148b3ff":[2,0,0,0,5,10,1,1],
 "IGaugeCommand_8cs.html#a40492e94222bf203cfa823f5cf7594fba56cdd7e9e3cef1974f4075c03a80332d":[2,0,0,0,5,10,1,0],
-"IGaugeCommand_8cs.html#a40492e94222bf203cfa823f5cf7594fbae7ddb7cd777b59610b220bcfa80bd95f":[2,0,0,0,5,10,1,2],
+"IGaugeCommand_8cs.html#a40492e94222bf203cfa823f5cf7594fbae7ddb7cd777b59610b220bcfa80bd95f":[2,0,0,0,5,10,1,3],
 "ILeaderboardService_8cs.html":[2,0,0,0,11,1,1],
 "INoteEventHandler_8cs.html":[2,0,0,0,3,1,3],
 "INoteInit_8cs.html":[2,0,0,0,8,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX0 =
 "classCameraTweenTrack.html#ad8499530abd2e9dff4b4b089a7196b0f":[1,0,13,1],
 "classChartEditorController.html":[1,0,14],
 "classChartEditorController.html#a762abf24de9eef4e3881f9fc6b5d303f":[1,0,14,0],
-"classChartEditorController.html#a8264bd583caaf492aab75a668f981e94":[1,0,14,1],
-"classChartEditorController.html#aa7f6111df4b9edcfa33ac5a9f59f30d8":[1,0,14,3]
+"classChartEditorController.html#a8264bd583caaf492aab75a668f981e94":[1,0,14,1]
 };

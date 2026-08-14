@@ -1,5 +1,7 @@
 var NAVTREEINDEX6 =
 {
+"classPreviewView.html#a85592786c9e0118faef9194380fe744e":[1,0,95,9],
+"classPreviewView.html#aa2b4725ef591fe0e503e1564ecfba904":[1,0,95,11],
 "classPreviewView.html#aa66775f4a77e5eb2f82287a2c100f5a2":[1,0,95,6],
 "classPreviewView.html#aaa4325bacabd6684b795c9f9c8c6ae7b":[1,0,95,22],
 "classPreviewView.html#aac25dca6fad0e2fd4411615b13c11f51":[1,0,95,18],
@@ -247,7 +249,5 @@ var NAVTREEINDEX6 =
 "classTitleScreenController.html#afec1ca60418a1ddf4d00c4f7a93c79fd":[1,0,117,0],
 "classUITrailGraphic.html":[1,0,118],
 "classUITrailGraphic.html#a0cffbce9d814b66a63b25296d7bec530":[1,0,118,13],
-"classUITrailGraphic.html#a33ec290945990a8be7eec06bffd5650b":[1,0,118,7],
-"classUITrailGraphic.html#a3cdfe650c607aa756502b18fdfa51e00":[1,0,118,2],
-"classUITrailGraphic.html#a48f488185be6a629c684370f0d193548":[1,0,118,9]
+"classUITrailGraphic.html#a33ec290945990a8be7eec06bffd5650b":[1,0,118,7]
 };

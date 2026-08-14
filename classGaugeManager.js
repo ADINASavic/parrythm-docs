@@ -10,6 +10,7 @@ var classGaugeManager =
     [ "comboGaugeText", "classGaugeManager.html#a7c0c443eb137da1376c79234ed034777", null ],
     [ "gaugeSlider", "classGaugeManager.html#a715efa01859448cf7c263b888728a65a", null ],
     [ "gaugeText", "classGaugeManager.html#a05ed51628e4efdd4521cca7c3ca67da2", null ],
+    [ "goodGaugeLoss", "classGaugeManager.html#acedf86756be0e70ac36132c18cb7ceda", null ],
     [ "maxGauge", "classGaugeManager.html#ad1bc05b87fe6a5b5351e6357636597ff", null ],
     [ "missGaugeLoss", "classGaugeManager.html#adff59e0dd7e548491aa3755f40c3ca69", null ],
     [ "parryPerfectGaugeGain", "classGaugeManager.html#a3c4195535762782c37c65a2e704ce0fd", null ],
