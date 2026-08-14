@@ -53,7 +53,7 @@ var searchData=
   ['buildroundedrectmesh_50',['BuildRoundedRectMesh',['../classMeshUtil.html#a40048354fcfb668eaa0aac1ec50ac93c',1,'MeshUtil']]],
   ['buildroundedrectringmesh_51',['BuildRoundedRectRingMesh',['../classMeshUtil.html#ad164afc31383df6e0f9d1e2298357e5d',1,'MeshUtil']]],
   ['bullet_52',['Bullet',['../classLevelChartData.html#ada812263c42510ed1c0fb9c2eb528a3fa7533f96ec01fd81438833f71539c7d4e',1,'LevelChartData']]],
-  ['bulletcurved_53',['bulletcurved',['../classLevelChartData_1_1NoteEvent.html#a666d77e0410c1e4cebb8245e131dc99c',1,'LevelChartData.NoteEvent.bulletCurved'],['../classPreviewView.html#a85592786c9e0118faef9194380fe744e',1,'PreviewView.BulletCurved']]],
+  ['bulletcurved_53',['bulletcurved',['../classPreviewView.html#a85592786c9e0118faef9194380fe744e',1,'PreviewView.BulletCurved'],['../classLevelChartData_1_1NoteEvent.html#a666d77e0410c1e4cebb8245e131dc99c',1,'LevelChartData.NoteEvent.bulletCurved']]],
   ['bulletdespawnpos_54',['bulletDespawnPos',['../classLevelChartData_1_1NoteEvent.html#aebc3f7171647d37ec9d97cb8740feba2',1,'LevelChartData::NoteEvent']]],
   ['bulletdiameterpx_55',['bulletDiameterPx',['../classChartEditorSettings.html#a6e14768d94bc4104735f8ff7b0a0e8a9',1,'ChartEditorSettings']]],
   ['bulletdirpoint_56',['BulletDirPoint',['../classPreviewView.html#a03f29858bad8fb95c8d59ef94dee08a1',1,'PreviewView']]],

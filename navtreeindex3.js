@@ -1,5 +1,6 @@
 var NAVTREEINDEX3 =
 {
+"classJudge.html#a41086bcbe11a9a4c51b4d989fec6948f":[1,0,57,7],
 "classJudge.html#a420d7d313b02df052975a6bb8a4fbcab":[1,0,57,3],
 "classJudge.html#a44c9727ba6964965889477f6656de5e5":[1,0,57,31],
 "classJudge.html#a4c71bfb97eecc3eb7887112bd134dd16":[1,0,57,24],
@@ -248,6 +249,5 @@ var NAVTREEINDEX3 =
 "classNoteBase.html#a1d408919ea19f154e23c9ca4a7806ec6":[1,0,78,10],
 "classNoteBase.html#a29449bad359a0f237b94efbe10a6e537":[1,0,78,8],
 "classNoteBase.html#a93fc2dce778edc1645c206bf9f6a9279":[1,0,78,3],
-"classNoteBase.html#aa3070cce12df6f48a2038a9f57a543a5":[1,0,78,0],
-"classNoteBase.html#ab83244e39ec074fc78d312c22d46bf7b":[1,0,78,1]
+"classNoteBase.html#aa3070cce12df6f48a2038a9f57a543a5":[1,0,78,0]
 };
