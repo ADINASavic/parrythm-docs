@@ -2,6 +2,7 @@ var searchData=
 [
   ['reason_0',['Reason',['../classParrythmInputRuntime_1_1StateOverrideHandle.html#a390dae12e5efa5c7f54dc770303f8231',1,'ParrythmInputRuntime::StateOverrideHandle']]],
   ['resultsmenu_1',['ResultsMenu',['../classParrythmInputActions.html#ad82375363c79e6d962a355fb58b6678c',1,'ParrythmInputActions']]],
-  ['rightclick_2',['RightClick',['../classParrythmInputActions_1_1UIActions.html#a2cb5e15f9556590d5eff209cfcdfaf7b',1,'ParrythmInputActions::UIActions']]],
-  ['rootdirectory_3',['RootDirectory',['../classGameSavePaths.html#a7b76aeece8f414d088067f1664762cd2',1,'GameSavePaths']]]
+  ['retry_2',['Retry',['../classParrythmInputActions_1_1ResultsMenuActions.html#a56e0b8a8be2e2569ac95574122a0428c',1,'ParrythmInputActions::ResultsMenuActions']]],
+  ['rightclick_3',['RightClick',['../classParrythmInputActions_1_1UIActions.html#a2cb5e15f9556590d5eff209cfcdfaf7b',1,'ParrythmInputActions::UIActions']]],
+  ['rootdirectory_4',['RootDirectory',['../classGameSavePaths.html#a7b76aeece8f414d088067f1664762cd2',1,'GameSavePaths']]]
 ];

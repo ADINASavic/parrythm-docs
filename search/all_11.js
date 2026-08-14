@@ -53,13 +53,14 @@ var searchData=
   ['resultsui_50',['resultsui',['../classChartEndWatcher.html#ae64e4c9ccdeaf90fffe68a7ca15d91e9',1,'ChartEndWatcher.resultsUI'],['../classGameBootstrap.html#ae755713acb6725d49e7ba92a7733b4aa',1,'GameBootstrap.resultsUI']]],
   ['resumebutton_51',['resumeButton',['../classTextExitHoldIndicator.html#a7b56e2df48fb6e7a8ef5eae44fbb4561',1,'TextExitHoldIndicator']]],
   ['resyncthresholdsec_52',['resyncThresholdSec',['../classUnityMusicController.html#a40eb86ff8782fc4cbe058aa7ab3dd33f',1,'UnityMusicController']]],
-  ['retrybutton_53',['retryButton',['../classTextExitHoldIndicator.html#ae3731e4fd0322034d77fe7bbc7f3055b',1,'TextExitHoldIndicator']]],
-  ['right_54',['Right',['../classBulletNote.html#a34dae04d2d7cf44ab823c5b2ac55b83ba92b09c7c48c520c3c55e497875da437c',1,'BulletNote']]],
-  ['rightclick_55',['RightClick',['../classParrythmInputActions_1_1UIActions.html#a2cb5e15f9556590d5eff209cfcdfaf7b',1,'ParrythmInputActions::UIActions']]],
-  ['ring_56',['Ring',['../classSpecialBulletPattern.html#a66f61911fec908f48467572f9d7dcc20ad4db177c94738b72bf9ce61e988ab1f1',1,'SpecialBulletPattern']]],
-  ['rootdirectory_57',['RootDirectory',['../classGameSavePaths.html#a7b76aeece8f414d088067f1664762cd2',1,'GameSavePaths']]],
-  ['round_58',['Round',['../classCurveUtil.html#a6814ffee488b79e6ebb2877f6293e652ab7f41fc1412ad2ee75e9b2635d3b9d5c',1,'CurveUtil']]],
-  ['router_59',['router',['../classNoteBase.html#afe6e6bbc9b77e5c80eaaeb5c48c4a35c',1,'NoteBase']]],
-  ['row_60',['Row',['../classChartEditorUi.html#abd91aedb20a3a11d57f2ad265925aa2c',1,'ChartEditorUi']]],
-  ['rows_61',['rows',['../classGridManager.html#a7a965b828e1b175ffd9151629ea50e2a',1,'GridManager']]]
+  ['retry_53',['Retry',['../classParrythmInputActions_1_1ResultsMenuActions.html#a56e0b8a8be2e2569ac95574122a0428c',1,'ParrythmInputActions::ResultsMenuActions']]],
+  ['retrybutton_54',['retryButton',['../classTextExitHoldIndicator.html#ae3731e4fd0322034d77fe7bbc7f3055b',1,'TextExitHoldIndicator']]],
+  ['right_55',['Right',['../classBulletNote.html#a34dae04d2d7cf44ab823c5b2ac55b83ba92b09c7c48c520c3c55e497875da437c',1,'BulletNote']]],
+  ['rightclick_56',['RightClick',['../classParrythmInputActions_1_1UIActions.html#a2cb5e15f9556590d5eff209cfcdfaf7b',1,'ParrythmInputActions::UIActions']]],
+  ['ring_57',['Ring',['../classSpecialBulletPattern.html#a66f61911fec908f48467572f9d7dcc20ad4db177c94738b72bf9ce61e988ab1f1',1,'SpecialBulletPattern']]],
+  ['rootdirectory_58',['RootDirectory',['../classGameSavePaths.html#a7b76aeece8f414d088067f1664762cd2',1,'GameSavePaths']]],
+  ['round_59',['Round',['../classCurveUtil.html#a6814ffee488b79e6ebb2877f6293e652ab7f41fc1412ad2ee75e9b2635d3b9d5c',1,'CurveUtil']]],
+  ['router_60',['router',['../classNoteBase.html#afe6e6bbc9b77e5c80eaaeb5c48c4a35c',1,'NoteBase']]],
+  ['row_61',['Row',['../classChartEditorUi.html#abd91aedb20a3a11d57f2ad265925aa2c',1,'ChartEditorUi']]],
+  ['rows_62',['rows',['../classGridManager.html#a7a965b828e1b175ffd9151629ea50e2a',1,'GridManager']]]
 ];

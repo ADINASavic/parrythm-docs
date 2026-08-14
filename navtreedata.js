@@ -64,8 +64,8 @@ var NAVTREEINDEX =
 "classJudge.html#a420d7d313b02df052975a6bb8a4fbcab",
 "classNoteBase.html#acb6d6f71c7213b562db924e57c3ce0e7",
 "classNotes_1_1Square_1_1SquareVisualBase.html#aefd6f549844e0fd61d778266b2a0746b",
-"classPreviewView.html#ab50abf28e1a45e115b6f0e58aeeaeb26",
-"classUITrailGraphic.html#aac81663fb286858ef71671caf75b298e"
+"classPreviewView.html#aac25dca6fad0e2fd4411615b13c11f51",
+"classUITrailGraphic.html#aa883920b466b913efc35fa96eb7ecff0"
 ];
 
 var SYNCONMSG = '패널 동기화를 비활성화하기 위해 클릭하십시오';
