@@ -4,7 +4,7 @@ var searchData=
   ['line_1',['Line',['../classChartEditorDraw.html#a09b3dc7216ccee767663fec0dfc39ae9',1,'ChartEditorDraw']]],
   ['linear_2',['Linear',['../classEaseUtil.html#a8d962f58609e98e09c53e5bfda550e5c',1,'EaseUtil']]],
   ['listsongfolders_3',['ListSongFolders',['../classChartEditorSong.html#a450145c167acbdc324bf83afa994b903',1,'ChartEditorSong']]],
-  ['load_4',['Load',['../classLocalScoreSaveService.html#a36f373f8b6b5b0bd1ff2ade5d75cabaa',1,'LocalScoreSaveService']]],
+  ['load_4',['load',['../classLocalScoreSaveService.html#a36f373f8b6b5b0bd1ff2ade5d75cabaa',1,'LocalScoreSaveService.Load()'],['../classPlayerPreferencesService.html#ad92b9e997568916c8237d2c2120429f1',1,'PlayerPreferencesService.Load()']]],
   ['loadaudio_5',['LoadAudio',['../classChartEditorSong.html#a510818681b29331b7776534e2ab18b79',1,'ChartEditorSong']]],
   ['loadempty_6',['LoadEmpty',['../classChartEditorDocument.html#af0cc9892f627ea6a3ca35f2bedb9789a',1,'ChartEditorDocument']]],
   ['loadfolder_7',['LoadFolder',['../classChartEditorSong.html#a36b7f99c491117335f8a515a30d6258e',1,'ChartEditorSong']]],

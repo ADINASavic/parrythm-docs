@@ -3,10 +3,12 @@ var classGameSavePaths =
     [ "LocalLeaderboardsFileName", "classGameSavePaths.html#ac8894c4b03c18fa3935bedfa0deef489", null ],
     [ "LocalScoresFileName", "classGameSavePaths.html#aab245c1102aa64378effef6d8dc4ca34", null ],
     [ "ManifestFileName", "classGameSavePaths.html#a118df65e8e6ea6c5ed7869981e9ce6e9", null ],
+    [ "PlayerPreferencesFileName", "classGameSavePaths.html#a202ff255a4264295d9d868cfcb5c8361", null ],
     [ "ProfileFileName", "classGameSavePaths.html#a0a32e840afad806556da29f1821c4bea", null ],
     [ "LocalLeaderboardsPath", "classGameSavePaths.html#aae9bd8c2167ab8e2830b6d15a9b31ab3", null ],
     [ "LocalScoresPath", "classGameSavePaths.html#af2ae1632623dd5805202afaaf6c0d58a", null ],
     [ "ManifestPath", "classGameSavePaths.html#a63550fb7487311ca03758a1dd7805859", null ],
+    [ "PlayerPreferencesPath", "classGameSavePaths.html#ae394ff7b375dfaa2bec17cb7e1ff4cce", null ],
     [ "ProfilePath", "classGameSavePaths.html#aae307387deb85dfbdc30362242eb478d", null ],
     [ "RootDirectory", "classGameSavePaths.html#a7b76aeece8f414d088067f1664762cd2", null ]
 ];

@@ -1,5 +1,11 @@
 var NAVTREEINDEX7 =
 {
+"classTextExitHoldIndicator.html#ae3731e4fd0322034d77fe7bbc7f3055b":[1,0,116,4],
+"classTitleScreenController.html":[1,0,117],
+"classTitleScreenController.html#afec1ca60418a1ddf4d00c4f7a93c79fd":[1,0,117,0],
+"classUITrailGraphic.html":[1,0,118],
+"classUITrailGraphic.html#a0cffbce9d814b66a63b25296d7bec530":[1,0,118,13],
+"classUITrailGraphic.html#a33ec290945990a8be7eec06bffd5650b":[1,0,118,7],
 "classUITrailGraphic.html#a3cdfe650c607aa756502b18fdfa51e00":[1,0,118,2],
 "classUITrailGraphic.html#a48f488185be6a629c684370f0d193548":[1,0,118,9],
 "classUITrailGraphic.html#a59f8f0edd159b5f6be8f6f2f371ccf35":[1,0,118,6],
@@ -139,8 +145,8 @@ var NAVTREEINDEX7 =
 "functions_t.html":[1,3,0,19],
 "functions_u.html":[1,3,0,20],
 "functions_v.html":[1,3,0,21],
-"functions_vars.html":[1,3,2,0],
 "functions_vars.html":[1,3,2],
+"functions_vars.html":[1,3,2,0],
 "functions_vars_b.html":[1,3,2,1],
 "functions_vars_c.html":[1,3,2,2],
 "functions_vars_d.html":[1,3,2,3],

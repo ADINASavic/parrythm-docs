@@ -40,7 +40,7 @@ var searchData=
   ['linepoints_37',['linePoints',['../classSpecialBulletPattern_1_1Params.html#a08a53e6cecdadfaa2d7cf1587020b18f',1,'SpecialBulletPattern::Params']]],
   ['linewidth_38',['lineWidth',['../classGridDrawer.html#a9a76b83cd784dc2dc6d89d97a0da8f76',1,'GridDrawer']]],
   ['listsongfolders_39',['ListSongFolders',['../classChartEditorSong.html#a450145c167acbdc324bf83afa994b903',1,'ChartEditorSong']]],
-  ['load_40',['Load',['../classLocalScoreSaveService.html#a36f373f8b6b5b0bd1ff2ade5d75cabaa',1,'LocalScoreSaveService']]],
+  ['load_40',['load',['../classLocalScoreSaveService.html#a36f373f8b6b5b0bd1ff2ade5d75cabaa',1,'LocalScoreSaveService.Load()'],['../classPlayerPreferencesService.html#ad92b9e997568916c8237d2c2120429f1',1,'PlayerPreferencesService.Load()']]],
   ['loadaudio_41',['LoadAudio',['../classChartEditorSong.html#a510818681b29331b7776534e2ab18b79',1,'ChartEditorSong']]],
   ['loadempty_42',['LoadEmpty',['../classChartEditorDocument.html#af0cc9892f627ea6a3ca35f2bedb9789a',1,'ChartEditorDocument']]],
   ['loadfolder_43',['LoadFolder',['../classChartEditorSong.html#a36b7f99c491117335f8a515a30d6258e',1,'ChartEditorSong']]],

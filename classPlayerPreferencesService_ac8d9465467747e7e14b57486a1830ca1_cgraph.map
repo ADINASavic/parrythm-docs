@@ -1,0 +1,11 @@
+<map id="PlayerPreferencesService.Save" name="PlayerPreferencesService.Save">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,229,60"/>
+<area shape="rect" id="Node000002" href="$classPlayerPreferences.html#a5a4f82675d24e4890531ca4490c76277" title="Clamps in place so the in&#45;memory copy always matches what is on disk." alt="" coords="277,5,473,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,32,263,28,264,33,229,37"/>
+<area shape="rect" id="Node000003" href="$classLocalSettingsSaveStorage.html#aad8de471d4ed920a72d56a210230363a" title=" " alt="" coords="278,55,473,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,57,265,61,264,66,229,62"/>
+<area shape="rect" id="Node000004" href="$classLocalSettingsSaveStorage.html#a83f349c86c884c85ae233d2ee1600627" title=" " alt="" coords="521,23,716,63"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="472,60,507,55,508,61,473,65"/>
+<area shape="rect" id="Node000005" href="$classLocalSettingsSaveStorage.html#a04098d037e8125d33736346f2199394e" title=" " alt="" coords="521,87,716,127"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="473,85,508,90,507,95,472,91"/>
+</map>

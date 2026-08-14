@@ -97,15 +97,23 @@ $(document).ready(function(){initNavTree('classPlayerPreferences.html',''); init
 
 <div class="header">
   <div class="summary">
+<a href="#pub-static-methods">정적 Public 멤버 함수</a> &#124;
 <a href="#pub-attribs">Public 속성</a> &#124;
+<a href="#pub-static-attribs">정적 Public 속성</a> &#124;
 <a href="classPlayerPreferences-members.html">모든 멤버 목록</a>  </div>
   <div class="headertitle"><div class="title">PlayerPreferences 클래스 참조</div></div>
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+정적 Public 멤버 함수</h2></td></tr>
+<tr class="memitem:a5a4f82675d24e4890531ca4490c76277" id="r_a5a4f82675d24e4890531ca4490c76277"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="classPlayerPreferences.html">PlayerPreferences</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlayerPreferences.html#a5a4f82675d24e4890531ca4490c76277">Sanitize</a> (<a class="el" href="classPlayerPreferences.html">PlayerPreferences</a> preferences)</td></tr>
+<tr class="memdesc:a5a4f82675d24e4890531ca4490c76277"><td class="mdescLeft">&#160;</td><td class="mdescRight">Clamps in place so the in-memory copy always matches what is on disk.  <br /></td></tr>
+<tr class="separator:a5a4f82675d24e4890531ca4490c76277"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public 속성</h2></td></tr>
-<tr class="memitem:ab73c5c5463ea8abe19104f741226432f" id="r_ab73c5c5463ea8abe19104f741226432f"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlayerPreferences.html#ab73c5c5463ea8abe19104f741226432f">version</a> = 1</td></tr>
+<tr class="memitem:ab73c5c5463ea8abe19104f741226432f" id="r_ab73c5c5463ea8abe19104f741226432f"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlayerPreferences.html#ab73c5c5463ea8abe19104f741226432f">version</a> = <a class="el" href="classPlayerPreferences.html#a9ae2d238c0597600dbc6c811366e3cf5">CurrentSchemaVersion</a></td></tr>
 <tr class="separator:ab73c5c5463ea8abe19104f741226432f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a53270dc4e8c590f4982e16a991e1843f" id="r_a53270dc4e8c590f4982e16a991e1843f"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlayerPreferences.html#a53270dc4e8c590f4982e16a991e1843f">inputTimeOffsetMs</a> = 0f</td></tr>
 <tr class="separator:a53270dc4e8c590f4982e16a991e1843f"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -129,7 +137,53 @@ Public 속성</h2></td></tr>
 <tr class="separator:af4d1a1820d68a88a56da62e3dd3cf9ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa02dbfddbcf4f640f73265f741dafe46" id="r_aa02dbfddbcf4f640f73265f741dafe46"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlayerPreferences.html#aa02dbfddbcf4f640f73265f741dafe46">language</a> = &quot;en&quot;</td></tr>
 <tr class="separator:aa02dbfddbcf4f640f73265f741dafe46"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-attribs" name="pub-static-attribs"></a>
+정적 Public 속성</h2></td></tr>
+<tr class="memitem:a9ae2d238c0597600dbc6c811366e3cf5" id="r_a9ae2d238c0597600dbc6c811366e3cf5"><td class="memItemLeft" align="right" valign="top">const int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPlayerPreferences.html#a9ae2d238c0597600dbc6c811366e3cf5">CurrentSchemaVersion</a> = 1</td></tr>
+<tr class="separator:a9ae2d238c0597600dbc6c811366e3cf5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">멤버 함수 문서화</h2>
+<a id="a5a4f82675d24e4890531ca4490c76277" name="a5a4f82675d24e4890531ca4490c76277"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5a4f82675d24e4890531ca4490c76277">&#9670;&#160;</a></span>Sanitize()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="el" href="classPlayerPreferences.html">PlayerPreferences</a> PlayerPreferences.Sanitize </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classPlayerPreferences.html">PlayerPreferences</a>&#160;</td>
+          <td class="paramname"><em>preferences</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Clamps in place so the in-memory copy always matches what is on disk. </p>
+<div class="dynheader">
+이 함수를 호출하는 함수들에 대한 그래프입니다.:</div>
+<div class="dyncontent">
+<div class="center"><img src="classPlayerPreferences_a5a4f82675d24e4890531ca4490c76277_icgraph.png" border="0" usemap="#aclassPlayerPreferences_a5a4f82675d24e4890531ca4490c76277_icgraph" alt=""/></div>
+<map name="aclassPlayerPreferences_a5a4f82675d24e4890531ca4490c76277_icgraph" id="aclassPlayerPreferences_a5a4f82675d24e4890531ca4490c76277_icgraph">
+<area shape="rect" title="Clamps in place so the in&#45;memory copy always matches what is on disk." alt="" coords="277,31,473,56"/>
+<area shape="rect" href="classPlayerPreferencesService.html#ad92b9e997568916c8237d2c2120429f1" title=" " alt="" coords="6,5,229,31"/>
+<area shape="poly" title=" " alt="" coords="263,35,228,32,229,26,264,30"/>
+<area shape="rect" href="classPlayerPreferencesService.html#ac8d9465467747e7e14b57486a1830ca1" title=" " alt="" coords="5,55,229,80"/>
+<area shape="poly" title=" " alt="" coords="264,56,230,60,229,54,263,51"/>
+</map>
+</div>
+
+</div>
+</div>
 <h2 class="groupheader">멤버 데이터 문서화</h2>
 <a id="af4d1a1820d68a88a56da62e3dd3cf9ac" name="af4d1a1820d68a88a56da62e3dd3cf9ac"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#af4d1a1820d68a88a56da62e3dd3cf9ac">&#9670;&#160;</a></span>bgaBrightness</h2>
@@ -155,6 +209,28 @@ Public 속성</h2></td></tr>
           <td class="memname">float PlayerPreferences.bgmVolume = 1f</td>
         </tr>
       </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a9ae2d238c0597600dbc6c811366e3cf5" name="a9ae2d238c0597600dbc6c811366e3cf5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9ae2d238c0597600dbc6c811366e3cf5">&#9670;&#160;</a></span>CurrentSchemaVersion</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">const int PlayerPreferences.CurrentSchemaVersion = 1</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
@@ -292,7 +368,7 @@ Public 속성</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">int PlayerPreferences.version = 1</td>
+          <td class="memname">int PlayerPreferences.version = <a class="el" href="classPlayerPreferences.html#a9ae2d238c0597600dbc6c811366e3cf5">CurrentSchemaVersion</a></td>
         </tr>
       </table>
 </div><div class="memdoc">

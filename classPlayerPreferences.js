@@ -1,7 +1,9 @@
 var classPlayerPreferences =
 [
+    [ "Sanitize", "classPlayerPreferences.html#a5a4f82675d24e4890531ca4490c76277", null ],
     [ "bgaBrightness", "classPlayerPreferences.html#af4d1a1820d68a88a56da62e3dd3cf9ac", null ],
     [ "bgmVolume", "classPlayerPreferences.html#aae7edf989d75685ed6a2c5a7c282f73a", null ],
+    [ "CurrentSchemaVersion", "classPlayerPreferences.html#a9ae2d238c0597600dbc6c811366e3cf5", null ],
     [ "inputTimeOffsetMs", "classPlayerPreferences.html#a53270dc4e8c590f4982e16a991e1843f", null ],
     [ "judgeTimeOffsetMs", "classPlayerPreferences.html#a9b2fcd54ab95008efb585c10c3abbd52", null ],
     [ "language", "classPlayerPreferences.html#aa02dbfddbcf4f640f73265f741dafe46", null ],
