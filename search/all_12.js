@@ -56,7 +56,7 @@ var searchData=
   ['setsortingorders_53',['SetSortingOrders',['../classApproachCircleVisual.html#a3c118578b0172182d9bf4b7357b66bfe',1,'ApproachCircleVisual']]],
   ['setsquare_54',['SetSquare',['../classNotes_1_1Square_1_1SquareVisualBase.html#a4faee1eba3e04bae66062a790bdaabed',1,'Notes::Square::SquareVisualBase']]],
   ['settimingguide_55',['SetTimingGuide',['../classSliderNoteVisual.html#a1e9832fd23e7e3454884cee23e7165ff',1,'SliderNoteVisual']]],
-  ['settings_56',['settings',['../classPreviewView.html#aaa4325bacabd6684b795c9f9c8c6ae7b',1,'PreviewView.Settings'],['../classWaveformView.html#aa4308e9ec370085163d21ff7f3bf6090',1,'WaveformView.Settings'],['../classChartEditorController.html#a8264bd583caaf492aab75a668f981e94',1,'ChartEditorController.settings']]],
+  ['settings_56',['settings',['../classChartEditorController.html#a8264bd583caaf492aab75a668f981e94',1,'ChartEditorController.settings'],['../classPreviewView.html#aaa4325bacabd6684b795c9f9c8c6ae7b',1,'PreviewView.Settings'],['../classWaveformView.html#aa4308e9ec370085163d21ff7f3bf6090',1,'WaveformView.Settings']]],
   ['settingsscreencontroller_57',['SettingsScreenController',['../classSettingsScreenController.html',1,'']]],
   ['settingsscreencontroller_2ecs_58',['SettingsScreenController.cs',['../SettingsScreenController_8cs.html',1,'']]],
   ['settotalnotes_59',['SetTotalNotes',['../classResultScreenController.html#a0e268d0f64d268f99c92af12d7cedfac',1,'ResultScreenController']]],
