@@ -71,7 +71,7 @@ var searchData=
   ['goodgridnotefmodevent_68',['goodGridNoteFMODEvent',['../classJudge.html#aec262517e2c7467ec52c0943920c1bec',1,'Judge']]],
   ['goodstart_69',['GoodStart',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#abefe31904bbabb071b0d8ec7445e2efe',1,'Notes::Square::SquareNoteTimeline']]],
   ['goodwindow_70',['GoodWindow',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#aa29135fe307a70bc1772aac8c193546f',1,'Notes::Square::SquareNoteTimeline']]],
-  ['grid_71',['grid',['../classLevelChartData.html#ada812263c42510ed1c0fb9c2eb528a3fa5174d1309f275ba6f275db3af9eb3e18',1,'LevelChartData.Grid'],['../classSpecialBulletPattern.html#a66f61911fec908f48467572f9d7dcc20a5174d1309f275ba6f275db3af9eb3e18',1,'SpecialBulletPattern.Grid'],['../classChartPlayer.html#a5e017889d1337179d77f57cc29f1c95a',1,'ChartPlayer.grid']]],
+  ['grid_71',['grid',['../classChartPlayer.html#a5e017889d1337179d77f57cc29f1c95a',1,'ChartPlayer.grid'],['../classLevelChartData.html#ada812263c42510ed1c0fb9c2eb528a3fa5174d1309f275ba6f275db3af9eb3e18',1,'LevelChartData.Grid'],['../classSpecialBulletPattern.html#a66f61911fec908f48467572f9d7dcc20a5174d1309f275ba6f275db3af9eb3e18',1,'SpecialBulletPattern.Grid']]],
   ['gridbottom_72',['GridBottom',['../classChartEditorNotes.html#a6237f84a43fd37b216fd3161d43c74ed',1,'ChartEditorNotes']]],
   ['gridcell_73',['GridCell',['../classChartEditorNotes.html#ad00b25920b6fe646fbb1e999754bb5f1',1,'ChartEditorNotes']]],
   ['gridcolor_74',['gridColor',['../classGridManager.html#af5e60e6f4554ba198c9e4be158d5cf89',1,'GridManager']]],

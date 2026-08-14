@@ -239,8 +239,9 @@ var NAVTREEINDEX3 =
 "classMods.html":[1,0,76],
 "classMods.html#a0ea616c916ffb416b601850e59372abd":[1,0,76,0],
 "classMods.html#a0f767017cbb4787925f1ac88334d2d14":[1,0,76,1],
-"classMods.html#a3f306b9b72bef1dec918c6b5fe26327d":[1,0,76,2],
-"classMods.html#aaf2152024d27d9ee878c96823e08f320":[1,0,76,3],
+"classMods.html#a3f306b9b72bef1dec918c6b5fe26327d":[1,0,76,3],
+"classMods.html#aa9a0f7749605181aa9fab2a427697a9a":[1,0,76,2],
+"classMods.html#aaf2152024d27d9ee878c96823e08f320":[1,0,76,4],
 "classMusicAudioPathResolver.html":[1,0,77],
 "classMusicAudioPathResolver.html#a091d7b35a9cc1f985ddf615ff19cd8a3":[1,0,77,0],
 "classMusicAudioPathResolver.html#a264d16f8f27f7c3f6e051fadd6790119":[1,0,77,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX3 =
 "classNoteBase.html":[1,0,78],
 "classNoteBase.html#a1d408919ea19f154e23c9ca4a7806ec6":[1,0,78,10],
 "classNoteBase.html#a29449bad359a0f237b94efbe10a6e537":[1,0,78,8],
-"classNoteBase.html#a93fc2dce778edc1645c206bf9f6a9279":[1,0,78,3],
-"classNoteBase.html#aa3070cce12df6f48a2038a9f57a543a5":[1,0,78,0]
+"classNoteBase.html#a93fc2dce778edc1645c206bf9f6a9279":[1,0,78,3]
 };
