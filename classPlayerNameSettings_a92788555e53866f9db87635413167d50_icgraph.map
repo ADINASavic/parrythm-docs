@@ -1,5 +1,7 @@
 <map id="PlayerNameSettings.GetPlayerName" name="PlayerNameSettings.GetPlayerName">
-<area shape="rect" id="Node000001" title=" " alt="" coords="265,13,528,38"/>
-<area shape="rect" id="Node000002" href="$classTitleScreenController.html#afec1ca60418a1ddf4d00c4f7a93c79fd" title=" " alt="" coords="5,5,217,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,28,218,28,218,23,252,23"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="275,45,537,70"/>
+<area shape="rect" id="Node000002" href="$classLocalLeaderboardSaveService.html#a4b80614c4514f9ea6ded7ed72640dab4" title=" " alt="" coords="5,5,227,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="277,46,227,40,227,35,278,40"/>
+<area shape="rect" id="Node000003" href="$classTitleScreenController.html#afec1ca60418a1ddf4d00c4f7a93c79fd" title=" " alt="" coords="10,69,222,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="278,74,223,80,222,75,277,69"/>
 </map>

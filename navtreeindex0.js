@@ -110,6 +110,7 @@ var NAVTREEINDEX0 =
 "ParrythmInputRuntime_8cs.html":[2,0,0,0,6,1],
 "ParrythmSteamRuntime_8cs.html":[2,0,0,0,13,0],
 "ParrythmVirtualPointer_8cs.html":[2,0,0,0,6,2],
+"PlayPrefsService_8cs.html":[2,0,0,0,12,5],
 "PlayerNameSettings_8cs.html":[2,0,0,0,12,3],
 "PlayerPreferences_8cs.html":[2,0,0,0,12,4],
 "PlayerSpriteController_8cs.html":[2,0,0,0,5,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX0 =
 "classCameraTweenTrack.html#ab8eafe9dfb42afbf0d2a9c0a159eb6d9":[1,0,13,0],
 "classCameraTweenTrack.html#ad8499530abd2e9dff4b4b089a7196b0f":[1,0,13,1],
 "classChartEditorController.html":[1,0,14],
-"classChartEditorController.html#a762abf24de9eef4e3881f9fc6b5d303f":[1,0,14,0],
-"classChartEditorController.html#a8264bd583caaf492aab75a668f981e94":[1,0,14,1]
+"classChartEditorController.html#a762abf24de9eef4e3881f9fc6b5d303f":[1,0,14,0]
 };

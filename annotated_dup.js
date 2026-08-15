@@ -111,6 +111,7 @@ var annotated_dup =
     [ "PlayerPreferencesService", "classPlayerPreferencesService.html", "classPlayerPreferencesService" ],
     [ "PlayerSpriteController", "classPlayerSpriteController.html", "classPlayerSpriteController" ],
     [ "PlayFinishedInput", "structPlayFinishedInput.html", "structPlayFinishedInput" ],
+    [ "PlayPrefsService", "classPlayPrefsService.html", "classPlayPrefsService" ],
     [ "PreviewView", "classPreviewView.html", "classPreviewView" ],
     [ "ProfileSaveData", "classProfileSaveData.html", "classProfileSaveData" ],
     [ "RatingEntry", "structRatingEntry.html", "structRatingEntry" ],

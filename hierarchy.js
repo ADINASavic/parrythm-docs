@@ -136,6 +136,7 @@ var hierarchy =
     [ "PlayerPreferences", "classPlayerPreferences.html", null ],
     [ "PlayerPreferencesService", "classPlayerPreferencesService.html", null ],
     [ "PlayFinishedInput", "structPlayFinishedInput.html", null ],
+    [ "PlayPrefsService", "classPlayPrefsService.html", null ],
     [ "ProfileSaveData", "classProfileSaveData.html", null ],
     [ "RatingEntry", "structRatingEntry.html", null ],
     [ "RatingService", "classRatingService.html", null ],

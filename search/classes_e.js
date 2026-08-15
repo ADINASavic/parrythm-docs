@@ -9,6 +9,7 @@ var searchData=
   ['playerpreferencesservice_6',['PlayerPreferencesService',['../classPlayerPreferencesService.html',1,'']]],
   ['playerspritecontroller_7',['PlayerSpriteController',['../classPlayerSpriteController.html',1,'']]],
   ['playfinishedinput_8',['PlayFinishedInput',['../structPlayFinishedInput.html',1,'']]],
-  ['previewview_9',['PreviewView',['../classPreviewView.html',1,'']]],
-  ['profilesavedata_10',['ProfileSaveData',['../classProfileSaveData.html',1,'']]]
+  ['playprefsservice_9',['PlayPrefsService',['../classPlayPrefsService.html',1,'']]],
+  ['previewview_10',['PreviewView',['../classPreviewView.html',1,'']]],
+  ['profilesavedata_11',['ProfileSaveData',['../classProfileSaveData.html',1,'']]]
 ];

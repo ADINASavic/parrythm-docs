@@ -7,6 +7,7 @@ var searchData=
   ['playernamesettings_2ecs_4',['PlayerNameSettings.cs',['../PlayerNameSettings_8cs.html',1,'']]],
   ['playerpreferences_2ecs_5',['PlayerPreferences.cs',['../PlayerPreferences_8cs.html',1,'']]],
   ['playerspritecontroller_2ecs_6',['PlayerSpriteController.cs',['../PlayerSpriteController_8cs.html',1,'']]],
-  ['previewview_2ecs_7',['PreviewView.cs',['../PreviewView_8cs.html',1,'']]],
-  ['profilesavemodels_2ecs_8',['ProfileSaveModels.cs',['../ProfileSaveModels_8cs.html',1,'']]]
+  ['playprefsservice_2ecs_7',['PlayPrefsService.cs',['../PlayPrefsService_8cs.html',1,'']]],
+  ['previewview_2ecs_8',['PreviewView.cs',['../PreviewView_8cs.html',1,'']]],
+  ['profilesavemodels_2ecs_9',['ProfileSaveModels.cs',['../ProfileSaveModels_8cs.html',1,'']]]
 ];
