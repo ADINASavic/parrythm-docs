@@ -29,7 +29,7 @@ var searchData=
   ['missnotefmodevent_26',['missNoteFMODEvent',['../classJudge.html#ad9a2dbc933fa4b7112c84c55d7ec4512',1,'Judge']]],
   ['mousesensitivity_27',['mouseSensitivity',['../classPlayerPreferences.html#a2b608679673f1729da0e9dfe6985231c',1,'PlayerPreferences']]],
   ['mouseusesensitivity_28',['mouseUseSensitivity',['../classPlayerPreferences.html#a00d822b79a772f7e564c32a412d67b7c',1,'PlayerPreferences']]],
-  ['music_29',['music',['../classChartPlayer.html#a0af6030706b2c97f47af1f40c6eea85b',1,'ChartPlayer.music'],['../classTextExitHoldIndicator.html#a95ee47ef5d570920a033657690ab8bfe',1,'TextExitHoldIndicator.music'],['../classNoteSpawner.html#af56a03d27623dcb1acfcff5fcb78f36c',1,'NoteSpawner.music']]],
+  ['music_29',['music',['../classChartPlayer.html#a0af6030706b2c97f47af1f40c6eea85b',1,'ChartPlayer.music'],['../classPauseScreenController.html#a17be4caba0da00a4a53f9776f0ad1d5f',1,'PauseScreenController.music'],['../classNoteSpawner.html#af56a03d27623dcb1acfcff5fcb78f36c',1,'NoteSpawner.music']]],
   ['musiccontroller_30',['musicController',['../classGameBootstrap.html#adbffe6945a9b4a6fea2d72b14323fba6',1,'GameBootstrap']]],
   ['musicevent_31',['musicEvent',['../classFmodMusicControllerLegacy.html#a87cf0d0b43ec9939116505d0dc2e698a',1,'FmodMusicControllerLegacy']]]
 ];

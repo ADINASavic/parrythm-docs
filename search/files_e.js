@@ -4,10 +4,11 @@ var searchData=
   ['parrythminputruntime_2ecs_1',['ParrythmInputRuntime.cs',['../ParrythmInputRuntime_8cs.html',1,'']]],
   ['parrythmsteamruntime_2ecs_2',['ParrythmSteamRuntime.cs',['../ParrythmSteamRuntime_8cs.html',1,'']]],
   ['parrythmvirtualpointer_2ecs_3',['ParrythmVirtualPointer.cs',['../ParrythmVirtualPointer_8cs.html',1,'']]],
-  ['playernamesettings_2ecs_4',['PlayerNameSettings.cs',['../PlayerNameSettings_8cs.html',1,'']]],
-  ['playerpreferences_2ecs_5',['PlayerPreferences.cs',['../PlayerPreferences_8cs.html',1,'']]],
-  ['playerspritecontroller_2ecs_6',['PlayerSpriteController.cs',['../PlayerSpriteController_8cs.html',1,'']]],
-  ['playprefsservice_2ecs_7',['PlayPrefsService.cs',['../PlayPrefsService_8cs.html',1,'']]],
-  ['previewview_2ecs_8',['PreviewView.cs',['../PreviewView_8cs.html',1,'']]],
-  ['profilesavemodels_2ecs_9',['ProfileSaveModels.cs',['../ProfileSaveModels_8cs.html',1,'']]]
+  ['pausescreencontroller_2ecs_4',['PauseScreenController.cs',['../PauseScreenController_8cs.html',1,'']]],
+  ['playernamesettings_2ecs_5',['PlayerNameSettings.cs',['../PlayerNameSettings_8cs.html',1,'']]],
+  ['playerpreferences_2ecs_6',['PlayerPreferences.cs',['../PlayerPreferences_8cs.html',1,'']]],
+  ['playerspritecontroller_2ecs_7',['PlayerSpriteController.cs',['../PlayerSpriteController_8cs.html',1,'']]],
+  ['playprefsservice_2ecs_8',['PlayPrefsService.cs',['../PlayPrefsService_8cs.html',1,'']]],
+  ['previewview_2ecs_9',['PreviewView.cs',['../PreviewView_8cs.html',1,'']]],
+  ['profilesavemodels_2ecs_10',['ProfileSaveModels.cs',['../ProfileSaveModels_8cs.html',1,'']]]
 ];

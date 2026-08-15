@@ -14,7 +14,7 @@ var searchData=
   ['maxbulletcolliders_11',['maxBulletColliders',['../classSliderNote.html#afa43f470b594b060c9fd7b9a97c17d8a',1,'SliderNote']]],
   ['maxcombo_12',['MaxCombo',['../classJudge.html#a01ed3b20ffae3798ff854a99d83298ad',1,'Judge']]],
   ['maxgappixels_13',['maxGapPixels',['../classUITrailGraphic.html#af97d948a23e4b68c102cef36431a31ef',1,'UITrailGraphic']]],
-  ['maxgauge_14',['maxgauge',['../classGaugeManager.html#ad1bc05b87fe6a5b5351e6357636597ff',1,'GaugeManager.maxGauge'],['../classGaugeManager.html#adef0659cbb82766eed1618ebd462cf92',1,'GaugeManager.MaxGauge']]],
+  ['maxgauge_14',['maxgauge',['../classGaugeManager.html#adef0659cbb82766eed1618ebd462cf92',1,'GaugeManager.MaxGauge'],['../classGaugeManager.html#ad1bc05b87fe6a5b5351e6357636597ff',1,'GaugeManager.maxGauge']]],
   ['maxscore_15',['MaxScore',['../classRatingService.html#ad40b2498feceacb093247ba6099335f6',1,'RatingService']]],
   ['maxsimultaneousholds_16',['maxSimultaneousHolds',['../classKeyboardInputManager.html#a980857033d9156e37b243eb9f38ac464',1,'KeyboardInputManager']]],
   ['maxvalue_17',['MaxValue',['../classNoteSpeedScale.html#a955d93e1652314f802fd6ffa9ea06047',1,'NoteSpeedScale']]],
@@ -51,7 +51,7 @@ var searchData=
   ['mousesensitivity_48',['mouseSensitivity',['../classPlayerPreferences.html#a2b608679673f1729da0e9dfe6985231c',1,'PlayerPreferences']]],
   ['mouseusesensitivity_49',['mouseUseSensitivity',['../classPlayerPreferences.html#a00d822b79a772f7e564c32a412d67b7c',1,'PlayerPreferences']]],
   ['move_50',['Move',['../classOutgameSfx.html#a5223d44ee420ba1c8d08c9cd9902abba',1,'OutgameSfx']]],
-  ['music_51',['music',['../classChartPlayer.html#a0af6030706b2c97f47af1f40c6eea85b',1,'ChartPlayer.music'],['../classTextExitHoldIndicator.html#a95ee47ef5d570920a033657690ab8bfe',1,'TextExitHoldIndicator.music'],['../classNoteSpawner.html#af56a03d27623dcb1acfcff5fcb78f36c',1,'NoteSpawner.music']]],
+  ['music_51',['music',['../classChartPlayer.html#a0af6030706b2c97f47af1f40c6eea85b',1,'ChartPlayer.music'],['../classPauseScreenController.html#a17be4caba0da00a4a53f9776f0ad1d5f',1,'PauseScreenController.music'],['../classNoteSpawner.html#af56a03d27623dcb1acfcff5fcb78f36c',1,'NoteSpawner.music']]],
   ['musicaudiopathresolver_52',['MusicAudioPathResolver',['../classMusicAudioPathResolver.html',1,'']]],
   ['musiccontroller_53',['musicController',['../classGameBootstrap.html#adbffe6945a9b4a6fea2d72b14323fba6',1,'GameBootstrap']]],
   ['musicevent_54',['musicEvent',['../classFmodMusicControllerLegacy.html#a87cf0d0b43ec9939116505d0dc2e698a',1,'FmodMusicControllerLegacy']]]

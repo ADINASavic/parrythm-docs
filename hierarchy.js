@@ -112,6 +112,7 @@ var hierarchy =
       [ "Notes.Square.SquareVisualLong", "classNotes_1_1Square_1_1SquareVisualLong.html", null ],
       [ "OutgameBootstrap", "classOutgameBootstrap.html", null ],
       [ "ParrythmInputRuntime", "classParrythmInputRuntime.html", null ],
+      [ "PauseScreenController", "classPauseScreenController.html", null ],
       [ "PlayerSpriteController", "classPlayerSpriteController.html", null ],
       [ "RatingLabel", "classRatingLabel.html", null ],
       [ "ResultScreenController", "classResultScreenController.html", null ],
@@ -119,7 +120,6 @@ var hierarchy =
       [ "SliderNoteVisual", "classSliderNoteVisual.html", null ],
       [ "SongPreviewPlayer", "classSongPreviewPlayer.html", null ],
       [ "SongSelectController", "classSongSelectController.html", null ],
-      [ "TextExitHoldIndicator", "classTextExitHoldIndicator.html", null ],
       [ "TitleScreenController", "classTitleScreenController.html", null ],
       [ "UnityMusicController", "classUnityMusicController.html", null ]
     ] ],

@@ -10,12 +10,13 @@ var searchData=
   ['isglobalavailable_7',['IsGlobalAvailable',['../classLeaderboardServiceProvider.html#aa5ae0073f8c24452fe5931984af9b4ff',1,'LeaderboardServiceProvider']]],
   ['isjudged_8',['IsJudged',['../classNoteBase.html#a29449bad359a0f237b94efbe10a6e537',1,'NoteBase']]],
   ['isleftbuttonpressed_9',['IsLeftButtonPressed',['../classParrythmVirtualPointer.html#ae5378e2c3ecb076ffc84af6444f41cb2',1,'ParrythmVirtualPointer']]],
-  ['ispaused_10',['ispaused',['../classFmodMusicControllerLegacy.html#a4818a566e9d59e61e0656c96b6589383',1,'FmodMusicControllerLegacy.IsPaused'],['../classUnityMusicController.html#a6062133478dec7591b7cbc96e602bad8',1,'UnityMusicController.IsPaused']]],
-  ['isplaying_11',['isplaying',['../classFmodMusicControllerLegacy.html#a5f16328aef14c7d6bd83c3dad6483950',1,'FmodMusicControllerLegacy.IsPlaying'],['../classUnityMusicController.html#aa2a731c0fe84696e60824951bff2570f',1,'UnityMusicController.IsPlaying']]],
-  ['isprepared_12',['IsPrepared',['../classConnectionHintController.html#a911f027bdc9d5548aa0661e877dc9459',1,'ConnectionHintController']]],
-  ['isready_13',['isready',['../classFmodMusicControllerLegacy.html#a78027cad956747123653574014f0643a',1,'FmodMusicControllerLegacy.IsReady'],['../classUnityMusicController.html#add151777659ada410522e0eaef62a832',1,'UnityMusicController.IsReady']]],
-  ['isresolved_14',['IsResolved',['../classNotes_1_1Square_1_1SquareNoteJudge.html#aeedcfbde16f6afb9807538d77d2dacc3',1,'Notes::Square::SquareNoteJudge']]],
-  ['isrightbuttonpressed_15',['IsRightButtonPressed',['../classParrythmVirtualPointer.html#a9d1978c924aad7be940be540b37d9aa9',1,'ParrythmVirtualPointer']]],
-  ['issteamidentity_16',['IsSteamIdentity',['../classSaveIdentity.html#a2259c9bb617400523ea02595318e1e31',1,'SaveIdentity']]],
-  ['istrail_17',['IsTrail',['../classCircleNote.html#aebf93f5101c71e6b5817c652fa34ab02',1,'CircleNote']]]
+  ['isopen_10',['IsOpen',['../classPauseScreenController.html#ac93825442e8b84a271475c3922e1581e',1,'PauseScreenController']]],
+  ['ispaused_11',['ispaused',['../classFmodMusicControllerLegacy.html#a4818a566e9d59e61e0656c96b6589383',1,'FmodMusicControllerLegacy.IsPaused'],['../classUnityMusicController.html#a6062133478dec7591b7cbc96e602bad8',1,'UnityMusicController.IsPaused']]],
+  ['isplaying_12',['isplaying',['../classFmodMusicControllerLegacy.html#a5f16328aef14c7d6bd83c3dad6483950',1,'FmodMusicControllerLegacy.IsPlaying'],['../classUnityMusicController.html#aa2a731c0fe84696e60824951bff2570f',1,'UnityMusicController.IsPlaying']]],
+  ['isprepared_13',['IsPrepared',['../classConnectionHintController.html#a911f027bdc9d5548aa0661e877dc9459',1,'ConnectionHintController']]],
+  ['isready_14',['isready',['../classFmodMusicControllerLegacy.html#a78027cad956747123653574014f0643a',1,'FmodMusicControllerLegacy.IsReady'],['../classUnityMusicController.html#add151777659ada410522e0eaef62a832',1,'UnityMusicController.IsReady']]],
+  ['isresolved_15',['IsResolved',['../classNotes_1_1Square_1_1SquareNoteJudge.html#aeedcfbde16f6afb9807538d77d2dacc3',1,'Notes::Square::SquareNoteJudge']]],
+  ['isrightbuttonpressed_16',['IsRightButtonPressed',['../classParrythmVirtualPointer.html#a9d1978c924aad7be940be540b37d9aa9',1,'ParrythmVirtualPointer']]],
+  ['issteamidentity_17',['IsSteamIdentity',['../classSaveIdentity.html#a2259c9bb617400523ea02595318e1e31',1,'SaveIdentity']]],
+  ['istrail_18',['IsTrail',['../classCircleNote.html#aebf93f5101c71e6b5817c652fa34ab02',1,'CircleNote']]]
 ];
