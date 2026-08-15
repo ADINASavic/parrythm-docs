@@ -22,6 +22,7 @@ var searchData=
   ['squarevisualnormal_2ecs_19',['SquareVisualNormal.cs',['../SquareVisualNormal_8cs.html',1,'']]],
   ['squarevisualtrail_2ecs_20',['SquareVisualTrail.cs',['../SquareVisualTrail_8cs.html',1,'']]],
   ['stagebackground_2ecs_21',['StageBackground.cs',['../StageBackground_8cs.html',1,'']]],
-  ['steamleaderboardsaveservice_2ecs_22',['SteamLeaderboardSaveService.cs',['../SteamLeaderboardSaveService_8cs.html',1,'']]],
-  ['styleeventhandler_2ecs_23',['StyleEventHandler.cs',['../StyleEventHandler_8cs.html',1,'']]]
+  ['steamavatarloader_2ecs_22',['SteamAvatarLoader.cs',['../SteamAvatarLoader_8cs.html',1,'']]],
+  ['steamleaderboardsaveservice_2ecs_23',['SteamLeaderboardSaveService.cs',['../SteamLeaderboardSaveService_8cs.html',1,'']]],
+  ['styleeventhandler_2ecs_24',['StyleEventHandler.cs',['../StyleEventHandler_8cs.html',1,'']]]
 ];

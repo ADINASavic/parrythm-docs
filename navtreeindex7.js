@@ -1,5 +1,6 @@
 var NAVTREEINDEX7 =
 {
+"classTextExitHoldIndicator.html#a9ef43cc571a3cd3b1acd83718d5fd72c":[1,0,117,0],
 "classTextExitHoldIndicator.html#aa71611b2fd86986afc4f33ef6504de47":[1,0,117,5],
 "classTextExitHoldIndicator.html#ab922538f50f066a4b715a8ace28917a4":[1,0,117,2],
 "classTextExitHoldIndicator.html#ae3731e4fd0322034d77fe7bbc7f3055b":[1,0,117,4],
@@ -147,8 +148,8 @@ var NAVTREEINDEX7 =
 "functions_t.html":[1,3,0,19],
 "functions_u.html":[1,3,0,20],
 "functions_v.html":[1,3,0,21],
-"functions_vars.html":[1,3,2],
 "functions_vars.html":[1,3,2,0],
+"functions_vars.html":[1,3,2],
 "functions_vars_b.html":[1,3,2,1],
 "functions_vars_c.html":[1,3,2,2],
 "functions_vars_d.html":[1,3,2,3],

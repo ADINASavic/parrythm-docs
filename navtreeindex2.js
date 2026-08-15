@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"classCircleNoteVisual.html#a9fa3024db85641d9b9f3093fd5bb1279":[1,0,30,11],
 "classCircleNoteVisual.html#ab11ece9e18b115a2fedc3f790bc3eada":[1,0,30,10],
 "classCircleNoteVisual.html#abb233164fe96e14ff5aaeb8bab330c4e":[1,0,30,2],
 "classCircleNoteVisual.html#ac846f49adb53d851aba5249131551e07":[1,0,30,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX2 =
 "classJudge.html#a01ed3b20ffae3798ff854a99d83298ad":[1,0,57,36],
 "classJudge.html#a09794dfa7072d4cd8479669265c48192":[1,0,57,34],
 "classJudge.html#a155a0b9ce598c149580e1f045e7be3e5":[1,0,57,26],
-"classJudge.html#a180db7e7c33c953c681f3d1ab0eaf00a":[1,0,57,8],
-"classJudge.html#a34d3dee99e507ae42735626d01d63053":[1,0,57,32]
+"classJudge.html#a180db7e7c33c953c681f3d1ab0eaf00a":[1,0,57,8]
 };
