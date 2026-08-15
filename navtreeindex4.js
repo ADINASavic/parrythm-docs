@@ -1,5 +1,6 @@
 var NAVTREEINDEX4 =
 {
+"classMusicAudioPathResolver.html#a264d16f8f27f7c3f6e051fadd6790119":[1,0,77,1],
 "classMusicAudioPathResolver.html#a8c20c60a6d3730c7c28f88307d859862":[1,0,77,2],
 "classNoteBase.html":[1,0,78],
 "classNoteBase.html#a1d408919ea19f154e23c9ca4a7806ec6":[1,0,78,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX4 =
 "classNotes_1_1Square_1_1SquareVisualBase.html#ac4f3690c3bde325030768867755acf79":[0,0,0,1,4,1],
 "classNotes_1_1Square_1_1SquareVisualBase.html#ad26fd9e953d850f2b60cc1a0d9d53acb":[0,0,0,1,4,24],
 "classNotes_1_1Square_1_1SquareVisualBase.html#ad26fd9e953d850f2b60cc1a0d9d53acb":[1,0,0,1,4,24],
-"classNotes_1_1Square_1_1SquareVisualBase.html#ad287d56ec52c0fe2b965c661c155d463":[0,0,0,1,4,25],
-"classNotes_1_1Square_1_1SquareVisualBase.html#ad287d56ec52c0fe2b965c661c155d463":[1,0,0,1,4,25]
+"classNotes_1_1Square_1_1SquareVisualBase.html#ad287d56ec52c0fe2b965c661c155d463":[0,0,0,1,4,25]
 };

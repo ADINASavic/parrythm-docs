@@ -6,5 +6,6 @@ var classLocalSettingsSaveStorage =
     [ "Exists", "classLocalSettingsSaveStorage.html#a70c095a05ace86399697d25889c6aa5a", null ],
     [ "GetAbsolutePath", "classLocalSettingsSaveStorage.html#a04098d037e8125d33736346f2199394e", null ],
     [ "ReadAllText", "classLocalSettingsSaveStorage.html#a47a41647da9a9bd3706ab8c56a8bed94", null ],
+    [ "ReadValidated< T >", "classLocalSettingsSaveStorage.html#a27a4ad937b412d5de69763084ba1e614", null ],
     [ "WriteAllText", "classLocalSettingsSaveStorage.html#aad8de471d4ed920a72d56a210230363a", null ]
 ];

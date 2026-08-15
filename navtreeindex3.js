@@ -204,10 +204,11 @@ var NAVTREEINDEX3 =
 "classLocalSettingsSaveStorage.html":[1,0,70],
 "classLocalSettingsSaveStorage.html#a04098d037e8125d33736346f2199394e":[1,0,70,4],
 "classLocalSettingsSaveStorage.html#a240d8e10d89c373d6e4b9e70f2f67af7":[1,0,70,0],
+"classLocalSettingsSaveStorage.html#a27a4ad937b412d5de69763084ba1e614":[1,0,70,6],
 "classLocalSettingsSaveStorage.html#a47a41647da9a9bd3706ab8c56a8bed94":[1,0,70,5],
 "classLocalSettingsSaveStorage.html#a70c095a05ace86399697d25889c6aa5a":[1,0,70,3],
 "classLocalSettingsSaveStorage.html#a83f349c86c884c85ae233d2ee1600627":[1,0,70,2],
-"classLocalSettingsSaveStorage.html#aad8de471d4ed920a72d56a210230363a":[1,0,70,6],
+"classLocalSettingsSaveStorage.html#aad8de471d4ed920a72d56a210230363a":[1,0,70,7],
 "classLocalSettingsSaveStorage.html#adb42a7032903c96ffaaf5ecb27a6f50b":[1,0,70,1],
 "classLocalizationHelper.html":[1,0,64],
 "classLocalizationHelper.html#a899e400f0f9ee8d47c2c36156b00f34e":[1,0,64,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX3 =
 "classMods.html#aa9a0f7749605181aa9fab2a427697a9a":[1,0,76,2],
 "classMods.html#aaf2152024d27d9ee878c96823e08f320":[1,0,76,4],
 "classMusicAudioPathResolver.html":[1,0,77],
-"classMusicAudioPathResolver.html#a091d7b35a9cc1f985ddf615ff19cd8a3":[1,0,77,0],
-"classMusicAudioPathResolver.html#a264d16f8f27f7c3f6e051fadd6790119":[1,0,77,1]
+"classMusicAudioPathResolver.html#a091d7b35a9cc1f985ddf615ff19cd8a3":[1,0,77,0]
 };
