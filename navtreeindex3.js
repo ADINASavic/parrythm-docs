@@ -186,6 +186,7 @@ var NAVTREEINDEX3 =
 "classLocalLeaderboardSaveService.html#a708b11ba7f04441fc9f35b45a9ab5b00":[1,0,66,3],
 "classLocalLeaderboardSaveService.html#a731e584209721335b59f8e1a916316d1":[1,0,66,1],
 "classLocalLeaderboardSaveService.html#a75b47bd3b1fa215d07a9d4b0afe471a9":[1,0,66,2],
+"classLocalLeaderboardSaveService.html#abadf2264fb0c304d6d33c994d9343ceb":[1,0,66,4],
 "classLocalScoreRecord.html":[1,0,67],
 "classLocalScoreRecord.html#a766b6a0aaa3d949a8bc8c4dd09b66ed0":[1,0,67,4],
 "classLocalScoreRecord.html#a8e54530fc304f6f8cae361a1b87cfe98":[1,0,67,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX3 =
 "classMods.html#a0f767017cbb4787925f1ac88334d2d14":[1,0,76,1],
 "classMods.html#a3f306b9b72bef1dec918c6b5fe26327d":[1,0,76,3],
 "classMods.html#aa9a0f7749605181aa9fab2a427697a9a":[1,0,76,2],
-"classMods.html#aaf2152024d27d9ee878c96823e08f320":[1,0,76,4],
-"classMusicAudioPathResolver.html":[1,0,77]
+"classMods.html#aaf2152024d27d9ee878c96823e08f320":[1,0,76,4]
 };
