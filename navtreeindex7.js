@@ -1,7 +1,5 @@
 var NAVTREEINDEX7 =
 {
-"classStyleEventHandler.html#ab4a6f247d407317a7c5640c6d7873749":[1,0,117,2],
-"classStyleEventHandler.html#adcba12e5bf7a8fa8d0394efed8fbdc97":[1,0,117,1],
 "classTitleScreenController.html":[1,0,118],
 "classTitleScreenController.html#afec1ca60418a1ddf4d00c4f7a93c79fd":[1,0,118,0],
 "classUITrailGraphic.html":[1,0,119],
@@ -217,6 +215,11 @@ var NAVTREEINDEX7 =
 "structChartEditorTime_1_1BarInfo.html#a8b8a7a09f5cfb27956b142251861a3cf":[1,0,21,0,0],
 "structChartEditorTime_1_1BarInfo.html#ab9ebab15f041609f34c5aca1af411a03":[1,0,21,0,5],
 "structChartEditorTime_1_1BarInfo.html#ad8fba7e83fc4f1fa6d81f883293c6fce":[1,0,21,0,3],
+"structCleanCursor_1_1CursorSet.html":[1,0,32,0],
+"structCleanCursor_1_1CursorSet.html#a098d1c2af650bb342e9e27e7d2e8d1c7":[1,0,32,0,0],
+"structCleanCursor_1_1CursorSet.html#a253d46b29c30151c4bef0c51861e4f5e":[1,0,32,0,2],
+"structCleanCursor_1_1CursorSet.html#a66294b3ba1b25ffb7313fe2a483869c6":[1,0,32,0,3],
+"structCleanCursor_1_1CursorSet.html#a837aa288f75ff1f23d7c2793f567dc52":[1,0,32,0,1],
 "structPlayFinishedInput.html":[1,0,95],
 "structPlayFinishedInput.html#a0e61234ac406b180e4f8472cdbeb39e7":[1,0,95,3],
 "structPlayFinishedInput.html#a19cad5d43eadae7813bef5bdf6b386cf":[1,0,95,0],

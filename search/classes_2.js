@@ -22,5 +22,6 @@ var searchData=
   ['circletaphandler_19',['CircleTapHandler',['../classCircleTapHandler.html',1,'']]],
   ['cleancursor_20',['CleanCursor',['../classCleanCursor.html',1,'']]],
   ['connectionhintcontroller_21',['ConnectionHintController',['../classConnectionHintController.html',1,'']]],
-  ['curveutil_22',['CurveUtil',['../classCurveUtil.html',1,'']]]
+  ['cursorset_22',['CursorSet',['../structCleanCursor_1_1CursorSet.html',1,'CleanCursor']]],
+  ['curveutil_23',['CurveUtil',['../classCurveUtil.html',1,'']]]
 ];

@@ -17,6 +17,7 @@ var hierarchy =
     [ "ChartHashUtility", "classChartHashUtility.html", null ],
     [ "ChartImporter", "classChartImporter.html", null ],
     [ "ChartTimelineRuntime", "classChartTimelineRuntime.html", null ],
+    [ "CleanCursor.CursorSet", "structCleanCursor_1_1CursorSet.html", null ],
     [ "CurveUtil", "classCurveUtil.html", null ],
     [ "DeveloperSettings", "classDeveloperSettings.html", null ],
     [ "DifficultyColorPalette", "classDifficultyColorPalette.html", null ],
