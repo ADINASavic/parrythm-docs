@@ -68,7 +68,7 @@ var searchData=
   ['localsettingssavestorage_2ecs_65',['LocalSettingsSaveStorage.cs',['../LocalSettingsSaveStorage_8cs.html',1,'']]],
   ['locktotargetheight_66',['lockToTargetHeight',['../classFixed16x9Camera.html#a0ac2ecb5ff1413a606b7cf976a08da57',1,'Fixed16x9Camera']]],
   ['long_67',['long',['../namespaceNotes_1_1Square.html#acc0b247d28aaa3ac0896465f70607ba2a8394f0347c184cf156ac5924dccb773b',1,'Notes.Square.Long'],['../classLevelChartData.html#ada812263c42510ed1c0fb9c2eb528a3fa8394f0347c184cf156ac5924dccb773b',1,'LevelChartData.Long']]],
-  ['longabsencegrace_68',['longabsencegrace',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a620963cef01ccf87d03f5f97a886365c',1,'Notes.Square.SquareNoteTimeline.LongAbsenceGrace'],['../classDeveloperSettings.html#a229a183d6f6751a62f05d73098b466e2',1,'DeveloperSettings.longAbsenceGrace']]],
+  ['longabsencegrace_68',['longabsencegrace',['../classDeveloperSettings.html#a229a183d6f6751a62f05d73098b466e2',1,'DeveloperSettings.longAbsenceGrace'],['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a620963cef01ccf87d03f5f97a886365c',1,'Notes.Square.SquareNoteTimeline.LongAbsenceGrace']]],
   ['longduration_69',['longDuration',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a06696c0ca3682c292966948a34fc72bf',1,'Notes::Square::SquareNoteTimeline']]],
   ['longdurationsec_70',['LongDurationSec',['../classChartEditorNotes.html#afd90f1906045f5566a407aad06d9bb26',1,'ChartEditorNotes']]],
   ['longendcolor_71',['longendcolor',['../classNotes_1_1Square_1_1SquareVisualLong.html#a9476582900b48617fa34236c6852c151',1,'Notes.Square.SquareVisualLong.longEndColor'],['../classDeveloperSettings.html#a2f6818bf30d1e92f706ab789f44f8d05',1,'DeveloperSettings.longEndColor']]],

@@ -14,7 +14,7 @@ var searchData=
   ['maxbulletcolliders_11',['maxBulletColliders',['../classSliderNote.html#afa43f470b594b060c9fd7b9a97c17d8a',1,'SliderNote']]],
   ['maxcombo_12',['MaxCombo',['../classJudge.html#a01ed3b20ffae3798ff854a99d83298ad',1,'Judge']]],
   ['maxgappixels_13',['maxGapPixels',['../classUITrailGraphic.html#af97d948a23e4b68c102cef36431a31ef',1,'UITrailGraphic']]],
-  ['maxgauge_14',['maxgauge',['../classGaugeManager.html#adef0659cbb82766eed1618ebd462cf92',1,'GaugeManager.MaxGauge'],['../classGaugeManager.html#ad1bc05b87fe6a5b5351e6357636597ff',1,'GaugeManager.maxGauge']]],
+  ['maxgauge_14',['maxgauge',['../classGaugeManager.html#ad1bc05b87fe6a5b5351e6357636597ff',1,'GaugeManager.maxGauge'],['../classGaugeManager.html#adef0659cbb82766eed1618ebd462cf92',1,'GaugeManager.MaxGauge']]],
   ['maxrecordsperchart_15',['MaxRecordsPerChart',['../classLocalLeaderboardSaveService.html#abadf2264fb0c304d6d33c994d9343ceb',1,'LocalLeaderboardSaveService']]],
   ['maxscore_16',['MaxScore',['../classRatingService.html#ad40b2498feceacb093247ba6099335f6',1,'RatingService']]],
   ['maxsimultaneousholds_17',['maxSimultaneousHolds',['../classKeyboardInputManager.html#a980857033d9156e37b243eb9f38ac464',1,'KeyboardInputManager']]],
