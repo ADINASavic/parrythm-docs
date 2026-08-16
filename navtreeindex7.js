@@ -1,5 +1,7 @@
 var NAVTREEINDEX7 =
 {
+"classStyleEventHandler.html#ab4a6f247d407317a7c5640c6d7873749":[1,0,117,2],
+"classStyleEventHandler.html#adcba12e5bf7a8fa8d0394efed8fbdc97":[1,0,117,1],
 "classTitleScreenController.html":[1,0,118],
 "classTitleScreenController.html#afec1ca60418a1ddf4d00c4f7a93c79fd":[1,0,118,0],
 "classUITrailGraphic.html":[1,0,119],

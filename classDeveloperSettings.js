@@ -1,5 +1,6 @@
 var classDeveloperSettings =
 [
+    [ "bulletPerfectVFXSortingOrder", "classDeveloperSettings.html#a85402cd9d83b8b2107b709449bc9bded", null ],
     [ "circleFillColor", "classDeveloperSettings.html#a04416065ee8b78a46aa4c11cbab49262", null ],
     [ "circleGlowColor", "classDeveloperSettings.html#ad2dc6a296e858d632b21af3343a195f0", null ],
     [ "circleGoodWindow", "classDeveloperSettings.html#aae80ec2267b691837ce302ac11d84517", null ],

@@ -1,5 +1,6 @@
 var NAVTREEINDEX1 =
 {
+"classCameraTweenTrack.html#ad8499530abd2e9dff4b4b089a7196b0f":[1,0,13,1],
 "classChartEditorController.html":[1,0,14],
 "classChartEditorController.html#a762abf24de9eef4e3881f9fc6b5d303f":[1,0,14,0],
 "classChartEditorController.html#a8264bd583caaf492aab75a668f981e94":[1,0,14,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX1 =
 "classCircleNoteVisual.html#a5585aba20dbd1ca46e51f7a4aaee12fd":[1,0,30,5],
 "classCircleNoteVisual.html#a576a847bffb265806eecd1627e420127":[1,0,30,14],
 "classCircleNoteVisual.html#a5c2a2b825f49aabbeeea2c0de7689aa3":[1,0,30,1],
-"classCircleNoteVisual.html#a5f1a4e17390611f15ec154ce57db051c":[1,0,30,13],
-"classCircleNoteVisual.html#a7fc7e11a100d7dec968f72a53ea7f262":[1,0,30,16]
+"classCircleNoteVisual.html#a5f1a4e17390611f15ec154ce57db051c":[1,0,30,13]
 };

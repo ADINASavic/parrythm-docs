@@ -20,6 +20,7 @@ var classBulletNote =
     [ "perfectFlyOffscreenPadding", "classBulletNote.html#a680d3a1b3f51c293bef019dcf5adf1f0", null ],
     [ "perfectFlyScale", "classBulletNote.html#ae0ca93e26e90632af9da2c3435a48f02", null ],
     [ "perfectFlyTime", "classBulletNote.html#a2fa1bf2603ddd874962e9896bcce302a", null ],
+    [ "perfectParticlePrefab", "classBulletNote.html#a6423fe6b970bd339e54a9c01393dee78", null ],
     [ "radius", "classBulletNote.html#a6426b55b1609182805ac7509628af378", null ],
     [ "spawnPos", "classBulletNote.html#a7c00e3d3ae87a25e49cd45732d56d10b", null ],
     [ "spriteColor", "classBulletNote.html#a45b10c92c9b7ff8dfa7a0909c162ec14", null ],
