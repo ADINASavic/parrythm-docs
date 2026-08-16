@@ -1,5 +1,14 @@
 var NAVTREEINDEX6 =
 {
+"classPlayerPreferencesService.html":[1,0,93],
+"classPlayerPreferencesService.html#a0a04c1af268f9ee665f7fba5b47e0d33":[1,0,93,2],
+"classPlayerPreferencesService.html#ac8d9465467747e7e14b57486a1830ca1":[1,0,93,1],
+"classPlayerPreferencesService.html#ad92b9e997568916c8237d2c2120429f1":[1,0,93,0],
+"classPlayerSpriteController.html":[1,0,94],
+"classPlayerSpriteController.html#a08fa6052f1e71444e54233ed711291f2":[1,0,94,7],
+"classPlayerSpriteController.html#a189483b1eb3d99d1f68131764f174f75":[1,0,94,1],
+"classPlayerSpriteController.html#a1a6bf558c3ee813aae4d57ce625a7481":[1,0,94,3],
+"classPlayerSpriteController.html#a2039bffbde2740caf9c7c3c2b6b1ee3d":[1,0,94,0],
 "classPlayerSpriteController.html#a270b33eaf18d07a0620ad532e16590ae":[1,0,94,11],
 "classPlayerSpriteController.html#a360aec813fe20e99c148aa8b3c2aec73":[1,0,94,6],
 "classPlayerSpriteController.html#a4b0782aedf81020c724b2f7ff5615840":[1,0,94,10],
@@ -240,14 +249,5 @@ var NAVTREEINDEX6 =
 "classSpecialBulletPattern_1_1Params.html#ab8fd687fac8ee9719b8896c96d436d80":[1,0,115,0,0],
 "classSpecialBulletPattern_1_1Params.html#ac20a7df5f14e5363994002fc52979679":[1,0,115,0,14],
 "classSpecialBulletPattern_1_1Params.html#aca7d088edd0ea14645e5343f9e162534":[1,0,115,0,7],
-"classSpecialBulletPattern_1_1Params.html#acd589a6b095ff5845436417ebfceceb4":[1,0,115,0,5],
-"classSpecialBulletPattern_1_1Params.html#ae25923cbb6d9ada53b7bdef4f748f2ac":[1,0,115,0,9],
-"classSpecialBulletPattern_1_1Params.html#ae6175d8bb2901a53d4833bde453b8a7d":[1,0,115,0,12],
-"classSpecialBulletPattern_1_1Params.html#aefc3cbd1e86836705f98834527b2ad9b":[1,0,115,0,13],
-"classSpecialBulletPattern_1_1Params.html#af13f54c019e5e994fcbc614685a407c8":[1,0,115,0,11],
-"classStageBackground.html":[1,0,116],
-"classStageBackground.html#ae3302f163a7aa898b3d5cdb59d6130b8":[1,0,116,0],
-"classStageBackground.html#aea1722b2e71316a306b4a18addb685a7":[1,0,116,1],
-"classStyleEventHandler.html":[1,0,117],
-"classStyleEventHandler.html#a4243c5bd3572d370c076a2cded20aebe":[1,0,117,0]
+"classSpecialBulletPattern_1_1Params.html#acd589a6b095ff5845436417ebfceceb4":[1,0,115,0,5]
 };

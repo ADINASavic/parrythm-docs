@@ -16,6 +16,7 @@ var classCircleNote =
     [ "simultaneousLeadFillColor", "classCircleNote.html#a016ce45049ca4fbd55eb9570dfc6542e", null ],
     [ "useSimultaneousLeadFill", "classCircleNote.html#a30fcb39a14588ade284eb6d833cb9a31", null ],
     [ "IsBeingHeld", "classCircleNote.html#a86c9eefb503818d0f27c824bd078b670", null ],
+    [ "IsConsumed", "classCircleNote.html#afbd7ff7b3c3518e7c8c5dd363185e05b", null ],
     [ "IsTrail", "classCircleNote.html#aebf93f5101c71e6b5817c652fa34ab02", null ],
     [ "OnExpired", "classCircleNote.html#a7db101b71b462279c83eabee4171fa3d", null ]
 ];

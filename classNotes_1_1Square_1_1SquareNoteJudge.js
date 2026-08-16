@@ -17,5 +17,7 @@ var classNotes_1_1Square_1_1SquareNoteJudge =
     [ "timeline", "classNotes_1_1Square_1_1SquareNoteJudge.html#ad7b886a759366ded531be2dc85fce4bf", null ],
     [ "type", "classNotes_1_1Square_1_1SquareNoteJudge.html#a02a82674e4f05dad80503ad87f79c60a", null ],
     [ "Cell", "classNotes_1_1Square_1_1SquareNoteJudge.html#ab42f2c2c7e0e1e5864aad477afa010cc", null ],
-    [ "IsResolved", "classNotes_1_1Square_1_1SquareNoteJudge.html#aeedcfbde16f6afb9807538d77d2dacc3", null ]
+    [ "HitTime", "classNotes_1_1Square_1_1SquareNoteJudge.html#a6ab2870b4e049866393ca348e0874816", null ],
+    [ "IsResolved", "classNotes_1_1Square_1_1SquareNoteJudge.html#aeedcfbde16f6afb9807538d77d2dacc3", null ],
+    [ "ReleaseTime", "classNotes_1_1Square_1_1SquareNoteJudge.html#a26c524dda07dd0d2a022fc96ca0df74d", null ]
 ];

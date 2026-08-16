@@ -1,5 +1,14 @@
 var NAVTREEINDEX7 =
 {
+"classSpecialBulletPattern_1_1Params.html#ae25923cbb6d9ada53b7bdef4f748f2ac":[1,0,115,0,9],
+"classSpecialBulletPattern_1_1Params.html#ae6175d8bb2901a53d4833bde453b8a7d":[1,0,115,0,12],
+"classSpecialBulletPattern_1_1Params.html#aefc3cbd1e86836705f98834527b2ad9b":[1,0,115,0,13],
+"classSpecialBulletPattern_1_1Params.html#af13f54c019e5e994fcbc614685a407c8":[1,0,115,0,11],
+"classStageBackground.html":[1,0,116],
+"classStageBackground.html#ae3302f163a7aa898b3d5cdb59d6130b8":[1,0,116,0],
+"classStageBackground.html#aea1722b2e71316a306b4a18addb685a7":[1,0,116,1],
+"classStyleEventHandler.html":[1,0,117],
+"classStyleEventHandler.html#a4243c5bd3572d370c076a2cded20aebe":[1,0,117,0],
 "classStyleEventHandler.html#ab4a6f247d407317a7c5640c6d7873749":[1,0,117,2],
 "classStyleEventHandler.html#adcba12e5bf7a8fa8d0394efed8fbdc97":[1,0,117,1],
 "classTitleScreenController.html":[1,0,118],
