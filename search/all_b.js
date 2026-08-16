@@ -79,7 +79,7 @@ var searchData=
   ['longlinecolor_76',['longLineColor',['../classDeveloperSettings.html#aec4d0269dc99c2d07c032cb21f4aa459',1,'DeveloperSettings']]],
   ['longnotehandler_77',['longnotehandler',['../classLongNoteHandler.html#afd03fe857231d03ac04ff7540748ce8e',1,'LongNoteHandler.LongNoteHandler()'],['../classLongNoteHandler.html',1,'LongNoteHandler']]],
   ['longnotehandler_2ecs_78',['LongNoteHandler.cs',['../LongNoteHandler_8cs.html',1,'']]],
-  ['longreleasetolerance_79',['longreleasetolerance',['../classDeveloperSettings.html#a8a8e4c46620ff630e67ac14d1a32ea7f',1,'DeveloperSettings.longReleaseTolerance'],['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a38896bd44746382771d139eb6cfadaa4',1,'Notes.Square.SquareNoteTimeline.LongReleaseTolerance']]],
+  ['longreleasetolerance_79',['longreleasetolerance',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a38896bd44746382771d139eb6cfadaa4',1,'Notes.Square.SquareNoteTimeline.LongReleaseTolerance'],['../classDeveloperSettings.html#a8a8e4c46620ff630e67ac14d1a32ea7f',1,'DeveloperSettings.longReleaseTolerance']]],
   ['longshrinkstart_80',['LongShrinkStart',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#aafa229da59d60502d33a119a2185a12c',1,'Notes::Square::SquareNoteTimeline']]],
   ['longsimultaneousaccentblend_81',['longSimultaneousAccentBlend',['../classDeveloperSettings.html#aa9908d3f876644dede8cad8f4cc0fa2d',1,'DeveloperSettings']]],
   ['longstartcolor_82',['longstartcolor',['../classNotes_1_1Square_1_1SquareVisualLong.html#a93e0f2a10ee48f451febb5c134702323',1,'Notes.Square.SquareVisualLong.longStartColor'],['../classDeveloperSettings.html#a0acdc44e9759e9b2fefc9fa4963398c4',1,'DeveloperSettings.longStartColor']]],

@@ -11,11 +11,10 @@ var NAVTREEINDEX2 =
 "classCircleTapHandler.html#acf76c2ed302d064569b88c0ad79a085e":[1,0,31,0],
 "classCircleTapHandler.html#af5d53df050b5e11f446a33e4da579619":[1,0,31,2],
 "classCleanCursor.html":[1,0,32],
-"classCleanCursor.html#a11e108e0577ce425fc55a7c0ddc0bfe6":[1,0,32,5],
-"classCleanCursor.html#a294dc8d8731cb46392e119465578df03":[1,0,32,2],
-"classCleanCursor.html#a667a42b41443f06f0eb6cc1f7e4f3e7b":[1,0,32,4],
-"classCleanCursor.html#aa5826b9d5ad1edf1809d73bd155c01c4":[1,0,32,6],
-"classCleanCursor.html#ad34e7d64e5eadd71f69e344bb1e74123":[1,0,32,3],
+"classCleanCursor.html#a11e108e0577ce425fc55a7c0ddc0bfe6":[1,0,32,4],
+"classCleanCursor.html#a667a42b41443f06f0eb6cc1f7e4f3e7b":[1,0,32,3],
+"classCleanCursor.html#aa5826b9d5ad1edf1809d73bd155c01c4":[1,0,32,5],
+"classCleanCursor.html#ad34e7d64e5eadd71f69e344bb1e74123":[1,0,32,2],
 "classCleanCursor.html#ae30543e89c7371d9722fec2e7ea3c43b":[1,0,32,1],
 "classCleanCursor.html#aea0093947fda3fcbea7595f5fd39f785":[1,0,32,0],
 "classConnectionHintController.html":[1,0,33],
@@ -249,5 +248,6 @@ var NAVTREEINDEX2 =
 "classJudge.html":[1,0,57],
 "classJudge.html#a01ed3b20ffae3798ff854a99d83298ad":[1,0,57,36],
 "classJudge.html#a09794dfa7072d4cd8479669265c48192":[1,0,57,34],
-"classJudge.html#a155a0b9ce598c149580e1f045e7be3e5":[1,0,57,26]
+"classJudge.html#a155a0b9ce598c149580e1f045e7be3e5":[1,0,57,26],
+"classJudge.html#a180db7e7c33c953c681f3d1ab0eaf00a":[1,0,57,8]
 };

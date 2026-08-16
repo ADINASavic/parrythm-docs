@@ -19,6 +19,5 @@ var searchData=
   ['followringscalemultiplier_16',['followRingScaleMultiplier',['../classSliderNoteVisual.html#af578b95486b77ec00ac1fc4a492dae07',1,'SliderNoteVisual']]],
   ['followringsegments_17',['followRingSegments',['../classSliderNoteVisual.html#ab4b118c90ef0a9b44675217707056b55',1,'SliderNoteVisual']]],
   ['followringsortingorder_18',['followRingSortingOrder',['../classSliderNoteVisual.html#a291e85370f4b1305c0c7b96c17c62a09',1,'SliderNoteVisual']]],
-  ['followringwidthmultiplier_19',['followRingWidthMultiplier',['../classSliderNoteVisual.html#add75179b065b00ee5d0e420acec6db03',1,'SliderNoteVisual']]],
-  ['forcesystemcursor_20',['ForceSystemCursor',['../classCleanCursor.html#a294dc8d8731cb46392e119465578df03',1,'CleanCursor']]]
+  ['followringwidthmultiplier_19',['followRingWidthMultiplier',['../classSliderNoteVisual.html#add75179b065b00ee5d0e420acec6db03',1,'SliderNoteVisual']]]
 ];

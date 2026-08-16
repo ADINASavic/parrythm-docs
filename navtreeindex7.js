@@ -1,6 +1,5 @@
 var NAVTREEINDEX7 =
 {
-"classStyleEventHandler.html#a4243c5bd3572d370c076a2cded20aebe":[1,0,117,0],
 "classStyleEventHandler.html#ab4a6f247d407317a7c5640c6d7873749":[1,0,117,2],
 "classStyleEventHandler.html#adcba12e5bf7a8fa8d0394efed8fbdc97":[1,0,117,1],
 "classTitleScreenController.html":[1,0,118],
@@ -148,8 +147,8 @@ var NAVTREEINDEX7 =
 "functions_t.html":[1,3,0,19],
 "functions_u.html":[1,3,0,20],
 "functions_v.html":[1,3,0,21],
-"functions_vars.html":[1,3,2],
 "functions_vars.html":[1,3,2,0],
+"functions_vars.html":[1,3,2],
 "functions_vars_b.html":[1,3,2,1],
 "functions_vars_c.html":[1,3,2,2],
 "functions_vars_d.html":[1,3,2,3],
