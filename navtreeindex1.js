@@ -1,5 +1,6 @@
 var NAVTREEINDEX1 =
 {
+"classChartEditorController.html":[1,0,14],
 "classChartEditorController.html#a762abf24de9eef4e3881f9fc6b5d303f":[1,0,14,0],
 "classChartEditorController.html#a8264bd583caaf492aab75a668f981e94":[1,0,14,1],
 "classChartEditorController.html#aa7f6111df4b9edcfa33ac5a9f59f30d8":[1,0,14,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX1 =
 "classCircleNoteVisual.html#a576a847bffb265806eecd1627e420127":[1,0,30,14],
 "classCircleNoteVisual.html#a5c2a2b825f49aabbeeea2c0de7689aa3":[1,0,30,1],
 "classCircleNoteVisual.html#a5f1a4e17390611f15ec154ce57db051c":[1,0,30,13],
-"classCircleNoteVisual.html#a7fc7e11a100d7dec968f72a53ea7f262":[1,0,30,16],
-"classCircleNoteVisual.html#a88e83ee9f181fd772577a118dffd6139":[1,0,30,8]
+"classCircleNoteVisual.html#a7fc7e11a100d7dec968f72a53ea7f262":[1,0,30,16]
 };

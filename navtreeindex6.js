@@ -1,5 +1,6 @@
 var NAVTREEINDEX6 =
 {
+"classPlayerSpriteController.html#a270b33eaf18d07a0620ad532e16590ae":[1,0,94,11],
 "classPlayerSpriteController.html#a360aec813fe20e99c148aa8b3c2aec73":[1,0,94,6],
 "classPlayerSpriteController.html#a4b0782aedf81020c724b2f7ff5615840":[1,0,94,10],
 "classPlayerSpriteController.html#a65fc02fdcc11ad110da442bf197d2675":[1,0,94,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX6 =
 "classStageBackground.html#ae3302f163a7aa898b3d5cdb59d6130b8":[1,0,116,0],
 "classStageBackground.html#aea1722b2e71316a306b4a18addb685a7":[1,0,116,1],
 "classStyleEventHandler.html":[1,0,117],
-"classStyleEventHandler.html#a4243c5bd3572d370c076a2cded20aebe":[1,0,117,0],
-"classStyleEventHandler.html#ab4a6f247d407317a7c5640c6d7873749":[1,0,117,2]
+"classStyleEventHandler.html#a4243c5bd3572d370c076a2cded20aebe":[1,0,117,0]
 };

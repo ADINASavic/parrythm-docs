@@ -14,5 +14,6 @@ var dir_579b7cb2c0e68cb5b8b84235a147ee6f =
     [ "ScoreGradeUtility.cs", "ScoreGradeUtility_8cs.html", "ScoreGradeUtility_8cs" ],
     [ "Songmeta.cs", "Songmeta_8cs.html", "Songmeta_8cs" ],
     [ "SongScanner.cs", "SongScanner_8cs.html", "SongScanner_8cs" ],
-    [ "UITrailGraphic.cs", "UITrailGraphic_8cs.html", "UITrailGraphic_8cs" ]
+    [ "UITrailGraphic.cs", "UITrailGraphic_8cs.html", "UITrailGraphic_8cs" ],
+    [ "WindowsFilePicker.cs", "WindowsFilePicker_8cs.html", null ]
 ];

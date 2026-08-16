@@ -165,6 +165,7 @@ var NAVTREEINDEX0 =
 "WaveformView_8cs.html":[2,0,0,0,2,13],
 "WaveformView_8cs.html#a061bfdea8217ea83181b2a1c74fdf1ef":[2,0,0,0,2,13,2],
 "WaveformView_8cs.html#a7e0c6abd846aec610c2b42c7ff172c3e":[2,0,0,0,2,13,1],
+"WindowsFilePicker_8cs.html":[2,0,0,0,4,15],
 "annotated.html":[1,0],
 "classAchievementService.html":[1,0,1],
 "classAchievementService.html#aec043ccc8e0c9bb9926340c27f1cd702":[1,0,1,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX0 =
 "classCameraTweenTrack.html#ab0554d17a3628b7180e82e530aa528cd":[1,0,13,3],
 "classCameraTweenTrack.html#ab3b42a4d80c342dc28c715de91e48ca2":[1,0,13,2],
 "classCameraTweenTrack.html#ab8eafe9dfb42afbf0d2a9c0a159eb6d9":[1,0,13,0],
-"classCameraTweenTrack.html#ad8499530abd2e9dff4b4b089a7196b0f":[1,0,13,1],
-"classChartEditorController.html":[1,0,14]
+"classCameraTweenTrack.html#ad8499530abd2e9dff4b4b089a7196b0f":[1,0,13,1]
 };
