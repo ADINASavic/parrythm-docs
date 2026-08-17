@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['saveidentitysource_0',['SaveIdentitySource',['../SaveIdentity_8cs.html#ade2c73c8622f78ec64e8cdcc931dff1a',1,'SaveIdentity.cs']]],
-  ['squarenotetype_1',['SquareNoteType',['../namespaceNotes_1_1Square.html#acc0b247d28aaa3ac0896465f70607ba2',1,'Notes::Square']]]
+  ['placementsnap_0',['PlacementSnap',['../classChartEditorSettings.html#a615666b26a0a0a63215c454d93190ee9',1,'ChartEditorSettings']]]
 ];

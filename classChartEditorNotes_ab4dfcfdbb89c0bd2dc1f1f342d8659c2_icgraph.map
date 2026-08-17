@@ -1,30 +1,55 @@
 <map id="ChartEditorNotes.DisplayType" name="ChartEditorNotes.DisplayType">
-<area shape="rect" id="Node000001" title="isLong/isTrail 때문에 저장 타입과 화면에 보이는 타입이 다름." alt="" coords="1053,120,1269,145"/>
-<area shape="rect" id="Node000002" href="$classChartEditorNotes.html#ae4e3805e3c91849b6a49540906dd1fdc" title="노트의 대표 시각을 sec/beat 양쪽에 한꺼번에 써 넣음. 필드가 타입마다 달라서 한곳에 모음." alt="" coords="767,120,1005,145"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1039,135,1006,135,1006,130,1039,130"/>
-<area shape="rect" id="Node000005" href="$classChartEditorNotes.html#aace8b51bc10d35c2e2f19c9eaab062d5" title=" " alt="" coords="793,55,979,95"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1086,120,979,97,980,92,1087,115"/>
-<area shape="rect" id="Node000006" href="$classChartEditorNotes.html#acae69bdf9d44629f92022642038c6355" title=" " alt="" coords="504,5,711,31"/>
-<area shape="poly" id="edge14_Node000001_Node000006" title=" " alt="" coords="1131,114,1075,77,1040,60,1005,46,929,28,852,19,777,15,711,15,711,9,778,9,853,13,930,23,1006,41,1042,55,1077,73,1134,109"/>
-<area shape="rect" id="Node000007" href="$classChartEditorNotes.html#adae2ab40750f77ca1092b737481134b4" title="노트를 대표하는 시각(플레이백 초). 리스트 정렬과 파형 배치 기준." alt="" coords="774,173,998,199"/>
-<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1082,151,953,176,952,171,1081,145"/>
-<area shape="rect" id="Node000011" href="$classChartEditorNotes.html#a15771c488be1bd1d053ddff3d29aaf10" title="파형에 블록으로 그릴 구간. 점 이벤트는 최소 폭을 줌." alt="" coords="496,297,719,323"/>
-<area shape="poly" id="edge15_Node000001_Node000011" title=" " alt="" coords="1128,155,1072,185,1006,214,927,241,864,256,719,287,666,300,665,295,718,282,863,251,926,235,1004,209,1070,180,1126,150"/>
-<area shape="rect" id="Node000003" href="$classChartEditorNotes.html#a4a9f015eb1dba5a221ccf41632b0cb2c" title="노트를 delta초만큼 통째로 민다. 다중 선택 이동용." alt="" coords="509,55,706,80"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="807,120,766,110,718,95,667,83,668,78,719,90,767,105,808,114"/>
-<area shape="rect" id="Node000004" href="$classChartEditorDocument.html#a3bb24515207fa7cc9c9c68ee6eec0621" title=" " alt="" coords="249,47,444,87"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="495,70,444,70,444,65,495,65"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="778,56,669,33,671,28,780,51"/>
-<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="785,171,765,160,749,144,740,126,732,110,717,95,692,82,694,78,720,90,737,107,745,124,753,141,768,156,787,166"/>
-<area shape="rect" id="Node000008" href="$classChartEditorNotes.html#ad3a64bcc0a0841cedfbb399158670bc1" title=" " alt="" coords="507,105,708,145"/>
-<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="814,173,698,147,700,142,815,168"/>
-<area shape="rect" id="Node000009" href="$classChartEditorDocument.html#afacbcb990537758f03857435e7c88700" title=" " alt="" coords="504,169,711,209"/>
-<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="760,190,711,190,711,185,760,185"/>
-<area shape="rect" id="Node000010" href="$classChartEditorDocument.html#a356b0a32d8a1b30cd3a46d9e99936eba" title=" " alt="" coords="511,233,703,273"/>
-<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="820,204,693,235,691,230,818,199"/>
-<area shape="poly" id="edge11_Node000007_Node000011" title=" " alt="" coords="850,208,768,255,745,272,720,287,682,300,680,295,718,282,742,268,765,250,847,203"/>
-<area shape="rect" id="Node000012" href="$classChartEditorNotes.html#ac6e0bafe486f73e5a0aed02f4fc76b21" title="노트가 화면에 나타나기 시작하는 시각. 정렬용이라 대략만 맞으면 됨." alt="" coords="245,297,448,323"/>
-<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="482,313,448,313,448,307,482,307"/>
-<area shape="rect" id="Node000013" href="$classChartEditorDocument.html#a679cac211cbd257f7cc224ee51dd6b05" title="스폰 순서로 정렬. 런타임이 노트를 만드는 순서와 같음." alt="" coords="5,290,197,330"/>
-<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="232,313,197,313,197,307,232,307"/>
+<area shape="rect" id="Node000001" title="isLong/isTrail 때문에 저장 타입과 화면에 보이는 타입이 다름." alt="" coords="1131,327,1347,353"/>
+<area shape="rect" id="Node000002" href="$classChartEditorNotes.html#af175d9279607c6f071120da6b44ee74b" title="노트의 대표 시각을 sec/beat 양쪽에 그대로 써 넣음. core.js applyNoteTime과 같은 raw&#45;write — 값 변환(오프셋 빼기,..." alt="" coords="844,162,1083,187"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1215,319,1158,264,1121,234,1081,209,1031,190,1033,185,1084,204,1124,230,1162,260,1219,315"/>
+<area shape="rect" id="Node000005" href="$classChartEditorNotes.html#aace8b51bc10d35c2e2f19c9eaab062d5" title=" " alt="" coords="870,428,1057,468"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1200,361,1084,412,1031,430,1029,425,1082,407,1197,356"/>
+<area shape="rect" id="Node000006" href="$classChartEditorNotes.html#acae69bdf9d44629f92022642038c6355" title=" " alt="" coords="581,491,788,517"/>
+<area shape="poly" id="edge29_Node000001_Node000006" title=" " alt="" coords="1222,365,1198,394,1166,427,1127,458,1084,482,1009,506,932,517,856,521,788,519,788,513,856,516,931,512,1008,500,1082,478,1124,454,1162,423,1194,390,1218,362"/>
+<area shape="rect" id="Node000007" href="$classChartEditorNotes.html#ad3a64bcc0a0841cedfbb399158670bc1" title="core.js getNoteTimeBeats. 모드가 진실인 축을 그대로 씀 — 초에서 환산할 땐 오프셋을 빼지 않음. Camera는 웹과 같이 judge 필드를 봄 (start가 ..." alt="" coords="863,263,1064,303"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1163,327,1059,305,1060,300,1164,322"/>
+<area shape="rect" id="Node000019" href="$classChartEditorNotes.html#a15771c488be1bd1d053ddff3d29aaf10" title="파형에 블록으로 그릴 구간. core.js noteTimeWindowSec와 같은 타입별 규칙." alt="" coords="573,213,796,238"/>
+<area shape="poly" id="edge31_Node000001_Node000019" title=" " alt="" coords="1208,321,1152,284,1118,267,1082,253,1009,236,934,226,862,222,796,222,796,216,862,217,935,221,1010,231,1083,248,1120,262,1155,280,1211,317"/>
+<area shape="rect" id="Node000020" href="$classChartEditorNotes.html#adae2ab40750f77ca1092b737481134b4" title="노트를 대표하는 시각(플레이백 초). 리스트 정렬과 파형 배치 기준." alt="" coords="851,327,1075,353"/>
+<area shape="poly" id="edge21_Node000001_Node000020" title=" " alt="" coords="1117,343,1075,343,1075,337,1117,337"/>
+<area shape="rect" id="Node000022" href="$classChartEditorNotes.html#a12b2363224320f9486bd0a253c547e70" title="노트가 화면에 나타나기 시작하는 시각. core.js spawnSecOf와 같이 리드 시간을 뺌." alt="" coords="583,442,786,467"/>
+<area shape="poly" id="edge30_Node000001_Node000022" title=" " alt="" coords="1153,358,845,419,736,445,735,439,843,413,1152,353"/>
+<area shape="rect" id="Node000003" href="$classChartEditorNotes.html#a4a9f015eb1dba5a221ccf41632b0cb2c" title="노트를 delta초만큼 통째로 민다. 다중 선택 이동용." alt="" coords="586,162,783,187"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="830,177,784,177,784,172,830,172"/>
+<area shape="rect" id="Node000004" href="$classChartEditorDocument.html#a3bb24515207fa7cc9c9c68ee6eec0621" title=" " alt="" coords="32,69,227,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="588,163,226,107,227,102,588,157"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="857,472,749,494,748,489,856,467"/>
+<area shape="rect" id="Node000008" href="$classChartEditorDocument.html#a39bb5326fc7159ee333b16e6da201bd5" title=" " alt="" coords="33,5,225,45"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="917,257,842,201,819,174,810,162,795,152,723,118,647,91,569,70,492,54,346,35,226,28,226,23,346,30,493,49,570,65,649,86,725,113,797,147,813,158,823,170,846,197,920,253"/>
+<area shape="rect" id="Node000009" href="$classChartEditorDocument.html#a26828b3bd4bed84fc02057eb7acb6582" title="웹 renderNotes가 매번 하던 박 순 정렬. 박 → 초 순으로 비교하고 같으면 기존 순서를 지킴 (웹은 _createdAt 타이브레이크 — 안정 정렬이면 결과가 같음)." alt="" coords="589,263,781,303"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="849,285,781,285,781,280,849,280"/>
+<area shape="poly" id="edge20_Node000007_Node000019" title=" " alt="" coords="852,263,747,241,748,235,853,257"/>
+<area shape="rect" id="Node000010" href="$classChartEditorDocument.html#a83116fdd4a1524ca0f3c617e90bfed46" title="실패하면 false를 주고 기존 차트를 그대로 둠. 열다 깨져서 작업물을 잃으면 안 됨." alt="" coords="301,298,525,323"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="575,297,526,302,525,296,575,291"/>
+<area shape="rect" id="Node000011" href="$classChartEditorDocument.html#a91072f4d5f1ae5b77d851b22df152e91" title="필드만 고쳤을 때. 구조 변경과 같은 취급으로 히스토리에 남김." alt="" coords="312,249,515,274"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="575,277,515,272,515,267,575,271"/>
+<area shape="poly" id="edge16_Node000011_Node000004" title=" " alt="" coords="384,241,299,167,277,143,252,124,226,112,228,107,255,119,281,139,303,163,388,237"/>
+<area shape="poly" id="edge19_Node000011_Node000008" title=" " alt="" coords="397,237,375,198,342,149,301,101,252,60,225,46,227,41,255,55,305,97,346,146,379,195,402,235"/>
+<area shape="rect" id="Node000012" href="$classChartEditorDocument.html#a3d441820157788e4c27b839b053f70a5" title=" " alt="" coords="34,249,225,274"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="298,264,225,264,225,259,298,259"/>
+<area shape="rect" id="Node000013" href="$classChartEditorDocument.html#ade94cbc033e475261a75a0cbcdf0ba60" title=" " alt="" coords="13,298,245,323"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="326,279,204,301,203,295,326,274"/>
+<area shape="rect" id="Node000014" href="$classChartEditorDocument.html#a65b0901d0686ce67c97c885e20e73bc4" title="차트 헤더(BPM/오프셋/템포맵)가 바뀌면 시간 계산을 다시 만들어야 함." alt="" coords="5,347,253,373"/>
+<area shape="poly" id="edge13_Node000011_Node000014" title=" " alt="" coords="316,281,303,288,288,299,280,312,270,325,255,337,224,350,222,345,252,332,266,321,275,309,284,295,300,283,314,276"/>
+<area shape="rect" id="Node000015" href="$classChartEditorDocument.html#a69b64eab2e04e32446b1c2d0ca630f41" title=" " alt="" coords="12,134,247,159"/>
+<area shape="poly" id="edge14_Node000011_Node000015" title=" " alt="" coords="381,243,323,208,252,174,209,162,211,157,254,170,326,203,384,239"/>
+<area shape="rect" id="Node000016" href="$classChartEditorDocument.html#adca5eebbbe8a253850f4efe8243f1bd6" title=" " alt="" coords="19,184,239,224"/>
+<area shape="poly" id="edge15_Node000011_Node000016" title=" " alt="" coords="336,249,228,227,229,221,337,243"/>
+<area shape="rect" id="Node000017" href="$classChartEditorDocument.html#afe144a056da2c4ddca4a899c48413c80" title="스폰 순서로 정렬. 런타임이 노트를 만드는 순서와 같음." alt="" coords="33,461,225,501"/>
+<area shape="poly" id="edge17_Node000011_Node000017" title=" " alt="" coords="308,283,303,287,288,306,281,326,280,367,279,409,271,430,255,451,227,470,224,465,252,447,266,428,273,408,274,367,275,325,283,304,299,283,304,279"/>
+<area shape="rect" id="Node000018" href="$classChartEditorDocument.html#a356b0a32d8a1b30cd3a46d9e99936eba" title=" " alt="" coords="33,397,225,437"/>
+<area shape="poly" id="edge18_Node000011_Node000018" title=" " alt="" coords="310,283,303,287,292,299,285,310,280,335,274,361,267,374,255,386,227,403,224,398,252,382,262,371,269,359,274,334,280,308,288,295,300,283,306,278"/>
+<area shape="poly" id="edge23_Node000020_Node000003" title=" " alt="" coords="851,323,842,317,829,303,822,288,817,258,813,229,806,215,794,202,775,190,777,185,798,198,811,212,818,227,823,257,827,286,834,300,846,313,854,319"/>
+<area shape="poly" id="edge25_Node000020_Node000009" title=" " alt="" coords="887,327,780,305,781,300,888,322"/>
+<area shape="poly" id="edge24_Node000020_Node000018" title=" " alt="" coords="904,359,796,381,640,399,484,411,225,420,225,414,483,405,640,394,796,376,903,353"/>
+<area shape="poly" id="edge28_Node000020_Node000019" title=" " alt="" coords="857,325,842,317,826,301,818,284,810,268,794,253,769,241,771,236,798,248,814,265,822,282,830,298,846,313,859,320"/>
+<area shape="rect" id="Node000021" href="$classChartEditorDocument.html#afacbcb990537758f03857435e7c88700" title=" " alt="" coords="581,327,788,367"/>
+<area shape="poly" id="edge22_Node000020_Node000021" title=" " alt="" coords="838,346,788,347,788,342,837,340"/>
+<area shape="poly" id="edge26_Node000020_Node000022" title=" " alt="" coords="878,359,845,374,831,386,822,399,813,412,797,425,752,444,750,439,795,420,809,408,818,396,827,383,843,370,876,354"/>
+<area shape="poly" id="edge27_Node000022_Node000017" title=" " alt="" coords="570,463,226,479,225,474,570,457"/>
 </map>

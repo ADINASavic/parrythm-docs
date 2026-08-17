@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['rangeselected_0',['RangeSelected',['../classWaveformView.html#ac1244fae23d79660131b74e8e27a9e05',1,'WaveformView']]]
+  ['seekrequested_0',['SeekRequested',['../classMiniMapView.html#a6883180b0bbab473234e538f24100585',1,'MiniMapView']]]
 ];

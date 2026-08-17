@@ -10,7 +10,7 @@ var searchData=
   ['noteappearlead_7',['noteAppearLead',['../classPlayerPreferences.html#a58c173b8f3e8fe7bcc19a01d74a8c7b1',1,'PlayerPreferences']]],
   ['notes_8',['notes',['../classLevelChartData.html#a59ce21ae9096319ff247086bc3582cba',1,'LevelChartData']]],
   ['notespeed_9',['noteSpeed',['../classPlayerPreferences.html#af613ce56614ef11e5947e72a97cbdc05',1,'PlayerPreferences']]],
-  ['notetypefilter_10',['NoteTypeFilter',['../classWaveformView.html#a7f3d5ff8ab7b2847280e9033b4bd529f',1,'WaveformView']]],
-  ['nowsec_11',['nowsec',['../classMiniMapView.html#a260bbd64aa653a7f018f6208b302efdf',1,'MiniMapView.NowSec'],['../classPreviewView.html#a24ba681f5b00297f2022bc302b0e22de',1,'PreviewView.NowSec'],['../classWaveformView.html#afbf1cca531316de811aeb0b41661e1c0',1,'WaveformView.NowSec']]],
+  ['notespeeddial_10',['noteSpeedDial',['../classChartEditorSettings.html#ae00fc3ceb959f8019e14c6f5388004b1',1,'ChartEditorSettings']]],
+  ['nowsec_11',['nowsec',['../classMiniMapView.html#a260bbd64aa653a7f018f6208b302efdf',1,'MiniMapView.NowSec'],['../classPreviewView.html#a24ba681f5b00297f2022bc302b0e22de',1,'PreviewView.NowSec']]],
   ['numerator_12',['numerator',['../structChartEditorTime_1_1BarInfo.html#ab9ebab15f041609f34c5aca1af411a03',1,'ChartEditorTime.BarInfo.numerator'],['../classLevelChartData_1_1TimeSigPoint.html#a4bf920f845491e59056bc36bda803a2f',1,'LevelChartData.TimeSigPoint.numerator']]]
 ];

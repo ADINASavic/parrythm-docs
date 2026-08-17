@@ -1,0 +1,5 @@
+<map id="ChartEditorNotes.PlacementRadius" name="ChartEditorNotes.PlacementRadius">
+<area shape="rect" id="Node000001" title="웹 placementRadiusPx. 반영역 크기를 넘지 않게 자름." alt="" coords="5,5,212,45"/>
+<area shape="rect" id="Node000002" href="$classChartEditorNotes.html#a8df34f7bf24cb4a46e6308cbbdb5cea7" title="웹 sanitizeCircleRadiusPx. 유효하지 않으면 100, 최소 1." alt="" coords="260,5,449,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,23,247,23,247,28,212,28"/>
+</map>

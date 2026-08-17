@@ -1,5 +1,0 @@
-<map id="ChartEditorController" name="ChartEditorController">
-<area shape="rect" id="Node000001" title="채보 에디터 씬의 본체. 웹 에디터가 하던 일 — 곡 열기, 재생, 배치, 저장 — 을 한곳에서 묶음. 씬 간 이동은 아직 안 봄. 이 씬만 켜면 바로 편집이 되는 게 목표임." alt="" coords="5,93,164,119"/>
-<area shape="rect" id="Node000002" href="$classChartEditorSettings.html" title="스폰 계산·프리뷰용 값들. 웹 에디터의 &quot;Spawn Calc Settings&quot; 패널과 같은 역할임. 차트에 저장되는 값(circleRadius, bulletSpeed)은 문서 쪽에 ..." alt="" coords="11,5,159,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,45,87,93,82,93,82,45"/>
-</map>

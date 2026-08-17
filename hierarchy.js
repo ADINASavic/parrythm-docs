@@ -11,6 +11,7 @@ var hierarchy =
     [ "ChartEditorNotes", "classChartEditorNotes.html", null ],
     [ "ChartEditorSettings", "classChartEditorSettings.html", null ],
     [ "ChartEditorSong", "classChartEditorSong.html", null ],
+    [ "ChartEditorThemeState", "classChartEditorThemeState.html", null ],
     [ "ChartEditorTime", "classChartEditorTime.html", null ],
     [ "ChartEditorUi", "classChartEditorUi.html", null ],
     [ "ChartEventDispatcher", "classChartEventDispatcher.html", null ],
@@ -79,7 +80,6 @@ var hierarchy =
       [ "BattleAnimationReaction", "classBattleAnimationReaction.html", null ],
       [ "BulletNote", "classBulletNote.html", null ],
       [ "CameraTweenTrack", "classCameraTweenTrack.html", null ],
-      [ "ChartEditorController", "classChartEditorController.html", null ],
       [ "ChartEndWatcher", "classChartEndWatcher.html", null ],
       [ "ChartPlayer", "classChartPlayer.html", null ],
       [ "CircleNoteVisual", "classCircleNoteVisual.html", null ],
@@ -158,7 +158,7 @@ var hierarchy =
       [ "MarkSplashParticles", "classMarkSplashParticles.html", null ],
       [ "MiniMapView", "classMiniMapView.html", null ],
       [ "NumField", "classNumField.html", null ],
-      [ "PreviewView", "classPreviewView.html", null ],
-      [ "WaveformView", "classWaveformView.html", null ]
-    ] ]
+      [ "PreviewView", "classPreviewView.html", null ]
+    ] ],
+    [ "ChartEditorThemeState.WaveTokens", "classChartEditorThemeState_1_1WaveTokens.html", null ]
 ];

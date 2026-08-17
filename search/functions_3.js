@@ -1,17 +1,18 @@
 var searchData=
 [
   ['dashedline_0',['DashedLine',['../classChartEditorDraw.html#ae39e9af68b1e62b49f3d827ea4282fd2',1,'ChartEditorDraw']]],
-  ['decidenormalfrominputtime_1',['DecideNormalFromInputTime',['../classNotes_1_1Square_1_1SquareNoteJudge.html#abb28d523908bdacb98d19e5eb988026c',1,'Notes::Square::SquareNoteJudge']]],
-  ['delete_2',['Delete',['../classLocalSettingsSaveStorage.html#adb42a7032903c96ffaaf5ecb27a6f50b',1,'LocalSettingsSaveStorage']]],
-  ['disable_3',['disable',['../classParrythmInputActions_1_1UIActions.html#a0d726b7fa44a8d3bf2fefc7d3848a1b5',1,'ParrythmInputActions.UIActions.Disable()'],['../classParrythmInputActions_1_1IngameGameplayActions.html#aeea565294f7d009cdde641902f26f048',1,'ParrythmInputActions.IngameGameplayActions.Disable()'],['../classParrythmInputActions_1_1OutgameMenuActions.html#a6e78eb418fc5e584a418674bc803bddb',1,'ParrythmInputActions.OutgameMenuActions.Disable()'],['../classParrythmInputActions_1_1ResultsMenuActions.html#ad435d56ab6b6bd18194cf8374e8e5846',1,'ParrythmInputActions.ResultsMenuActions.Disable()'],['../classParrythmVirtualPointer.html#a0f961791550dd4fe6891dad66c397aed',1,'ParrythmVirtualPointer.Disable()']]],
-  ['dispatch_4',['Dispatch',['../classChartEventDispatcher.html#a51ea8d89a32d93208f4c2bb526c8a058',1,'ChartEventDispatcher']]],
-  ['displaytype_5',['DisplayType',['../classChartEditorNotes.html#ab4dfcfdbb89c0bd2dc1f1f342d8659c2',1,'ChartEditorNotes']]],
-  ['displaytypelabel_6',['DisplayTypeLabel',['../classChartEditorNotes.html#aace8b51bc10d35c2e2f19c9eaab062d5',1,'ChartEditorNotes']]],
-  ['dispose_7',['dispose',['../classParrythmInputActions.html#a69303cfae513f23cc63fd932859ff888',1,'ParrythmInputActions.Dispose()'],['../classParrythmInputRuntime_1_1StateOverrideHandle.html#ae28a7d0e57ee17e0269a26fabdf5feb5',1,'ParrythmInputRuntime.StateOverrideHandle.Dispose()'],['../classParrythmVirtualPointer.html#a4640ca0dd26b9ee9276ef45767244a49',1,'ParrythmVirtualPointer.Dispose()']]],
-  ['dogood_8',['DoGood',['../classNoteBase.html#aa3070cce12df6f48a2038a9f57a543a5',1,'NoteBase']]],
-  ['domiss_9',['DoMiss',['../classNoteBase.html#ab83244e39ec074fc78d312c22d46bf7b',1,'NoteBase']]],
-  ['doperfect_10',['DoPerfect',['../classNoteBase.html#ae16675afc9557b2500201e8e86c56b25',1,'NoteBase']]],
-  ['dropdown_11',['Dropdown',['../classChartEditorUi.html#a55b56fe280804473979d8d58a51c38ef',1,'ChartEditorUi']]],
-  ['durationsec_12',['DurationSec',['../classChartEditorTime.html#a433d15e2d830b098cb0d778dc54be715',1,'ChartEditorTime']]],
-  ['dursec_13',['DurSec',['../classChartTimelineRuntime.html#a50901598716fc4dbc27c8541a7802ec6',1,'ChartTimelineRuntime']]]
+  ['dashedpolyline_1',['DashedPolyline',['../classChartEditorDraw.html#a52aa75ba0493c0bddde1e1665e25292e',1,'ChartEditorDraw']]],
+  ['decidenormalfrominputtime_2',['DecideNormalFromInputTime',['../classNotes_1_1Square_1_1SquareNoteJudge.html#abb28d523908bdacb98d19e5eb988026c',1,'Notes::Square::SquareNoteJudge']]],
+  ['delete_3',['Delete',['../classLocalSettingsSaveStorage.html#adb42a7032903c96ffaaf5ecb27a6f50b',1,'LocalSettingsSaveStorage']]],
+  ['disable_4',['disable',['../classParrythmInputActions_1_1UIActions.html#a0d726b7fa44a8d3bf2fefc7d3848a1b5',1,'ParrythmInputActions.UIActions.Disable()'],['../classParrythmInputActions_1_1IngameGameplayActions.html#aeea565294f7d009cdde641902f26f048',1,'ParrythmInputActions.IngameGameplayActions.Disable()'],['../classParrythmInputActions_1_1OutgameMenuActions.html#a6e78eb418fc5e584a418674bc803bddb',1,'ParrythmInputActions.OutgameMenuActions.Disable()'],['../classParrythmInputActions_1_1ResultsMenuActions.html#ad435d56ab6b6bd18194cf8374e8e5846',1,'ParrythmInputActions.ResultsMenuActions.Disable()'],['../classParrythmVirtualPointer.html#a0f961791550dd4fe6891dad66c397aed',1,'ParrythmVirtualPointer.Disable()']]],
+  ['dispatch_5',['Dispatch',['../classChartEventDispatcher.html#a51ea8d89a32d93208f4c2bb526c8a058',1,'ChartEventDispatcher']]],
+  ['displaytype_6',['DisplayType',['../classChartEditorNotes.html#ab4dfcfdbb89c0bd2dc1f1f342d8659c2',1,'ChartEditorNotes']]],
+  ['displaytypelabel_7',['DisplayTypeLabel',['../classChartEditorNotes.html#aace8b51bc10d35c2e2f19c9eaab062d5',1,'ChartEditorNotes']]],
+  ['dispose_8',['dispose',['../classParrythmInputActions.html#a69303cfae513f23cc63fd932859ff888',1,'ParrythmInputActions.Dispose()'],['../classParrythmInputRuntime_1_1StateOverrideHandle.html#ae28a7d0e57ee17e0269a26fabdf5feb5',1,'ParrythmInputRuntime.StateOverrideHandle.Dispose()'],['../classParrythmVirtualPointer.html#a4640ca0dd26b9ee9276ef45767244a49',1,'ParrythmVirtualPointer.Dispose()']]],
+  ['dogood_9',['DoGood',['../classNoteBase.html#aa3070cce12df6f48a2038a9f57a543a5',1,'NoteBase']]],
+  ['domiss_10',['DoMiss',['../classNoteBase.html#ab83244e39ec074fc78d312c22d46bf7b',1,'NoteBase']]],
+  ['doperfect_11',['DoPerfect',['../classNoteBase.html#ae16675afc9557b2500201e8e86c56b25',1,'NoteBase']]],
+  ['dropdown_12',['Dropdown',['../classChartEditorUi.html#a55b56fe280804473979d8d58a51c38ef',1,'ChartEditorUi']]],
+  ['durationsec_13',['DurationSec',['../classChartEditorTime.html#a433d15e2d830b098cb0d778dc54be715',1,'ChartEditorTime']]],
+  ['dursec_14',['DurSec',['../classChartTimelineRuntime.html#a50901598716fc4dbc27c8541a7802ec6',1,'ChartTimelineRuntime']]]
 ];

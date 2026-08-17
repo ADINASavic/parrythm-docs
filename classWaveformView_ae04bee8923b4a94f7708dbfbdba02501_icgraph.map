@@ -1,5 +1,0 @@
-<map id="WaveformView.Fit" name="WaveformView.Fit">
-<area shape="rect" id="Node000001" title=" " alt="" coords="249,5,389,31"/>
-<area shape="rect" id="Node000002" href="$classWaveformView.html#ad75795e4b8d633021322b2143b7cbc57" title="파형은 한 번만 뽑아 캐시함. 통째로 읽으면 메모리를 크게 먹어서 조각내서 읽음." alt="" coords="5,5,201,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,21,202,21,202,15,236,15"/>
-</map>

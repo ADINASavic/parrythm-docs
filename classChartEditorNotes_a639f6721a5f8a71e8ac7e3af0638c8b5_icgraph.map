@@ -1,12 +1,12 @@
 <map id="ChartEditorNotes.LongStartSec" name="ChartEditorNotes.LongStartSec">
-<area shape="rect" id="Node000001" title=" " alt="" coords="1061,31,1284,56"/>
-<area shape="rect" id="Node000002" href="$classChartEditorNotes.html#afd90f1906045f5566a407aad06d9bb26" title=" " alt="" coords="767,5,1013,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1047,35,1013,32,1014,26,1048,29"/>
-<area shape="rect" id="Node000003" href="$classChartEditorNotes.html#a15771c488be1bd1d053ddff3d29aaf10" title="파형에 블록으로 그릴 구간. 점 이벤트는 최소 폭을 줌." alt="" coords="496,31,719,56"/>
-<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="1048,46,719,46,719,41,1048,41"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="753,33,719,36,719,31,753,28"/>
-<area shape="rect" id="Node000004" href="$classChartEditorNotes.html#ac6e0bafe486f73e5a0aed02f4fc76b21" title="노트가 화면에 나타나기 시작하는 시각. 정렬용이라 대략만 맞으면 됨." alt="" coords="245,31,448,56"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="482,46,448,46,448,41,482,41"/>
-<area shape="rect" id="Node000005" href="$classChartEditorDocument.html#a679cac211cbd257f7cc224ee51dd6b05" title="스폰 순서로 정렬. 런타임이 노트를 만드는 순서와 같음." alt="" coords="5,23,197,63"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="232,46,197,46,197,41,232,41"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="571,56,793,81"/>
+<area shape="rect" id="Node000002" href="$classChartEditorNotes.html#afd90f1906045f5566a407aad06d9bb26" title=" " alt="" coords="276,5,523,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="597,56,471,33,471,28,598,51"/>
+<area shape="rect" id="Node000003" href="$classChartEditorNotes.html#a15771c488be1bd1d053ddff3d29aaf10" title="파형에 블록으로 그릴 구간. core.js noteTimeWindowSec와 같은 타입별 규칙." alt="" coords="5,28,228,53"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="557,65,228,49,229,43,557,60"/>
+<area shape="rect" id="Node000004" href="$classChartEditorNotes.html#a12b2363224320f9486bd0a253c547e70" title="노트가 화면에 나타나기 시작하는 시각. core.js spawnSecOf와 같이 리드 시간을 뺌." alt="" coords="298,107,501,132"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="598,86,471,109,471,104,597,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="262,32,228,34,228,29,262,26"/>
+<area shape="rect" id="Node000005" href="$classChartEditorDocument.html#afe144a056da2c4ddca4a899c48413c80" title="스폰 순서로 정렬. 런타임이 노트를 만드는 순서와 같음." alt="" coords="21,99,213,139"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="284,122,213,122,213,117,284,117"/>
 </map>

@@ -1,0 +1,7 @@
+<map id="ChartEditorNotes.ApplyNoteTime" name="ChartEditorNotes.ApplyNoteTime">
+<area shape="rect" id="Node000001" title="노트의 대표 시각을 sec/beat 양쪽에 그대로 써 넣음. core.js applyNoteTime과 같은 raw&#45;write — 값 변환(오프셋 빼기,..." alt="" coords="493,13,732,38"/>
+<area shape="rect" id="Node000002" href="$classChartEditorNotes.html#a4a9f015eb1dba5a221ccf41632b0cb2c" title="노트를 delta초만큼 통째로 민다. 다중 선택 이동용." alt="" coords="248,13,445,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="480,28,446,28,446,23,480,23"/>
+<area shape="rect" id="Node000003" href="$classChartEditorDocument.html#a3bb24515207fa7cc9c9c68ee6eec0621" title=" " alt="" coords="5,5,200,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="235,28,200,28,200,23,235,23"/>
+</map>

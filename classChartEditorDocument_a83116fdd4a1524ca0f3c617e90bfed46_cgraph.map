@@ -1,5 +1,22 @@
 <map id="ChartEditorDocument.LoadJson" name="ChartEditorDocument.LoadJson">
-<area shape="rect" id="Node000001" title="실패하면 false를 주고 기존 차트를 그대로 둠. 열다 깨져서 작업물을 잃으면 안 됨." alt="" coords="5,13,229,38"/>
+<area shape="rect" id="Node000001" title="실패하면 false를 주고 기존 차트를 그대로 둠. 열다 깨져서 작업물을 잃으면 안 됨." alt="" coords="5,45,229,70"/>
 <area shape="rect" id="Node000002" href="$classLevelChartJsonTool.html#a140c85a493cbb3c9a0237b5576889503" title=" " alt="" coords="277,5,469,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,23,263,23,263,28,229,28"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,42,263,36,264,42,219,47"/>
+<area shape="rect" id="Node000003" href="$classChartEditorDocument.html#a26828b3bd4bed84fc02057eb7acb6582" title="웹 renderNotes가 매번 하던 박 순 정렬. 박 → 초 순으로 비교하고 같으면 기존 순서를 지킴 (웹은 _createdAt 타이브레이크 — 안정 정렬이면 결과가 같음)." alt="" coords="277,69,469,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,67,264,73,263,78,219,73"/>
+<area shape="rect" id="Node000004" href="$classChartEditorNotes.html#ad3a64bcc0a0841cedfbb399158670bc1" title="core.js getNoteTimeBeats. 모드가 진실인 축을 그대로 씀 — 초에서 환산할 땐 오프셋을 빼지 않음. Camera는 웹과 같이 judge 필드를 봄 (start가 ..." alt="" coords="529,40,730,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="469,76,515,70,515,76,470,81"/>
+<area shape="rect" id="Node000007" href="$classChartEditorNotes.html#adae2ab40750f77ca1092b737481134b4" title="노트를 대표하는 시각(플레이백 초). 리스트 정렬과 파형 배치 기준." alt="" coords="517,105,741,130"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="470,97,504,101,503,106,469,102"/>
+<area shape="rect" id="Node000005" href="$classChartEditorNotes.html#ab4dfcfdbb89c0bd2dc1f1f342d8659c2" title="isLong/isTrail 때문에 저장 타입과 화면에 보이는 타입이 다름." alt="" coords="802,55,1018,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="730,60,789,62,788,67,730,66"/>
+<area shape="rect" id="Node000006" href="$classChartEditorTime.html#abbfd9c6c25e840cde4bb90d9f36be0ad" title=" " alt="" coords="811,6,1009,31"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="730,43,809,31,810,36,731,48"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="702,102,823,81,824,86,703,107"/>
+<area shape="rect" id="Node000008" href="$classChartEditorNotes.html#ae2d772c4dbe96bfb90d7b2d0460ae815" title=" " alt="" coords="789,105,1031,130"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="741,115,776,115,776,120,741,120"/>
+<area shape="rect" id="Node000009" href="$classChartEditorNotes.html#a46565c08ced34e4c791a05d689d10605" title="차트 시각(sec/beat 쌍) → 플레이백 초. 오프셋 포함." alt="" coords="807,155,1013,195"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="693,127,799,149,798,155,692,133"/>
+<area shape="rect" id="Node000010" href="$classChartEditorTime.html#a2e6ceae38b0e560c9f1502cecc8ef2e9" title=" " alt="" coords="1079,162,1277,187"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1013,172,1065,172,1065,177,1013,177"/>
 </map>

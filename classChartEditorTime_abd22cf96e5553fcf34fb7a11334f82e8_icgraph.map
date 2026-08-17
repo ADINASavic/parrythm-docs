@@ -1,13 +1,7 @@
 <map id="ChartEditorTime.Qms" name="ChartEditorTime.Qms">
-<area shape="rect" id="Node000001" title="1ms 격자로 반올림. 에디터가 쓰는 모든 시간 필드의 해상도." alt="" coords="787,62,949,87"/>
-<area shape="rect" id="Node000002" href="$classChartEditorNotes.html#ae4e3805e3c91849b6a49540906dd1fdc" title="노트의 대표 시각을 sec/beat 양쪽에 한꺼번에 써 넣음. 필드가 타입마다 달라서 한곳에 모음." alt="" coords="497,13,735,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="789,62,681,41,682,35,790,57"/>
-<area shape="rect" id="Node000005" href="$classBulletPlacement.html#a4daec6f2c287ca9f8bd2a75945d083aa" title="Spawn/Dock/Despawn을 직접 찍었을 때. 시간은 지정한 구간 길이를 그대로 씀." alt="" coords="493,62,739,87"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="773,77,739,77,739,72,773,72"/>
-<area shape="rect" id="Node000006" href="$classBulletPlacement.html#ae74fd6d31cd79f5c88cf86690435fc87" title="dock이 dockSecPlayback에 오도록 spawn 시각을 앞당겨 노트를 만듦." alt="" coords="517,111,715,137"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="790,93,682,114,681,109,789,87"/>
-<area shape="rect" id="Node000003" href="$classChartEditorNotes.html#a4a9f015eb1dba5a221ccf41632b0cb2c" title="노트를 delta초만큼 통째로 민다. 다중 선택 이동용." alt="" coords="248,13,445,38"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="483,28,446,28,446,23,483,23"/>
-<area shape="rect" id="Node000004" href="$classChartEditorDocument.html#a3bb24515207fa7cc9c9c68ee6eec0621" title=" " alt="" coords="5,5,200,45"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="235,28,200,28,200,23,235,23"/>
+<area shape="rect" id="Node000001" title="1ms 격자로 반올림. 에디터가 쓰는 모든 시간 필드의 해상도." alt="" coords="299,31,461,56"/>
+<area shape="rect" id="Node000002" href="$classBulletPlacement.html#a4daec6f2c287ca9f8bd2a75945d083aa" title="Spawn/Dock/Despawn을 직접 찍었을 때. 시간은 지정한 구간 길이를 그대로 씀." alt="" coords="5,5,251,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="285,36,250,33,251,28,285,31"/>
+<area shape="rect" id="Node000003" href="$classBulletPlacement.html#ae74fd6d31cd79f5c88cf86690435fc87" title="dock이 dockSecPlayback에 오도록 spawn 시각을 앞당겨 노트를 만듦." alt="" coords="29,55,227,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="285,55,227,61,227,55,285,50"/>
 </map>

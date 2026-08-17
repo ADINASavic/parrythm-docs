@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['waveformview_0',['WaveformView',['../classWaveformView.html',1,'']]]
+  ['wavetokens_0',['WaveTokens',['../classChartEditorThemeState_1_1WaveTokens.html',1,'ChartEditorThemeState']]]
 ];

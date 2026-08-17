@@ -3,7 +3,7 @@ var searchData=
   ['hasanyheldcell_0',['HasAnyHeldCell',['../classKeyboardInputManager.html#ae2be5984bb0595cfbcf4bad70d7ac597',1,'KeyboardInputManager']]],
   ['hasfinalized_1',['HasFinalized',['../classSliderNote.html#a1731808032ca6989b465844a647c7e6c',1,'SliderNote']]],
   ['hasfocusedtutorial_2',['HasFocusedTutorial',['../classPlayPrefsService.html#a3c5f39d90678e9875d27ba19b50e347c',1,'PlayPrefsService']]],
-  ['hasselection_3',['HasSelection',['../classWaveformView.html#a54932e15bb4673d8830809315fb5035a',1,'WaveformView']]],
+  ['hassaved_3',['HasSaved',['../classChartEditorThemeState.html#a80b7627fa2060b4ec960aeb9660cb10a',1,'ChartEditorThemeState']]],
   ['hasshown_4',['HasShown',['../classChartEndWatcher.html#a4e053e0e8941e5c629909ef41299a84b',1,'ChartEndWatcher']]],
   ['hassong_5',['HasSong',['../classChartEditorSong.html#a86e6a0191ed8f31e2a2551357e1ef68f',1,'ChartEditorSong']]],
   ['hasstarted_6',['HasStarted',['../classSliderNote.html#ad8436fc2d48a22216b622eb012ab68cc',1,'SliderNote']]],

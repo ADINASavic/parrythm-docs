@@ -21,7 +21,6 @@ var classSpecialBulletPattern =
     [ "OffscreenPointAlong", "classSpecialBulletPattern.html#a7082c88b6a74e6ade2321dd898545c29", null ],
     [ "PointFrom", "classSpecialBulletPattern.html#a3bede77fe487f4d0a823f9ed2f1cc26f", null ],
     [ "PushOffSliderPath", "classSpecialBulletPattern.html#afb96d0f579068800bdd07379cd43d3d8", null ],
-    [ "ResetBurst", "classSpecialBulletPattern.html#a21af05ce054e5665132ebe81a2ccc734", null ],
     [ "UsesArc", "classSpecialBulletPattern.html#af87f01777bf9b13556ac9be4f3936136", null ],
     [ "UsesBurstRadius", "classSpecialBulletPattern.html#a998425870916a9fef4466ffcb4f56130", null ],
     [ "UsesCenter", "classSpecialBulletPattern.html#a37444e73d14aca408a03954d5384d95f", null ],

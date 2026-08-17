@@ -9,6 +9,7 @@ var classChartEditorTime =
     [ "DurationSec", "classChartEditorTime.html#a433d15e2d830b098cb0d778dc54be715", null ],
     [ "Qms", "classChartEditorTime.html#abd22cf96e5553fcf34fb7a11334f82e8", null ],
     [ "Rebuild", "classChartEditorTime.html#ab375dca62e688e74c8e08bb8ed3e2af3", null ],
+    [ "RoundHalfUp", "classChartEditorTime.html#ad584f957d409b0688ef2ab8510334cc9", null ],
     [ "SecToBeat", "classChartEditorTime.html#abbfd9c6c25e840cde4bb90d9f36be0ad", null ],
     [ "SnappedBeatsFromSec", "classChartEditorTime.html#ac2a0f2a38bd303903c0bf98f7bfcb2d7", null ],
     [ "SnapSec", "classChartEditorTime.html#a7f42984edd48636f12df16f36f47e692", null ],

@@ -1,0 +1,5 @@
+<map id="ChartEditorTime.RoundHalfUp" name="ChartEditorTime.RoundHalfUp">
+<area shape="rect" id="Node000001" title="JS Math.round와 같은 half&#45;up 반올림. Mathf.Round는 half&#45;even이라 0.5 경계가 어긋남." alt="" coords="288,5,507,31"/>
+<area shape="rect" id="Node000002" href="$classChartEditorNotes.html#a54c668e47a94cdd44f28bd2b2aee3205" title="직전에 찍은 점을 기준으로 클릭 위치를 일정 간격·각도에 맞춰 당김. core.js snapToAnchors와 같음. prevAnchor가 있으면 Direction 모드에서 그 방향..." alt="" coords="5,5,240,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="274,21,240,21,240,15,274,15"/>
+</map>

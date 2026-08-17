@@ -1,0 +1,5 @@
+<map id="ChartEditorNotes.ApplyNoteTime" name="ChartEditorNotes.ApplyNoteTime">
+<area shape="rect" id="Node000001" title="노트의 대표 시각을 sec/beat 양쪽에 그대로 써 넣음. core.js applyNoteTime과 같은 raw&#45;write — 값 변환(오프셋 빼기,..." alt="" coords="5,5,244,31"/>
+<area shape="rect" id="Node000002" href="$classChartEditorNotes.html#ab4dfcfdbb89c0bd2dc1f1f342d8659c2" title="isLong/isTrail 때문에 저장 타입과 화면에 보이는 타입이 다름." alt="" coords="292,5,508,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,15,278,15,278,21,244,21"/>
+</map>

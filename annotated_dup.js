@@ -30,13 +30,13 @@ var annotated_dup =
     [ "BulletPlacement", "classBulletPlacement.html", "classBulletPlacement" ],
     [ "CameraEventHandler", "classCameraEventHandler.html", "classCameraEventHandler" ],
     [ "CameraTweenTrack", "classCameraTweenTrack.html", "classCameraTweenTrack" ],
-    [ "ChartEditorController", "classChartEditorController.html", "classChartEditorController" ],
     [ "ChartEditorDocument", "classChartEditorDocument.html", "classChartEditorDocument" ],
     [ "ChartEditorDraw", "classChartEditorDraw.html", "classChartEditorDraw" ],
     [ "ChartEditorJson", "classChartEditorJson.html", "classChartEditorJson" ],
     [ "ChartEditorNotes", "classChartEditorNotes.html", "classChartEditorNotes" ],
     [ "ChartEditorSettings", "classChartEditorSettings.html", "classChartEditorSettings" ],
     [ "ChartEditorSong", "classChartEditorSong.html", "classChartEditorSong" ],
+    [ "ChartEditorThemeState", "classChartEditorThemeState.html", "classChartEditorThemeState" ],
     [ "ChartEditorTime", "classChartEditorTime.html", "classChartEditorTime" ],
     [ "ChartEditorUi", "classChartEditorUi.html", "classChartEditorUi" ],
     [ "ChartEndWatcher", "classChartEndWatcher.html", "classChartEndWatcher" ],
@@ -137,6 +137,5 @@ var annotated_dup =
     [ "TitleScreenController", "classTitleScreenController.html", "classTitleScreenController" ],
     [ "UITrailGraphic", "classUITrailGraphic.html", "classUITrailGraphic" ],
     [ "UnityMusicController", "classUnityMusicController.html", "classUnityMusicController" ],
-    [ "VoiceEventHandler", "classVoiceEventHandler.html", "classVoiceEventHandler" ],
-    [ "WaveformView", "classWaveformView.html", "classWaveformView" ]
+    [ "VoiceEventHandler", "classVoiceEventHandler.html", "classVoiceEventHandler" ]
 ];

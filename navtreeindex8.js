@@ -1,0 +1,27 @@
+var NAVTREEINDEX8 =
+{
+"structChartEditorTime_1_1BarInfo.html#a50b187e999bcb680368a302a235a0d4a":[1,0,21,0,2],
+"structChartEditorTime_1_1BarInfo.html#a8b8a7a09f5cfb27956b142251861a3cf":[1,0,21,0,0],
+"structChartEditorTime_1_1BarInfo.html#ab9ebab15f041609f34c5aca1af411a03":[1,0,21,0,5],
+"structChartEditorTime_1_1BarInfo.html#ad8fba7e83fc4f1fa6d81f883293c6fce":[1,0,21,0,3],
+"structCleanCursor_1_1CursorSet.html":[1,0,32,0],
+"structCleanCursor_1_1CursorSet.html#a098d1c2af650bb342e9e27e7d2e8d1c7":[1,0,32,0,0],
+"structCleanCursor_1_1CursorSet.html#a253d46b29c30151c4bef0c51861e4f5e":[1,0,32,0,2],
+"structCleanCursor_1_1CursorSet.html#a66294b3ba1b25ffb7313fe2a483869c6":[1,0,32,0,3],
+"structCleanCursor_1_1CursorSet.html#a837aa288f75ff1f23d7c2793f567dc52":[1,0,32,0,1],
+"structPlayFinishedInput.html":[1,0,95],
+"structPlayFinishedInput.html#a0e61234ac406b180e4f8472cdbeb39e7":[1,0,95,3],
+"structPlayFinishedInput.html#a19cad5d43eadae7813bef5bdf6b386cf":[1,0,95,0],
+"structPlayFinishedInput.html#a31e029ad07a0caa36a9c9a31e64a835a":[1,0,95,4],
+"structPlayFinishedInput.html#a54b32c60461710fbac5f59d4c5735b22":[1,0,95,1],
+"structPlayFinishedInput.html#a7f34d5ca4f179f98e5fdd31de21d9b79":[1,0,95,2],
+"structPlayFinishedInput.html#adf720ebbc98abaf03cbcfd1eed52762c":[1,0,95,5],
+"structRatingEntry.html":[1,0,99],
+"structRatingEntry.html#a02c14ef54ae288ab94c465dfb0377d4c":[1,0,99,4],
+"structRatingEntry.html#a4a10f62b84335e8f1111498eeba0c9a8":[1,0,99,2],
+"structRatingEntry.html#a68e97008dd016c7f1e9a097a52cfe673":[1,0,99,5],
+"structRatingEntry.html#a6e999397b77d72214fe3fd57d123665d":[1,0,99,3],
+"structRatingEntry.html#a7d9eae8e2aaea913307c29eba150b6d2":[1,0,99,6],
+"structRatingEntry.html#abf74872b8a3fa7cb694e5aa75825eb1b":[1,0,99,1],
+"structRatingEntry.html#ae4dd46ff7de853c2cfe1f37cf2b252f2":[1,0,99,0]
+};

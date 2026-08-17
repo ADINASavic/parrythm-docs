@@ -1,0 +1,9 @@
+<map id="ChartEditorNotes.SanitizeCircleRadius" name="ChartEditorNotes.SanitizeCircleRadius">
+<area shape="rect" id="Node000001" title="웹 sanitizeCircleRadiusPx. 유효하지 않으면 100, 최소 1." alt="" coords="743,5,932,45"/>
+<area shape="rect" id="Node000002" href="$classChartEditorNotes.html#a1e650ea3a71bac1829473a37780b4c93" title="웹 placementRadiusPx. 반영역 크기를 넘지 않게 자름." alt="" coords="488,5,695,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="729,28,695,28,695,23,729,23"/>
+<area shape="rect" id="Node000003" href="$classChartEditorNotes.html#a6fe6c399122aacd064b7ec1d4a18e2c8" title=" " alt="" coords="247,5,440,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="474,28,440,28,440,23,474,23"/>
+<area shape="rect" id="Node000004" href="$classChartEditorNotes.html#a68e4b38da72db15ab26ab677a3be9f07" title=" " alt="" coords="5,5,199,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="233,28,199,28,199,23,233,23"/>
+</map>

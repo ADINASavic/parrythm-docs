@@ -1,7 +1,0 @@
-<map id="WaveformView" name="WaveformView">
-<area shape="rect" id="Node000001" title="파형 + 비트 그리드 + 노트 블록. 웹 에디터의 #wave 캔버스를 옮긴 것. 클릭으로 시킹, 드래그로 패닝, Shift+드래그로 구간 선택, Ctrl+휠로 줌." alt="" coords="115,93,237,119"/>
-<area shape="rect" id="Node000002" href="$classChartEditorDocument.html" title="편집 중인 차트 하나. 노트 CRUD와 undo/redo, dirty 상태를 들고 있음. 스냅샷은 그냥 차트 JSON 문자열임 — 저장 경로와 같은 코드라 되돌린 결과가 저장 결과와..." alt="" coords="5,5,168,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,38,165,91,162,95,107,42"/>
-<area shape="rect" id="Node000003" href="$classChartEditorSettings.html" title="스폰 계산·프리뷰용 값들. 웹 에디터의 &quot;Spawn Calc Settings&quot; 패널과 같은 역할임. 차트에 저장되는 값(circleRadius, bulletSpeed)은 문서 쪽에 ..." alt="" coords="193,5,341,31"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,42,216,71,190,95,187,91,213,67,243,39"/>
-</map>
