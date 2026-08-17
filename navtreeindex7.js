@@ -1,5 +1,6 @@
 var NAVTREEINDEX7 =
 {
+"classSongMeta.html#af313f0c1a772cc158816768a88d53dbf":[1,0,111,8],
 "classSongPreviewPlayer.html":[1,0,112],
 "classSongPreviewPlayer.html#a27258d0cadb0025bd85b414293e6e818":[1,0,112,2],
 "classSongPreviewPlayer.html#aa18177497573096e940c63a2cc793184":[1,0,112,1],
@@ -137,8 +138,8 @@ var NAVTREEINDEX7 =
 "dir_fdc991a7e589e71f22acc2dbedfeffe5.html":[2,0,0,0,8,1],
 "dir_fe283edb510b3a967d72ea2326c506d4.html":[2,0,0,0,12],
 "files.html":[2,0],
-"functions.html":[1,3,0],
 "functions.html":[1,3,0,0],
+"functions.html":[1,3,0],
 "functions_b.html":[1,3,0,1],
 "functions_c.html":[1,3,0,2],
 "functions_d.html":[1,3,0,3],
@@ -169,6 +170,7 @@ var NAVTREEINDEX7 =
 "functions_func_u.html":[1,3,1,19],
 "functions_func_v.html":[1,3,1,20],
 "functions_func_w.html":[1,3,1,21],
+"functions_func_x.html":[1,3,1,22],
 "functions_g.html":[1,3,0,6],
 "functions_h.html":[1,3,0,7],
 "functions_i.html":[1,3,0,8],
@@ -186,8 +188,8 @@ var NAVTREEINDEX7 =
 "functions_t.html":[1,3,0,19],
 "functions_u.html":[1,3,0,20],
 "functions_v.html":[1,3,0,21],
-"functions_vars.html":[1,3,2,0],
 "functions_vars.html":[1,3,2],
+"functions_vars.html":[1,3,2,0],
 "functions_vars_b.html":[1,3,2,1],
 "functions_vars_c.html":[1,3,2,2],
 "functions_vars_d.html":[1,3,2,3],
@@ -210,6 +212,7 @@ var NAVTREEINDEX7 =
 "functions_vars_v.html":[1,3,2,20],
 "functions_vars_w.html":[1,3,2,21],
 "functions_w.html":[1,3,0,22],
+"functions_x.html":[1,3,0,23],
 "globals.html":[2,1,0],
 "globals_enum.html":[2,1,2],
 "globals_type.html":[2,1,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX7 =
 "structBulletPlacement_1_1Triplet.html#a60edccf9cf05d9ddfeb6341bcf6f82c7":[1,0,11,0,1],
 "structBulletPlacement_1_1Triplet.html#a9005a18ee7faaba04aa5956ee74e976c":[1,0,11,0,5],
 "structBulletPlacement_1_1Triplet.html#aa045abba7f48ce254c332881e59aaf31":[1,0,11,0,4],
-"structBulletPlacement_1_1Triplet.html#aebb85e025ca333f74cdcf36b7cbcbbbb":[1,0,11,0,3],
-"structChartEditorTime_1_1BarInfo.html":[1,0,21,0],
-"structChartEditorTime_1_1BarInfo.html#a0d5be048c75f6be7e2032e83fc70fd0b":[1,0,21,0,4],
-"structChartEditorTime_1_1BarInfo.html#a41969b1d19823e85ef8a48adbe205c34":[1,0,21,0,1]
+"structBulletPlacement_1_1Triplet.html#aebb85e025ca333f74cdcf36b7cbcbbbb":[1,0,11,0,3]
 };

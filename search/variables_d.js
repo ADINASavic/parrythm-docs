@@ -1,7 +1,7 @@
 var searchData=
 [
   ['name_0',['name',['../classDifficultyInfo.html#acc35c996ed580038ba05e5536bdcf984',1,'DifficultyInfo']]],
-  ['normal_1',['normal',['../classDifficultyColorPalette.html#a0d69e1483e7a75cd94566891dbbea22e',1,'DifficultyColorPalette.Normal'],['../structCleanCursor_1_1CursorSet.html#a098d1c2af650bb342e9e27e7d2e8d1c7',1,'CleanCursor.CursorSet.normal']]],
+  ['normal_1',['normal',['../structCleanCursor_1_1CursorSet.html#a098d1c2af650bb342e9e27e7d2e8d1c7',1,'CleanCursor.CursorSet.normal'],['../classDifficultyColorPalette.html#a0d69e1483e7a75cd94566891dbbea22e',1,'DifficultyColorPalette.Normal']]],
   ['normalcolor_2',['normalColor',['../classPlayerSpriteController.html#a360aec813fe20e99c148aa8b3c2aec73',1,'PlayerSpriteController']]],
   ['normaldial_3',['NormalDial',['../classNoteSpeedScale.html#a1190f76224bc5259f8b5964b05440cb8',1,'NoteSpeedScale']]],
   ['normalhotspot_4',['normalHotspot',['../structCleanCursor_1_1CursorSet.html#a837aa288f75ff1f23d7c2793f567dc52',1,'CleanCursor::CursorSet']]],

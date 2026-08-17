@@ -7,5 +7,6 @@ var classChartEditorUi =
     [ "Panel", "classChartEditorUi.html#ac63f5f800fe381c6e97817a1e8bfb8c2", null ],
     [ "Row", "classChartEditorUi.html#abd91aedb20a3a11d57f2ad265925aa2c", null ],
     [ "Text", "classChartEditorUi.html#aa96f0a19a8ed1fcc72d5b533d49e45a4", null ],
-    [ "Toggle", "classChartEditorUi.html#a118d6d7c7ac5e602ab658d51e6dc8ab0", null ]
+    [ "Toggle", "classChartEditorUi.html#a118d6d7c7ac5e602ab658d51e6dc8ab0", null ],
+    [ "XYField", "classChartEditorUi.html#a8373bcae5474fa6a8056201b3bbf1183", null ]
 ];

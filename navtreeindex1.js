@@ -192,6 +192,7 @@ var NAVTREEINDEX1 =
 "classChartEditorUi.html#a3c96b56193e01f1869046db35106868f":[1,0,22,2],
 "classChartEditorUi.html#a55b56fe280804473979d8d58a51c38ef":[1,0,22,1],
 "classChartEditorUi.html#a61224a191991947369d178c2132cef67":[1,0,22,3],
+"classChartEditorUi.html#a8373bcae5474fa6a8056201b3bbf1183":[1,0,22,8],
 "classChartEditorUi.html#a98515483ec8db090d342f9e0265b0440":[1,0,22,0],
 "classChartEditorUi.html#aa96f0a19a8ed1fcc72d5b533d49e45a4":[1,0,22,6],
 "classChartEditorUi.html#abd91aedb20a3a11d57f2ad265925aa2c":[1,0,22,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX1 =
 "classChartPlayer.html#ae2ae35616e121a2733965d262df92ce5":[1,0,27,32],
 "classChartPlayer.html#ae37931e4291211e875267a34231aa039":[1,0,27,29],
 "classChartPlayer.html#ae43210fc59e63bf9c736aec9fd072155":[1,0,27,34],
-"classChartPlayer.html#ae6f80e500dd862dd00824e8de8ac9cec":[1,0,27,27],
-"classChartPlayer.html#aedd07f7ed2b0c420f42f6cf3c0580067":[1,0,27,16]
+"classChartPlayer.html#ae6f80e500dd862dd00824e8de8ac9cec":[1,0,27,27]
 };

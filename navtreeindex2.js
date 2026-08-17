@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"classChartPlayer.html#aedd07f7ed2b0c420f42f6cf3c0580067":[1,0,27,16],
 "classChartTimelineRuntime.html":[1,0,28],
 "classChartTimelineRuntime.html#a08d8c5a9550a8e05220ad735697f0177":[1,0,28,8],
 "classChartTimelineRuntime.html#a13194a5897227549478da0f5ec20eed9":[1,0,28,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX2 =
 "classGaugeManager.html#ac403b1e2073ae10207f2bf93dfdc77a2":[1,0,45,14],
 "classGaugeManager.html#acb5f9647647f5b29cbb677c0834afb58":[1,0,45,6],
 "classGaugeManager.html#aceaeb3a147b7e0cde3016f3d595f9ad1":[1,0,45,4],
-"classGaugeManager.html#acedf86756be0e70ac36132c18cb7ceda":[1,0,45,10],
-"classGaugeManager.html#ad1bc05b87fe6a5b5351e6357636597ff":[1,0,45,11]
+"classGaugeManager.html#acedf86756be0e70ac36132c18cb7ceda":[1,0,45,10]
 };

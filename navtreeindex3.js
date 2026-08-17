@@ -1,5 +1,6 @@
 var NAVTREEINDEX3 =
 {
+"classGaugeManager.html#ad1bc05b87fe6a5b5351e6357636597ff":[1,0,45,11],
 "classGaugeManager.html#adef0659cbb82766eed1618ebd462cf92":[1,0,45,18],
 "classGaugeManager.html#adff59e0dd7e548491aa3755f40c3ca69":[1,0,45,12],
 "classGaugeManager.html#ae757885f9edab7de6cf0b833a58c26af":[1,0,45,19],
@@ -248,6 +249,5 @@ var NAVTREEINDEX3 =
 "classLocalScoreSaveData.html#a99fd9a90e7754424a79575baf4dc803a":[1,0,68,1],
 "classLocalScoreSaveService.html":[1,0,69],
 "classLocalScoreSaveService.html#a0aabeae45c56d434c2b75539f3944f91":[1,0,69,5],
-"classLocalScoreSaveService.html#a2bd1dd55ab26a68c171d56625d182860":[1,0,69,3],
-"classLocalScoreSaveService.html#a36f373f8b6b5b0bd1ff2ade5d75cabaa":[1,0,69,1]
+"classLocalScoreSaveService.html#a2bd1dd55ab26a68c171d56625d182860":[1,0,69,3]
 };

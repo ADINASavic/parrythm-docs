@@ -26,7 +26,7 @@ var searchData=
   ['selectall_23',['SelectAll',['../classChartEditorDocument.html#ac9a7e118b16723d75336ba11f7942b36',1,'ChartEditorDocument']]],
   ['selectdifficulty_24',['SelectDifficulty',['../classChartEditorSong.html#a5e80475262a2de9a022c1b6cc10c8f75',1,'ChartEditorSong']]],
   ['selectedcell_25',['SelectedCell',['../classPreviewView.html#af889c22536407666fe8112c39d85860c',1,'PreviewView']]],
-  ['selection_26',['selection',['../classChartEditorThemeState_1_1WaveTokens.html#a84293699d8418585a3ac2ef2f7cdab3d',1,'ChartEditorThemeState.WaveTokens.selection'],['../classChartEditorDocument.html#a7bfe77b665525b04a79faeb8dabaed5e',1,'ChartEditorDocument.Selection']]],
+  ['selection_26',['selection',['../classChartEditorDocument.html#a7bfe77b665525b04a79faeb8dabaed5e',1,'ChartEditorDocument.Selection'],['../classChartEditorThemeState_1_1WaveTokens.html#a84293699d8418585a3ac2ef2f7cdab3d',1,'ChartEditorThemeState.WaveTokens.selection']]],
   ['selectionline_27',['selectionLine',['../classChartEditorThemeState_1_1WaveTokens.html#a14d43d7cf4945c52ebeee6373781f6e8',1,'ChartEditorThemeState::WaveTokens']]],
   ['selectrangebytime_28',['SelectRangeByTime',['../classChartEditorDocument.html#afacbcb990537758f03857435e7c88700',1,'ChartEditorDocument']]],
   ['set_29',['Set',['../classLeaderboardServiceProvider.html#a2be33472821c6ad43316dc8c5bc8557f',1,'LeaderboardServiceProvider']]],
