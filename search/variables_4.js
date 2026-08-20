@@ -29,6 +29,6 @@ var searchData=
   ['durationbeats_26',['durationBeats',['../classLevelChartData_1_1NoteEvent.html#ae43d1a0918da352f5270bfb21dde03bf',1,'LevelChartData::NoteEvent']]],
   ['durationbeatsoverride_27',['durationBeatsOverride',['../classSliderNote.html#a253e0b1d6b8326a5d22daeaa53ea1e06',1,'SliderNote']]],
   ['durationoverride_28',['durationOverride',['../classSliderNote.html#a792ea0d1728a8fa5b2a2db6744ebc805',1,'SliderNote']]],
-  ['durationsec_29',['durationsec',['../classMiniMapView.html#ad436039d79951c73ad9e2b9643ff997b',1,'MiniMapView.DurationSec'],['../classSongMeta.html#a7960e0d180debb400d2bb01fc926f78e',1,'SongMeta.durationSec']]],
+  ['durationsec_29',['durationsec',['../classSongMeta.html#a7960e0d180debb400d2bb01fc926f78e',1,'SongMeta.durationSec'],['../classMiniMapView.html#ad436039d79951c73ad9e2b9643ff997b',1,'MiniMapView.DurationSec']]],
   ['dynamicheight_30',['dynamicHeight',['../classFixed16x9Camera.html#aa684ddd959297010a4b71fcebf5a8eef',1,'Fixed16x9Camera']]]
 ];

@@ -66,7 +66,7 @@ var searchData=
   ['setvolume_63',['SetVolume',['../classSongPreviewPlayer.html#a27258d0cadb0025bd85b414293e6e818',1,'SongPreviewPlayer']]],
   ['setwithoutnotify_64',['SetWithoutNotify',['../classNumField.html#a08a1bc20956aef9046289cec6dff16f2',1,'NumField']]],
   ['sfx_65',['Sfx',['../classAudioVolume.html#a7dd465b7979893e9c64aea825cc382c9',1,'AudioVolume']]],
-  ['sfxvolume_66',['sfxvolume',['../classJudge.html#a357454720b722e014bd06a349da06f8f',1,'Judge.SFXVolume'],['../classPlayerPreferences.html#a862ab2e96780c9e87812bd31d4ba3527',1,'PlayerPreferences.sfxVolume']]],
+  ['sfxvolume_66',['sfxvolume',['../classPlayerPreferences.html#a862ab2e96780c9e87812bd31d4ba3527',1,'PlayerPreferences.sfxVolume'],['../classJudge.html#a357454720b722e014bd06a349da06f8f',1,'Judge.SFXVolume']]],
   ['shiftnote_67',['ShiftNote',['../classChartEditorNotes.html#a4a9f015eb1dba5a221ccf41632b0cb2c',1,'ChartEditorNotes']]],
   ['shiftselected_68',['ShiftSelected',['../classChartEditorDocument.html#a3bb24515207fa7cc9c9c68ee6eec0621',1,'ChartEditorDocument']]],
   ['shortlabel_69',['ShortLabel',['../classChartEditorNotes.html#acae69bdf9d44629f92022642038c6355',1,'ChartEditorNotes']]],
