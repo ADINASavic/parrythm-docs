@@ -1,12 +1,16 @@
 var searchData=
 [
-  ['occupancy_0',['occupancy',['../classNoteSpawner.html#a61516b7059d617484d64317f97ceb2c1',1,'NoteSpawner.occupancy'],['../classNotes_1_1Square_1_1SquareNoteJudge.html#aa065fec573133fbcefca8022e835e22b',1,'Notes.Square.SquareNoteJudge.occupancy']]],
-  ['outerradiusmultiplier_1',['outerRadiusMultiplier',['../classSliderNoteVisual.html#ac3d4a550efd72e8d629097c71d3da0fc',1,'SliderNoteVisual']]],
-  ['outgame_2',['Outgame',['../classSceneNames.html#a0ccb4df452455698d2b461e2a07632f5',1,'SceneNames']]],
-  ['outgamecursorset_3',['outgameCursorSet',['../classCleanCursor.html#ae1355b13e5327074ecc6f8bf6c743906',1,'CleanCursor']]],
-  ['outlineinneroverlapmultiplier_4',['outlineInnerOverlapMultiplier',['../classSliderNoteVisual.html#aefc1f863d258750da85ece21c4f4ea7c',1,'SliderNoteVisual']]],
-  ['outlinesoftnessmultiplier_5',['outlineSoftnessMultiplier',['../classSliderNoteVisual.html#a963c3ccf37b9992a5dc847e71a930b6e',1,'SliderNoteVisual']]],
-  ['outlinesortingoffset_6',['outlineSortingOffset',['../classCircleNoteVisual.html#a5f1a4e17390611f15ec154ce57db051c',1,'CircleNoteVisual']]],
-  ['outlinesortingorder_7',['outlineSortingOrder',['../classSliderNoteVisual.html#a56b77fc696e322d5eeb77fd8a680179e',1,'SliderNoteVisual']]],
-  ['outlinethicknessmultiplier_8',['outlineThicknessMultiplier',['../classSliderNoteVisual.html#a57787c2897d15c257ba20d69f4691c96',1,'SliderNoteVisual']]]
+  ['name_0',['name',['../classDifficultyInfo.html#acc35c996ed580038ba05e5536bdcf984',1,'DifficultyInfo']]],
+  ['normal_1',['normal',['../classDifficultyColorPalette.html#a0d69e1483e7a75cd94566891dbbea22e',1,'DifficultyColorPalette.Normal'],['../structCleanCursor_1_1CursorSet.html#a098d1c2af650bb342e9e27e7d2e8d1c7',1,'CleanCursor.CursorSet.normal']]],
+  ['normalcolor_2',['normalColor',['../classPlayerSpriteController.html#a360aec813fe20e99c148aa8b3c2aec73',1,'PlayerSpriteController']]],
+  ['normaldial_3',['NormalDial',['../classNoteSpeedScale.html#a1190f76224bc5259f8b5964b05440cb8',1,'NoteSpeedScale']]],
+  ['normalhotspot_4',['normalHotspot',['../structCleanCursor_1_1CursorSet.html#a837aa288f75ff1f23d7c2793f567dc52',1,'CleanCursor::CursorSet']]],
+  ['normalperfectpitch_5',['normalPerfectPitch',['../classJudge.html#a3cf650a3ef71d8f18889ef4a470af615',1,'Judge']]],
+  ['normalsprite_6',['normalSprite',['../classBulletNote.html#ace69c9f4a0d44b031139332a82526cac',1,'BulletNote']]],
+  ['noteappearlead_7',['noteAppearLead',['../classPlayerPreferences.html#a58c173b8f3e8fe7bcc19a01d74a8c7b1',1,'PlayerPreferences']]],
+  ['notes_8',['notes',['../classLevelChartData.html#a59ce21ae9096319ff247086bc3582cba',1,'LevelChartData']]],
+  ['notespeed_9',['noteSpeed',['../classPlayerPreferences.html#af613ce56614ef11e5947e72a97cbdc05',1,'PlayerPreferences']]],
+  ['notespeeddial_10',['noteSpeedDial',['../classChartEditorSettings.html#ae00fc3ceb959f8019e14c6f5388004b1',1,'ChartEditorSettings']]],
+  ['nowsec_11',['nowsec',['../classMiniMapView.html#a260bbd64aa653a7f018f6208b302efdf',1,'MiniMapView.NowSec'],['../classPreviewView.html#a24ba681f5b00297f2022bc302b0e22de',1,'PreviewView.NowSec']]],
+  ['numerator_12',['numerator',['../structChartEditorTime_1_1BarInfo.html#ab9ebab15f041609f34c5aca1af411a03',1,'ChartEditorTime.BarInfo.numerator'],['../classLevelChartData_1_1TimeSigPoint.html#a4bf920f845491e59056bc36bda803a2f',1,'LevelChartData.TimeSigPoint.numerator']]]
 ];

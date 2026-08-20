@@ -1,5 +1,17 @@
 var searchData=
 [
-  ['keeplastprimarycell_0',['keepLastPrimaryCell',['../classKeyboardInputManager.html#aa9699a6a7af8f19a79c9f3978ad2671a',1,'KeyboardInputManager']]],
-  ['keyboardinput_1',['keyboardinput',['../classBattleAnimationReaction.html#a43c43d77f2bb3b30d7db4b6fbc002175',1,'BattleAnimationReaction.keyboardInput'],['../classPlayerSpriteController.html#abdfc00b9e4d1a425d49a1124df41dfb2',1,'PlayerSpriteController.keyboardInput']]]
+  ['jointcompletedalphamultiplier_0',['jointCompletedAlphaMultiplier',['../classSliderNoteVisual.html#aa2d1e4d0bb59b347dd27c4bb232a37ea',1,'SliderNoteVisual']]],
+  ['jointcurrentalphamultiplier_1',['jointCurrentAlphaMultiplier',['../classSliderNoteVisual.html#a8f2a034ae9222bcb9aab6aaf3e26878d',1,'SliderNoteVisual']]],
+  ['jointcurrentscalemultiplier_2',['jointCurrentScaleMultiplier',['../classSliderNoteVisual.html#a4df86b84563044f02c1da43ac0fc1c60',1,'SliderNoteVisual']]],
+  ['jointpendingalphamultiplier_3',['jointPendingAlphaMultiplier',['../classSliderNoteVisual.html#ae44924fac4e00722da742d24517b496c',1,'SliderNoteVisual']]],
+  ['jointpendingscalemultiplier_4',['jointPendingScaleMultiplier',['../classSliderNoteVisual.html#a8671cc0a4a3bcb6dbea58c116c7a756d',1,'SliderNoteVisual']]],
+  ['jointradiusmultiplier_5',['jointRadiusMultiplier',['../classSliderNoteVisual.html#a5a70f07f63a8cee8809ef2c1ea29ac5d',1,'SliderNoteVisual']]],
+  ['jointsortingorder_6',['jointSortingOrder',['../classSliderNoteVisual.html#a104a1d5c7177bcdd6acde1edfc6d0971',1,'SliderNoteVisual']]],
+  ['judge_7',['judge',['../classInputRouter.html#a70b1ef083639dadf7435a8bf595e168b',1,'InputRouter.judge'],['../classNoteBase.html#adfb51d4aff25c448a89ba921912ec556',1,'NoteBase.judge'],['../classNotes_1_1Square_1_1SquareNoteJudge.html#a2659d65ff3d2daae34545e1ca812a7b0',1,'Notes.Square.SquareNoteJudge.judge'],['../classBulletNote.html#a01d3141a7268e6968df305d251a7f7ee',1,'BulletNote.judge'],['../classNoteSpawner.html#a95e3904ef5318ebc8ab853920dc6dfcc',1,'NoteSpawner.judge'],['../classGameBootstrap.html#a0dd9a4249df082304238cee40015ef91',1,'GameBootstrap.judge'],['../classResultScreenController.html#a4a638d6a68a8edb43de04a86ad17014b',1,'ResultScreenController.judge'],['../classChartPlayer.html#ae2ae35616e121a2733965d262df92ce5',1,'ChartPlayer.judge'],['../structPlayFinishedInput.html#a0e61234ac406b180e4f8472cdbeb39e7',1,'PlayFinishedInput.judge']]],
+  ['judgebeat_8',['judgeBeat',['../classLevelChartData_1_1NoteEvent.html#a64d5a01c28b54eac558710a95bbbe002',1,'LevelChartData::NoteEvent']]],
+  ['judged_9',['judged',['../classNoteBase.html#acb6d6f71c7213b562db924e57c3ce0e7',1,'NoteBase']]],
+  ['judgetext_10',['judgeText',['../classJudge.html#aab00a51503658fecebfbfdaa8d9811eb',1,'Judge']]],
+  ['judgetextanimator_11',['judgeTextAnimator',['../classJudge.html#a77e70e0bd7e595a2b272714566a4b436',1,'Judge']]],
+  ['judgetime_12',['judgetime',['../classCircleNote.html#a84d79ff3ca0da85b258354b407e8ac3d',1,'CircleNote.judgeTime'],['../classLevelChartData_1_1NoteEvent.html#a3638c5fe50d01aacd69681c361376cd7',1,'LevelChartData.NoteEvent.judgeTime']]],
+  ['judgetimeoffsetms_13',['judgeTimeOffsetMs',['../classPlayerPreferences.html#a9b2fcd54ab95008efb585c10c3abbd52',1,'PlayerPreferences']]]
 ];

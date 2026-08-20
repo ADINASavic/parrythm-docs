@@ -37,5 +37,6 @@ var classPreviewView =
     [ "SliderPointIndex", "classPreviewView.html#aa12b198e9d806514ff6e478e6a4847e7", null ],
     [ "HoverAbs", "classPreviewView.html#a5db3e03dd21ad50db2d7b8f7094f3013", null ],
     [ "Clicked", "classPreviewView.html#a054ef6295a88eea9244688e3179f0a82", null ],
-    [ "Hovered", "classPreviewView.html#ae1b6c4f1f00512d5fe3a0bf4808a47e5", null ]
+    [ "Hovered", "classPreviewView.html#ae1b6c4f1f00512d5fe3a0bf4808a47e5", null ],
+    [ "RightClicked", "classPreviewView.html#a40c8c57f2fa39e76ac3696ac8328a893", null ]
 ];

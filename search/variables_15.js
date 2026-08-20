@@ -1,8 +1,9 @@
 var searchData=
 [
-  ['waveamp_0',['waveAmp',['../classSpecialBulletPattern_1_1Params.html#aefc3cbd1e86836705f98834527b2ad9b',1,'SpecialBulletPattern::Params']]],
-  ['waveampscale_1',['waveAmpScale',['../classChartEditorSettings.html#abdc10df83cde1857714fa885490a88ed',1,'ChartEditorSettings']]],
-  ['wavefreq_2',['waveFreq',['../classSpecialBulletPattern_1_1Params.html#ac20a7df5f14e5363994002fc52979679',1,'SpecialBulletPattern::Params']]],
-  ['width_3',['width',['../classGridDrawer.html#a5b9ebc73a21858b93504923dea4da1ce',1,'GridDrawer.width'],['../classGridManager.html#a703e6e2dbe045324f431861421f0f9e4',1,'GridManager.width']]],
-  ['widthoverlifetime_4',['widthOverLifetime',['../classUITrailGraphic.html#a0cffbce9d814b66a63b25296d7bec530',1,'UITrailGraphic']]]
+  ['valid_0',['valid',['../structBulletPlacement_1_1Triplet.html#a9005a18ee7faaba04aa5956ee74e976c',1,'BulletPlacement::Triplet']]],
+  ['version_1',['version',['../classPlayerPreferences.html#ab73c5c5463ea8abe19104f741226432f',1,'PlayerPreferences']]],
+  ['video_2',['video',['../classFmodMusicControllerLegacy.html#ac7145b7b0bfba747415411e56fa55f3a',1,'FmodMusicControllerLegacy.video'],['../classUnityMusicController.html#ace6168d618fa0dde7a25af1df09ea64e',1,'UnityMusicController.video']]],
+  ['visuallerpspeed_3',['visualLerpSpeed',['../classPlayerSpriteController.html#a270b33eaf18d07a0620ad532e16590ae',1,'PlayerSpriteController']]],
+  ['voiceeventpath_4',['voiceEventPath',['../classLevelChartData_1_1NoteEvent.html#a1e13dbc7640d556913ecc376cb325a2c',1,'LevelChartData::NoteEvent']]],
+  ['volume_5',['volume',['../classLevelChartData_1_1NoteEvent.html#a13e070c06fc97f7ba208780ce58c90c8',1,'LevelChartData::NoteEvent']]]
 ];

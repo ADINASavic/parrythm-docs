@@ -1,22 +1,5 @@
 var searchData=
 [
-  ['abspath_0',['absPath',['../classLevelChartData_1_1NoteEvent.html#a40a36151babf62c594a5f65db32871c4',1,'LevelChartData::NoteEvent']]],
-  ['abspos_1',['absPos',['../classLevelChartData_1_1NoteEvent.html#ab223b4933958f2414a362227fd6644dc',1,'LevelChartData::NoteEvent']]],
-  ['accuracy_2',['accuracy',['../structRatingEntry.html#ae4dd46ff7de853c2cfe1f37cf2b252f2',1,'RatingEntry']]],
-  ['activebulletmode_3',['ActiveBulletMode',['../classPreviewView.html#ada8f3a057417c9387c50372140890646',1,'PreviewView']]],
-  ['activebullets_4',['ActiveBullets',['../classBulletNote.html#ad8f1c6324882c34ed0301e7ff0bfa09f',1,'BulletNote']]],
-  ['activecircles_5',['ActiveCircles',['../classCircleNote.html#a69551afaf1d55c38325f04ab76bf97d4',1,'CircleNote']]],
-  ['activelong_6',['ActiveLong',['../classPreviewView.html#aa66775f4a77e5eb2f82287a2c100f5a2',1,'PreviewView']]],
-  ['activesliders_7',['ActiveSliders',['../classSliderNote.html#a8e655bca0a2bf28435efede4f4ca0049',1,'SliderNote']]],
-  ['activetrail_8',['ActiveTrail',['../classPreviewView.html#aeac1ab5ac794adf39b783022394e6db0',1,'PreviewView']]],
-  ['activetype_9',['ActiveType',['../classPreviewView.html#ab82f6b858bef2e5ba1adda6738f3bdbc',1,'PreviewView']]],
-  ['afterglowduration_10',['afterglowDuration',['../classNotes_1_1Square_1_1SquareVisualBase.html#af35403acaff7f90ddb261ff8a8211a4f',1,'Notes::Square::SquareVisualBase']]],
-  ['aimblendspeed_11',['aimBlendSpeed',['../classAnimatedCharacterController.html#a8dfd1840c64665d7e876a90602c99f2b',1,'AnimatedCharacterController']]],
-  ['alphaoverlifetime_12',['alphaOverLifetime',['../classUITrailGraphic.html#a6bed1d01c862385905de200327568310',1,'UITrailGraphic']]],
-  ['arcdeg_13',['arcDeg',['../classSpecialBulletPattern_1_1Params.html#ab8fd687fac8ee9719b8896c96d436d80',1,'SpecialBulletPattern::Params']]],
-  ['arml_14',['armL',['../classAnimatedCharacterController.html#ab13153f46ba329ffa9d8fbcb68bc8d06',1,'AnimatedCharacterController']]],
-  ['artist_15',['artist',['../classSongMeta.html#a3e96cf528c76a56f8a97a456d0eac5da',1,'SongMeta']]],
-  ['audiofile_16',['audioFile',['../classSongMeta.html#a2e297c21dba3f4fc00cdbc7c69bc7bc3',1,'SongMeta']]],
-  ['audiofilepath_17',['audioFilePath',['../classUnityMusicController.html#a80db67c13d1ef1043697e3ab09b25a6a',1,'UnityMusicController']]],
-  ['autoplayonstart_18',['autoPlayOnStart',['../classChartPlayer.html#a741a76b9d0cfe2d7cecd001979f4311d',1,'ChartPlayer']]]
+  ['_5fcreatedat_0',['_createdAt',['../classLevelChartData_1_1NoteEvent.html#a14ac7439a6db8bc7807724d27a3945d8',1,'LevelChartData::NoteEvent']]],
+  ['_5fid_1',['_id',['../classLevelChartData_1_1NoteEvent.html#a21ce2498231b286ec1916587e54aa46c',1,'LevelChartData::NoteEvent']]]
 ];

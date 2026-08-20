@@ -1,9 +1,13 @@
 var searchData=
 [
-  ['valid_0',['valid',['../structBulletPlacement_1_1Triplet.html#a9005a18ee7faaba04aa5956ee74e976c',1,'BulletPlacement::Triplet']]],
-  ['version_1',['version',['../classPlayerPreferences.html#ab73c5c5463ea8abe19104f741226432f',1,'PlayerPreferences']]],
-  ['video_2',['video',['../classFmodMusicControllerLegacy.html#ac7145b7b0bfba747415411e56fa55f3a',1,'FmodMusicControllerLegacy.video'],['../classUnityMusicController.html#ace6168d618fa0dde7a25af1df09ea64e',1,'UnityMusicController.video']]],
-  ['visuallerpspeed_3',['visualLerpSpeed',['../classPlayerSpriteController.html#a270b33eaf18d07a0620ad532e16590ae',1,'PlayerSpriteController']]],
-  ['voiceeventpath_4',['voiceEventPath',['../classLevelChartData_1_1NoteEvent.html#a1e13dbc7640d556913ecc376cb325a2c',1,'LevelChartData::NoteEvent']]],
-  ['volume_5',['volume',['../classLevelChartData_1_1NoteEvent.html#a13e070c06fc97f7ba208780ce58c90c8',1,'LevelChartData::NoteEvent']]]
+  ['undolimit_0',['UndoLimit',['../classChartEditorDocument.html#a412fbe3af66e9e87e4f671220d98f40d',1,'ChartEditorDocument']]],
+  ['updatedatutc_1',['updatedatutc',['../classLeaderboardRecord.html#aadb5af87a0b33e76b3de34beee474f67',1,'LeaderboardRecord.updatedAtUtc'],['../classLocalScoreRecord.html#a766b6a0aaa3d949a8bc8c4dd09b66ed0',1,'LocalScoreRecord.updatedAtUtc'],['../classProfileSaveData.html#af646d5554b54892d172f809272d6e864',1,'ProfileSaveData.updatedAtUtc']]],
+  ['usebodygradient_2',['useBodyGradient',['../classSliderNoteVisual.html#add6dbeae9cb0de4fbdd0ed4296668e0c',1,'SliderNoteVisual']]],
+  ['usecolorprogress_3',['useColorProgress',['../classNotes_1_1Square_1_1SquareVisualLong.html#a7f3707034b07cc228b26c7ea6cc3cbea',1,'Notes::Square::SquareVisualLong']]],
+  ['usecombotextgauge_4',['useComboTextGauge',['../classGaugeManager.html#ab0fd44eac13185eb04e46f907ae8c4ca',1,'GaugeManager']]],
+  ['userid_5',['userid',['../classLeaderboardRecord.html#adcd66f5cdfd54c8869ee4660f094911a',1,'LeaderboardRecord.userId'],['../classLeaderboardScoreUploadDto.html#a31e1d0f59320c3d7a946c37cbc801bdf',1,'LeaderboardScoreUploadDto.userId']]],
+  ['usesampledbulletchecks_6',['useSampledBulletChecks',['../classSliderNote.html#a93e3496ae2488fcdcaab6021118df9e9',1,'SliderNote']]],
+  ['usesimultaneousaccent_7',['usesimultaneousaccent',['../classNotes_1_1Square_1_1SquareVisualLong.html#ad104d515818a487aaf5dc48f56dabda0',1,'Notes.Square.SquareVisualLong.useSimultaneousAccent'],['../classLevelChartData_1_1NoteEvent.html#a9efe16a25ede1a26dd811b3672ca83c9',1,'LevelChartData.NoteEvent.useSimultaneousAccent']]],
+  ['usesimultaneousleadfill_8',['usesimultaneousleadfill',['../classCircleNote.html#a30fcb39a14588ade284eb6d833cb9a31',1,'CircleNote.useSimultaneousLeadFill'],['../classSliderNote.html#a9365d9010eda7b12c5354d69c61a42e6',1,'SliderNote.useSimultaneousLeadFill'],['../classSliderNoteVisual.html#a649f8acbbecb246f32e4313c248a5432',1,'SliderNoteVisual.useSimultaneousLeadFill']]],
+  ['useuiscalingfallback_9',['useUIScalingFallback',['../classCameraTweenTrack.html#ab0554d17a3628b7180e82e530aa528cd',1,'CameraTweenTrack']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['seekrequested_0',['SeekRequested',['../classMiniMapView.html#a6883180b0bbab473234e538f24100585',1,'MiniMapView']]]
+  ['rightclicked_0',['RightClicked',['../classPreviewView.html#a40c8c57f2fa39e76ac3696ac8328a893',1,'PreviewView']]]
 ];

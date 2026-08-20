@@ -1,6 +1,8 @@
 var classLevelChartData_1_1NoteEvent =
 [
     [ "Clone", "classLevelChartData_1_1NoteEvent.html#a79435ec2d0f1045b0368335632221615", null ],
+    [ "_createdAt", "classLevelChartData_1_1NoteEvent.html#a14ac7439a6db8bc7807724d27a3945d8", null ],
+    [ "_id", "classLevelChartData_1_1NoteEvent.html#a21ce2498231b286ec1916587e54aa46c", null ],
     [ "absPath", "classLevelChartData_1_1NoteEvent.html#a40a36151babf62c594a5f65db32871c4", null ],
     [ "absPos", "classLevelChartData_1_1NoteEvent.html#ab223b4933958f2414a362227fd6644dc", null ],
     [ "bulletCurved", "classLevelChartData_1_1NoteEvent.html#a666d77e0410c1e4cebb8245e131dc99c", null ],
