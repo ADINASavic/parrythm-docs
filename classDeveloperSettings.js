@@ -70,6 +70,7 @@ var classDeveloperSettings =
     [ "sliderHeadOutlineColor", "classDeveloperSettings.html#a2006f39ecfec3fa2f08ef0bd3480c7e6", null ],
     [ "sliderPathColor", "classDeveloperSettings.html#ae73cd7c3b6cb9f7b8edd227704b15836", null ],
     [ "sliderUseBodyGradient", "classDeveloperSettings.html#af59129b89c7f28ad066dd7cab0f63090", null ],
+    [ "squareRoundedCornerEnabled", "classDeveloperSettings.html#aa70a181f822564e046d81f91ec2bdacd", null ],
     [ "trailFlashColor", "classDeveloperSettings.html#aef9a3e03be28b7c71a54b4712e1287b5", null ],
     [ "trailGlowColor", "classDeveloperSettings.html#a63790130a005d1fd74a9d62ad128160c", null ],
     [ "trailLineColor", "classDeveloperSettings.html#a0a27cf6bce3f54c23fb02acb705c07e0", null ],
