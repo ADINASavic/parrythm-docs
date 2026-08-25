@@ -1,5 +1,6 @@
 var NAVTREEINDEX7 =
 {
+"classSongMeta.html#a70a785848cf7e3705b7a5a18f0476a53":[1,0,111,12],
 "classSongMeta.html#a7960e0d180debb400d2bb01fc926f78e":[1,0,111,6],
 "classSongMeta.html#a7de874f32223e4db90b8c5ac3f5b7a0b":[1,0,111,3],
 "classSongMeta.html#acceb9e946b0329e020ef22c20aa7a4da":[1,0,111,13],
@@ -152,8 +153,8 @@ var NAVTREEINDEX7 =
 "functions_enum.html":[1,3,3],
 "functions_evnt.html":[1,3,5],
 "functions_f.html":[1,3,0,6],
-"functions_func.html":[1,3,1],
 "functions_func.html":[1,3,1,0],
+"functions_func.html":[1,3,1],
 "functions_func_b.html":[1,3,1,1],
 "functions_func_c.html":[1,3,1,2],
 "functions_func_d.html":[1,3,1,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX7 =
 "namespacemembers.html":[0,1,0],
 "namespacemembers_enum.html":[0,1,1],
 "namespaces.html":[0,0],
-"pages.html":[],
-"structBulletPlacement_1_1Triplet.html":[1,0,11,0]
+"pages.html":[]
 };
