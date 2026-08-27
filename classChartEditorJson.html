@@ -110,10 +110,82 @@ $(document).ready(function(){initNavTree('classChartEditorJson.html',''); initRe
 정적 Public 멤버 함수</h2></td></tr>
 <tr class="memitem:aae5f618afce12611a91f2d1347bddcfb" id="r_aae5f618afce12611a91f2d1347bddcfb"><td class="memItemLeft" align="right" valign="top">static string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorJson.html#aae5f618afce12611a91f2d1347bddcfb">Write</a> (<a class="el" href="classLevelChartData.html">LevelChartData</a> chart)</td></tr>
 <tr class="separator:aae5f618afce12611a91f2d1347bddcfb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a45df723aca548b55533c2831634f52ad" id="r_a45df723aca548b55533c2831634f52ad"><td class="memItemLeft" align="right" valign="top">static List&lt; <a class="el" href="classLevelChartData_1_1TempoPoint.html">LevelChartData.TempoPoint</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorJson.html#a45df723aca548b55533c2831634f52ad">NormalizeTempoMap</a> (List&lt; <a class="el" href="classLevelChartData_1_1TempoPoint.html">LevelChartData.TempoPoint</a> &gt; map, float baseBpm)</td></tr>
+<tr class="memdesc:a45df723aca548b55533c2831634f52ad"><td class="mdescLeft">&#160;</td><td class="mdescRight">웹 normalizeTempoMap과 같음. 정리·정렬하고 beat 0 엔트리를 보장함.  <br /></td></tr>
+<tr class="separator:a45df723aca548b55533c2831634f52ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4cd78a4506d9ce2e9e8d8945fdb746b9" id="r_a4cd78a4506d9ce2e9e8d8945fdb746b9"><td class="memItemLeft" align="right" valign="top">static List&lt; <a class="el" href="classLevelChartData_1_1TimeSigPoint.html">LevelChartData.TimeSigPoint</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classChartEditorJson.html#a4cd78a4506d9ce2e9e8d8945fdb746b9">NormalizeTimeSigMap</a> (List&lt; <a class="el" href="classLevelChartData_1_1TimeSigPoint.html">LevelChartData.TimeSigPoint</a> &gt; map)</td></tr>
+<tr class="memdesc:a4cd78a4506d9ce2e9e8d8945fdb746b9"><td class="mdescLeft">&#160;</td><td class="mdescRight">웹 normalizeTimeSigMap과 같음.  <br /></td></tr>
+<tr class="separator:a4cd78a4506d9ce2e9e8d8945fdb746b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">상세한 설명</h2>
 <div class="textblock"><p><a class="el" href="classLevelChartData.html">LevelChartData</a> → *.chart.json 직렬화. 읽기는 LevelChartJsonTool이 이미 하므로 쓰기만 담당함. 키 이름·필드 순서·줄바꿈을 웹 에디터 저장본(JSON.stringify(data, null, 2))과 똑같이 맞춤. JsonUtility.ToJson을 쓰면 안 쓰는 필드까지 전부 나와서 채보 파일이 망가지므로 직접 씀. </p>
 </div><h2 class="groupheader">멤버 함수 문서화</h2>
+<a id="a45df723aca548b55533c2831634f52ad" name="a45df723aca548b55533c2831634f52ad"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a45df723aca548b55533c2831634f52ad">&#9670;&#160;</a></span>NormalizeTempoMap()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static List&lt; <a class="el" href="classLevelChartData_1_1TempoPoint.html">LevelChartData.TempoPoint</a> &gt; ChartEditorJson.NormalizeTempoMap </td>
+          <td>(</td>
+          <td class="paramtype">List&lt; <a class="el" href="classLevelChartData_1_1TempoPoint.html">LevelChartData::TempoPoint</a> &gt;&#160;</td>
+          <td class="paramname"><em>map</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>baseBpm</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>웹 normalizeTempoMap과 같음. 정리·정렬하고 beat 0 엔트리를 보장함. </p>
+
+</div>
+</div>
+<a id="a4cd78a4506d9ce2e9e8d8945fdb746b9" name="a4cd78a4506d9ce2e9e8d8945fdb746b9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4cd78a4506d9ce2e9e8d8945fdb746b9">&#9670;&#160;</a></span>NormalizeTimeSigMap()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static List&lt; <a class="el" href="classLevelChartData_1_1TimeSigPoint.html">LevelChartData.TimeSigPoint</a> &gt; ChartEditorJson.NormalizeTimeSigMap </td>
+          <td>(</td>
+          <td class="paramtype">List&lt; <a class="el" href="classLevelChartData_1_1TimeSigPoint.html">LevelChartData::TimeSigPoint</a> &gt;&#160;</td>
+          <td class="paramname"><em>map</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>웹 normalizeTimeSigMap과 같음. </p>
+
+</div>
+</div>
 <a id="aae5f618afce12611a91f2d1347bddcfb" name="aae5f618afce12611a91f2d1347bddcfb"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#aae5f618afce12611a91f2d1347bddcfb">&#9670;&#160;</a></span>Write()</h2>
 

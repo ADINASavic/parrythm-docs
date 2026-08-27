@@ -8,6 +8,7 @@ var hierarchy =
     [ "ChartEditorDocument", "classChartEditorDocument.html", null ],
     [ "ChartEditorDraw", "classChartEditorDraw.html", null ],
     [ "ChartEditorJson", "classChartEditorJson.html", null ],
+    [ "ChartEditorMusic", "classChartEditorMusic.html", null ],
     [ "ChartEditorNotes", "classChartEditorNotes.html", null ],
     [ "ChartEditorSettings", "classChartEditorSettings.html", null ],
     [ "ChartEditorSong", "classChartEditorSong.html", null ],

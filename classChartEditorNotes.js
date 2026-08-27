@@ -15,6 +15,7 @@ var classChartEditorNotes =
     [ "DisplayTypeLabel", "classChartEditorNotes.html#aace8b51bc10d35c2e2f19c9eaab062d5", null ],
     [ "LongDurationSec", "classChartEditorNotes.html#afd90f1906045f5566a407aad06d9bb26", null ],
     [ "LongStartSec", "classChartEditorNotes.html#a639f6721a5f8a71e8ac7e3af0638c8b5", null ],
+    [ "NormalizeAxes", "classChartEditorNotes.html#a2717cc898e4da0b3b58cfddb6f63305e", null ],
     [ "NoteTimeBeats", "classChartEditorNotes.html#ad3a64bcc0a0841cedfbb399158670bc1", null ],
     [ "NoteTimeSec", "classChartEditorNotes.html#adae2ab40750f77ca1092b737481134b4", null ],
     [ "PlacementRadius", "classChartEditorNotes.html#a1e650ea3a71bac1829473a37780b4c93", null ],

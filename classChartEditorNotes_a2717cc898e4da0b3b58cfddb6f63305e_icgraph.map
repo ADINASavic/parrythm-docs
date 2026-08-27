@@ -1,0 +1,7 @@
+<map id="ChartEditorNotes.NormalizeAxes" name="ChartEditorNotes.NormalizeAxes">
+<area shape="rect" id="Node000001" title="timemode 축만 진실로 삼고 반대 축을 템포맵으로 다시 채움. core.js normalizeNoteAxes와 같음 — 숨겨진 축의 낡은 값이 저장되는 걸 막음...." alt="" coords="285,31,520,56"/>
+<area shape="rect" id="Node000002" href="$classChartEditorDocument.html#a3d441820157788e4c27b839b053f70a5" title=" " alt="" coords="26,5,217,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="272,34,217,29,217,24,272,29"/>
+<area shape="rect" id="Node000003" href="$classChartEditorDocument.html#ade94cbc033e475261a75a0cbcdf0ba60" title=" " alt="" coords="5,55,237,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="272,57,238,60,238,55,272,52"/>
+</map>

@@ -15,7 +15,7 @@ var searchData=
   ['ispaused_12',['ispaused',['../classFmodMusicControllerLegacy.html#a4818a566e9d59e61e0656c96b6589383',1,'FmodMusicControllerLegacy.IsPaused'],['../classUnityMusicController.html#a6062133478dec7591b7cbc96e602bad8',1,'UnityMusicController.IsPaused']]],
   ['isplaying_13',['isplaying',['../classFmodMusicControllerLegacy.html#a5f16328aef14c7d6bd83c3dad6483950',1,'FmodMusicControllerLegacy.IsPlaying'],['../classUnityMusicController.html#aa2a731c0fe84696e60824951bff2570f',1,'UnityMusicController.IsPlaying']]],
   ['isprepared_14',['IsPrepared',['../classConnectionHintController.html#a911f027bdc9d5548aa0661e877dc9459',1,'ConnectionHintController']]],
-  ['isready_15',['isready',['../classFmodMusicControllerLegacy.html#a78027cad956747123653574014f0643a',1,'FmodMusicControllerLegacy.IsReady'],['../classUnityMusicController.html#add151777659ada410522e0eaef62a832',1,'UnityMusicController.IsReady']]],
+  ['isready_15',['isready',['../classChartEditorMusic.html#a9b9f0b76075510c2394731fd3590c40a',1,'ChartEditorMusic.IsReady'],['../classFmodMusicControllerLegacy.html#a78027cad956747123653574014f0643a',1,'FmodMusicControllerLegacy.IsReady'],['../classUnityMusicController.html#add151777659ada410522e0eaef62a832',1,'UnityMusicController.IsReady']]],
   ['isresolved_16',['IsResolved',['../classNotes_1_1Square_1_1SquareNoteJudge.html#aeedcfbde16f6afb9807538d77d2dacc3',1,'Notes::Square::SquareNoteJudge']]],
   ['isrightbuttonpressed_17',['IsRightButtonPressed',['../classParrythmVirtualPointer.html#a9d1978c924aad7be940be540b37d9aa9',1,'ParrythmVirtualPointer']]],
   ['issteamidentity_18',['IsSteamIdentity',['../classSaveIdentity.html#a2259c9bb617400523ea02595318e1e31',1,'SaveIdentity']]],

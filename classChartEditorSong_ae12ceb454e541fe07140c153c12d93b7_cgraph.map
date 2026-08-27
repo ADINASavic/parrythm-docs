@@ -1,0 +1,5 @@
+<map id="ChartEditorSong.WriteSongMeta" name="ChartEditorSong.WriteSongMeta">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,236,31"/>
+<area shape="rect" id="Node000002" href="$classChartEditorSong.html#afe5e9e4e0eabe54ad8d4cc7df6028044" title="song.json 직렬화. 웹 exportSongZip의 songMeta와 같은 키 세트를 항상 써서 두 에디터 저장본이 수렴함. 웹의 {...baseMeta} 스프레드처럼 나머지 ..." alt="" coords="284,5,489,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,15,270,15,270,21,236,21"/>
+</map>

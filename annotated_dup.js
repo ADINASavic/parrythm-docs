@@ -33,6 +33,7 @@ var annotated_dup =
     [ "ChartEditorDocument", "classChartEditorDocument.html", "classChartEditorDocument" ],
     [ "ChartEditorDraw", "classChartEditorDraw.html", "classChartEditorDraw" ],
     [ "ChartEditorJson", "classChartEditorJson.html", "classChartEditorJson" ],
+    [ "ChartEditorMusic", "classChartEditorMusic.html", "classChartEditorMusic" ],
     [ "ChartEditorNotes", "classChartEditorNotes.html", "classChartEditorNotes" ],
     [ "ChartEditorSettings", "classChartEditorSettings.html", "classChartEditorSettings" ],
     [ "ChartEditorSong", "classChartEditorSong.html", "classChartEditorSong" ],

@@ -5,6 +5,7 @@ var dir_524f6a788a2ab287999db05fb1edc538 =
     [ "ChartEditorDocument.cs", "ChartEditorDocument_8cs.html", "ChartEditorDocument_8cs" ],
     [ "ChartEditorDraw.cs", "ChartEditorDraw_8cs.html", "ChartEditorDraw_8cs" ],
     [ "ChartEditorJson.cs", "ChartEditorJson_8cs.html", "ChartEditorJson_8cs" ],
+    [ "ChartEditorMusic.cs", "ChartEditorMusic_8cs.html", "ChartEditorMusic_8cs" ],
     [ "ChartEditorNotes.cs", "ChartEditorNotes_8cs.html", "ChartEditorNotes_8cs" ],
     [ "ChartEditorSettings.cs", "ChartEditorSettings_8cs.html", "ChartEditorSettings_8cs" ],
     [ "ChartEditorSong.cs", "ChartEditorSong_8cs.html", "ChartEditorSong_8cs" ],
