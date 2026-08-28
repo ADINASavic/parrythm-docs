@@ -4,7 +4,8 @@ var searchData=
   ['maxcombo_1',['MaxCombo',['../classJudge.html#a01ed3b20ffae3798ff854a99d83298ad',1,'Judge']]],
   ['maxgauge_2',['MaxGauge',['../classGaugeManager.html#adef0659cbb82766eed1618ebd462cf92',1,'GaugeManager']]],
   ['meta_3',['Meta',['../classChartEditorSong.html#aa6a5dd36a1b495c6eee8e34bdd3b2307',1,'ChartEditorSong']]],
-  ['middleclick_4',['MiddleClick',['../classParrythmInputActions_1_1UIActions.html#a1bf28aa2c2552a51c7454736c34f6f81',1,'ParrythmInputActions::UIActions']]],
-  ['misscount_5',['MissCount',['../classJudge.html#a5a96b3f044e64c7f7d97c42c81fdbfc0',1,'Judge']]],
-  ['mode_6',['Mode',['../classParrythmInputRuntime_1_1StateOverrideHandle.html#acdf6593d24e9e0c3dbac5c10c65b65db',1,'ParrythmInputRuntime::StateOverrideHandle']]]
+  ['metahasoffset_4',['MetaHasOffset',['../classChartEditorSong.html#a155745cdc99671c09ebdb6bdf5fb5b72',1,'ChartEditorSong']]],
+  ['middleclick_5',['MiddleClick',['../classParrythmInputActions_1_1UIActions.html#a1bf28aa2c2552a51c7454736c34f6f81',1,'ParrythmInputActions::UIActions']]],
+  ['misscount_6',['MissCount',['../classJudge.html#a5a96b3f044e64c7f7d97c42c81fdbfc0',1,'Judge']]],
+  ['mode_7',['Mode',['../classParrythmInputRuntime_1_1StateOverrideHandle.html#acdf6593d24e9e0c3dbac5c10c65b65db',1,'ParrythmInputRuntime::StateOverrideHandle']]]
 ];

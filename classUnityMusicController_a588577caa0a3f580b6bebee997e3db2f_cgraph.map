@@ -1,5 +1,7 @@
 <map id="UnityMusicController.Prepare" name="UnityMusicController.Prepare">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,217,38"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,42,217,67"/>
 <area shape="rect" id="Node000002" href="$classMusicAudioPathResolver.html#a264d16f8f27f7c3f6e051fadd6790119" title=" " alt="" coords="265,5,503,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,23,252,23,252,28,217,28"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,41,251,37,252,42,218,46"/>
+<area shape="rect" id="Node000003" href="$classMp3GaplessTag.html#ae6db4565e4ffc54bb2fccfb486b73e9b" title=" " alt="" coords="282,70,486,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,63,269,68,268,73,217,68"/>
 </map>

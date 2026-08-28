@@ -1,5 +1,6 @@
 var NAVTREEINDEX1 =
 {
+"classCameraTweenTrack.html":[1,0,13],
 "classCameraTweenTrack.html#ab0554d17a3628b7180e82e530aa528cd":[1,0,13,3],
 "classCameraTweenTrack.html#ab3b42a4d80c342dc28c715de91e48ca2":[1,0,13,2],
 "classCameraTweenTrack.html#ab8eafe9dfb42afbf0d2a9c0a159eb6d9":[1,0,13,0],
@@ -136,6 +137,7 @@ var NAVTREEINDEX1 =
 "classChartEditorSettings.html#afcd828149b4d262a2b961f04d11dcc45":[1,0,19,13],
 "classChartEditorSettings.html#afedc24f6785549517f129dab3f7a4552":[1,0,19,5],
 "classChartEditorSong.html":[1,0,20],
+"classChartEditorSong.html#a155745cdc99671c09ebdb6bdf5fb5b72":[1,0,20,16],
 "classChartEditorSong.html#a2619a02b89a1fcc30d6ad9f453a3b7c8":[1,0,20,6],
 "classChartEditorSong.html#a269f8068cbbce14be1896d77598ecb4b":[1,0,20,8],
 "classChartEditorSong.html#a30b2548719ad44abf586f501a67c9d6c":[1,0,20,13],
@@ -247,7 +249,5 @@ var NAVTREEINDEX1 =
 "classChartPlayer.html#a55af50313adb43a13f4f6fc2943aa079":[1,0,28,20],
 "classChartPlayer.html#a5e017889d1337179d77f57cc29f1c95a":[1,0,28,28],
 "classChartPlayer.html#a5e2af19393280cd8c5a4656fbddd313d":[1,0,28,6],
-"classChartPlayer.html#a644e8392ca89851dcdcbab960e77d68e":[1,0,28,30],
-"classChartPlayer.html#a741a76b9d0cfe2d7cecd001979f4311d":[1,0,28,4],
-"classChartPlayer.html#a77dd5f8964597f722880bccc1d5837c1":[1,0,28,23]
+"classChartPlayer.html#a644e8392ca89851dcdcbab960e77d68e":[1,0,28,30]
 };

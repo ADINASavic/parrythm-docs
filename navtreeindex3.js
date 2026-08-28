@@ -1,5 +1,7 @@
 var NAVTREEINDEX3 =
 {
+"classGameSettingsSaveService.html#a9b4d028c2ec06272295f7bfef86610d0":[1,0,45,6],
+"classGameSettingsSaveService.html#a9d81a8a8c24d0ffc9fc032a3698fe1b2":[1,0,45,2],
 "classGameSettingsSaveService.html#aa6dd9736c79d3076b76d48cd045482f6":[1,0,45,0],
 "classGameSettingsSaveService.html#aaaeb03d6f22467ad08e59d3497021d0c":[1,0,45,1],
 "classGameSettingsSaveService.html#ab1c7134d32056962e9c03615d3478a02":[1,0,45,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX3 =
 "classLevelChartData_1_1TempoPoint.html#a2cf6f05c3fab8a6acf3234a6b2489975":[1,0,63,1,1],
 "classLevelChartData_1_1TimeSigPoint.html":[1,0,63,2],
 "classLevelChartData_1_1TimeSigPoint.html#a4bf920f845491e59056bc36bda803a2f":[1,0,63,2,2],
-"classLevelChartData_1_1TimeSigPoint.html#a6b93aa3189e92d7c13234798961e4ed4":[1,0,63,2,0],
-"classLevelChartData_1_1TimeSigPoint.html#aecc599d663ff5a3db5977bfd24cc14c1":[1,0,63,2,1],
-"classLevelChartJsonTool.html":[1,0,64]
+"classLevelChartData_1_1TimeSigPoint.html#a6b93aa3189e92d7c13234798961e4ed4":[1,0,63,2,0]
 };

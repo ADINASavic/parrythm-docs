@@ -94,6 +94,7 @@ var annotated_dup =
     [ "MeshUtil", "classMeshUtil.html", "classMeshUtil" ],
     [ "MiniMapView", "classMiniMapView.html", "classMiniMapView" ],
     [ "Mods", "classMods.html", "classMods" ],
+    [ "Mp3GaplessTag", "classMp3GaplessTag.html", "classMp3GaplessTag" ],
     [ "MusicAudioPathResolver", "classMusicAudioPathResolver.html", "classMusicAudioPathResolver" ],
     [ "NoteBase", "classNoteBase.html", "classNoteBase" ],
     [ "NoteSpawner", "classNoteSpawner.html", "classNoteSpawner" ],

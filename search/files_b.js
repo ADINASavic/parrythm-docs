@@ -4,5 +4,6 @@ var searchData=
   ['menutypinglock_2ecs_1',['MenuTypingLock.cs',['../MenuTypingLock_8cs.html',1,'']]],
   ['meshutil_2ecs_2',['MeshUtil.cs',['../MeshUtil_8cs.html',1,'']]],
   ['minimapview_2ecs_3',['MiniMapView.cs',['../MiniMapView_8cs.html',1,'']]],
-  ['mods_2ecs_4',['Mods.cs',['../Mods_8cs.html',1,'']]]
+  ['mods_2ecs_4',['Mods.cs',['../Mods_8cs.html',1,'']]],
+  ['mp3gaplesstag_2ecs_5',['Mp3GaplessTag.cs',['../Mp3GaplessTag_8cs.html',1,'']]]
 ];

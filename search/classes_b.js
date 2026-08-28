@@ -5,5 +5,6 @@ var searchData=
   ['meshutil_2',['MeshUtil',['../classMeshUtil.html',1,'']]],
   ['minimapview_3',['MiniMapView',['../classMiniMapView.html',1,'']]],
   ['mods_4',['Mods',['../classMods.html',1,'']]],
-  ['musicaudiopathresolver_5',['MusicAudioPathResolver',['../classMusicAudioPathResolver.html',1,'']]]
+  ['mp3gaplesstag_5',['Mp3GaplessTag',['../classMp3GaplessTag.html',1,'']]],
+  ['musicaudiopathresolver_6',['MusicAudioPathResolver',['../classMusicAudioPathResolver.html',1,'']]]
 ];

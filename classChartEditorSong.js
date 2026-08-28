@@ -15,5 +15,6 @@ var classChartEditorSong =
     [ "FolderName", "classChartEditorSong.html#a71d8fb2c4191796646070a124ac9cb03", null ],
     [ "FolderPath", "classChartEditorSong.html#a30b2548719ad44abf586f501a67c9d6c", null ],
     [ "HasSong", "classChartEditorSong.html#a86e6a0191ed8f31e2a2551357e1ef68f", null ],
-    [ "Meta", "classChartEditorSong.html#aa6a5dd36a1b495c6eee8e34bdd3b2307", null ]
+    [ "Meta", "classChartEditorSong.html#aa6a5dd36a1b495c6eee8e34bdd3b2307", null ],
+    [ "MetaHasOffset", "classChartEditorSong.html#a155745cdc99671c09ebdb6bdf5fb5b72", null ]
 ];

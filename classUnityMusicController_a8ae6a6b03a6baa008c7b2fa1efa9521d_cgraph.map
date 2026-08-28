@@ -1,9 +1,11 @@
 <map id="UnityMusicController.Play" name="UnityMusicController.Play">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,196,38"/>
-<area shape="rect" id="Node000002" href="$classUnityMusicController.html#a5144c68dde8ac25dea1e4096c0ba6989" title=" " alt="" coords="244,5,435,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,23,230,23,230,28,196,28"/>
-<area shape="rect" id="Node000003" href="$classUnityMusicController.html#a588577caa0a3f580b6bebee997e3db2f" title=" " alt="" coords="483,13,695,38"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="435,23,469,23,469,28,435,28"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,42,196,67"/>
+<area shape="rect" id="Node000002" href="$classUnityMusicController.html#a5144c68dde8ac25dea1e4096c0ba6989" title=" " alt="" coords="244,35,435,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,52,230,52,230,57,196,57"/>
+<area shape="rect" id="Node000003" href="$classUnityMusicController.html#a588577caa0a3f580b6bebee997e3db2f" title=" " alt="" coords="483,42,695,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="435,52,469,52,469,57,435,57"/>
 <area shape="rect" id="Node000004" href="$classMusicAudioPathResolver.html#a264d16f8f27f7c3f6e051fadd6790119" title=" " alt="" coords="743,5,980,45"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="695,23,729,23,729,28,695,28"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="694,41,729,37,729,42,695,46"/>
+<area shape="rect" id="Node000005" href="$classMp3GaplessTag.html#ae6db4565e4ffc54bb2fccfb486b73e9b" title=" " alt="" coords="759,70,963,95"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="695,63,746,68,746,73,695,68"/>
 </map>

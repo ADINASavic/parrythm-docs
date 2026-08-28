@@ -125,6 +125,7 @@ var hierarchy =
       [ "TitleScreenController", "classTitleScreenController.html", null ],
       [ "UnityMusicController", "classUnityMusicController.html", null ]
     ] ],
+    [ "Mp3GaplessTag", "classMp3GaplessTag.html", null ],
     [ "MusicAudioPathResolver", "classMusicAudioPathResolver.html", null ],
     [ "LevelChartData.NoteEvent", "classLevelChartData_1_1NoteEvent.html", null ],
     [ "NoteSpeedScale", "classNoteSpeedScale.html", null ],
