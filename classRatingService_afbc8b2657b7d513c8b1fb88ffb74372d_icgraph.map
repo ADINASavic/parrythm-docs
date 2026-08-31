@@ -1,5 +1,5 @@
 <map id="RatingService.GetPlayerRating" name="RatingService.GetPlayerRating">
-<area shape="rect" id="Node000001" title="The player rating: sum of the Best 15 chart ratings." alt="" coords="563,92,785,117"/>
+<area shape="rect" id="Node000001" title="The player rating: average of the Best 15 chart ratings (missing slots count as 0)." alt="" coords="563,92,785,117"/>
 <area shape="rect" id="Node000002" href="$classRatingService.html#ae00db2d668daea40319120278a7c7bc0" title="Player rating formatted for UI, e.g. &quot;42.37&quot;." alt="" coords="265,63,515,88"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="549,94,513,91,513,85,549,89"/>
 <area shape="rect" id="Node000005" href="$classResultScreenController.html#ac885d36206adfeb4ab8e5ad00d786d15" title=" " alt="" coords="285,113,495,153"/>
