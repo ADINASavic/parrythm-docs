@@ -23,7 +23,7 @@ var searchData=
   ['minvalue_20',['MinValue',['../classNoteSpeedScale.html#a5d05f9c2ab938483d68130a53561a444',1,'NoteSpeedScale']]],
   ['mirrorh_21',['MirrorH',['../classMods.html#a3f306b9b72bef1dec918c6b5fe26327d',1,'Mods']]],
   ['mirrorv_22',['MirrorV',['../classMods.html#aaf2152024d27d9ee878c96823e08f320',1,'Mods']]],
-  ['miss_23',['miss',['../classLeaderboardRecord.html#a320733500b933d90ce5920ed58f68754',1,'LeaderboardRecord.miss'],['../classLeaderboardScoreUploadDto.html#ab7cf807cae0bbe0a838ea1502577597c',1,'LeaderboardScoreUploadDto.miss'],['../classLocalScoreRecord.html#aaeec6bfcbeea165316a13625e9133508',1,'LocalScoreRecord.miss']]],
+  ['miss_23',['miss',['../classLeaderboardRecord.html#a320733500b933d90ce5920ed58f68754',1,'LeaderboardRecord.miss'],['../classLeaderboardScoreUploadDto.html#ab7cf807cae0bbe0a838ea1502577597c',1,'LeaderboardScoreUploadDto.miss'],['../classLocalScoreRecord.html#aaeec6bfcbeea165316a13625e9133508',1,'LocalScoreRecord.miss'],['../classChartServerService_1_1SubmitRequest.html#a1cbb890a02c96caa77fbaa8c7c70bdfd',1,'ChartServerService.SubmitRequest.miss']]],
   ['misscolor_24',['misscolor',['../classJudge.html#abfa9916846e295536f6693bb907ce86c',1,'Judge.missColor'],['../classCircleNoteVisual.html#a9fa3024db85641d9b9f3093fd5bb1279',1,'CircleNoteVisual.missColor']]],
   ['misscounttext_25',['missCountText',['../classJudge.html#a657c0764c52dcdac0694cbbe81c8ec13',1,'Judge']]],
   ['missfadeduration_26',['missfadeduration',['../classCircleNoteVisual.html#a4f2821055b7e424500799bd8ba567e72',1,'CircleNoteVisual.missFadeDuration'],['../classNotes_1_1Square_1_1SquareVisualBase.html#a002997836fb24da0abe8a23e7ab0aee4',1,'Notes.Square.SquareVisualBase.missFadeDuration']]],

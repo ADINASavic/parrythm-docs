@@ -8,7 +8,7 @@ var searchData=
   ['dispatch_5',['Dispatch',['../classChartEventDispatcher.html#a51ea8d89a32d93208f4c2bb526c8a058',1,'ChartEventDispatcher']]],
   ['displaytype_6',['DisplayType',['../classChartEditorNotes.html#ab4dfcfdbb89c0bd2dc1f1f342d8659c2',1,'ChartEditorNotes']]],
   ['displaytypelabel_7',['DisplayTypeLabel',['../classChartEditorNotes.html#aace8b51bc10d35c2e2f19c9eaab062d5',1,'ChartEditorNotes']]],
-  ['dispose_8',['dispose',['../classParrythmInputActions.html#a69303cfae513f23cc63fd932859ff888',1,'ParrythmInputActions.Dispose()'],['../classParrythmInputRuntime_1_1StateOverrideHandle.html#ae28a7d0e57ee17e0269a26fabdf5feb5',1,'ParrythmInputRuntime.StateOverrideHandle.Dispose()'],['../classParrythmVirtualPointer.html#a4640ca0dd26b9ee9276ef45767244a49',1,'ParrythmVirtualPointer.Dispose()']]],
+  ['dispose_8',['dispose',['../classPlaySessionService.html#a07456181ef672c9b84ea7e08a12cbcaa',1,'PlaySessionService.Dispose()'],['../classParrythmInputActions.html#a69303cfae513f23cc63fd932859ff888',1,'ParrythmInputActions.Dispose()'],['../classParrythmInputRuntime_1_1StateOverrideHandle.html#ae28a7d0e57ee17e0269a26fabdf5feb5',1,'ParrythmInputRuntime.StateOverrideHandle.Dispose()'],['../classParrythmVirtualPointer.html#a4640ca0dd26b9ee9276ef45767244a49',1,'ParrythmVirtualPointer.Dispose()']]],
   ['dogood_9',['DoGood',['../classNoteBase.html#aa3070cce12df6f48a2038a9f57a543a5',1,'NoteBase']]],
   ['domiss_10',['DoMiss',['../classNoteBase.html#ab83244e39ec074fc78d312c22d46bf7b',1,'NoteBase']]],
   ['doperfect_11',['DoPerfect',['../classNoteBase.html#ae16675afc9557b2500201e8e86c56b25',1,'NoteBase']]],

@@ -8,5 +8,6 @@ var searchData=
   ['appeartime_5',['AppearTime',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a73fa6e228c8af4ae50b671fca6b48f81',1,'Notes::Square::SquareNoteTimeline']]],
   ['asset_6',['Asset',['../classParrythmInputActions.html#a9eb8c761807c4d8e63cb70599f7f8ef5',1,'ParrythmInputActions']]],
   ['audiopath_7',['AudioPath',['../classChartEditorSong.html#a269f8068cbbce14be1896d77598ecb4b',1,'ChartEditorSong']]],
-  ['averagetimingoffsetms_8',['AverageTimingOffsetMs',['../classJudge.html#a34d3dee99e507ae42735626d01d63053',1,'Judge']]]
+  ['available_8',['Available',['../classChartServerService.html#aa5140c7ff8c4fbe326b770ddc8dc1278',1,'ChartServerService']]],
+  ['averagetimingoffsetms_9',['AverageTimingOffsetMs',['../classJudge.html#a34d3dee99e507ae42735626d01d63053',1,'Judge']]]
 ];

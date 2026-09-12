@@ -37,7 +37,7 @@ var searchData=
   ['displayname_34',['displayname',['../classLeaderboardRecord.html#ad11e6fbe2f1fb0444464da187945b510',1,'LeaderboardRecord.displayName'],['../classLeaderboardScoreUploadDto.html#ad6ed68d239958a9f33c41c3eefaafae8',1,'LeaderboardScoreUploadDto.displayName']]],
   ['displaytype_35',['DisplayType',['../classChartEditorNotes.html#ab4dfcfdbb89c0bd2dc1f1f342d8659c2',1,'ChartEditorNotes']]],
   ['displaytypelabel_36',['DisplayTypeLabel',['../classChartEditorNotes.html#aace8b51bc10d35c2e2f19c9eaab062d5',1,'ChartEditorNotes']]],
-  ['dispose_37',['dispose',['../classParrythmInputActions.html#a69303cfae513f23cc63fd932859ff888',1,'ParrythmInputActions.Dispose()'],['../classParrythmVirtualPointer.html#a4640ca0dd26b9ee9276ef45767244a49',1,'ParrythmVirtualPointer.Dispose()'],['../classParrythmInputRuntime_1_1StateOverrideHandle.html#ae28a7d0e57ee17e0269a26fabdf5feb5',1,'ParrythmInputRuntime.StateOverrideHandle.Dispose()']]],
+  ['dispose_37',['dispose',['../classParrythmInputActions.html#a69303cfae513f23cc63fd932859ff888',1,'ParrythmInputActions.Dispose()'],['../classParrythmVirtualPointer.html#a4640ca0dd26b9ee9276ef45767244a49',1,'ParrythmVirtualPointer.Dispose()'],['../classParrythmInputRuntime_1_1StateOverrideHandle.html#ae28a7d0e57ee17e0269a26fabdf5feb5',1,'ParrythmInputRuntime.StateOverrideHandle.Dispose()'],['../classPlaySessionService.html#a07456181ef672c9b84ea7e08a12cbcaa',1,'PlaySessionService.Dispose()']]],
   ['distance_38',['Distance',['../classChartEditorSettings.html#a615666b26a0a0a63215c454d93190ee9a0aa6f4210bf373c95eda00232e93cd98',1,'ChartEditorSettings']]],
   ['dock_39',['dock',['../structBulletPlacement_1_1Triplet.html#a60edccf9cf05d9ddfeb6341bcf6f82c7',1,'BulletPlacement::Triplet']]],
   ['dockkinds_40',['DockKinds',['../classSpecialBulletPattern.html#a6df6b90219133e6d8f20d51be7de8623',1,'SpecialBulletPattern']]],
@@ -55,7 +55,7 @@ var searchData=
   ['durationbeats_52',['durationBeats',['../classLevelChartData_1_1NoteEvent.html#ae43d1a0918da352f5270bfb21dde03bf',1,'LevelChartData::NoteEvent']]],
   ['durationbeatsoverride_53',['durationBeatsOverride',['../classSliderNote.html#a253e0b1d6b8326a5d22daeaa53ea1e06',1,'SliderNote']]],
   ['durationoverride_54',['durationOverride',['../classSliderNote.html#a792ea0d1728a8fa5b2a2db6744ebc805',1,'SliderNote']]],
-  ['durationsec_55',['durationsec',['../classMiniMapView.html#ad436039d79951c73ad9e2b9643ff997b',1,'MiniMapView.DurationSec'],['../classChartEditorTime.html#a433d15e2d830b098cb0d778dc54be715',1,'ChartEditorTime.DurationSec()'],['../classSongMeta.html#a7960e0d180debb400d2bb01fc926f78e',1,'SongMeta.durationSec']]],
+  ['durationsec_55',['durationsec',['../classMiniMapView.html#ad436039d79951c73ad9e2b9643ff997b',1,'MiniMapView.DurationSec'],['../classChartEditorTime.html#a433d15e2d830b098cb0d778dc54be715',1,'ChartEditorTime.DurationSec()'],['../classSongMeta.html#a7960e0d180debb400d2bb01fc926f78e',1,'SongMeta.durationSec'],['../classChartServerService_1_1RegisterChart.html#aba86e0306ab2cadb999fb53c487a5cff',1,'ChartServerService.RegisterChart.durationSec']]],
   ['dursec_56',['DurSec',['../classChartTimelineRuntime.html#a50901598716fc4dbc27c8541a7802ec6',1,'ChartTimelineRuntime']]],
   ['dynamicheight_57',['dynamicHeight',['../classFixed16x9Camera.html#aa684ddd959297010a4b71fcebf5a8eef',1,'Fixed16x9Camera']]]
 ];

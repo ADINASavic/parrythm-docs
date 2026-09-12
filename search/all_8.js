@@ -22,7 +22,7 @@ var searchData=
   ['hideapproach_19',['HideApproach',['../classSliderNoteVisual.html#a8e9adb8f80e1bf6555f64ca6c467f1ed',1,'SliderNoteVisual']]],
   ['hideoutsideview_20',['hideOutsideView',['../classUITrailGraphic.html#a33ec290945990a8be7eec06bffd5650b',1,'UITrailGraphic']]],
   ['hint_21',['Hint',['../classChartEditorUi.html#a61224a191991947369d178c2132cef67',1,'ChartEditorUi']]],
-  ['hittime_22',['hittime',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a6d7fdd6b7b6badb609ced38f47a5766c',1,'Notes.Square.SquareNoteTimeline.hitTime'],['../classNotes_1_1Square_1_1SquareNoteJudge.html#a6ab2870b4e049866393ca348e0874816',1,'Notes.Square.SquareNoteJudge.HitTime']]],
+  ['hittime_22',['hittime',['../classNotes_1_1Square_1_1SquareNoteJudge.html#a6ab2870b4e049866393ca348e0874816',1,'Notes.Square.SquareNoteJudge.HitTime'],['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a6d7fdd6b7b6badb609ced38f47a5766c',1,'Notes.Square.SquareNoteTimeline.hitTime']]],
   ['holdexit_23',['HoldExit',['../classParrythmInputActions_1_1IngameGameplayActions.html#a94b6875a0fb86d1dc2ba356f270f6896',1,'ParrythmInputActions::IngameGameplayActions']]],
   ['hoverabs_24',['HoverAbs',['../classPreviewView.html#a5db3e03dd21ad50db2d7b8f7094f3013',1,'PreviewView']]],
   ['hovered_25',['Hovered',['../classPreviewView.html#ae1b6c4f1f00512d5fe3a0bf4808a47e5',1,'PreviewView']]]

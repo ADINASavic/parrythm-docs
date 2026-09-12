@@ -23,5 +23,6 @@ var searchData=
   ['inputtimeoffsetms_20',['inputTimeOffsetMs',['../classPlayerPreferences.html#a53270dc4e8c590f4982e16a991e1843f',1,'PlayerPreferences']]],
   ['isautoplay_21',['isAutoPlay',['../structPlayFinishedInput.html#a7f34d5ca4f179f98e5fdd31de21d9b79',1,'PlayFinishedInput']]],
   ['islong_22',['isLong',['../classLevelChartData_1_1NoteEvent.html#ac1709378fa69affb5b6a88ea4580ff72',1,'LevelChartData::NoteEvent']]],
-  ['istrail_23',['isTrail',['../classLevelChartData_1_1NoteEvent.html#ad5fb2ddd29dc178d881ff51d0cb7bc81',1,'LevelChartData::NoteEvent']]]
+  ['issued_23',['issued',['../classChartServerService_1_1PlayToken.html#aff56914f2a31f832029b23451d7ecbb1',1,'ChartServerService::PlayToken']]],
+  ['istrail_24',['isTrail',['../classLevelChartData_1_1NoteEvent.html#ad5fb2ddd29dc178d881ff51d0cb7bc81',1,'LevelChartData::NoteEvent']]]
 ];

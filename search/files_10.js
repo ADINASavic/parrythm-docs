@@ -23,6 +23,6 @@ var searchData=
   ['squarevisualtrail_2ecs_20',['SquareVisualTrail.cs',['../SquareVisualTrail_8cs.html',1,'']]],
   ['stagebackground_2ecs_21',['StageBackground.cs',['../StageBackground_8cs.html',1,'']]],
   ['steamavatarloader_2ecs_22',['SteamAvatarLoader.cs',['../SteamAvatarLoader_8cs.html',1,'']]],
-  ['steamleaderboardsaveservice_2ecs_23',['SteamLeaderboardSaveService.cs',['../SteamLeaderboardSaveService_8cs.html',1,'']]],
+  ['steamleaderboardservice_2ecs_23',['SteamLeaderboardService.cs',['../SteamLeaderboardService_8cs.html',1,'']]],
   ['styleeventhandler_2ecs_24',['StyleEventHandler.cs',['../StyleEventHandler_8cs.html',1,'']]]
 ];

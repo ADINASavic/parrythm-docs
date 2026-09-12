@@ -13,10 +13,11 @@ var searchData=
   ['lengthsec_10',['LengthSec',['../classChartEditorMusic.html#a8550af3b49ff0483f092dfdef6d7ae0d',1,'ChartEditorMusic']]],
   ['linecount_11',['LineCount',['../classGridDrawer.html#ade65dafd023bdad2cafa9d47b4980f68',1,'GridDrawer']]],
   ['loaderror_12',['LoadError',['../classChartEditorMusic.html#a73a691f9b943fdf1bf4fe7ed7d0fccdf',1,'ChartEditorMusic']]],
-  ['localleaderboardspath_13',['LocalLeaderboardsPath',['../classGameSavePaths.html#aae9bd8c2167ab8e2830b6d15a9b31ab3',1,'GameSavePaths']]],
-  ['localscorespath_14',['LocalScoresPath',['../classGameSavePaths.html#af2ae1632623dd5805202afaaf6c0d58a',1,'GameSavePaths']]],
-  ['longabsencegrace_15',['LongAbsenceGrace',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a620963cef01ccf87d03f5f97a886365c',1,'Notes::Square::SquareNoteTimeline']]],
-  ['longendtime_16',['LongEndTime',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#ae5d7ba30959a4641c84558d7ccdc1c01',1,'Notes::Square::SquareNoteTimeline']]],
-  ['longreleasetolerance_17',['LongReleaseTolerance',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a38896bd44746382771d139eb6cfadaa4',1,'Notes::Square::SquareNoteTimeline']]],
-  ['longshrinkstart_18',['LongShrinkStart',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#aafa229da59d60502d33a119a2185a12c',1,'Notes::Square::SquareNoteTimeline']]]
+  ['localchartsroot_13',['LocalChartsRoot',['../classChartEditorSong.html#aee69af087d871c8aa5ac2ae624f842a9',1,'ChartEditorSong']]],
+  ['localleaderboardspath_14',['LocalLeaderboardsPath',['../classGameSavePaths.html#aae9bd8c2167ab8e2830b6d15a9b31ab3',1,'GameSavePaths']]],
+  ['localscorespath_15',['LocalScoresPath',['../classGameSavePaths.html#af2ae1632623dd5805202afaaf6c0d58a',1,'GameSavePaths']]],
+  ['longabsencegrace_16',['LongAbsenceGrace',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a620963cef01ccf87d03f5f97a886365c',1,'Notes::Square::SquareNoteTimeline']]],
+  ['longendtime_17',['LongEndTime',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#ae5d7ba30959a4641c84558d7ccdc1c01',1,'Notes::Square::SquareNoteTimeline']]],
+  ['longreleasetolerance_18',['LongReleaseTolerance',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#a38896bd44746382771d139eb6cfadaa4',1,'Notes::Square::SquareNoteTimeline']]],
+  ['longshrinkstart_19',['LongShrinkStart',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#aafa229da59d60502d33a119a2185a12c',1,'Notes::Square::SquareNoteTimeline']]]
 ];

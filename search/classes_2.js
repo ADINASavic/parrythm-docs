@@ -17,12 +17,14 @@ var searchData=
   ['charthashutility_14',['ChartHashUtility',['../classChartHashUtility.html',1,'']]],
   ['chartimporter_15',['ChartImporter',['../classChartImporter.html',1,'']]],
   ['chartplayer_16',['ChartPlayer',['../classChartPlayer.html',1,'']]],
-  ['charttimelineruntime_17',['ChartTimelineRuntime',['../classChartTimelineRuntime.html',1,'']]],
-  ['circlenote_18',['CircleNote',['../classCircleNote.html',1,'']]],
-  ['circlenotevisual_19',['CircleNoteVisual',['../classCircleNoteVisual.html',1,'']]],
-  ['circletaphandler_20',['CircleTapHandler',['../classCircleTapHandler.html',1,'']]],
-  ['cleancursor_21',['CleanCursor',['../classCleanCursor.html',1,'']]],
-  ['connectionhintcontroller_22',['ConnectionHintController',['../classConnectionHintController.html',1,'']]],
-  ['cursorset_23',['CursorSet',['../structCleanCursor_1_1CursorSet.html',1,'CleanCursor']]],
-  ['curveutil_24',['CurveUtil',['../classCurveUtil.html',1,'']]]
+  ['chartregistryservice_17',['ChartRegistryService',['../classChartRegistryService.html',1,'']]],
+  ['chartserverservice_18',['ChartServerService',['../classChartServerService.html',1,'']]],
+  ['charttimelineruntime_19',['ChartTimelineRuntime',['../classChartTimelineRuntime.html',1,'']]],
+  ['circlenote_20',['CircleNote',['../classCircleNote.html',1,'']]],
+  ['circlenotevisual_21',['CircleNoteVisual',['../classCircleNoteVisual.html',1,'']]],
+  ['circletaphandler_22',['CircleTapHandler',['../classCircleTapHandler.html',1,'']]],
+  ['cleancursor_23',['CleanCursor',['../classCleanCursor.html',1,'']]],
+  ['connectionhintcontroller_24',['ConnectionHintController',['../classConnectionHintController.html',1,'']]],
+  ['cursorset_25',['CursorSet',['../structCleanCursor_1_1CursorSet.html',1,'CleanCursor']]],
+  ['curveutil_26',['CurveUtil',['../classCurveUtil.html',1,'']]]
 ];

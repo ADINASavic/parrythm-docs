@@ -13,5 +13,6 @@ var classSongMeta =
     [ "startOffset", "classSongMeta.html#a6340cfbb839855b965bbabd204862fa2", null ],
     [ "startOffsetBeats", "classSongMeta.html#a12394d2e422133aab7fd5a3f7225301d", null ],
     [ "tags", "classSongMeta.html#a70a785848cf7e3705b7a5a18f0476a53", null ],
-    [ "title", "classSongMeta.html#acceb9e946b0329e020ef22c20aa7a4da", null ]
+    [ "title", "classSongMeta.html#acceb9e946b0329e020ef22c20aa7a4da", null ],
+    [ "workshopId", "classSongMeta.html#a679988e001a87d7d35248681e63387fa", null ]
 ];

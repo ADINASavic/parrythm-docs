@@ -1,6 +1,7 @@
 var classResultScreenController =
 [
     [ "GoBackToOutgameScene", "classResultScreenController.html#a2dd34d6113d23e4a4ca644b187afa1e8", null ],
+    [ "SetSession", "classResultScreenController.html#a1adfbc2e2ab663824e19e48201cb0b07", null ],
     [ "SetTotalNotes", "classResultScreenController.html#a0e268d0f64d268f99c92af12d7cedfac", null ],
     [ "ShowAsync", "classResultScreenController.html#ac885d36206adfeb4ab8e5ad00d786d15", null ],
     [ "gaugeManager", "classResultScreenController.html#acb3577e56c9fa9da9aea643ea826470d", null ],

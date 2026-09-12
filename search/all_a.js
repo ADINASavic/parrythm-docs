@@ -18,5 +18,6 @@ var searchData=
   ['judgetextanimator_15',['judgeTextAnimator',['../classJudge.html#a77e70e0bd7e595a2b272714566a4b436',1,'Judge']]],
   ['judgetime_16',['judgetime',['../classCircleNote.html#a84d79ff3ca0da85b258354b407e8ac3d',1,'CircleNote.judgeTime'],['../classLevelChartData_1_1NoteEvent.html#a3638c5fe50d01aacd69681c361376cd7',1,'LevelChartData.NoteEvent.judgeTime']]],
   ['judgetimeoffsetms_17',['judgeTimeOffsetMs',['../classPlayerPreferences.html#a9b2fcd54ab95008efb585c10c3abbd52',1,'PlayerPreferences']]],
-  ['judgewindow_18',['JudgeWindow',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#ae2fcaf18fd2dc55d16631ef9e8a22771',1,'Notes::Square::SquareNoteTimeline']]]
+  ['judgeversion_18',['judgeVersion',['../classChartServerService_1_1StartRequest.html#afd045072fbb4b4b24feb229fb44aa5ac',1,'ChartServerService::StartRequest']]],
+  ['judgewindow_19',['JudgeWindow',['../classNotes_1_1Square_1_1SquareNoteTimeline.html#ae2fcaf18fd2dc55d16631ef9e8a22771',1,'Notes::Square::SquareNoteTimeline']]]
 ];

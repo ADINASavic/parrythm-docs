@@ -6,13 +6,14 @@ var searchData=
   ['carouselx_3',['carouselx',['../classParrythmInputActions_1_1OutgameMenuActions.html#aab85d615f793b5da19ac96e19985500a',1,'ParrythmInputActions.OutgameMenuActions.CarouselX'],['../classParrythmInputActions_1_1ResultsMenuActions.html#af3528cf68ffa43de7dfba74653a6fa72',1,'ParrythmInputActions.ResultsMenuActions.CarouselX']]],
   ['cell_4',['Cell',['../classNotes_1_1Square_1_1SquareNoteJudge.html#ab42f2c2c7e0e1e5864aad477afa010cc',1,'Notes::Square::SquareNoteJudge']]],
   ['chart_5',['Chart',['../classChartEditorDocument.html#af9d55c1451605ff09180b6497b27a076',1,'ChartEditorDocument']]],
-  ['circleleadsec_6',['CircleLeadSec',['../classChartEditorSettings.html#a1f3e8d203752c3792ccf494c27e38786',1,'ChartEditorSettings']]],
-  ['click_7',['Click',['../classParrythmInputActions_1_1UIActions.html#ae5e21205f56cf1c43cc38fa040f4d8a6',1,'ParrythmInputActions::UIActions']]],
-  ['confirm_8',['confirm',['../classParrythmInputActions_1_1OutgameMenuActions.html#ad4cf1023b542230ec3b85c5757bdb049',1,'ParrythmInputActions.OutgameMenuActions.Confirm'],['../classParrythmInputActions_1_1ResultsMenuActions.html#a98831718c2d5ea6e915312ac90433137',1,'ParrythmInputActions.ResultsMenuActions.Confirm']]],
-  ['current_9',['current',['../classChartEditorThemeState.html#a7065925dc025251ed766b8c1cdf88934',1,'ChartEditorThemeState.Current'],['../classOutgameNavigator.html#a0febaea0fe55ab07da70c0c87e450ce5',1,'OutgameNavigator.Current'],['../classLeaderboardServiceProvider.html#ae4869a8f8f57e964b5a8fae73cf981b7',1,'LeaderboardServiceProvider.Current']]],
-  ['currentdifficulty_10',['CurrentDifficulty',['../classChartEditorSong.html#a946b9c92d4b758347fc63eced3e988ef',1,'ChartEditorSong']]],
-  ['currentid_11',['CurrentId',['../classSaveIdentity.html#aca641ac9bd1e9b5d1d59ac36d38bdf4b',1,'SaveIdentity']]],
-  ['currentoverridemode_12',['CurrentOverrideMode',['../classParrythmInputRuntime.html#a3267dbb5a792665b5865930d25d72e3a',1,'ParrythmInputRuntime']]],
-  ['currentsource_13',['CurrentSource',['../classSaveIdentity.html#a1fb4267f2b0a7b1cf0c75ad5dc7d1136',1,'SaveIdentity']]],
-  ['currentstate_14',['CurrentState',['../classParrythmInputRuntime.html#aaceb71798e5369fad9104d10b1016450',1,'ParrythmInputRuntime']]]
+  ['charthash_6',['ChartHash',['../classPlaySessionService.html#a950f5a4811515e1c949e7c0f6ccaefd2',1,'PlaySessionService']]],
+  ['circleleadsec_7',['CircleLeadSec',['../classChartEditorSettings.html#a1f3e8d203752c3792ccf494c27e38786',1,'ChartEditorSettings']]],
+  ['click_8',['Click',['../classParrythmInputActions_1_1UIActions.html#ae5e21205f56cf1c43cc38fa040f4d8a6',1,'ParrythmInputActions::UIActions']]],
+  ['confirm_9',['confirm',['../classParrythmInputActions_1_1OutgameMenuActions.html#ad4cf1023b542230ec3b85c5757bdb049',1,'ParrythmInputActions.OutgameMenuActions.Confirm'],['../classParrythmInputActions_1_1ResultsMenuActions.html#a98831718c2d5ea6e915312ac90433137',1,'ParrythmInputActions.ResultsMenuActions.Confirm']]],
+  ['current_10',['current',['../classChartEditorThemeState.html#a7065925dc025251ed766b8c1cdf88934',1,'ChartEditorThemeState.Current'],['../classOutgameNavigator.html#a0febaea0fe55ab07da70c0c87e450ce5',1,'OutgameNavigator.Current'],['../classLeaderboardServiceProvider.html#ae4869a8f8f57e964b5a8fae73cf981b7',1,'LeaderboardServiceProvider.Current']]],
+  ['currentdifficulty_11',['CurrentDifficulty',['../classChartEditorSong.html#a946b9c92d4b758347fc63eced3e988ef',1,'ChartEditorSong']]],
+  ['currentid_12',['CurrentId',['../classSaveIdentity.html#aca641ac9bd1e9b5d1d59ac36d38bdf4b',1,'SaveIdentity']]],
+  ['currentoverridemode_13',['CurrentOverrideMode',['../classParrythmInputRuntime.html#a3267dbb5a792665b5865930d25d72e3a',1,'ParrythmInputRuntime']]],
+  ['currentsource_14',['CurrentSource',['../classSaveIdentity.html#a1fb4267f2b0a7b1cf0c75ad5dc7d1136',1,'SaveIdentity']]],
+  ['currentstate_15',['CurrentState',['../classParrythmInputRuntime.html#aaceb71798e5369fad9104d10b1016450',1,'ParrythmInputRuntime']]]
 ];

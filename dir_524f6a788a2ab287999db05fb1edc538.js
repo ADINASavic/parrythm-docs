@@ -12,6 +12,7 @@ var dir_524f6a788a2ab287999db05fb1edc538 =
     [ "ChartEditorThemeState.cs", "ChartEditorThemeState_8cs.html", "ChartEditorThemeState_8cs" ],
     [ "ChartEditorTime.cs", "ChartEditorTime_8cs.html", "ChartEditorTime_8cs" ],
     [ "ChartEditorUi.cs", "ChartEditorUi_8cs.html", "ChartEditorUi_8cs" ],
+    [ "ChartEditorWorkshop.cs", "ChartEditorWorkshop_8cs.html", null ],
     [ "MiniMapView.cs", "MiniMapView_8cs.html", "MiniMapView_8cs" ],
     [ "PreviewView.cs", "PreviewView_8cs.html", "PreviewView_8cs" ],
     [ "SpecialBulletPattern.cs", "SpecialBulletPattern_8cs.html", "SpecialBulletPattern_8cs" ],

@@ -41,7 +41,7 @@ var NAVTREE =
         [ "함수", "functions_func.html", "functions_func" ],
         [ "변수", "functions_vars.html", "functions_vars" ],
         [ "열거형 타입", "functions_enum.html", null ],
-        [ "속성", "functions_prop.html", null ],
+        [ "속성", "functions_prop.html", "functions_prop" ],
         [ "이벤트", "functions_evnt.html", null ]
       ] ]
     ] ],
@@ -59,14 +59,14 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "AchievementService_8cs.html",
-"classCameraTweenTrack.html",
-"classChartPlayer.html#a741a76b9d0cfe2d7cecd001979f4311d",
-"classGameSettingsSaveService.html#a9b4d028c2ec06272295f7bfef86610d0",
-"classLevelChartData_1_1TimeSigPoint.html#aecc599d663ff5a3db5977bfd24cc14c1",
-"classNotes_1_1Square_1_1SquareNoteTimeline.html#ae2fcaf18fd2dc55d16631ef9e8a22771",
-"classParrythmInputActions_1_1UIActions.html#a6917a667ed2d401ae606cc43d2f0b447",
-"classSliderNoteVisual.html#add75179b065b00ee5d0e420acec6db03",
-"interfaceILeaderboardService.html"
+"classBulletPlacement.html#a17716f3fa8a292c9108f2f3780dfcecc",
+"classChartPlayer.html#a08a71d182b6a04eec6803b7851d00c3a",
+"classDifficultyInfo.html#a664687b651c4e17161216a82c975f13e",
+"classLevelChartData_1_1NoteEvent.html#a1259ba781c43e902df33cc08ff605adc",
+"classNotes_1_1Square_1_1SquareNoteJudge.html#a625af775558ed65067119adc0466639ea56cdd7e9e3cef1974f4075c03a80332d",
+"classOutgameSfx.html#a5223d44ee420ba1c8d08c9cd9902abba",
+"classSliderNote.html#a792ea0d1728a8fa5b2a2db6744ebc805",
+"functions_func_c.html"
 ];
 
 var SYNCONMSG = '패널 동기화를 비활성화하기 위해 클릭하십시오';
