@@ -55,7 +55,7 @@ var searchData=
   ['durationbeats_52',['durationBeats',['../classLevelChartData_1_1NoteEvent.html#ae43d1a0918da352f5270bfb21dde03bf',1,'LevelChartData::NoteEvent']]],
   ['durationbeatsoverride_53',['durationBeatsOverride',['../classSliderNote.html#a253e0b1d6b8326a5d22daeaa53ea1e06',1,'SliderNote']]],
   ['durationoverride_54',['durationOverride',['../classSliderNote.html#a792ea0d1728a8fa5b2a2db6744ebc805',1,'SliderNote']]],
-  ['durationsec_55',['durationsec',['../classMiniMapView.html#ad436039d79951c73ad9e2b9643ff997b',1,'MiniMapView.DurationSec'],['../classChartEditorTime.html#a433d15e2d830b098cb0d778dc54be715',1,'ChartEditorTime.DurationSec()'],['../classSongMeta.html#a7960e0d180debb400d2bb01fc926f78e',1,'SongMeta.durationSec'],['../classChartServerService_1_1RegisterChart.html#aba86e0306ab2cadb999fb53c487a5cff',1,'ChartServerService.RegisterChart.durationSec']]],
+  ['durationsec_55',['durationsec',['../classSongMeta.html#a7960e0d180debb400d2bb01fc926f78e',1,'SongMeta.durationSec'],['../classChartServerService_1_1RegisterChart.html#aba86e0306ab2cadb999fb53c487a5cff',1,'ChartServerService.RegisterChart.durationSec'],['../classMiniMapView.html#ad436039d79951c73ad9e2b9643ff997b',1,'MiniMapView.DurationSec'],['../classChartEditorTime.html#a433d15e2d830b098cb0d778dc54be715',1,'ChartEditorTime.DurationSec()']]],
   ['dursec_56',['DurSec',['../classChartTimelineRuntime.html#a50901598716fc4dbc27c8541a7802ec6',1,'ChartTimelineRuntime']]],
   ['dynamicheight_57',['dynamicHeight',['../classFixed16x9Camera.html#aa684ddd959297010a4b71fcebf5a8eef',1,'Fixed16x9Camera']]]
 ];
