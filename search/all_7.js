@@ -30,7 +30,7 @@ var searchData=
   ['gaugechanged_27',['GaugeChanged',['../classGaugeManager.html#ae757885f9edab7de6cf0b833a58c26af',1,'GaugeManager']]],
   ['gaugedepleted_28',['GaugeDepleted',['../classGaugeManager.html#a5057754b0be2c989c571153449ea279e',1,'GaugeManager']]],
   ['gaugejudgement_29',['GaugeJudgement',['../IGaugeCommand_8cs.html#a40492e94222bf203cfa823f5cf7594fb',1,'IGaugeCommand.cs']]],
-  ['gaugemanager_30',['gaugemanager',['../classGameBootstrap.html#a702da67a46744a65a4ba7be3d3fc7bbe',1,'GameBootstrap.gaugeManager'],['../classResultScreenController.html#acb3577e56c9fa9da9aea643ea826470d',1,'ResultScreenController.gaugeManager'],['../structPlayFinishedInput.html#a54b32c60461710fbac5f59d4c5735b22',1,'PlayFinishedInput.gaugeManager'],['../classGaugeManager.html',1,'GaugeManager']]],
+  ['gaugemanager_30',['gaugemanager',['../structPlayFinishedInput.html#a54b32c60461710fbac5f59d4c5735b22',1,'PlayFinishedInput.gaugeManager'],['../classGameBootstrap.html#a702da67a46744a65a4ba7be3d3fc7bbe',1,'GameBootstrap.gaugeManager'],['../classResultScreenController.html#acb3577e56c9fa9da9aea643ea826470d',1,'ResultScreenController.gaugeManager'],['../classGaugeManager.html',1,'GaugeManager']]],
   ['gaugemanager_2ecs_31',['GaugeManager.cs',['../GaugeManager_8cs.html',1,'']]],
   ['gaugeslider_32',['gaugeSlider',['../classGaugeManager.html#a715efa01859448cf7c263b888728a65a',1,'GaugeManager']]],
   ['gaugetext_33',['gaugeText',['../classGaugeManager.html#a05ed51628e4efdd4521cca7c3ca67da2',1,'GaugeManager']]],

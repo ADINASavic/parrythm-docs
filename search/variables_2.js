@@ -32,7 +32,7 @@ var searchData=
   ['bodygradientpower_29',['bodyGradientPower',['../classSliderNoteVisual.html#a561efdaa304bd00696a32a651a1351b7',1,'SliderNoteVisual']]],
   ['bosstarget_30',['bosstarget',['../classNoteSpawner.html#ac6f020dd2795c7e0a2d47925e27c6dfb',1,'NoteSpawner.bossTarget'],['../classBulletNote.html#ac33c9877f0f0f07d6a0c476091ede349',1,'BulletNote.bossTarget']]],
   ['bpm_31',['bpm',['../classSongMeta.html#a7de874f32223e4db90b8c5ac3f5b7a0b',1,'SongMeta.bpm'],['../classLevelChartData.html#a4bb3b88603c5e86451a7b92e457d2b11',1,'LevelChartData.bpm'],['../classLevelChartData_1_1TempoPoint.html#a2cf6f05c3fab8a6acf3234a6b2489975',1,'LevelChartData.TempoPoint.bpm']]],
-  ['bulletcurved_32',['bulletcurved',['../classLevelChartData_1_1NoteEvent.html#a666d77e0410c1e4cebb8245e131dc99c',1,'LevelChartData.NoteEvent.bulletCurved'],['../classPreviewView.html#a85592786c9e0118faef9194380fe744e',1,'PreviewView.BulletCurved']]],
+  ['bulletcurved_32',['bulletcurved',['../classPreviewView.html#a85592786c9e0118faef9194380fe744e',1,'PreviewView.BulletCurved'],['../classLevelChartData_1_1NoteEvent.html#a666d77e0410c1e4cebb8245e131dc99c',1,'LevelChartData.NoteEvent.bulletCurved']]],
   ['bulletdespawnpoint_33',['BulletDespawnPoint',['../classPreviewView.html#a6b90ca97f27bfc8d30e4c4d63d5180d5',1,'PreviewView']]],
   ['bulletdespawnpos_34',['bulletDespawnPos',['../classLevelChartData_1_1NoteEvent.html#aebc3f7171647d37ec9d97cb8740feba2',1,'LevelChartData::NoteEvent']]],
   ['bulletdiameterpx_35',['bulletDiameterPx',['../classChartEditorSettings.html#a6e14768d94bc4104735f8ff7b0a0e8a9',1,'ChartEditorSettings']]],
