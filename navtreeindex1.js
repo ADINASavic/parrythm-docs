@@ -1,5 +1,8 @@
 var NAVTREEINDEX1 =
 {
+"classBulletNoteHandler.html#aa05d93c9af8709c43a8813b52ac5f090":[1,0,10,2],
+"classBulletNoteHandler.html#ad40706410268056f3a395b2e50fbb299":[1,0,10,1],
+"classBulletPlacement.html":[1,0,11],
 "classBulletPlacement.html#a17716f3fa8a292c9108f2f3780dfcecc":[1,0,11,8],
 "classBulletPlacement.html#a31f2b4d96d54fe60406f8c0052ca0334":[1,0,11,3],
 "classBulletPlacement.html#a4427dc6152e963ba9696e9307fbefff8":[1,0,11,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX1 =
 "classChartHashUtility.html#ac291a077d994498ee96230dc421c72bd":[1,0,26,0],
 "classChartImporter.html":[1,0,27],
 "classChartImporter.html#a9c884d3b9f6ae878ee4a9c0d30e9b080":[1,0,27,0],
-"classChartPlayer.html":[1,0,28],
-"classChartPlayer.html#a026b1879a5a1cebbab6dd32265b02b90":[1,0,28,19],
-"classChartPlayer.html#a05f25c9446192964d8daf7e7dd3b7d92":[1,0,28,38],
-"classChartPlayer.html#a07009395e8aed9b1afe906b053a9299e":[1,0,28,15]
+"classChartPlayer.html":[1,0,28]
 };

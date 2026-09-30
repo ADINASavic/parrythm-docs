@@ -31,6 +31,7 @@ var searchData=
   ['followringwidthmultiplier_28',['followRingWidthMultiplier',['../classSliderNoteVisual.html#add75179b065b00ee5d0e420acec6db03',1,'SliderNoteVisual']]],
   ['forceconsume_29',['ForceConsume',['../classCircleNote.html#a6bf8c80916f316edb572472080062731',1,'CircleNote']]],
   ['formatlabel_30',['FormatLabel',['../classNoteSpeedScale.html#adc6b8eee02529a9ddaab47282899c39c',1,'NoteSpeedScale']]],
-  ['fromseconds_31',['FromSeconds',['../classNoteSpeedScale.html#afef5ddf2bd55ab978b3ff159be696bb8',1,'NoteSpeedScale']]],
-  ['fullylocked_32',['FullyLocked',['../classParrythmInputRuntime.html#a2673a675e177e6d950eac0376ed5c2b3a45370579ab48b0d996d9de79a5755cab',1,'ParrythmInputRuntime']]]
+  ['friends_31',['Friends',['../ILeaderboardService_8cs.html#af489b2482ae7f5f4361cf34842e8c738a3d594614f445f6b00014e9b77730b833',1,'ILeaderboardService.cs']]],
+  ['fromseconds_32',['FromSeconds',['../classNoteSpeedScale.html#afef5ddf2bd55ab978b3ff159be696bb8',1,'NoteSpeedScale']]],
+  ['fullylocked_33',['FullyLocked',['../classParrythmInputRuntime.html#a2673a675e177e6d950eac0376ed5c2b3a45370579ab48b0d996d9de79a5755cab',1,'ParrythmInputRuntime']]]
 ];

@@ -75,6 +75,9 @@ var NAVTREEINDEX0 =
 "IGaugeCommand_8cs.html#a40492e94222bf203cfa823f5cf7594fba56cdd7e9e3cef1974f4075c03a80332d":[2,0,0,0,4,10,1,0],
 "IGaugeCommand_8cs.html#a40492e94222bf203cfa823f5cf7594fbae7ddb7cd777b59610b220bcfa80bd95f":[2,0,0,0,4,10,1,3],
 "ILeaderboardService_8cs.html":[2,0,0,0,10,1,3],
+"ILeaderboardService_8cs.html#af489b2482ae7f5f4361cf34842e8c738":[2,0,0,0,10,1,3,1],
+"ILeaderboardService_8cs.html#af489b2482ae7f5f4361cf34842e8c738a3d594614f445f6b00014e9b77730b833":[2,0,0,0,10,1,3,1,1],
+"ILeaderboardService_8cs.html#af489b2482ae7f5f4361cf34842e8c738a4cc6684df7b4a92b1dec6fce3264fac8":[2,0,0,0,10,1,3,1,0],
 "INoteEventHandler_8cs.html":[2,0,0,0,2,1,3],
 "INoteInit_8cs.html":[2,0,0,0,7,4],
 "IStageEndTrigger_8cs.html":[2,0,0,0,4,13],
@@ -246,8 +249,5 @@ var NAVTREEINDEX0 =
 "classBulletNote.html#ad8f1c6324882c34ed0301e7ff0bfa09f":[1,0,9,2],
 "classBulletNote.html#ae0ca93e26e90632af9da2c3435a48f02":[1,0,9,15],
 "classBulletNoteHandler.html":[1,0,10],
-"classBulletNoteHandler.html#a4fb76d2c9269da33a9d2c3a8dd803cca":[1,0,10,0],
-"classBulletNoteHandler.html#aa05d93c9af8709c43a8813b52ac5f090":[1,0,10,2],
-"classBulletNoteHandler.html#ad40706410268056f3a395b2e50fbb299":[1,0,10,1],
-"classBulletPlacement.html":[1,0,11]
+"classBulletNoteHandler.html#a4fb76d2c9269da33a9d2c3a8dd803cca":[1,0,10,0]
 };

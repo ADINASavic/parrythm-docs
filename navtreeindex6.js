@@ -1,5 +1,8 @@
 var NAVTREEINDEX6 =
 {
+"classOutgameOverlay.html#a5e6282180b02705f961a5084d137c8af":[1,0,89,1],
+"classOutgameOverlay.html#aa02f05ce4ef0be8a5e5a5789744360e7":[1,0,89,2],
+"classOutgameSfx.html":[1,0,90],
 "classOutgameSfx.html#a5223d44ee420ba1c8d08c9cd9902abba":[1,0,90,1],
 "classOutgameSfx.html#a98a1a6f524fc92f2023caddc2ef3d3b7":[1,0,90,0],
 "classParrythmInputActions.html":[1,0,91],
@@ -246,8 +249,5 @@ var NAVTREEINDEX6 =
 "classSliderNote.html#a2b15a1e36341fbea6d0891d8e0d1492d":[1,0,113,14],
 "classSliderNote.html#a2e994ae408566b5cdadb3adc48db1fc2":[1,0,113,25],
 "classSliderNote.html#a366fc6bcc4b1e2844659af837a5558b6":[1,0,113,19],
-"classSliderNote.html#a481be6dcbef84153db60b03fd6fb8e6e":[1,0,113,12],
-"classSliderNote.html#a65a7d942f7a6f5f893dd3dbbf7e2cc18":[1,0,113,13],
-"classSliderNote.html#a65d82b1828370cb7d6a488488e372ae8":[1,0,113,8],
-"classSliderNote.html#a6e8c823d6c74af875f1893fcf3972333":[1,0,113,3]
+"classSliderNote.html#a481be6dcbef84153db60b03fd6fb8e6e":[1,0,113,12]
 };

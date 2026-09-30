@@ -1,5 +1,8 @@
 var NAVTREEINDEX2 =
 {
+"classChartPlayer.html#a026b1879a5a1cebbab6dd32265b02b90":[1,0,28,19],
+"classChartPlayer.html#a05f25c9446192964d8daf7e7dd3b7d92":[1,0,28,38],
+"classChartPlayer.html#a07009395e8aed9b1afe906b053a9299e":[1,0,28,15],
 "classChartPlayer.html#a08a71d182b6a04eec6803b7851d00c3a":[1,0,28,26],
 "classChartPlayer.html#a0af6030706b2c97f47af1f40c6eea85b":[1,0,28,33],
 "classChartPlayer.html#a1d2a79feac2549813533b68d14e41a1e":[1,0,28,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX2 =
 "classDifficultyColorPalette.html#a4221115dbd9a1bf9e21bd77a7c8d1e3f":[1,0,39,1],
 "classDifficultyColorPalette.html#a4abb5c6234fefc577f4858c141bc4365":[1,0,39,3],
 "classDifficultyColorPalette.html#ad3263234dbf14b78a2cef8426e4911c4":[1,0,39,0],
-"classDifficultyInfo.html":[1,0,40],
-"classDifficultyInfo.html#a28586d8893eead0cd450ba2a2befaa0d":[1,0,40,6],
-"classDifficultyInfo.html#a29b9878c1c2fc4ca4afaefeee4c2e1b8":[1,0,40,1],
-"classDifficultyInfo.html#a490918cb74a5e61673c48cd3159e5365":[1,0,40,5]
+"classDifficultyInfo.html":[1,0,40]
 };

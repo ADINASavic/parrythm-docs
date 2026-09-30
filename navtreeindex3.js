@@ -1,5 +1,8 @@
 var NAVTREEINDEX3 =
 {
+"classDifficultyInfo.html#a28586d8893eead0cd450ba2a2befaa0d":[1,0,40,6],
+"classDifficultyInfo.html#a29b9878c1c2fc4ca4afaefeee4c2e1b8":[1,0,40,1],
+"classDifficultyInfo.html#a490918cb74a5e61673c48cd3159e5365":[1,0,40,5],
 "classDifficultyInfo.html#a664687b651c4e17161216a82c975f13e":[1,0,40,3],
 "classDifficultyInfo.html#acc35c996ed580038ba05e5536bdcf984":[1,0,40,4],
 "classDifficultyInfo.html#ada6ca00dfe2aa6eb1f90a0eb88348495":[1,0,40,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX3 =
 "classLevelChartData_1_1NoteEvent.html#a031fbbda2fcf66d7a7059b567efdb5d2":[1,0,65,0,57],
 "classLevelChartData_1_1NoteEvent.html#a037eba1ea96cebff201d77b6ba3d4468":[1,0,65,0,44],
 "classLevelChartData_1_1NoteEvent.html#a066674f21905ba11ec45b408b9b64f8c":[1,0,65,0,13],
-"classLevelChartData_1_1NoteEvent.html#a07ac3adf9cdf907f178d4a454ea892e5":[1,0,65,0,52],
-"classLevelChartData_1_1NoteEvent.html#a082be0a5290d8b4559ab5625cde8cb91":[1,0,65,0,16],
-"classLevelChartData_1_1NoteEvent.html#a0955749e9464fe2c4d6e22229a79b86e":[1,0,65,0,14],
-"classLevelChartData_1_1NoteEvent.html#a0b451924696f0156756d36c7f75f3a08":[1,0,65,0,12]
+"classLevelChartData_1_1NoteEvent.html#a07ac3adf9cdf907f178d4a454ea892e5":[1,0,65,0,52]
 };

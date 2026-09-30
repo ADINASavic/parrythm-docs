@@ -18,7 +18,7 @@ var searchData=
   ['getplayername_15',['GetPlayerName',['../classPlayerNameSettings.html#a92788555e53866f9db87635413167d50',1,'PlayerNameSettings']]],
   ['getplayerrating_16',['GetPlayerRating',['../classRatingService.html#afbc8b2657b7d513c8b1fb88ffb74372d',1,'RatingService']]],
   ['getplayerratingtext_17',['GetPlayerRatingText',['../classRatingService.html#ae00db2d668daea40319120278a7c7bc0',1,'RatingService']]],
-  ['gettoprecordsasync_18',['gettoprecordsasync',['../interfaceILeaderboardService.html#a8eb1a1a51a52a8730170d351512cb293',1,'ILeaderboardService.GetTopRecordsAsync()'],['../classLocalLeaderboardSaveService.html#a731e584209721335b59f8e1a916316d1',1,'LocalLeaderboardSaveService.GetTopRecordsAsync()']]],
+  ['gettoprecordsasync_18',['gettoprecordsasync',['../interfaceILeaderboardService.html#a15c4f829625ae39fb3a4d4f68e95c88d',1,'ILeaderboardService.GetTopRecordsAsync()'],['../classLocalLeaderboardSaveService.html#aaac1d80c3b8e8152d2cb203df3c47ca0',1,'LocalLeaderboardSaveService.GetTopRecordsAsync()']]],
   ['getviewportrectpixels_19',['GetViewportRectPixels',['../classFixed16x9Camera.html#aa3157be0b1a46f77db4dae4a31a5b568',1,'Fixed16x9Camera']]],
   ['gobacktooutgamescene_20',['GoBackToOutgameScene',['../classResultScreenController.html#a2dd34d6113d23e4a4ca644b187afa1e8',1,'ResultScreenController']]],
   ['gridnotehandler_21',['GridNoteHandler',['../classGridNoteHandler.html#a3663502dd1cfd9034f5460c000c43f64',1,'GridNoteHandler']]]

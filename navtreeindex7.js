@@ -1,5 +1,8 @@
 var NAVTREEINDEX7 =
 {
+"classSliderNote.html#a65a7d942f7a6f5f893dd3dbbf7e2cc18":[1,0,113,13],
+"classSliderNote.html#a65d82b1828370cb7d6a488488e372ae8":[1,0,113,8],
+"classSliderNote.html#a6e8c823d6c74af875f1893fcf3972333":[1,0,113,3],
 "classSliderNote.html#a792ea0d1728a8fa5b2a2db6744ebc805":[1,0,113,17],
 "classSliderNote.html#a8cf51f3315a9078596e9b46f9c3aabee":[1,0,113,11],
 "classSliderNote.html#a8e655bca0a2bf28435efede4f4ca0049":[1,0,113,9],
@@ -246,8 +249,5 @@ var NAVTREEINDEX7 =
 "functions_enum.html":[1,3,3],
 "functions_evnt.html":[1,3,5],
 "functions_f.html":[1,3,0,6],
-"functions_func.html":[1,3,1,0],
-"functions_func.html":[1,3,1],
-"functions_func_b.html":[1,3,1,1],
-"functions_func_c.html":[1,3,1,2]
+"functions_func.html":[1,3,1,0]
 };

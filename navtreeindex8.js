@@ -1,5 +1,8 @@
 var NAVTREEINDEX8 =
 {
+"functions_func.html":[1,3,1],
+"functions_func_b.html":[1,3,1,1],
+"functions_func_c.html":[1,3,1,2],
 "functions_func_d.html":[1,3,1,3],
 "functions_func_e.html":[1,3,1,4],
 "functions_func_f.html":[1,3,1,5],
@@ -59,8 +62,8 @@ var NAVTREEINDEX8 =
 "functions_t.html":[1,3,0,20],
 "functions_u.html":[1,3,0,21],
 "functions_v.html":[1,3,0,22],
-"functions_vars.html":[1,3,2],
 "functions_vars.html":[1,3,2,0],
+"functions_vars.html":[1,3,2],
 "functions_vars_a.html":[1,3,2,1],
 "functions_vars_b.html":[1,3,2,2],
 "functions_vars_c.html":[1,3,2,3],
@@ -94,8 +97,8 @@ var NAVTREEINDEX8 =
 "interfaceIGaugeCommand.html#a3e15d283316f614ee46582c8fa2d5c1a":[1,0,52,0],
 "interfaceIGaugeCommand.html#a747b3bf31ee9cfd55331e6a7ca31fe80":[1,0,52,1],
 "interfaceILeaderboardService.html":[1,0,53],
+"interfaceILeaderboardService.html#a15c4f829625ae39fb3a4d4f68e95c88d":[1,0,53,1],
 "interfaceILeaderboardService.html#a35cf5b1b782bd61e018993e4365e9a37":[1,0,53,2],
-"interfaceILeaderboardService.html#a8eb1a1a51a52a8730170d351512cb293":[1,0,53,1],
 "interfaceILeaderboardService.html#acf06c139471f3d25219726204a37e1c4":[1,0,53,0],
 "interfaceINoteEventHandler.html":[1,0,55],
 "interfaceINoteEventHandler.html#a45542d9645e29efccb5a9f2d720c11fb":[1,0,55,0],

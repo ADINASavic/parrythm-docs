@@ -119,8 +119,8 @@ Public 멤버 함수</h2></td></tr>
 <tr class="separator:acf06c139471f3d25219726204a37e1c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a35cf5b1b782bd61e018993e4365e9a37" id="r_a35cf5b1b782bd61e018993e4365e9a37"><td class="memItemLeft" align="right" valign="top">Awaitable&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfaceILeaderboardService.html#a35cf5b1b782bd61e018993e4365e9a37">SubmitBestAsync</a> (<a class="el" href="classLeaderboardScoreUploadDto.html">LeaderboardScoreUploadDto</a> dto)</td></tr>
 <tr class="separator:a35cf5b1b782bd61e018993e4365e9a37"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8eb1a1a51a52a8730170d351512cb293" id="r_a8eb1a1a51a52a8730170d351512cb293"><td class="memItemLeft" align="right" valign="top">Awaitable&lt; List&lt; <a class="el" href="classLeaderboardRecord.html">LeaderboardRecord</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfaceILeaderboardService.html#a8eb1a1a51a52a8730170d351512cb293">GetTopRecordsAsync</a> (string chartHash, int limit)</td></tr>
-<tr class="separator:a8eb1a1a51a52a8730170d351512cb293"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a15c4f829625ae39fb3a4d4f68e95c88d" id="r_a15c4f829625ae39fb3a4d4f68e95c88d"><td class="memItemLeft" align="right" valign="top">Awaitable&lt; List&lt; <a class="el" href="classLeaderboardRecord.html">LeaderboardRecord</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interfaceILeaderboardService.html#a15c4f829625ae39fb3a4d4f68e95c88d">GetTopRecordsAsync</a> (string chartHash, int limit, <a class="el" href="ILeaderboardService_8cs.html#af489b2482ae7f5f4361cf34842e8c738">LeaderboardScope</a> scope)</td></tr>
+<tr class="separator:a15c4f829625ae39fb3a4d4f68e95c88d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">멤버 함수 문서화</h2>
 <a id="acf06c139471f3d25219726204a37e1c4" name="acf06c139471f3d25219726204a37e1c4"></a>
@@ -183,8 +183,8 @@ Public 멤버 함수</h2></td></tr>
 
 </div>
 </div>
-<a id="a8eb1a1a51a52a8730170d351512cb293" name="a8eb1a1a51a52a8730170d351512cb293"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8eb1a1a51a52a8730170d351512cb293">&#9670;&#160;</a></span>GetTopRecordsAsync()</h2>
+<a id="a15c4f829625ae39fb3a4d4f68e95c88d" name="a15c4f829625ae39fb3a4d4f68e95c88d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a15c4f829625ae39fb3a4d4f68e95c88d">&#9670;&#160;</a></span>GetTopRecordsAsync()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -199,7 +199,13 @@ Public 멤버 함수</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>limit</em>&#160;</td>
+          <td class="paramname"><em>limit</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="ILeaderboardService_8cs.html#af489b2482ae7f5f4361cf34842e8c738">LeaderboardScope</a>&#160;</td>
+          <td class="paramname"><em>scope</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -209,7 +215,7 @@ Public 멤버 함수</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p><a class="el" href="classLocalLeaderboardSaveService.html#a731e584209721335b59f8e1a916316d1">LocalLeaderboardSaveService</a>에서 구현되었습니다.</p>
+<p><a class="el" href="classLocalLeaderboardSaveService.html#aaac1d80c3b8e8152d2cb203df3c47ca0">LocalLeaderboardSaveService</a>에서 구현되었습니다.</p>
 
 </div>
 </div>
