@@ -1,16 +1,18 @@
 <map id="RatingService.GetBestEntries" name="RatingService.GetBestEntries">
-<area shape="rect" id="Node000001" title="Top count &#160;rating entries (Best 15 by default)." alt="" coords="5,133,219,158"/>
-<area shape="rect" id="Node000002" href="$classRatingService.html#ab9fe02fa1996bcb3df8bf42d9d72454d" title="Every played chart (best score &gt; 0) as a rating entry, sorted highest rating first." alt="" coords="267,125,467,165"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,143,253,143,253,148,219,148"/>
-<area shape="rect" id="Node000003" href="$classRatingService.html#aa08de3267e652feb395251c99c27c2c4" title="Per&#45;chart rating (see class summary for the curve): 0 below 80%, level × Entry(acc) up to 95%,..." alt="" coords="517,5,727,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="395,123,449,89,514,55,532,48,534,52,516,60,452,93,398,127"/>
-<area shape="rect" id="Node000004" href="$classLocalScoreSaveService.html#a55f704f0060305a1e1cfff737df74ccf" title=" " alt="" coords="523,93,721,133"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="466,130,509,125,509,130,467,135"/>
-<area shape="rect" id="Node000006" href="$classChartRegistryService.html#a5c08ea9cba9e90803d9a439e4efa36f1" title=" " alt="" coords="515,157,729,197"/>
-<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="467,155,501,160,501,165,466,160"/>
-<area shape="rect" id="Node000007" href="$classSongScanner.html#abc765422ac2b4142ede50a0641cfeb2b" title=" " alt="" coords="543,222,701,247"/>
-<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="410,163,460,186,516,207,547,216,545,221,514,212,458,190,408,168"/>
-<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="575,94,572,84,580,74,596,69,622,67,651,70,667,77,665,82,650,75,622,72,597,74,583,79,577,85,580,92"/>
-<area shape="rect" id="Node000005" href="$classLocalScoreSaveService.html#a36f373f8b6b5b0bd1ff2ade5d75cabaa" title=" " alt="" coords="777,101,984,126"/>
-<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="722,111,764,111,764,116,722,116"/>
+<area shape="rect" id="Node000001" title="Top count &#160;rating entries (Best 15 by default)." alt="" coords="5,151,219,176"/>
+<area shape="rect" id="Node000002" href="$classRatingService.html#ab9fe02fa1996bcb3df8bf42d9d72454d" title="Online: all server bests joined with the registry. Offline: local played charts." alt="" coords="267,143,467,183"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,161,253,161,253,166,219,166"/>
+<area shape="rect" id="Node000003" href="$structPlayIdentity.html#a15d2eceaa2670f0ccd4d1cc846133e41" title=" " alt="" coords="545,5,699,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="385,141,439,91,475,64,513,41,534,32,536,37,516,46,478,68,443,95,389,145"/>
+<area shape="rect" id="Node000004" href="$classRatingService.html#aa08de3267e652feb395251c99c27c2c4" title="Per&#45;chart rating (see class summary for the curve): 0 below 80%, level × Entry(acc) up to 95%,..." alt="" coords="517,55,727,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="417,141,514,105,538,97,540,102,516,110,419,146"/>
+<area shape="rect" id="Node000005" href="$classLocalScoreSaveService.html#a55f704f0060305a1e1cfff737df74ccf" title=" " alt="" coords="523,143,721,183"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="467,161,509,161,509,166,467,166"/>
+<area shape="rect" id="Node000007" href="$classChartRegistryService.html#a5c08ea9cba9e90803d9a439e4efa36f1" title=" " alt="" coords="515,207,729,247"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="448,181,529,201,528,207,447,186"/>
+<area shape="rect" id="Node000008" href="$classSongScanner.html#abc765422ac2b4142ede50a0641cfeb2b" title=" " alt="" coords="543,272,701,297"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="394,181,448,220,516,257,540,266,538,271,514,262,446,224,391,186"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="575,144,572,134,580,124,596,119,622,117,651,120,667,127,665,132,650,125,622,122,597,124,583,129,577,135,580,142"/>
+<area shape="rect" id="Node000006" href="$classLocalScoreSaveService.html#a36f373f8b6b5b0bd1ff2ade5d75cabaa" title=" " alt="" coords="777,151,984,176"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="722,161,764,161,764,166,722,166"/>
 </map>

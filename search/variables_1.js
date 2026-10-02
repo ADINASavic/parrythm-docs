@@ -14,7 +14,7 @@ var searchData=
   ['aimblendspeed_11',['aimBlendSpeed',['../classAnimatedCharacterController.html#a8dfd1840c64665d7e876a90602c99f2b',1,'AnimatedCharacterController']]],
   ['alphaoverlifetime_12',['alphaOverLifetime',['../classUITrailGraphic.html#a6bed1d01c862385905de200327568310',1,'UITrailGraphic']]],
   ['apibaseurl_13',['ApiBaseUrl',['../classChartServerService.html#a015f10109ec2d8f6ff9240935e910931',1,'ChartServerService']]],
-  ['appid_14',['appId',['../structPlayIdentity.html#af6d1e34fa05f90800b5aa12d0d2df337',1,'PlayIdentity']]],
+  ['appid_14',['appid',['../classPlayerProfileService_1_1Snapshot.html#adced92f24be53b5ce7854248bfaa4840',1,'PlayerProfileService.Snapshot.appId'],['../structPlayIdentity.html#af6d1e34fa05f90800b5aa12d0d2df337',1,'PlayIdentity.appId']]],
   ['arcdeg_15',['arcDeg',['../classSpecialBulletPattern_1_1Params.html#ab8fd687fac8ee9719b8896c96d436d80',1,'SpecialBulletPattern::Params']]],
   ['arml_16',['armL',['../classAnimatedCharacterController.html#ab13153f46ba329ffa9d8fbcb68bc8d06',1,'AnimatedCharacterController']]],
   ['artist_17',['artist',['../classSongMeta.html#a3e96cf528c76a56f8a97a456d0eac5da',1,'SongMeta.artist'],['../classChartServerService_1_1RegisterSetRequest.html#ac6f4e9ae2030496658ffe4c893c6dacb',1,'ChartServerService.RegisterSetRequest.artist']]],

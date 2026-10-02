@@ -6,7 +6,7 @@ var searchData=
   ['getallplayedentries_3',['GetAllPlayedEntries',['../classRatingService.html#ab9fe02fa1996bcb3df8bf42d9d72454d',1,'RatingService']]],
   ['getanylinecolor_4',['GetAnyLineColor',['../classGridDrawer.html#a2ad70bbdb5279529d0299dcbcc3462f6',1,'GridDrawer']]],
   ['getbestentries_5',['GetBestEntries',['../classRatingService.html#ad437e0dc7386eebeb74df485e199eb2b',1,'RatingService']]],
-  ['getbestscore_6',['GetBestScore',['../classLocalScoreSaveService.html#a55f704f0060305a1e1cfff737df74ccf',1,'LocalScoreSaveService']]],
+  ['getbestscore_6',['getbestscore',['../classPlayerProfileService.html#af6f49ad99fa65ed67cae9ed21e2243a2',1,'PlayerProfileService.GetBestScore()'],['../classLocalScoreSaveService.html#a55f704f0060305a1e1cfff737df74ccf',1,'LocalScoreSaveService.GetBestScore()']]],
   ['getcellposition_7',['GetCellPosition',['../classGridManager.html#a9351dbf062ddaf0ca2c4a699fdbd4015',1,'GridManager']]],
   ['getcurrentcell_8',['GetCurrentCell',['../classPlayerSpriteController.html#a2039bffbde2740caf9c7c3c2b6b1ee3d',1,'PlayerSpriteController']]],
   ['getcurrentheadworldposition_9',['GetCurrentHeadWorldPosition',['../classSliderNote.html#a6e8c823d6c74af875f1893fcf3972333',1,'SliderNote']]],
@@ -18,8 +18,9 @@ var searchData=
   ['getplayername_15',['GetPlayerName',['../classPlayerNameSettings.html#a92788555e53866f9db87635413167d50',1,'PlayerNameSettings']]],
   ['getplayerrating_16',['GetPlayerRating',['../classRatingService.html#afbc8b2657b7d513c8b1fb88ffb74372d',1,'RatingService']]],
   ['getplayerratingtext_17',['GetPlayerRatingText',['../classRatingService.html#ae00db2d668daea40319120278a7c7bc0',1,'RatingService']]],
-  ['gettoprecordsasync_18',['gettoprecordsasync',['../interfaceILeaderboardService.html#a15c4f829625ae39fb3a4d4f68e95c88d',1,'ILeaderboardService.GetTopRecordsAsync()'],['../classLocalLeaderboardSaveService.html#aaac1d80c3b8e8152d2cb203df3c47ca0',1,'LocalLeaderboardSaveService.GetTopRecordsAsync()']]],
-  ['getviewportrectpixels_19',['GetViewportRectPixels',['../classFixed16x9Camera.html#aa3157be0b1a46f77db4dae4a31a5b568',1,'Fixed16x9Camera']]],
-  ['gobacktooutgamescene_20',['GoBackToOutgameScene',['../classResultScreenController.html#a2dd34d6113d23e4a4ca644b187afa1e8',1,'ResultScreenController']]],
-  ['gridnotehandler_21',['GridNoteHandler',['../classGridNoteHandler.html#a3663502dd1cfd9034f5460c000c43f64',1,'GridNoteHandler']]]
+  ['getprofileasync_18',['GetProfileAsync',['../classChartServerService.html#a345368b9ebdf814cf2c757323d2d29fb',1,'ChartServerService']]],
+  ['gettoprecordsasync_19',['gettoprecordsasync',['../interfaceILeaderboardService.html#a15c4f829625ae39fb3a4d4f68e95c88d',1,'ILeaderboardService.GetTopRecordsAsync()'],['../classLocalLeaderboardSaveService.html#aaac1d80c3b8e8152d2cb203df3c47ca0',1,'LocalLeaderboardSaveService.GetTopRecordsAsync()']]],
+  ['getviewportrectpixels_20',['GetViewportRectPixels',['../classFixed16x9Camera.html#aa3157be0b1a46f77db4dae4a31a5b568',1,'Fixed16x9Camera']]],
+  ['gobacktooutgamescene_21',['GoBackToOutgameScene',['../classResultScreenController.html#a2dd34d6113d23e4a4ca644b187afa1e8',1,'ResultScreenController']]],
+  ['gridnotehandler_22',['GridNoteHandler',['../classGridNoteHandler.html#a3663502dd1cfd9034f5460c000c43f64',1,'GridNoteHandler']]]
 ];

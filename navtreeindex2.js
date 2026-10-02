@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"classChartPlayer.html":[1,0,28],
 "classChartPlayer.html#a026b1879a5a1cebbab6dd32265b02b90":[1,0,28,19],
 "classChartPlayer.html#a05f25c9446192964d8daf7e7dd3b7d92":[1,0,28,38],
 "classChartPlayer.html#a07009395e8aed9b1afe906b053a9299e":[1,0,28,15],
@@ -41,15 +42,18 @@ var NAVTREEINDEX2 =
 "classChartPlayer.html#aedd07f7ed2b0c420f42f6cf3c0580067":[1,0,28,16],
 "classChartRegistryService.html":[1,0,29],
 "classChartRegistryService.html#a5c08ea9cba9e90803d9a439e4efa36f1":[1,0,29,1],
+"classChartRegistryService.html#a63b622d5a76e3792ea4351ae9bace301":[1,0,29,3],
 "classChartRegistryService.html#a761c41224921de429e30a069767bcfd7":[1,0,29,0],
-"classChartRegistryService.html#ab3a9e9d126dae24d80248adab3610cda":[1,0,29,2],
+"classChartRegistryService.html#ab3a9e9d126dae24d80248adab3610cda":[1,0,29,4],
+"classChartRegistryService.html#ad90c1fe6647334ca6e07d93c7c2f4a7f":[1,0,29,2],
 "classChartServerService.html":[1,0,30],
-"classChartServerService.html#a015f10109ec2d8f6ff9240935e910931":[1,0,30,9],
-"classChartServerService.html#a810fffd8d0294162c860ca16c976ece6":[1,0,30,7],
-"classChartServerService.html#a9d328f3ebc67d9356583cd36f1f30b3c":[1,0,30,8],
-"classChartServerService.html#aa5140c7ff8c4fbe326b770ddc8dc1278":[1,0,30,10],
-"classChartServerService.html#ad8a7f2139dc1cee4e98e86166d4797a2":[1,0,30,5],
-"classChartServerService.html#ae15eeb0596d363ec1b509e8e0e235489":[1,0,30,6],
+"classChartServerService.html#a015f10109ec2d8f6ff9240935e910931":[1,0,30,10],
+"classChartServerService.html#a345368b9ebdf814cf2c757323d2d29fb":[1,0,30,5],
+"classChartServerService.html#a810fffd8d0294162c860ca16c976ece6":[1,0,30,8],
+"classChartServerService.html#aa5140c7ff8c4fbe326b770ddc8dc1278":[1,0,30,11],
+"classChartServerService.html#abfad58a3f50ce1bba98bd88f22668846":[1,0,30,9],
+"classChartServerService.html#ad8a7f2139dc1cee4e98e86166d4797a2":[1,0,30,6],
+"classChartServerService.html#ae15eeb0596d363ec1b509e8e0e235489":[1,0,30,7],
 "classChartServerService_1_1PlayToken.html":[1,0,30,0],
 "classChartServerService_1_1PlayToken.html#a3c3ee2e354d82547269aa9da832741f8":[1,0,30,0,2],
 "classChartServerService_1_1PlayToken.html#a6e8b4669d9290ad99cc63d65b3def556":[1,0,30,0,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX2 =
 "classDeveloperSettings.html#afc1e679b1ed75c70890a9f5c865d1b2c":[1,0,38,17],
 "classDifficultyColorPalette.html":[1,0,39],
 "classDifficultyColorPalette.html#a0d69e1483e7a75cd94566891dbbea22e":[1,0,39,4],
-"classDifficultyColorPalette.html#a1d0237b7bbf4803fcd48cf48720a6a01":[1,0,39,2],
-"classDifficultyColorPalette.html#a4221115dbd9a1bf9e21bd77a7c8d1e3f":[1,0,39,1],
-"classDifficultyColorPalette.html#a4abb5c6234fefc577f4858c141bc4365":[1,0,39,3],
-"classDifficultyColorPalette.html#ad3263234dbf14b78a2cef8426e4911c4":[1,0,39,0],
-"classDifficultyInfo.html":[1,0,40]
+"classDifficultyColorPalette.html#a1d0237b7bbf4803fcd48cf48720a6a01":[1,0,39,2]
 };

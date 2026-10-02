@@ -8,12 +8,13 @@ var searchData=
   ['playernamesettings_5',['PlayerNameSettings',['../classPlayerNameSettings.html',1,'']]],
   ['playerpreferences_6',['PlayerPreferences',['../classPlayerPreferences.html',1,'']]],
   ['playerpreferencesservice_7',['PlayerPreferencesService',['../classPlayerPreferencesService.html',1,'']]],
-  ['playerspritecontroller_8',['PlayerSpriteController',['../classPlayerSpriteController.html',1,'']]],
-  ['playfinishedinput_9',['PlayFinishedInput',['../structPlayFinishedInput.html',1,'']]],
-  ['playidentity_10',['PlayIdentity',['../structPlayIdentity.html',1,'']]],
-  ['playprefsservice_11',['PlayPrefsService',['../classPlayPrefsService.html',1,'']]],
-  ['playsessionservice_12',['PlaySessionService',['../classPlaySessionService.html',1,'']]],
-  ['playtoken_13',['PlayToken',['../classChartServerService_1_1PlayToken.html',1,'ChartServerService']]],
-  ['previewview_14',['PreviewView',['../classPreviewView.html',1,'']]],
-  ['profilesavedata_15',['ProfileSaveData',['../classProfileSaveData.html',1,'']]]
+  ['playerprofileservice_8',['PlayerProfileService',['../classPlayerProfileService.html',1,'']]],
+  ['playerspritecontroller_9',['PlayerSpriteController',['../classPlayerSpriteController.html',1,'']]],
+  ['playfinishedinput_10',['PlayFinishedInput',['../structPlayFinishedInput.html',1,'']]],
+  ['playidentity_11',['PlayIdentity',['../structPlayIdentity.html',1,'']]],
+  ['playprefsservice_12',['PlayPrefsService',['../classPlayPrefsService.html',1,'']]],
+  ['playsessionservice_13',['PlaySessionService',['../classPlaySessionService.html',1,'']]],
+  ['playtoken_14',['PlayToken',['../classChartServerService_1_1PlayToken.html',1,'ChartServerService']]],
+  ['previewview_15',['PreviewView',['../classPreviewView.html',1,'']]],
+  ['profilesavedata_16',['ProfileSaveData',['../classProfileSaveData.html',1,'']]]
 ];

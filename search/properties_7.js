@@ -5,10 +5,11 @@ var searchData=
   ['hasfocusedtutorial_2',['HasFocusedTutorial',['../classPlayPrefsService.html#a3c5f39d90678e9875d27ba19b50e347c',1,'PlayPrefsService']]],
   ['hassaved_3',['HasSaved',['../classChartEditorThemeState.html#a80b7627fa2060b4ec960aeb9660cb10a',1,'ChartEditorThemeState']]],
   ['hasshown_4',['HasShown',['../classChartEndWatcher.html#a4e053e0e8941e5c629909ef41299a84b',1,'ChartEndWatcher']]],
-  ['hassong_5',['HasSong',['../classChartEditorSong.html#a86e6a0191ed8f31e2a2551357e1ef68f',1,'ChartEditorSong']]],
-  ['hasstarted_6',['HasStarted',['../classSliderNote.html#ad8436fc2d48a22216b622eb012ab68cc',1,'SliderNote']]],
-  ['hasstateoverride_7',['HasStateOverride',['../classParrythmInputRuntime.html#ac7908863f99669793ffd28ad776a63ef',1,'ParrythmInputRuntime']]],
-  ['hittime_8',['HitTime',['../classNotes_1_1Square_1_1SquareNoteJudge.html#a6ab2870b4e049866393ca348e0874816',1,'Notes::Square::SquareNoteJudge']]],
-  ['holdexit_9',['HoldExit',['../classParrythmInputActions_1_1IngameGameplayActions.html#a94b6875a0fb86d1dc2ba356f270f6896',1,'ParrythmInputActions::IngameGameplayActions']]],
-  ['hoverabs_10',['HoverAbs',['../classPreviewView.html#a5db3e03dd21ad50db2d7b8f7094f3013',1,'PreviewView']]]
+  ['hassnapshot_5',['HasSnapshot',['../classChartRegistryService.html#a63b622d5a76e3792ea4351ae9bace301',1,'ChartRegistryService']]],
+  ['hassong_6',['HasSong',['../classChartEditorSong.html#a86e6a0191ed8f31e2a2551357e1ef68f',1,'ChartEditorSong']]],
+  ['hasstarted_7',['HasStarted',['../classSliderNote.html#ad8436fc2d48a22216b622eb012ab68cc',1,'SliderNote']]],
+  ['hasstateoverride_8',['HasStateOverride',['../classParrythmInputRuntime.html#ac7908863f99669793ffd28ad776a63ef',1,'ParrythmInputRuntime']]],
+  ['hittime_9',['HitTime',['../classNotes_1_1Square_1_1SquareNoteJudge.html#a6ab2870b4e049866393ca348e0874816',1,'Notes::Square::SquareNoteJudge']]],
+  ['holdexit_10',['HoldExit',['../classParrythmInputActions_1_1IngameGameplayActions.html#a94b6875a0fb86d1dc2ba356f270f6896',1,'ParrythmInputActions::IngameGameplayActions']]],
+  ['hoverabs_11',['HoverAbs',['../classPreviewView.html#a5db3e03dd21ad50db2d7b8f7094f3013',1,'PreviewView']]]
 ];

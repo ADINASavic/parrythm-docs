@@ -1,0 +1,10 @@
+<map id="PlayerProfileService.ApplyRecordedBestAsync" name="PlayerProfileService.ApplyRecordedBestAsync">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,18,199,58"/>
+<area shape="rect" id="Node000002" href="$structPlayIdentity.html#a15d2eceaa2670f0ccd4d1cc846133e41" title=" " alt="" coords="501,29,655,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,16,246,10,350,3,454,10,521,23,520,28,453,15,350,8,247,15,199,21"/>
+<area shape="rect" id="Node000003" href="$structPlayIdentity.html#aad1d43a80fcebddfaf76d93f58fa25c1" title=" " alt="" coords="271,25,429,51"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,35,257,35,257,41,199,41"/>
+<area shape="rect" id="Node000004" href="$classPlayerProfileService.html#a56dbfa3488b69024b2ba35aa62795cb1" title=" " alt="" coords="247,75,453,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="190,55,250,70,249,75,189,61"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="435,73,509,55,510,60,436,78"/>
+</map>

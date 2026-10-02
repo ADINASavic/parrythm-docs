@@ -84,7 +84,7 @@ var searchData=
   ['styletimesec_81',['StyleTimeSec',['../classChartTimelineRuntime.html#ac97a3ac3f6fd1c149b181766fe54f5a6',1,'ChartTimelineRuntime']]],
   ['submitasync_82',['SubmitAsync',['../classPlaySessionService.html#ae0eaca5cd997bd16a49e3a9c2e7a5272',1,'PlaySessionService']]],
   ['submitbestasync_83',['submitbestasync',['../interfaceILeaderboardService.html#a35cf5b1b782bd61e018993e4365e9a37',1,'ILeaderboardService.SubmitBestAsync()'],['../classLocalLeaderboardSaveService.html#a75b47bd3b1fa215d07a9d4b0afe471a9',1,'LocalLeaderboardSaveService.SubmitBestAsync()']]],
-  ['submitplayasync_84',['SubmitPlayAsync',['../classChartServerService.html#a9d328f3ebc67d9356583cd36f1f30b3c',1,'ChartServerService']]],
+  ['submitplayasync_84',['SubmitPlayAsync',['../classChartServerService.html#abfad58a3f50ce1bba98bd88f22668846',1,'ChartServerService']]],
   ['subpolyline_85',['SubPolyline',['../classChartEditorDraw.html#a87426f44478683d07197a1f32d26b67d',1,'ChartEditorDraw']]],
   ['systemtheme_86',['SystemTheme',['../classChartEditorThemeState.html#a51813384a93fa72dd8f260bd3dfab043',1,'ChartEditorThemeState']]]
 ];

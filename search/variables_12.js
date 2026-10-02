@@ -1,7 +1,7 @@
 var searchData=
 [
   ['savesdirectoryname_0',['SavesDirectoryName',['../classAppDataPaths.html#af1b9066bb203d5ca0563a92dbacf27ef',1,'AppDataPaths']]],
-  ['schemaversion_1',['schemaversion',['../classLocalLeaderboardSaveData.html#a63ad50183f016a869cbd2f75861f1f7a',1,'LocalLeaderboardSaveData.schemaVersion'],['../classChartServerService_1_1SubmitRequest.html#aedadb2e4030e29d4233878b7f0463a15',1,'ChartServerService.SubmitRequest.schemaVersion'],['../classChartServerService_1_1PlayToken.html#a3c3ee2e354d82547269aa9da832741f8',1,'ChartServerService.PlayToken.schemaVersion'],['../classGameSettingsSaveManifest.html#a9b791fc85cf13bd63c60435cdac20608',1,'GameSettingsSaveManifest.schemaVersion'],['../classChartServerService_1_1StartRequest.html#a3f4cc455ff4fe9a0eb365f1c46b4b97f',1,'ChartServerService.StartRequest.schemaVersion'],['../classLocalScoreSaveData.html#a99fd9a90e7754424a79575baf4dc803a',1,'LocalScoreSaveData.schemaVersion']]],
+  ['schemaversion_1',['schemaversion',['../classPlayerProfileService_1_1Snapshot.html#aac3573971f33f2275547d0df6c3ff851',1,'PlayerProfileService.Snapshot.schemaVersion'],['../classChartServerService_1_1SubmitRequest.html#aedadb2e4030e29d4233878b7f0463a15',1,'ChartServerService.SubmitRequest.schemaVersion'],['../classChartServerService_1_1PlayToken.html#a3c3ee2e354d82547269aa9da832741f8',1,'ChartServerService.PlayToken.schemaVersion'],['../classChartServerService_1_1StartRequest.html#a3f4cc455ff4fe9a0eb365f1c46b4b97f',1,'ChartServerService.StartRequest.schemaVersion'],['../classLocalScoreSaveData.html#a99fd9a90e7754424a79575baf4dc803a',1,'LocalScoreSaveData.schemaVersion'],['../classGameSettingsSaveManifest.html#a9b791fc85cf13bd63c60435cdac20608',1,'GameSettingsSaveManifest.schemaVersion'],['../classLocalLeaderboardSaveData.html#a63ad50183f016a869cbd2f75861f1f7a',1,'LocalLeaderboardSaveData.schemaVersion']]],
   ['score_2',['score',['../structRatingEntry.html#a68e97008dd016c7f1e9a097a52cfe673',1,'RatingEntry.score'],['../classLeaderboardRecord.html#ab8935de8fedd3df4d215c282579146d7',1,'LeaderboardRecord.score'],['../classLeaderboardScoreUploadDto.html#ab83a814230690c1b157dc921c4804fa9',1,'LeaderboardScoreUploadDto.score'],['../classLocalScoreRecord.html#a9cba8b3a76101a7bc70882b048d79eaf',1,'LocalScoreRecord.score'],['../classChartServerService_1_1SubmitRequest.html#af368f435c03c649585c535e615167255',1,'ChartServerService.SubmitRequest.score'],['../structPlayFinishedInput.html#a31e029ad07a0caa36a9c9a31e64a835a',1,'PlayFinishedInput.score']]],
   ['selectedcell_3',['SelectedCell',['../classPreviewView.html#af889c22536407666fe8112c39d85860c',1,'PreviewView']]],
   ['selection_4',['selection',['../classChartEditorThemeState_1_1WaveTokens.html#a84293699d8418585a3ac2ef2f7cdab3d',1,'ChartEditorThemeState::WaveTokens']]],
@@ -44,7 +44,7 @@ var searchData=
   ['snapenabled_41',['snapEnabled',['../classChartEditorSettings.html#a2bc7ee9b2ab0c40bae09dfe3bbc295f3',1,'ChartEditorSettings']]],
   ['songtitle_42',['songTitle',['../structRatingEntry.html#a7d9eae8e2aaea913307c29eba150b6d2',1,'RatingEntry']]],
   ['sortingorder_43',['sortingOrder',['../classCircleNoteVisual.html#ad41da313494b79c16e7914121547b737',1,'CircleNoteVisual']]],
-  ['source_44',['source',['../classMiniMapView.html#a496ae012913ef7a14a5bd7a479db2c3e',1,'MiniMapView.Source'],['../classSongEntry.html#aed6f9f125dc5a1323f1f1923b8df903e',1,'SongEntry.source']]],
+  ['source_44',['source',['../classSongEntry.html#aed6f9f125dc5a1323f1f1923b8df903e',1,'SongEntry.source'],['../classMiniMapView.html#a496ae012913ef7a14a5bd7a479db2c3e',1,'MiniMapView.Source']]],
   ['spawn_45',['spawn',['../structBulletPlacement_1_1Triplet.html#aebb85e025ca333f74cdcf36b7cbcbbbb',1,'BulletPlacement::Triplet']]],
   ['spawner_46',['spawner',['../classChartPlayer.html#a05f25c9446192964d8daf7e7dd3b7d92',1,'ChartPlayer']]],
   ['spawnkinds_47',['SpawnKinds',['../classSpecialBulletPattern.html#a57aa515e93c7131b6d900f2bd83a2449',1,'SpecialBulletPattern']]],
@@ -58,11 +58,11 @@ var searchData=
   ['startgauge_55',['startGauge',['../classGaugeManager.html#a98f252ebeba1b95c8e4d7de11f363131',1,'GaugeManager']]],
   ['starthintcolor_56',['startHintColor',['../classNotes_1_1Square_1_1SquareVisualLong.html#a313ca83057e7c31c0980f284fd2b263a',1,'Notes::Square::SquareVisualLong']]],
   ['startoffset_57',['startoffset',['../classSongMeta.html#a6340cfbb839855b965bbabd204862fa2',1,'SongMeta.startOffset'],['../classLevelChartData.html#a558dc92df8196c6d66d7b310a2b1631a',1,'LevelChartData.startOffset']]],
-  ['startoffsetbeats_58',['startoffsetbeats',['../classSongMeta.html#a12394d2e422133aab7fd5a3f7225301d',1,'SongMeta.startOffsetBeats'],['../classLevelChartData.html#a598c8f61d4877dd8af93643081a72a7a',1,'LevelChartData.startOffsetBeats']]],
+  ['startoffsetbeats_58',['startoffsetbeats',['../classLevelChartData.html#a598c8f61d4877dd8af93643081a72a7a',1,'LevelChartData.startOffsetBeats'],['../classSongMeta.html#a12394d2e422133aab7fd5a3f7225301d',1,'SongMeta.startOffsetBeats']]],
   ['startrequestid_59',['startRequestId',['../classChartServerService_1_1StartRequest.html#ad1b5e555f503401590e4f59a62225c97',1,'ChartServerService::StartRequest']]],
   ['starttime_60',['starttime',['../classBulletNote.html#a10545fa1e71b6672ac96717dd48c024a',1,'BulletNote.startTime'],['../classSliderNote.html#a8ea9a39e2d6401acedde5d53d0bc40a2',1,'SliderNote.startTime'],['../classLevelChartData_1_1NoteEvent.html#a1a4cab39c08590ee34b7d2fc4214b52d',1,'LevelChartData.NoteEvent.startTime']]],
   ['state_61',['state',['../classNotes_1_1Square_1_1SquareVisualBase.html#ae15ae56098f682291f29d47b8276dcc2',1,'Notes::Square::SquareVisualBase']]],
-  ['steamid_62',['steamId',['../structPlayIdentity.html#a3f14a1b5c72637745973b38fad071319',1,'PlayIdentity']]],
+  ['steamid_62',['steamid',['../classPlayerProfileService_1_1Snapshot.html#a3f8efbd25239d8a1c8cdaa9998751a87',1,'PlayerProfileService.Snapshot.steamId'],['../structPlayIdentity.html#a3f14a1b5c72637745973b38fad071319',1,'PlayIdentity.steamId']]],
   ['step_63',['Step',['../classNoteSpeedScale.html#a7d708a1dc60d2f4c6f6bba7425344080',1,'NoteSpeedScale']]],
   ['subdivision_64',['subdivision',['../classChartEditorSettings.html#a7377897a316b81a9086c079abb3e94a9',1,'ChartEditorSettings']]]
 ];

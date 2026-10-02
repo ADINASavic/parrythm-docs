@@ -99,6 +99,7 @@ $(document).ready(function(){initNavTree('classRatingService.html',''); initResi
   <div class="summary">
 <a href="#pub-static-methods">정적 Public 멤버 함수</a> &#124;
 <a href="#pub-static-attribs">정적 Public 속성</a> &#124;
+<a href="#properties">속성</a> &#124;
 <a href="classRatingService-members.html">모든 멤버 목록</a>  </div>
   <div class="headertitle"><div class="title">RatingService 클래스 참조</div></div>
 </div><!--header-->
@@ -113,7 +114,7 @@ $(document).ready(function(){initNavTree('classRatingService.html',''); initResi
 <tr class="memdesc:aa08de3267e652feb395251c99c27c2c4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Per-chart rating (see class summary for the curve): 0 below 80%, level × Entry(acc) up to 95%, level + Bonus(acc) above.  <br /></td></tr>
 <tr class="separator:aa08de3267e652feb395251c99c27c2c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab9fe02fa1996bcb3df8bf42d9d72454d" id="r_ab9fe02fa1996bcb3df8bf42d9d72454d"><td class="memItemLeft" align="right" valign="top">static List&lt; <a class="el" href="structRatingEntry.html">RatingEntry</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRatingService.html#ab9fe02fa1996bcb3df8bf42d9d72454d">GetAllPlayedEntries</a> ()</td></tr>
-<tr class="memdesc:ab9fe02fa1996bcb3df8bf42d9d72454d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Every played chart (best score &gt; 0) as a rating entry, sorted highest rating first.  <br /></td></tr>
+<tr class="memdesc:ab9fe02fa1996bcb3df8bf42d9d72454d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Online: all server bests joined with the registry. Offline: local played charts.  <br /></td></tr>
 <tr class="separator:ab9fe02fa1996bcb3df8bf42d9d72454d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad437e0dc7386eebeb74df485e199eb2b" id="r_ad437e0dc7386eebeb74df485e199eb2b"><td class="memItemLeft" align="right" valign="top">static List&lt; <a class="el" href="structRatingEntry.html">RatingEntry</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRatingService.html#ad437e0dc7386eebeb74df485e199eb2b">GetBestEntries</a> (int count=<a class="el" href="classRatingService.html#a12aa0257cc68ff740102f29143a1b96e">BestCount</a>)</td></tr>
 <tr class="memdesc:ad437e0dc7386eebeb74df485e199eb2b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Top <em>count</em>  rating entries (Best 15 by default).  <br /></td></tr>
@@ -131,15 +132,16 @@ $(document).ready(function(){initNavTree('classRatingService.html',''); initResi
 <tr class="separator:a12aa0257cc68ff740102f29143a1b96e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad40b2498feceacb093247ba6099335f6" id="r_ad40b2498feceacb093247ba6099335f6"><td class="memItemLeft" align="right" valign="top">const int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRatingService.html#ad40b2498feceacb093247ba6099335f6">MaxScore</a> = 100000</td></tr>
 <tr class="separator:ad40b2498feceacb093247ba6099335f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="properties" name="properties"></a>
+속성</h2></td></tr>
+<tr class="memitem:ad13cad9198929f72194cdab0292624a9" id="r_ad13cad9198929f72194cdab0292624a9"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRatingService.html#ad13cad9198929f72194cdab0292624a9">IsReady</a><code> [get]</code></td></tr>
+<tr class="separator:ad13cad9198929f72194cdab0292624a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">상세한 설명</h2>
 <div class="textblock"><p>Player rating = average of the Best 15 chart ratings (missing slots count as 0). </p>
 <p>Per-chart rating is piecewise linear over acc = score / 1,000 (percent): acc 80 or below → 0 acc 80 ~ 95 → level × g(acc), g: 85→0.20, 90→0.50, 92.5→0.70, 95→1.00 acc 95 ~ 100 → level + mod(acc), mod: 97→+1.5, 99→+2.5 (S, cap), 100→+2.6 (AP) So 95% == the chart's level ("적정"), and the bonus above it is level-independent.</p>
-<p>Data source is the player's verified best scores:</p><ul>
-<li><a class="el" href="classSongScanner.html">SongScanner</a> supplies every chart's level + chartHash.</li>
-<li><a class="el" href="classLocalScoreSaveService.html">LocalScoreSaveService</a> supplies the best score per chartHash for the current <a class="el" href="classSaveIdentity.html">SaveIdentity</a>. Auto-play runs are excluded at save time in ResultsUI (best score / leaderboard upload only happen when AutoPlay is OFF), so every score feeding the rating is the same verified data that is pushed to the Steam leaderboard.</li>
-</ul>
-<p>Only Ranked charts (server registry) count toward the rating; others keep local records but are excluded here (see <a class="el" href="classChartRegistryService.html">ChartRegistryService</a>). </p>
+<p>Online ratings combine server scores with the client's registry, including uninstalled charts. Offline ratings retain the existing local score and scanned-chart fallback. </p>
 </div><h2 class="groupheader">멤버 함수 문서화</h2>
 <a id="aa08de3267e652feb395251c99c27c2c4" name="aa08de3267e652feb395251c99c27c2c4"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#aa08de3267e652feb395251c99c27c2c4">&#9670;&#160;</a></span>ComputeChartRating()</h2>
@@ -182,7 +184,7 @@ $(document).ready(function(){initNavTree('classRatingService.html',''); initResi
 <div class="center"><img src="classRatingService_aa08de3267e652feb395251c99c27c2c4_icgraph.png" border="0" usemap="#aclassRatingService_aa08de3267e652feb395251c99c27c2c4_icgraph" alt=""/></div>
 <map name="aclassRatingService_aa08de3267e652feb395251c99c27c2c4_icgraph" id="aclassRatingService_aa08de3267e652feb395251c99c27c2c4_icgraph">
 <area shape="rect" title="Per&#45;chart rating (see class summary for the curve): 0 below 80%, level × Entry(acc) up to 95%,..." alt="" coords="1343,131,1553,171"/>
-<area shape="rect" href="classRatingService.html#ab9fe02fa1996bcb3df8bf42d9d72454d" title="Every played chart (best score &gt; 0) as a rating entry, sorted highest rating first." alt="" coords="1095,102,1295,142"/>
+<area shape="rect" href="classRatingService.html#ab9fe02fa1996bcb3df8bf42d9d72454d" title="Online: all server bests joined with the registry. Offline: local played charts." alt="" coords="1095,102,1295,142"/>
 <area shape="poly" title=" " alt="" coords="1329,140,1295,136,1295,131,1329,135"/>
 <area shape="rect" href="classResultScreenController.html#ac885d36206adfeb4ab8e5ad00d786d15" title=" " alt="" coords="285,113,495,153"/>
 <area shape="poly" title=" " alt="" coords="1329,156,1295,157,1095,157,766,149,495,140,495,134,766,144,1095,151,1295,151,1329,151"/>
@@ -228,24 +230,26 @@ $(document).ready(function(){initNavTree('classRatingService.html',''); initResi
 </table>
 </div><div class="memdoc">
 
-<p>Every played chart (best score &gt; 0) as a rating entry, sorted highest rating first. </p>
+<p>Online: all server bests joined with the registry. Offline: local played charts. </p>
 <div class="dynheader">
 이 함수 내부에서 호출하는 함수들에 대한 그래프입니다.:</div>
 <div class="dyncontent">
 <div class="center"><img src="classRatingService_ab9fe02fa1996bcb3df8bf42d9d72454d_cgraph.png" border="0" usemap="#aclassRatingService_ab9fe02fa1996bcb3df8bf42d9d72454d_cgraph" alt=""/></div>
 <map name="aclassRatingService_ab9fe02fa1996bcb3df8bf42d9d72454d_cgraph" id="aclassRatingService_ab9fe02fa1996bcb3df8bf42d9d72454d_cgraph">
-<area shape="rect" title="Every played chart (best score &gt; 0) as a rating entry, sorted highest rating first." alt="" coords="5,125,205,165"/>
-<area shape="rect" href="classRatingService.html#aa08de3267e652feb395251c99c27c2c4" title="Per&#45;chart rating (see class summary for the curve): 0 below 80%, level × Entry(acc) up to 95%,..." alt="" coords="255,5,466,45"/>
-<area shape="poly" title=" " alt="" coords="134,123,188,89,252,55,271,48,273,52,254,60,190,93,137,127"/>
-<area shape="rect" href="classLocalScoreSaveService.html#a55f704f0060305a1e1cfff737df74ccf" title=" " alt="" coords="261,93,460,133"/>
-<area shape="poly" title=" " alt="" coords="205,130,247,125,248,130,206,135"/>
-<area shape="rect" href="classChartRegistryService.html#a5c08ea9cba9e90803d9a439e4efa36f1" title=" " alt="" coords="253,157,468,197"/>
-<area shape="poly" title=" " alt="" coords="206,155,240,160,239,165,205,160"/>
-<area shape="rect" href="classSongScanner.html#abc765422ac2b4142ede50a0641cfeb2b" title=" " alt="" coords="282,222,439,247"/>
-<area shape="poly" title=" " alt="" coords="149,163,199,186,254,207,285,216,284,221,252,212,197,190,147,168"/>
-<area shape="poly" title=" " alt="" coords="314,94,311,84,318,74,335,69,361,67,390,70,406,77,404,82,389,75,361,72,336,74,321,79,316,85,319,92"/>
-<area shape="rect" href="classLocalScoreSaveService.html#a36f373f8b6b5b0bd1ff2ade5d75cabaa" title=" " alt="" coords="516,101,723,126"/>
-<area shape="poly" title=" " alt="" coords="460,111,502,111,502,116,460,116"/>
+<area shape="rect" title="Online: all server bests joined with the registry. Offline: local played charts." alt="" coords="5,143,205,183"/>
+<area shape="rect" href="structPlayIdentity.html#a15d2eceaa2670f0ccd4d1cc846133e41" title=" " alt="" coords="284,5,437,31"/>
+<area shape="poly" title=" " alt="" coords="124,141,178,91,214,64,252,41,273,32,275,37,255,46,217,68,181,95,127,145"/>
+<area shape="rect" href="classRatingService.html#aa08de3267e652feb395251c99c27c2c4" title="Per&#45;chart rating (see class summary for the curve): 0 below 80%, level × Entry(acc) up to 95%,..." alt="" coords="255,55,466,95"/>
+<area shape="poly" title=" " alt="" coords="156,141,252,105,277,97,278,102,254,110,158,146"/>
+<area shape="rect" href="classLocalScoreSaveService.html#a55f704f0060305a1e1cfff737df74ccf" title=" " alt="" coords="261,143,460,183"/>
+<area shape="poly" title=" " alt="" coords="205,161,248,161,248,166,205,166"/>
+<area shape="rect" href="classChartRegistryService.html#a5c08ea9cba9e90803d9a439e4efa36f1" title=" " alt="" coords="253,207,468,247"/>
+<area shape="poly" title=" " alt="" coords="187,181,268,201,266,207,185,186"/>
+<area shape="rect" href="classSongScanner.html#abc765422ac2b4142ede50a0641cfeb2b" title=" " alt="" coords="282,272,439,297"/>
+<area shape="poly" title=" " alt="" coords="133,181,187,220,254,257,279,266,277,271,252,262,184,224,130,186"/>
+<area shape="poly" title=" " alt="" coords="314,144,311,134,318,124,335,119,361,117,390,120,406,127,404,132,389,125,361,122,336,124,321,129,316,135,319,142"/>
+<area shape="rect" href="classLocalScoreSaveService.html#a36f373f8b6b5b0bd1ff2ade5d75cabaa" title=" " alt="" coords="516,151,723,176"/>
+<area shape="poly" title=" " alt="" coords="460,161,502,161,502,166,460,166"/>
 </map>
 </div>
 <div class="dynheader">
@@ -253,7 +257,7 @@ $(document).ready(function(){initNavTree('classRatingService.html',''); initResi
 <div class="dyncontent">
 <div class="center"><img src="classRatingService_ab9fe02fa1996bcb3df8bf42d9d72454d_icgraph.png" border="0" usemap="#aclassRatingService_ab9fe02fa1996bcb3df8bf42d9d72454d_icgraph" alt=""/></div>
 <map name="aclassRatingService_ab9fe02fa1996bcb3df8bf42d9d72454d_icgraph" id="aclassRatingService_ab9fe02fa1996bcb3df8bf42d9d72454d_icgraph">
-<area shape="rect" title="Every played chart (best score &gt; 0) as a rating entry, sorted highest rating first." alt="" coords="1095,87,1295,127"/>
+<area shape="rect" title="Online: all server bests joined with the registry. Offline: local played charts." alt="" coords="1095,87,1295,127"/>
 <area shape="rect" href="classRatingService.html#ad437e0dc7386eebeb74df485e199eb2b" title="Top count &#160;rating entries (Best 15 by default)." alt="" coords="833,95,1047,120"/>
 <area shape="poly" title=" " alt="" coords="1081,110,1047,110,1047,105,1081,105"/>
 <area shape="rect" href="classRatingService.html#afbc8b2657b7d513c8b1fb88ffb74372d" title="The player rating: average of the Best 15 chart ratings (missing slots count as 0)." alt="" coords="563,69,785,95"/>
@@ -304,20 +308,22 @@ $(document).ready(function(){initNavTree('classRatingService.html',''); initResi
 <div class="dyncontent">
 <div class="center"><img src="classRatingService_ad437e0dc7386eebeb74df485e199eb2b_cgraph.png" border="0" usemap="#aclassRatingService_ad437e0dc7386eebeb74df485e199eb2b_cgraph" alt=""/></div>
 <map name="aclassRatingService_ad437e0dc7386eebeb74df485e199eb2b_cgraph" id="aclassRatingService_ad437e0dc7386eebeb74df485e199eb2b_cgraph">
-<area shape="rect" title="Top count &#160;rating entries (Best 15 by default)." alt="" coords="5,133,219,158"/>
-<area shape="rect" href="classRatingService.html#ab9fe02fa1996bcb3df8bf42d9d72454d" title="Every played chart (best score &gt; 0) as a rating entry, sorted highest rating first." alt="" coords="267,125,467,165"/>
-<area shape="poly" title=" " alt="" coords="219,143,253,143,253,148,219,148"/>
-<area shape="rect" href="classRatingService.html#aa08de3267e652feb395251c99c27c2c4" title="Per&#45;chart rating (see class summary for the curve): 0 below 80%, level × Entry(acc) up to 95%,..." alt="" coords="517,5,727,45"/>
-<area shape="poly" title=" " alt="" coords="395,123,449,89,514,55,532,48,534,52,516,60,452,93,398,127"/>
-<area shape="rect" href="classLocalScoreSaveService.html#a55f704f0060305a1e1cfff737df74ccf" title=" " alt="" coords="523,93,721,133"/>
-<area shape="poly" title=" " alt="" coords="466,130,509,125,509,130,467,135"/>
-<area shape="rect" href="classChartRegistryService.html#a5c08ea9cba9e90803d9a439e4efa36f1" title=" " alt="" coords="515,157,729,197"/>
-<area shape="poly" title=" " alt="" coords="467,155,501,160,501,165,466,160"/>
-<area shape="rect" href="classSongScanner.html#abc765422ac2b4142ede50a0641cfeb2b" title=" " alt="" coords="543,222,701,247"/>
-<area shape="poly" title=" " alt="" coords="410,163,460,186,516,207,547,216,545,221,514,212,458,190,408,168"/>
-<area shape="poly" title=" " alt="" coords="575,94,572,84,580,74,596,69,622,67,651,70,667,77,665,82,650,75,622,72,597,74,583,79,577,85,580,92"/>
-<area shape="rect" href="classLocalScoreSaveService.html#a36f373f8b6b5b0bd1ff2ade5d75cabaa" title=" " alt="" coords="777,101,984,126"/>
-<area shape="poly" title=" " alt="" coords="722,111,764,111,764,116,722,116"/>
+<area shape="rect" title="Top count &#160;rating entries (Best 15 by default)." alt="" coords="5,151,219,176"/>
+<area shape="rect" href="classRatingService.html#ab9fe02fa1996bcb3df8bf42d9d72454d" title="Online: all server bests joined with the registry. Offline: local played charts." alt="" coords="267,143,467,183"/>
+<area shape="poly" title=" " alt="" coords="219,161,253,161,253,166,219,166"/>
+<area shape="rect" href="structPlayIdentity.html#a15d2eceaa2670f0ccd4d1cc846133e41" title=" " alt="" coords="545,5,699,31"/>
+<area shape="poly" title=" " alt="" coords="385,141,439,91,475,64,513,41,534,32,536,37,516,46,478,68,443,95,389,145"/>
+<area shape="rect" href="classRatingService.html#aa08de3267e652feb395251c99c27c2c4" title="Per&#45;chart rating (see class summary for the curve): 0 below 80%, level × Entry(acc) up to 95%,..." alt="" coords="517,55,727,95"/>
+<area shape="poly" title=" " alt="" coords="417,141,514,105,538,97,540,102,516,110,419,146"/>
+<area shape="rect" href="classLocalScoreSaveService.html#a55f704f0060305a1e1cfff737df74ccf" title=" " alt="" coords="523,143,721,183"/>
+<area shape="poly" title=" " alt="" coords="467,161,509,161,509,166,467,166"/>
+<area shape="rect" href="classChartRegistryService.html#a5c08ea9cba9e90803d9a439e4efa36f1" title=" " alt="" coords="515,207,729,247"/>
+<area shape="poly" title=" " alt="" coords="448,181,529,201,528,207,447,186"/>
+<area shape="rect" href="classSongScanner.html#abc765422ac2b4142ede50a0641cfeb2b" title=" " alt="" coords="543,272,701,297"/>
+<area shape="poly" title=" " alt="" coords="394,181,448,220,516,257,540,266,538,271,514,262,446,224,391,186"/>
+<area shape="poly" title=" " alt="" coords="575,144,572,134,580,124,596,119,622,117,651,120,667,127,665,132,650,125,622,122,597,124,583,129,577,135,580,142"/>
+<area shape="rect" href="classLocalScoreSaveService.html#a36f373f8b6b5b0bd1ff2ade5d75cabaa" title=" " alt="" coords="777,151,984,176"/>
+<area shape="poly" title=" " alt="" coords="722,161,764,161,764,166,722,166"/>
 </map>
 </div>
 <div class="dynheader">
@@ -374,22 +380,24 @@ $(document).ready(function(){initNavTree('classRatingService.html',''); initResi
 <div class="dyncontent">
 <div class="center"><img src="classRatingService_afbc8b2657b7d513c8b1fb88ffb74372d_cgraph.png" border="0" usemap="#aclassRatingService_afbc8b2657b7d513c8b1fb88ffb74372d_cgraph" alt=""/></div>
 <map name="aclassRatingService_afbc8b2657b7d513c8b1fb88ffb74372d_cgraph" id="aclassRatingService_afbc8b2657b7d513c8b1fb88ffb74372d_cgraph">
-<area shape="rect" title="The player rating: average of the Best 15 chart ratings (missing slots count as 0)." alt="" coords="5,133,228,158"/>
-<area shape="rect" href="classRatingService.html#ad437e0dc7386eebeb74df485e199eb2b" title="Top count &#160;rating entries (Best 15 by default)." alt="" coords="276,133,489,158"/>
-<area shape="poly" title=" " alt="" coords="228,143,262,143,262,148,228,148"/>
-<area shape="rect" href="classRatingService.html#ab9fe02fa1996bcb3df8bf42d9d72454d" title="Every played chart (best score &gt; 0) as a rating entry, sorted highest rating first." alt="" coords="537,125,737,165"/>
-<area shape="poly" title=" " alt="" coords="489,143,523,143,523,148,489,148"/>
-<area shape="rect" href="classRatingService.html#aa08de3267e652feb395251c99c27c2c4" title="Per&#45;chart rating (see class summary for the curve): 0 below 80%, level × Entry(acc) up to 95%,..." alt="" coords="787,5,998,45"/>
-<area shape="poly" title=" " alt="" coords="666,123,720,89,784,55,803,48,805,52,786,60,722,93,669,127"/>
-<area shape="rect" href="classLocalScoreSaveService.html#a55f704f0060305a1e1cfff737df74ccf" title=" " alt="" coords="793,93,992,133"/>
-<area shape="poly" title=" " alt="" coords="737,130,779,125,780,130,738,135"/>
-<area shape="rect" href="classChartRegistryService.html#a5c08ea9cba9e90803d9a439e4efa36f1" title=" " alt="" coords="785,157,1000,197"/>
-<area shape="poly" title=" " alt="" coords="738,155,772,160,771,165,737,160"/>
-<area shape="rect" href="classSongScanner.html#abc765422ac2b4142ede50a0641cfeb2b" title=" " alt="" coords="814,222,971,247"/>
-<area shape="poly" title=" " alt="" coords="681,163,731,186,786,207,817,216,816,221,784,212,729,190,679,168"/>
-<area shape="poly" title=" " alt="" coords="846,94,843,84,850,74,867,69,893,67,922,70,938,77,936,82,921,75,893,72,868,74,853,79,848,85,851,92"/>
-<area shape="rect" href="classLocalScoreSaveService.html#a36f373f8b6b5b0bd1ff2ade5d75cabaa" title=" " alt="" coords="1048,101,1255,126"/>
-<area shape="poly" title=" " alt="" coords="992,111,1034,111,1034,116,992,116"/>
+<area shape="rect" title="The player rating: average of the Best 15 chart ratings (missing slots count as 0)." alt="" coords="5,151,228,176"/>
+<area shape="rect" href="classRatingService.html#ad437e0dc7386eebeb74df485e199eb2b" title="Top count &#160;rating entries (Best 15 by default)." alt="" coords="276,151,489,176"/>
+<area shape="poly" title=" " alt="" coords="228,161,262,161,262,166,228,166"/>
+<area shape="rect" href="classRatingService.html#ab9fe02fa1996bcb3df8bf42d9d72454d" title="Online: all server bests joined with the registry. Offline: local played charts." alt="" coords="537,143,737,183"/>
+<area shape="poly" title=" " alt="" coords="489,161,523,161,523,166,489,166"/>
+<area shape="rect" href="structPlayIdentity.html#a15d2eceaa2670f0ccd4d1cc846133e41" title=" " alt="" coords="816,5,969,31"/>
+<area shape="poly" title=" " alt="" coords="656,141,710,91,746,64,784,41,805,32,807,37,787,46,749,68,713,95,659,145"/>
+<area shape="rect" href="classRatingService.html#aa08de3267e652feb395251c99c27c2c4" title="Per&#45;chart rating (see class summary for the curve): 0 below 80%, level × Entry(acc) up to 95%,..." alt="" coords="787,55,998,95"/>
+<area shape="poly" title=" " alt="" coords="688,141,784,105,809,97,810,102,786,110,690,146"/>
+<area shape="rect" href="classLocalScoreSaveService.html#a55f704f0060305a1e1cfff737df74ccf" title=" " alt="" coords="793,143,992,183"/>
+<area shape="poly" title=" " alt="" coords="737,161,780,161,780,166,737,166"/>
+<area shape="rect" href="classChartRegistryService.html#a5c08ea9cba9e90803d9a439e4efa36f1" title=" " alt="" coords="785,207,1000,247"/>
+<area shape="poly" title=" " alt="" coords="719,181,800,201,798,207,717,186"/>
+<area shape="rect" href="classSongScanner.html#abc765422ac2b4142ede50a0641cfeb2b" title=" " alt="" coords="814,272,971,297"/>
+<area shape="poly" title=" " alt="" coords="665,181,719,220,786,257,811,266,809,271,784,262,716,224,662,186"/>
+<area shape="poly" title=" " alt="" coords="846,144,843,134,850,124,867,119,893,117,922,120,938,127,936,132,921,125,893,122,868,124,853,129,848,135,851,142"/>
+<area shape="rect" href="classLocalScoreSaveService.html#a36f373f8b6b5b0bd1ff2ade5d75cabaa" title=" " alt="" coords="1048,151,1255,176"/>
+<area shape="poly" title=" " alt="" coords="992,161,1034,161,1034,166,992,166"/>
 </map>
 </div>
 <div class="dynheader">
@@ -443,24 +451,26 @@ $(document).ready(function(){initNavTree('classRatingService.html',''); initResi
 <div class="dyncontent">
 <div class="center"><img src="classRatingService_ae00db2d668daea40319120278a7c7bc0_cgraph.png" border="0" usemap="#aclassRatingService_ae00db2d668daea40319120278a7c7bc0_cgraph" alt=""/></div>
 <map name="aclassRatingService_ae00db2d668daea40319120278a7c7bc0_cgraph" id="aclassRatingService_ae00db2d668daea40319120278a7c7bc0_cgraph">
-<area shape="rect" title="Player rating formatted for UI, e.g. &quot;42.37&quot;." alt="" coords="5,133,255,158"/>
-<area shape="rect" href="classRatingService.html#afbc8b2657b7d513c8b1fb88ffb74372d" title="The player rating: average of the Best 15 chart ratings (missing slots count as 0)." alt="" coords="303,133,525,158"/>
-<area shape="poly" title=" " alt="" coords="255,143,289,143,289,148,255,148"/>
-<area shape="rect" href="classRatingService.html#ad437e0dc7386eebeb74df485e199eb2b" title="Top count &#160;rating entries (Best 15 by default)." alt="" coords="573,133,787,158"/>
-<area shape="poly" title=" " alt="" coords="525,143,560,143,560,148,525,148"/>
-<area shape="rect" href="classRatingService.html#ab9fe02fa1996bcb3df8bf42d9d72454d" title="Every played chart (best score &gt; 0) as a rating entry, sorted highest rating first." alt="" coords="835,125,1035,165"/>
-<area shape="poly" title=" " alt="" coords="787,143,821,143,821,148,787,148"/>
-<area shape="rect" href="classRatingService.html#aa08de3267e652feb395251c99c27c2c4" title="Per&#45;chart rating (see class summary for the curve): 0 below 80%, level × Entry(acc) up to 95%,..." alt="" coords="1085,5,1295,45"/>
-<area shape="poly" title=" " alt="" coords="963,123,1017,89,1082,55,1100,48,1102,52,1084,60,1020,93,966,127"/>
-<area shape="rect" href="classLocalScoreSaveService.html#a55f704f0060305a1e1cfff737df74ccf" title=" " alt="" coords="1091,93,1289,133"/>
-<area shape="poly" title=" " alt="" coords="1034,130,1077,125,1077,130,1035,135"/>
-<area shape="rect" href="classChartRegistryService.html#a5c08ea9cba9e90803d9a439e4efa36f1" title=" " alt="" coords="1083,157,1297,197"/>
-<area shape="poly" title=" " alt="" coords="1035,155,1069,160,1069,165,1034,160"/>
-<area shape="rect" href="classSongScanner.html#abc765422ac2b4142ede50a0641cfeb2b" title=" " alt="" coords="1111,222,1269,247"/>
-<area shape="poly" title=" " alt="" coords="978,163,1028,186,1084,207,1115,216,1113,221,1082,212,1026,190,976,168"/>
-<area shape="poly" title=" " alt="" coords="1143,94,1140,84,1148,74,1164,69,1190,67,1219,70,1235,77,1233,82,1218,75,1190,72,1165,74,1151,79,1145,85,1148,92"/>
-<area shape="rect" href="classLocalScoreSaveService.html#a36f373f8b6b5b0bd1ff2ade5d75cabaa" title=" " alt="" coords="1345,101,1552,126"/>
-<area shape="poly" title=" " alt="" coords="1290,111,1332,111,1332,116,1290,116"/>
+<area shape="rect" title="Player rating formatted for UI, e.g. &quot;42.37&quot;." alt="" coords="5,151,255,176"/>
+<area shape="rect" href="classRatingService.html#afbc8b2657b7d513c8b1fb88ffb74372d" title="The player rating: average of the Best 15 chart ratings (missing slots count as 0)." alt="" coords="303,151,525,176"/>
+<area shape="poly" title=" " alt="" coords="255,161,289,161,289,166,255,166"/>
+<area shape="rect" href="classRatingService.html#ad437e0dc7386eebeb74df485e199eb2b" title="Top count &#160;rating entries (Best 15 by default)." alt="" coords="573,151,787,176"/>
+<area shape="poly" title=" " alt="" coords="525,161,560,161,560,166,525,166"/>
+<area shape="rect" href="classRatingService.html#ab9fe02fa1996bcb3df8bf42d9d72454d" title="Online: all server bests joined with the registry. Offline: local played charts." alt="" coords="835,143,1035,183"/>
+<area shape="poly" title=" " alt="" coords="787,161,821,161,821,166,787,166"/>
+<area shape="rect" href="structPlayIdentity.html#a15d2eceaa2670f0ccd4d1cc846133e41" title=" " alt="" coords="1113,5,1267,31"/>
+<area shape="poly" title=" " alt="" coords="953,141,1007,91,1043,64,1081,41,1102,32,1104,37,1084,46,1046,68,1011,95,957,145"/>
+<area shape="rect" href="classRatingService.html#aa08de3267e652feb395251c99c27c2c4" title="Per&#45;chart rating (see class summary for the curve): 0 below 80%, level × Entry(acc) up to 95%,..." alt="" coords="1085,55,1295,95"/>
+<area shape="poly" title=" " alt="" coords="985,141,1082,105,1106,97,1108,102,1084,110,987,146"/>
+<area shape="rect" href="classLocalScoreSaveService.html#a55f704f0060305a1e1cfff737df74ccf" title=" " alt="" coords="1091,143,1289,183"/>
+<area shape="poly" title=" " alt="" coords="1035,161,1077,161,1077,166,1035,166"/>
+<area shape="rect" href="classChartRegistryService.html#a5c08ea9cba9e90803d9a439e4efa36f1" title=" " alt="" coords="1083,207,1297,247"/>
+<area shape="poly" title=" " alt="" coords="1016,181,1097,201,1096,207,1015,186"/>
+<area shape="rect" href="classSongScanner.html#abc765422ac2b4142ede50a0641cfeb2b" title=" " alt="" coords="1111,272,1269,297"/>
+<area shape="poly" title=" " alt="" coords="962,181,1016,220,1084,257,1108,266,1106,271,1082,262,1014,224,959,186"/>
+<area shape="poly" title=" " alt="" coords="1143,144,1140,134,1148,124,1164,119,1190,117,1219,120,1235,127,1233,132,1218,125,1190,122,1165,124,1151,129,1145,135,1148,142"/>
+<area shape="rect" href="classLocalScoreSaveService.html#a36f373f8b6b5b0bd1ff2ade5d75cabaa" title=" " alt="" coords="1345,151,1552,176"/>
+<area shape="poly" title=" " alt="" coords="1290,161,1332,161,1332,166,1290,166"/>
 </map>
 </div>
 <div class="dynheader">
@@ -517,6 +527,29 @@ $(document).ready(function(){initNavTree('classRatingService.html',''); initResi
   </td>
   <td class="mlabels-right">
 <span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">속성 문서화</h2>
+<a id="ad13cad9198929f72194cdab0292624a9" name="ad13cad9198929f72194cdab0292624a9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad13cad9198929f72194cdab0292624a9">&#9670;&#160;</a></span>IsReady</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool RatingService.IsReady</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">get</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">

@@ -1,5 +1,9 @@
 var NAVTREEINDEX3 =
 {
+"classDifficultyColorPalette.html#a4221115dbd9a1bf9e21bd77a7c8d1e3f":[1,0,39,1],
+"classDifficultyColorPalette.html#a4abb5c6234fefc577f4858c141bc4365":[1,0,39,3],
+"classDifficultyColorPalette.html#ad3263234dbf14b78a2cef8426e4911c4":[1,0,39,0],
+"classDifficultyInfo.html":[1,0,40],
 "classDifficultyInfo.html#a28586d8893eead0cd450ba2a2befaa0d":[1,0,40,6],
 "classDifficultyInfo.html#a29b9878c1c2fc4ca4afaefeee4c2e1b8":[1,0,40,1],
 "classDifficultyInfo.html#a490918cb74a5e61673c48cd3159e5365":[1,0,40,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX3 =
 "classLevelChartData.html#ada812263c42510ed1c0fb9c2eb528a3fabe53a0541a6d36f6ecb879fa2c584b08":[1,0,65,3,7],
 "classLevelChartData.html#ada812263c42510ed1c0fb9c2eb528a3fad7a3fdf1351b72249a47454751549deb":[1,0,65,3,6],
 "classLevelChartData.html#ae1819f5daa744a8d23985a383e48eb4a":[1,0,65,7],
-"classLevelChartData_1_1NoteEvent.html":[1,0,65,0],
-"classLevelChartData_1_1NoteEvent.html#a031fbbda2fcf66d7a7059b567efdb5d2":[1,0,65,0,57],
-"classLevelChartData_1_1NoteEvent.html#a037eba1ea96cebff201d77b6ba3d4468":[1,0,65,0,44],
-"classLevelChartData_1_1NoteEvent.html#a066674f21905ba11ec45b408b9b64f8c":[1,0,65,0,13],
-"classLevelChartData_1_1NoteEvent.html#a07ac3adf9cdf907f178d4a454ea892e5":[1,0,65,0,52]
+"classLevelChartData_1_1NoteEvent.html":[1,0,65,0]
 };

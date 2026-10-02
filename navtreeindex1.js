@@ -1,5 +1,6 @@
 var NAVTREEINDEX1 =
 {
+"classBulletNoteHandler.html#a4fb76d2c9269da33a9d2c3a8dd803cca":[1,0,10,0],
 "classBulletNoteHandler.html#aa05d93c9af8709c43a8813b52ac5f090":[1,0,10,2],
 "classBulletNoteHandler.html#ad40706410268056f3a395b2e50fbb299":[1,0,10,1],
 "classBulletPlacement.html":[1,0,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX1 =
 "classChartHashUtility.html#a6ee83861edf78778d37226b73949d4f4":[1,0,26,1],
 "classChartHashUtility.html#ac291a077d994498ee96230dc421c72bd":[1,0,26,0],
 "classChartImporter.html":[1,0,27],
-"classChartImporter.html#a9c884d3b9f6ae878ee4a9c0d30e9b080":[1,0,27,0],
-"classChartPlayer.html":[1,0,28]
+"classChartImporter.html#a9c884d3b9f6ae878ee4a9c0d30e9b080":[1,0,27,0]
 };

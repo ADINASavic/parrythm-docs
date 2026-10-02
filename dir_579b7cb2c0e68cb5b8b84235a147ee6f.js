@@ -9,6 +9,7 @@ var dir_579b7cb2c0e68cb5b8b84235a147ee6f =
     [ "DifficultyColorPalette.cs", "DifficultyColorPalette_8cs.html", "DifficultyColorPalette_8cs" ],
     [ "Mods.cs", "Mods_8cs.html", "Mods_8cs" ],
     [ "Mp3GaplessTag.cs", "Mp3GaplessTag_8cs.html", "Mp3GaplessTag_8cs" ],
+    [ "PlayerProfileService.cs", "PlayerProfileService_8cs.html", "PlayerProfileService_8cs" ],
     [ "PlaySessionService.cs", "PlaySessionService_8cs.html", "PlaySessionService_8cs" ],
     [ "RatingLabel.cs", "RatingLabel_8cs.html", "RatingLabel_8cs" ],
     [ "RatingService.cs", "RatingService_8cs.html", "RatingService_8cs" ],

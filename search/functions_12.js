@@ -23,11 +23,12 @@ var searchData=
   ['triggerend_20',['triggerend',['../classChartEndWatcher.html#a86c9c6b91e78f3e73494e3120dfa9c0b',1,'ChartEndWatcher.TriggerEnd()'],['../interfaceIStageEndTrigger.html#a8939f3f185c8e502b8e83274b3e2b215',1,'IStageEndTrigger.TriggerEnd()']]],
   ['tryabstocell_21',['TryAbsToCell',['../classChartEditorNotes.html#adbf6b704ccd85d1ea1577f81d5b980f0',1,'ChartEditorNotes']]],
   ['tryconsumeat_22',['tryconsumeat',['../classNotes_1_1Lane_1_1LaneRouter.html#aa0642eaacc1614ad67034b396923db4c',1,'Notes.Lane.LaneRouter.TryConsumeAt()'],['../classNotes_1_1Square_1_1SquareNoteJudge.html#a6fdb2cbd43213dbf4a510cd2aa010e44',1,'Notes.Square.SquareNoteJudge.TryConsumeAt()']]],
-  ['tryconsumebyrouter_23',['tryconsumebyrouter',['../classCircleNote.html#a9fb6f046faa002caa24903cf1d0bfb68',1,'CircleNote.TryConsumeByRouter(Vector3 worldPos, float now)'],['../classCircleNote.html#ab00ba6a2b08806b61badfbadad0160b0',1,'CircleNote.TryConsumeByRouter(Vector3 worldPos, float now, out NoteResult result, out float timingOffsetSec)'],['../classCircleNote.html#ab85d3df48d4361c84e8d8c99005dfdf2',1,'CircleNote.TryConsumeByRouter(Vector3 worldPos, float now, out NoteResult result)']]],
+  ['tryconsumebyrouter_23',['tryconsumebyrouter',['../classCircleNote.html#ab85d3df48d4361c84e8d8c99005dfdf2',1,'CircleNote.TryConsumeByRouter(Vector3 worldPos, float now, out NoteResult result)'],['../classCircleNote.html#ab00ba6a2b08806b61badfbadad0160b0',1,'CircleNote.TryConsumeByRouter(Vector3 worldPos, float now, out NoteResult result, out float timingOffsetSec)'],['../classCircleNote.html#a9fb6f046faa002caa24903cf1d0bfb68',1,'CircleNote.TryConsumeByRouter(Vector3 worldPos, float now)']]],
   ['trygetlastdowntime_24',['trygetlastdowntime',['../classKeyboardInputManager.html#a319791fff2732c8d89d0d81a196050ea',1,'KeyboardInputManager.TryGetLastDownTime()'],['../classNotes_1_1Lane_1_1LaneOccupancyProvider.html#aec9e7acb94b0c0923b806fb9d81d5077',1,'Notes.Lane.LaneOccupancyProvider.TryGetLastDownTime()']]],
-  ['trypop_25',['TryPop',['../classChartTimelineRuntime.html#a442810325bd46d68737e859ab90d94bb',1,'ChartTimelineRuntime']]],
-  ['trystartfromrouter_26',['TryStartFromRouter',['../classSliderNote.html#a65d82b1828370cb7d6a488488e372ae8',1,'SliderNote']]],
-  ['tryupdatebest_27',['TryUpdateBest',['../classLocalScoreSaveService.html#a41cafea20dc5b7c1657158999b0f7a60',1,'LocalScoreSaveService']]],
-  ['tryworldtocell_28',['TryWorldToCell',['../classGridManager.html#a9f0f937734f632e52c4f338b36417bf7',1,'GridManager']]],
-  ['tweento_29',['TweenTo',['../classCameraTweenTrack.html#ad8499530abd2e9dff4b4b089a7196b0f',1,'CameraTweenTrack']]]
+  ['trygetrankedratinglevel_25',['TryGetRankedRatingLevel',['../classChartRegistryService.html#ad90c1fe6647334ca6e07d93c7c2f4a7f',1,'ChartRegistryService']]],
+  ['trypop_26',['TryPop',['../classChartTimelineRuntime.html#a442810325bd46d68737e859ab90d94bb',1,'ChartTimelineRuntime']]],
+  ['trystartfromrouter_27',['TryStartFromRouter',['../classSliderNote.html#a65d82b1828370cb7d6a488488e372ae8',1,'SliderNote']]],
+  ['tryupdatebest_28',['TryUpdateBest',['../classLocalScoreSaveService.html#a41cafea20dc5b7c1657158999b0f7a60',1,'LocalScoreSaveService']]],
+  ['tryworldtocell_29',['TryWorldToCell',['../classGridManager.html#a9f0f937734f632e52c4f338b36417bf7',1,'GridManager']]],
+  ['tweento_30',['TweenTo',['../classCameraTweenTrack.html#ad8499530abd2e9dff4b4b089a7196b0f',1,'CameraTweenTrack']]]
 ];
