@@ -88,7 +88,7 @@
 <area shape="poly" id="edge52_Node000002_Node000047" title=" " alt="" coords="71,1052,72,887,77,770,85,642,99,515,119,399,132,347,148,303,166,266,186,237,210,221,237,212,238,218,212,226,190,241,170,268,153,305,138,349,124,400,104,516,90,643,82,770,78,887,76,1052"/>
 <area shape="rect" id="Node000048" href="$classSongSelectController.html" title="UI Toolkit port of the song&#45;select screen. Uses the real song library (SongScanner),..." alt="" coords="232,252,391,277"/>
 <area shape="poly" id="edge53_Node000002_Node000048" title=" " alt="" coords="71,1052,74,896,88,666,102,547,122,437,150,348,167,313,186,287,207,272,231,263,233,268,209,276,190,291,171,316,155,350,127,439,107,547,93,666,79,896,77,1052"/>
-<area shape="rect" id="Node000049" href="$classTitleScreenController.html" title="UI Toolkit port of the title screen: title → menu (PLAY / SETTINGS / IMPORT / QUIT)...." alt="" coords="232,301,391,327"/>
+<area shape="rect" id="Node000049" href="$classTitleScreenController.html" title="UI Toolkit port of the title screen: title → menu (PLAY / SETTINGS / EDITOR / IMPORT / QUIT)." alt="" coords="232,301,391,327"/>
 <area shape="poly" id="edge54_Node000002_Node000049" title=" " alt="" coords="72,1051,76,904,91,689,105,578,125,476,152,393,168,361,186,336,207,321,231,313,233,318,209,326,190,340,172,363,157,395,130,478,111,579,96,689,81,904,77,1051"/>
 <area shape="rect" id="Node000050" href="$classUnityMusicController.html" title=" " alt="" coords="232,351,391,376"/>
 <area shape="poly" id="edge55_Node000002_Node000050" title=" " alt="" coords="72,1052,77,913,94,713,109,610,128,515,154,438,169,408,186,385,207,371,231,362,232,367,209,375,190,389,173,411,159,440,133,517,114,611,99,713,83,914,77,1052"/>

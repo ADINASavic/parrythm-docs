@@ -52,7 +52,7 @@ var searchData=
   ['pixelwidth_49',['pixelWidth',['../classUITrailGraphic.html#ac23bbcc79cb0e248b38cdefd011b5b43',1,'UITrailGraphic']]],
   ['placeabletypes_50',['PlaceableTypes',['../classChartEditorNotes.html#a3b86d042758d257d1a00beeec52f7714',1,'ChartEditorNotes']]],
   ['placementradius_51',['PlacementRadius',['../classChartEditorNotes.html#a1e650ea3a71bac1829473a37780b4c93',1,'ChartEditorNotes']]],
-  ['placementsnap_52',['placementsnap',['../classChartEditorSettings.html#a615666b26a0a0a63215c454d93190ee9',1,'ChartEditorSettings.PlacementSnap'],['../classChartEditorSettings.html#a0222ce04d842456a8571f8c8b81fcd98',1,'ChartEditorSettings.placementSnap']]],
+  ['placementsnap_52',['placementsnap',['../classChartEditorSettings.html#a0222ce04d842456a8571f8c8b81fcd98',1,'ChartEditorSettings.placementSnap'],['../classChartEditorSettings.html#a615666b26a0a0a63215c454d93190ee9',1,'ChartEditorSettings.PlacementSnap']]],
   ['play_53',['play',['../classChartPlayer.html#a54e09fd6aefdab5abdaa008296422276',1,'ChartPlayer.Play()'],['../classFmodMusicControllerLegacy.html#a6f152320738930582199da1b8877763b',1,'FmodMusicControllerLegacy.Play()'],['../classUnityMusicController.html#a8ae6a6b03a6baa008c7b2fa1efa9521d',1,'UnityMusicController.Play()'],['../classSongPreviewPlayer.html#aa18177497573096e940c63a2cc793184',1,'SongPreviewPlayer.Play()']]],
   ['playablebounds_54',['PlayableBounds',['../classChartEditorNotes.html#a6fe6c399122aacd064b7ec1d4a18e2c8',1,'ChartEditorNotes']]],
   ['playablemaxx_55',['PlayableMaxX',['../classChartEditorNotes.html#a4e6b805cf92373527ca27e2539364fee',1,'ChartEditorNotes']]],

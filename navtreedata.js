@@ -66,7 +66,7 @@ var NAVTREEINDEX =
 "classNotes_1_1Square_1_1SquareNoteJudge.html#a4a419ea8ea8847650bc17419d878d87f",
 "classOutgameNavigator.html#a48169a39896596bcd17f8e6c9c1ffce2",
 "classSaveIdentity.html#a8c79384c37fe309be908221909873df7",
-"dir_ce5794388c18f924349f67b019a4f037.html"
+"dir_cb126342584796571ddcee3de8dd4b8a.html"
 ];
 
 var SYNCONMSG = '패널 동기화를 비활성화하기 위해 클릭하십시오';
