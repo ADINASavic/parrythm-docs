@@ -129,8 +129,9 @@ var NAVTREEINDEX7 =
 "classSongPreviewPlayer.html#ae27d87f16e15c176a39954066848a53b":[1,0,119,3],
 "classSongPreviewPlayer.html#ae82c9c30cce491c477a571550c076249":[1,0,119,0],
 "classSongScanner.html":[1,0,120],
-"classSongScanner.html#a2ed19649ab88618e11bec837b76a97f0":[1,0,120,1],
-"classSongScanner.html#abc765422ac2b4142ede50a0641cfeb2b":[1,0,120,0],
+"classSongScanner.html#a1c86d95327ae61b09137eb71bc6e6f92":[1,0,120,0],
+"classSongScanner.html#a2ed19649ab88618e11bec837b76a97f0":[1,0,120,2],
+"classSongScanner.html#abc765422ac2b4142ede50a0641cfeb2b":[1,0,120,1],
 "classSongSelectController.html":[1,0,121],
 "classSpecialBulletPattern.html":[1,0,122],
 "classSpecialBulletPattern.html#a02f3f19168808b3d0f3f6cd0a294a8e6":[1,0,122,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX7 =
 "dir_873abad44f79f3adeb9a942dcf3467a4.html":[2,0,0,0,7,2],
 "dir_891e7c27d7c0f2bd9760734be822f459.html":[2,0,0,0,6],
 "dir_9ac1b3aab64b76272112d328f2cd5995.html":[2,0,0,0],
-"dir_9d7a45f240f7ee9093e307b8c3e3ccfc.html":[2,0,0,0,4,2],
-"dir_a3deeb59d08beb4b77f34cc987778a93.html":[2,0,0,0,4,0,0]
+"dir_9d7a45f240f7ee9093e307b8c3e3ccfc.html":[2,0,0,0,4,2]
 };
