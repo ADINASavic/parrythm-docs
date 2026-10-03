@@ -1,5 +1,6 @@
 var NAVTREEINDEX6 =
 {
+"classOutgameNavigator.html#a3f51ce71e076e2c2758ca25c784234a5":[1,0,88,1],
 "classOutgameNavigator.html#a48169a39896596bcd17f8e6c9c1ffce2":[1,0,88,3],
 "classOutgameNavigator.html#acb12be33020137473d33de50248dbff2":[1,0,88,0],
 "classOutgameOverlay.html":[1,0,89],
@@ -248,6 +249,5 @@ var NAVTREEINDEX6 =
 "classSaveIdentity.html":[1,0,110],
 "classSaveIdentity.html#a011c688538137e903a2b9ef85d91f1c2":[1,0,110,1],
 "classSaveIdentity.html#a1fb4267f2b0a7b1cf0c75ad5dc7d1136":[1,0,110,4],
-"classSaveIdentity.html#a2259c9bb617400523ea02595318e1e31":[1,0,110,5],
-"classSaveIdentity.html#a7d8bdd2ebaad1159ca16259b3be20648":[1,0,110,2]
+"classSaveIdentity.html#a2259c9bb617400523ea02595318e1e31":[1,0,110,5]
 };

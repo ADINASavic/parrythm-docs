@@ -13,6 +13,7 @@ var classChartEditorSettings =
     [ "snapEnabled", "classChartEditorSettings.html#a2bc7ee9b2ab0c40bae09dfe3bbc295f3", null ],
     [ "subdivision", "classChartEditorSettings.html#a7377897a316b81a9086c079abb3e94a9", null ],
     [ "waveAmpScale", "classChartEditorSettings.html#abdc10df83cde1857714fa885490a88ed", null ],
+    [ "waveformAutoScroll", "classChartEditorSettings.html#af3086df31a00208473cd60ff30be668b", null ],
     [ "CircleLeadSec", "classChartEditorSettings.html#a1f3e8d203752c3792ccf494c27e38786", null ],
     [ "GridGrowPxPerSec", "classChartEditorSettings.html#a970906e603db5e978a88ff5ff3b02a24", null ],
     [ "GridLeadSec", "classChartEditorSettings.html#acdc54782f2d34b26557c340844d417c8", null ],

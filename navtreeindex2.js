@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"classChartImporter.html#a9c884d3b9f6ae878ee4a9c0d30e9b080":[1,0,27,0],
 "classChartPlayer.html":[1,0,28],
 "classChartPlayer.html#a026b1879a5a1cebbab6dd32265b02b90":[1,0,28,19],
 "classChartPlayer.html#a05f25c9446192964d8daf7e7dd3b7d92":[1,0,28,38],
@@ -248,6 +249,5 @@ var NAVTREEINDEX2 =
 "classDeveloperSettings.html#afbd6879afddc215a6dbcca795d1b0567":[1,0,38,25],
 "classDeveloperSettings.html#afc1e679b1ed75c70890a9f5c865d1b2c":[1,0,38,17],
 "classDifficultyColorPalette.html":[1,0,39],
-"classDifficultyColorPalette.html#a0d69e1483e7a75cd94566891dbbea22e":[1,0,39,4],
-"classDifficultyColorPalette.html#a1d0237b7bbf4803fcd48cf48720a6a01":[1,0,39,2]
+"classDifficultyColorPalette.html#a0d69e1483e7a75cd94566891dbbea22e":[1,0,39,4]
 };

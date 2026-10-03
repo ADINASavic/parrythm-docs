@@ -1,5 +1,6 @@
 var NAVTREEINDEX3 =
 {
+"classDifficultyColorPalette.html#a1d0237b7bbf4803fcd48cf48720a6a01":[1,0,39,2],
 "classDifficultyColorPalette.html#a4221115dbd9a1bf9e21bd77a7c8d1e3f":[1,0,39,1],
 "classDifficultyColorPalette.html#a4abb5c6234fefc577f4858c141bc4365":[1,0,39,3],
 "classDifficultyColorPalette.html#ad3263234dbf14b78a2cef8426e4911c4":[1,0,39,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX3 =
 "classLevelChartData.html#ada812263c42510ed1c0fb9c2eb528a3fa967d35e40f3f95b1f538bd248640bf3b":[1,0,65,3,4],
 "classLevelChartData.html#ada812263c42510ed1c0fb9c2eb528a3fabe53a0541a6d36f6ecb879fa2c584b08":[1,0,65,3,7],
 "classLevelChartData.html#ada812263c42510ed1c0fb9c2eb528a3fad7a3fdf1351b72249a47454751549deb":[1,0,65,3,6],
-"classLevelChartData.html#ae1819f5daa744a8d23985a383e48eb4a":[1,0,65,7],
-"classLevelChartData_1_1NoteEvent.html":[1,0,65,0]
+"classLevelChartData.html#ae1819f5daa744a8d23985a383e48eb4a":[1,0,65,7]
 };

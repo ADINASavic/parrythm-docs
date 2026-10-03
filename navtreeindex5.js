@@ -1,5 +1,6 @@
 var NAVTREEINDEX5 =
 {
+"classNotes_1_1Square_1_1SquareNoteJudge.html#a26c524dda07dd0d2a022fc96ca0df74d":[1,0,0,1,1,12],
 "classNotes_1_1Square_1_1SquareNoteJudge.html#a4a419ea8ea8847650bc17419d878d87f":[0,0,0,1,1,3],
 "classNotes_1_1Square_1_1SquareNoteJudge.html#a4a419ea8ea8847650bc17419d878d87f":[1,0,0,1,1,3],
 "classNotes_1_1Square_1_1SquareNoteJudge.html#a625af775558ed65067119adc0466639e":[1,0,0,1,1,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX5 =
 "classOutgameNavigator.html":[1,0,88],
 "classOutgameNavigator.html#a0febaea0fe55ab07da70c0c87e450ce5":[1,0,88,4],
 "classOutgameNavigator.html#a2148fdea066161e83aea79f1a89fc794":[1,0,88,2],
-"classOutgameNavigator.html#a2af2b5d05565f9a4beac391228f8c3c5":[1,0,88,5],
-"classOutgameNavigator.html#a3f51ce71e076e2c2758ca25c784234a5":[1,0,88,1]
+"classOutgameNavigator.html#a2af2b5d05565f9a4beac391228f8c3c5":[1,0,88,5]
 };
