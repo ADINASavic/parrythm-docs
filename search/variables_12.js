@@ -44,7 +44,7 @@ var searchData=
   ['snapenabled_41',['snapEnabled',['../classChartEditorSettings.html#a2bc7ee9b2ab0c40bae09dfe3bbc295f3',1,'ChartEditorSettings']]],
   ['songtitle_42',['songTitle',['../structRatingEntry.html#a7d9eae8e2aaea913307c29eba150b6d2',1,'RatingEntry']]],
   ['sortingorder_43',['sortingOrder',['../classCircleNoteVisual.html#ad41da313494b79c16e7914121547b737',1,'CircleNoteVisual']]],
-  ['source_44',['source',['../classMiniMapView.html#a496ae012913ef7a14a5bd7a479db2c3e',1,'MiniMapView.Source'],['../classSongEntry.html#aed6f9f125dc5a1323f1f1923b8df903e',1,'SongEntry.source']]],
+  ['source_44',['source',['../classSongEntry.html#aed6f9f125dc5a1323f1f1923b8df903e',1,'SongEntry.source'],['../classMiniMapView.html#a496ae012913ef7a14a5bd7a479db2c3e',1,'MiniMapView.Source']]],
   ['spawn_45',['spawn',['../structBulletPlacement_1_1Triplet.html#aebb85e025ca333f74cdcf36b7cbcbbbb',1,'BulletPlacement::Triplet']]],
   ['spawner_46',['spawner',['../classChartPlayer.html#a05f25c9446192964d8daf7e7dd3b7d92',1,'ChartPlayer']]],
   ['spawnkinds_47',['SpawnKinds',['../classSpecialBulletPattern.html#a57aa515e93c7131b6d900f2bd83a2449',1,'SpecialBulletPattern']]],
