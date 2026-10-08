@@ -1,65 +1,67 @@
 <map id="ResultScreenController.ShowAsync" name="ResultScreenController.ShowAsync">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,531,215,571"/>
-<area shape="rect" id="Node000002" href="$structPlayIdentity.html#a15d2eceaa2670f0ccd4d1cc846133e41" title=" " alt="" coords="1332,123,1485,149"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,530,125,465,152,373,172,322,196,272,226,224,261,181,347,96,387,66,428,41,471,24,519,12,574,5,639,3,896,3,1000,6,1080,18,1159,39,1258,69,1318,91,1371,115,1369,120,1316,96,1256,75,1157,44,1079,24,999,12,896,8,639,8,575,10,520,17,473,29,430,46,390,70,351,100,265,184,230,227,201,274,177,324,157,374,130,466,117,531"/>
-<area shape="rect" id="Node000003" href="$classRatingService.html#aa08de3267e652feb395251c99c27c2c4" title="Per&#45;chart rating (see class summary for the curve): 0 below 80%, level × Entry(acc) up to 95%,..." alt="" coords="1045,309,1255,349"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="125,528,181,471,219,440,262,416,361,379,466,352,572,333,677,321,779,314,873,312,1031,317,1031,322,873,317,779,319,678,326,573,338,467,357,363,385,264,421,222,445,184,475,129,532"/>
-<area shape="rect" id="Node000004" href="$interfaceILeaderboardService.html#acf06c139471f3d25219726204a37e1c4" title=" " alt="" coords="273,677,475,717"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="134,569,191,616,226,641,264,663,279,670,277,675,261,668,223,646,187,620,131,573"/>
-<area shape="rect" id="Node000005" href="$classRatingService.html#ad437e0dc7386eebeb74df485e199eb2b" title="Top count &#160;rating entries (Best 15 by default)." alt="" coords="533,425,747,450"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="131,528,187,485,223,463,262,447,327,431,394,423,459,420,520,422,520,427,459,426,394,428,328,436,264,452,226,468,190,489,134,533"/>
-<area shape="rect" id="Node000007" href="$classLocalScoreSaveService.html#a55f704f0060305a1e1cfff737df74ccf" title=" " alt="" coords="1051,563,1249,603"/>
-<area shape="poly" id="edge14_Node000001_Node000007" title=" " alt="" coords="215,551,1037,577,1037,582,215,557"/>
-<area shape="rect" id="Node000009" href="$classChartRegistryService.html#a5c08ea9cba9e90803d9a439e4efa36f1" title=" " alt="" coords="1043,475,1257,515"/>
-<area shape="poly" id="edge18_Node000001_Node000009" title=" " alt="" coords="215,542,1029,498,1029,504,215,548"/>
-<area shape="rect" id="Node000011" href="$classPlayerProfileService.html#af6f49ad99fa65ed67cae9ed21e2243a2" title=" " alt="" coords="285,741,463,781"/>
-<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="125,570,147,604,179,647,218,690,264,727,274,733,272,738,261,732,215,694,175,650,143,607,121,573"/>
-<area shape="rect" id="Node000012" href="$classRatingService.html#afbc8b2657b7d513c8b1fb88ffb74372d" title="The player rating: average of the Best 15 chart ratings (missing slots count as 0)." alt="" coords="263,462,485,487"/>
-<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="180,528,315,489,317,494,181,533"/>
-<area shape="rect" id="Node000013" href="$classAchievementService.html#aec043ccc8e0c9bb9926340c27f1cd702" title=" " alt="" coords="271,805,477,845"/>
-<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="121,570,139,616,169,675,211,738,236,766,264,791,272,796,269,801,261,795,232,770,207,741,164,678,134,618,116,572"/>
-<area shape="rect" id="Node000014" href="$classPlaySessionService.html#ae0eaca5cd997bd16a49e3a9c2e7a5272" title=" " alt="" coords="275,195,473,235"/>
-<area shape="poly" id="edge19_Node000001_Node000014" title=" " alt="" coords="125,529,261,353,346,244,350,247,265,356,129,532"/>
-<area shape="rect" id="Node000020" href="$interfaceILeaderboardService.html#a35cf5b1b782bd61e018993e4365e9a37" title=" " alt="" coords="271,869,477,909"/>
-<area shape="poly" id="edge32_Node000001_Node000020" title=" " alt="" coords="118,570,133,627,161,704,180,745,204,785,232,823,264,855,271,860,267,864,261,859,228,826,199,788,175,748,156,706,128,629,113,572"/>
-<area shape="rect" id="Node000021" href="$classLocalScoreSaveService.html#a41cafea20dc5b7c1657158999b0f7a60" title=" " alt="" coords="277,613,471,653"/>
-<area shape="poly" id="edge33_Node000001_Node000021" title=" " alt="" coords="175,568,297,607,295,612,174,573"/>
-<area shape="rect" id="Node000006" href="$classRatingService.html#ab9fe02fa1996bcb3df8bf42d9d72454d" title="Online: all server bests joined with the registry. Offline: local played charts." alt="" coords="795,417,995,457"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="747,435,781,435,781,440,747,440"/>
-<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="994,418,1155,387,1220,372,1256,359,1282,338,1306,314,1346,259,1376,205,1395,161,1400,163,1381,207,1351,262,1310,317,1286,342,1259,364,1222,377,1156,392,995,423"/>
-<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="939,415,994,390,1042,366,1076,352,1078,357,1044,370,996,394,941,420"/>
-<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="929,455,1044,524,1098,554,1096,558,1041,529,926,460"/>
-<area shape="poly" id="edge11_Node000006_Node000009" title=" " alt="" coords="985,455,1047,469,1046,474,984,460"/>
-<area shape="rect" id="Node000010" href="$classSongScanner.html#abc765422ac2b4142ede50a0641cfeb2b" title=" " alt="" coords="1071,425,1229,450"/>
-<area shape="poly" id="edge12_Node000006_Node000010" title=" " alt="" coords="995,435,1057,435,1057,440,995,440"/>
-<area shape="poly" id="edge9_Node000007_Node000007" title=" " alt="" coords="1103,563,1100,553,1108,544,1124,538,1150,536,1179,539,1195,546,1193,551,1178,544,1150,541,1125,543,1111,548,1105,554,1108,561"/>
-<area shape="rect" id="Node000008" href="$classLocalScoreSaveService.html#a36f373f8b6b5b0bd1ff2ade5d75cabaa" title=" " alt="" coords="1305,662,1512,687"/>
-<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="1222,600,1258,612,1366,654,1364,659,1256,617,1220,605"/>
-<area shape="poly" id="edge16_Node000012_Node000005" title=" " alt="" coords="464,459,535,449,536,455,465,465"/>
-<area shape="poly" id="edge20_Node000014_Node000002" title=" " alt="" coords="403,192,461,158,496,142,533,129,640,102,732,83,814,72,892,68,970,70,1053,76,1258,99,1351,117,1350,122,1257,104,1053,81,969,75,892,73,815,77,733,88,641,107,534,135,498,147,464,163,406,197"/>
-<area shape="rect" id="Node000015" href="$classPlaySessionService.html#a07456181ef672c9b84ea7e08a12cbcaa" title=" " alt="" coords="538,145,742,170"/>
-<area shape="poly" id="edge21_Node000014_Node000015" title=" " alt="" coords="467,192,567,170,568,176,468,197"/>
-<area shape="rect" id="Node000016" href="$structPlayIdentity.html#aad1d43a80fcebddfaf76d93f58fa25c1" title=" " alt="" coords="1071,259,1229,285"/>
-<area shape="poly" id="edge22_Node000014_Node000016" title=" " alt="" coords="466,232,534,244,664,260,795,268,933,272,1058,271,1058,277,933,277,795,273,663,266,533,249,465,237"/>
-<area shape="rect" id="Node000017" href="$classChartServerService.html#abfad58a3f50ce1bba98bd88f22668846" title=" " alt="" coords="541,195,739,235"/>
-<area shape="poly" id="edge23_Node000014_Node000017" title=" " alt="" coords="473,212,527,212,527,217,473,217"/>
-<area shape="poly" id="edge29_Node000017_Node000002" title=" " alt="" coords="710,192,746,179,769,166,794,155,863,138,935,126,1079,115,1211,116,1319,123,1318,128,1211,121,1079,120,936,131,864,143,796,160,772,171,748,184,711,197"/>
-<area shape="poly" id="edge30_Node000017_Node000016" title=" " alt="" coords="728,232,795,244,933,259,1058,266,1057,272,932,264,794,249,727,237"/>
-<area shape="rect" id="Node000018" href="$classPlayerProfileService.html#acc97389f6b804fff5ddf210ff4ccfcf4" title=" " alt="" coords="798,195,991,235"/>
-<area shape="poly" id="edge24_Node000017_Node000018" title=" " alt="" coords="739,212,784,212,784,217,739,217"/>
-<area shape="rect" id="Node000019" href="$classPlayerProfileService.html#a56dbfa3488b69024b2ba35aa62795cb1" title=" " alt="" coords="1047,144,1253,184"/>
-<area shape="poly" id="edge31_Node000017_Node000019" title=" " alt="" coords="725,192,794,180,917,168,1033,163,1033,168,918,174,795,185,726,197"/>
-<area shape="poly" id="edge25_Node000018_Node000002" title=" " alt="" coords="991,216,1119,212,1188,205,1257,193,1317,175,1369,152,1371,157,1319,180,1258,199,1189,210,1119,217,992,221"/>
-<area shape="poly" id="edge26_Node000018_Node000016" title=" " alt="" coords="985,232,1080,254,1079,259,984,237"/>
-<area shape="poly" id="edge27_Node000018_Node000019" title=" " alt="" coords="991,193,1035,184,1036,189,992,198"/>
-<area shape="poly" id="edge28_Node000019_Node000002" title=" " alt="" coords="1253,150,1318,143,1318,148,1254,155"/>
-<area shape="poly" id="edge34_Node000021_Node000008" title=" " alt="" coords="472,651,657,686,883,722,995,736,1100,745,1189,747,1257,740,1320,719,1374,692,1376,697,1322,724,1258,745,1189,752,1099,750,995,742,882,728,656,691,471,656"/>
-<area shape="rect" id="Node000022" href="$classLocalScoreSaveService.html#a2bd1dd55ab26a68c171d56625d182860" title=" " alt="" coords="536,627,744,653"/>
-<area shape="poly" id="edge35_Node000021_Node000022" title=" " alt="" coords="472,633,522,634,522,640,471,638"/>
-<area shape="rect" id="Node000023" href="$classLocalSettingsSaveStorage.html#aad8de471d4ed920a72d56a210230363a" title=" " alt="" coords="797,627,992,667"/>
-<area shape="poly" id="edge36_Node000022_Node000023" title=" " alt="" coords="744,640,784,641,784,646,744,645"/>
-<area shape="rect" id="Node000024" href="$classLocalSettingsSaveStorage.html#a83f349c86c884c85ae233d2ee1600627" title=" " alt="" coords="1053,691,1247,731"/>
-<area shape="poly" id="edge37_Node000023_Node000024" title=" " alt="" coords="976,664,1057,685,1056,690,975,669"/>
-<area shape="rect" id="Node000025" href="$classLocalSettingsSaveStorage.html#a04098d037e8125d33736346f2199394e" title=" " alt="" coords="1053,627,1247,667"/>
-<area shape="poly" id="edge38_Node000023_Node000025" title=" " alt="" coords="992,644,1039,644,1039,649,992,649"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,341,215,381"/>
+<area shape="rect" id="Node000002" href="$structPlayIdentity.html#a15d2eceaa2670f0ccd4d1cc846133e41" title=" " alt="" coords="1343,543,1496,569"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,350,414,336,644,329,907,329,983,336,1058,353,1130,379,1198,410,1260,444,1315,478,1393,533,1390,537,1312,482,1258,449,1196,415,1128,384,1056,359,982,341,907,335,644,335,414,342,215,355"/>
+<area shape="rect" id="Node000003" href="$classRatingService.html#aa08de3267e652feb395251c99c27c2c4" title="Per&#45;chart rating (see class summary for the curve): 0 below 80%, level × Entry(acc) up to 95%,..." alt="" coords="1055,56,1266,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="114,340,130,290,158,224,178,189,201,157,229,127,261,103,311,76,364,54,418,37,474,23,587,7,700,3,809,8,910,20,999,35,1072,50,1071,55,998,40,910,25,809,13,700,8,588,12,475,28,419,42,366,59,314,81,264,108,233,131,206,160,182,192,163,226,135,292,119,342"/>
+<area shape="rect" id="Node000004" href="$interfaceILeaderboardService.html#acf06c139471f3d25219726204a37e1c4" title=" " alt="" coords="273,153,475,193"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="125,339,181,276,219,241,261,210,287,197,289,201,264,214,222,245,185,280,129,343"/>
+<area shape="rect" id="Node000005" href="$classRatingService.html#ad437e0dc7386eebeb74df485e199eb2b" title="Top count &#160;rating entries (Best 15 by default)." alt="" coords="539,218,752,243"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="131,339,187,294,223,271,262,254,328,236,396,225,463,220,525,220,525,225,464,226,397,230,329,241,264,259,225,276,190,298,134,343"/>
+<area shape="rect" id="Node000007" href="$classLocalScoreSaveService.html#a55f704f0060305a1e1cfff737df74ccf" title=" " alt="" coords="1061,548,1260,588"/>
+<area shape="poly" id="edge14_Node000001_Node000007" title=" " alt="" coords="123,380,143,419,173,466,214,512,238,531,264,547,327,568,413,581,515,589,627,591,856,586,1048,575,1048,580,856,591,627,597,515,594,413,587,326,573,262,552,235,536,210,516,169,469,138,421,118,383"/>
+<area shape="rect" id="Node000009" href="$classChartRegistryService.html#a5c08ea9cba9e90803d9a439e4efa36f1" title=" " alt="" coords="1053,141,1268,181"/>
+<area shape="poly" id="edge18_Node000001_Node000009" title=" " alt="" coords="115,340,133,296,163,239,206,183,232,159,261,139,290,127,324,118,409,106,510,102,621,104,847,120,1040,142,1039,147,846,126,620,110,510,108,410,112,326,123,292,132,264,144,235,163,209,186,168,242,138,298,120,342"/>
+<area shape="rect" id="Node000011" href="$classPlayerProfileService.html#af6f49ad99fa65ed67cae9ed21e2243a2" title=" " alt="" coords="285,369,463,409"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="215,370,271,376,270,381,215,375"/>
+<area shape="rect" id="Node000012" href="$classRatingService.html#afbc8b2657b7d513c8b1fb88ffb74372d" title="The player rating: average of the Best 15 chart ratings (missing slots count as 0)." alt="" coords="263,269,485,294"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="173,339,262,311,314,295,316,301,263,316,174,344"/>
+<area shape="rect" id="Node000013" href="$classAchievementService.html#aec043ccc8e0c9bb9926340c27f1cd702" title=" " alt="" coords="271,497,477,537"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="132,380,188,431,225,459,264,483,279,490,276,495,261,488,222,463,185,435,129,384"/>
+<area shape="rect" id="Node000014" href="$classPlaySessionService.html#ae0eaca5cd997bd16a49e3a9c2e7a5272" title=" " alt="" coords="275,433,473,473"/>
+<area shape="poly" id="edge19_Node000001_Node000014" title=" " alt="" coords="160,379,264,419,288,427,286,432,262,424,158,384"/>
+<area shape="rect" id="Node000021" href="$interfaceILeaderboardService.html#a35cf5b1b782bd61e018993e4365e9a37" title=" " alt="" coords="271,612,477,652"/>
+<area shape="poly" id="edge33_Node000001_Node000021" title=" " alt="" coords="122,381,141,424,172,481,213,540,237,567,264,591,284,604,281,608,261,596,234,571,209,543,167,484,136,427,117,383"/>
+<area shape="rect" id="Node000022" href="$classLocalScoreSaveService.html#a41cafea20dc5b7c1657158999b0f7a60" title=" " alt="" coords="277,872,471,912"/>
+<area shape="poly" id="edge34_Node000001_Node000022" title=" " alt="" coords="124,380,359,859,354,861,119,383"/>
+<area shape="rect" id="Node000006" href="$classRatingService.html#ab9fe02fa1996bcb3df8bf42d9d72454d" title="Online: all server bests joined with the registry. Offline: local played charts." alt="" coords="805,211,1005,251"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="752,228,791,228,791,233,752,233"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="1006,247,1167,280,1233,297,1269,311,1298,335,1323,362,1364,422,1393,482,1412,529,1407,531,1389,484,1359,425,1318,365,1294,339,1267,316,1231,302,1166,286,1005,252"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="932,208,986,169,1052,127,1102,100,1105,105,1055,132,989,174,935,213"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="924,249,1138,535,1134,538,920,252"/>
+<area shape="poly" id="edge11_Node000006_Node000009" title=" " alt="" coords="979,208,1072,183,1074,188,980,213"/>
+<area shape="rect" id="Node000010" href="$classSongScanner.html#abc765422ac2b4142ede50a0641cfeb2b" title=" " alt="" coords="1082,218,1239,243"/>
+<area shape="poly" id="edge12_Node000006_Node000010" title=" " alt="" coords="1005,228,1068,228,1068,233,1005,233"/>
+<area shape="poly" id="edge9_Node000007_Node000007" title=" " alt="" coords="1114,549,1111,538,1118,529,1135,524,1161,521,1190,524,1206,532,1204,536,1189,529,1161,527,1136,529,1121,534,1116,539,1119,547"/>
+<area shape="rect" id="Node000008" href="$classLocalScoreSaveService.html#a36f373f8b6b5b0bd1ff2ade5d75cabaa" title=" " alt="" coords="1316,701,1523,726"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="1199,586,1385,692,1382,696,1196,591"/>
+<area shape="poly" id="edge16_Node000012_Node000005" title=" " alt="" coords="442,266,563,243,564,249,443,271"/>
+<area shape="poly" id="edge20_Node000014_Node000002" title=" " alt="" coords="474,463,534,469,645,477,740,480,902,479,1063,484,1158,493,1268,510,1322,522,1371,536,1369,542,1320,527,1268,515,1157,498,1063,489,902,485,740,485,645,482,533,475,473,469"/>
+<area shape="rect" id="Node000015" href="$classPlaySessionService.html#a07456181ef672c9b84ea7e08a12cbcaa" title=" " alt="" coords="543,370,747,395"/>
+<area shape="poly" id="edge21_Node000014_Node000015" title=" " alt="" coords="444,431,533,406,572,396,573,401,534,411,445,436"/>
+<area shape="rect" id="Node000016" href="$interfaceILeaderboardService.html#a068dbc1fb5375020cdbe56b9c43e4b79" title=" " alt="" coords="533,420,757,460"/>
+<area shape="poly" id="edge22_Node000014_Node000016" title=" " alt="" coords="473,446,519,444,520,449,474,451"/>
+<area shape="rect" id="Node000017" href="$structPlayIdentity.html#aad1d43a80fcebddfaf76d93f58fa25c1" title=" " alt="" coords="1082,778,1239,803"/>
+<area shape="poly" id="edge23_Node000014_Node000017" title=" " alt="" coords="473,472,487,484,507,512,515,541,516,569,513,597,509,624,510,652,517,679,535,706,563,734,594,757,628,776,664,792,739,813,818,824,897,826,971,822,1093,804,1094,809,971,827,897,831,818,829,738,818,662,797,626,781,591,761,560,738,531,710,512,681,504,652,504,624,507,596,510,568,510,541,502,514,483,487,469,476"/>
+<area shape="rect" id="Node000018" href="$classChartServerService.html#abfad58a3f50ce1bba98bd88f22668846" title=" " alt="" coords="547,656,744,696"/>
+<area shape="poly" id="edge24_Node000014_Node000018" title=" " alt="" coords="464,471,487,483,532,520,572,563,604,606,628,643,624,646,600,609,568,566,529,524,484,488,462,476"/>
+<area shape="poly" id="edge30_Node000018_Node000002" title=" " alt="" coords="744,663,1025,632,1166,614,1267,598,1367,571,1368,576,1269,603,1166,619,1026,638,745,669"/>
+<area shape="poly" id="edge31_Node000018_Node000017" title=" " alt="" coords="675,694,733,731,769,749,806,763,873,779,942,788,1068,792,1068,798,942,793,872,784,805,768,767,754,731,736,672,699"/>
+<area shape="rect" id="Node000019" href="$classPlayerProfileService.html#acc97389f6b804fff5ddf210ff4ccfcf4" title=" " alt="" coords="809,713,1002,753"/>
+<area shape="poly" id="edge25_Node000018_Node000019" title=" " alt="" coords="737,694,802,708,800,713,736,699"/>
+<area shape="rect" id="Node000020" href="$classPlayerProfileService.html#a56dbfa3488b69024b2ba35aa62795cb1" title=" " alt="" coords="1057,663,1264,703"/>
+<area shape="poly" id="edge32_Node000018_Node000020" title=" " alt="" coords="744,675,1044,679,1044,684,744,680"/>
+<area shape="poly" id="edge26_Node000019_Node000002" title=" " alt="" coords="1002,745,1064,748,1132,745,1201,735,1267,712,1311,685,1349,649,1379,612,1401,579,1406,582,1384,615,1353,653,1314,689,1269,717,1202,740,1132,751,1064,753,1002,750"/>
+<area shape="poly" id="edge27_Node000019_Node000017" title=" " alt="" coords="996,751,1091,773,1090,778,994,756"/>
+<area shape="poly" id="edge28_Node000019_Node000020" title=" " alt="" coords="1002,712,1046,703,1047,708,1003,717"/>
+<area shape="poly" id="edge29_Node000020_Node000002" title=" " alt="" coords="1222,660,1267,642,1331,607,1386,574,1389,579,1334,612,1269,647,1224,665"/>
+<area shape="poly" id="edge35_Node000022_Node000008" title=" " alt="" coords="472,897,628,902,725,901,829,896,939,886,1050,869,1161,846,1267,814,1303,797,1338,776,1393,734,1396,738,1341,781,1306,802,1269,819,1162,851,1051,875,939,891,829,901,725,906,628,907,472,902"/>
+<area shape="rect" id="Node000023" href="$classLocalScoreSaveService.html#a2bd1dd55ab26a68c171d56625d182860" title=" " alt="" coords="541,933,749,958"/>
+<area shape="poly" id="edge36_Node000022_Node000023" title=" " alt="" coords="472,909,567,927,566,933,471,914"/>
+<area shape="rect" id="Node000024" href="$classLocalSettingsSaveStorage.html#aad8de471d4ed920a72d56a210230363a" title=" " alt="" coords="808,929,1003,969"/>
+<area shape="poly" id="edge37_Node000023_Node000024" title=" " alt="" coords="750,944,794,945,794,950,749,950"/>
+<area shape="rect" id="Node000025" href="$classLocalSettingsSaveStorage.html#a83f349c86c884c85ae233d2ee1600627" title=" " alt="" coords="1063,929,1258,969"/>
+<area shape="poly" id="edge38_Node000024_Node000025" title=" " alt="" coords="1003,947,1049,947,1049,952,1003,952"/>
+<area shape="rect" id="Node000026" href="$classLocalSettingsSaveStorage.html#a04098d037e8125d33736346f2199394e" title=" " alt="" coords="1063,993,1258,1033"/>
+<area shape="poly" id="edge39_Node000024_Node000026" title=" " alt="" coords="987,967,1068,988,1066,993,985,972"/>
 </map>

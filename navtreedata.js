@@ -64,9 +64,9 @@ var NAVTREEINDEX =
 "classDifficultyColorPalette.html#a1d0237b7bbf4803fcd48cf48720a6a01",
 "classLevelChartData_1_1NoteEvent.html",
 "classNotes_1_1Square_1_1SquareNoteJudge.html#a26c524dda07dd0d2a022fc96ca0df74d",
-"classOutgameNavigator.html#a3f51ce71e076e2c2758ca25c784234a5",
-"classSaveIdentity.html#a7d8bdd2ebaad1159ca16259b3be20648",
-"dir_a3deeb59d08beb4b77f34cc987778a93.html"
+"classOutgameNavigator.html#a2af2b5d05565f9a4beac391228f8c3c5",
+"classSaveIdentity.html#a2259c9bb617400523ea02595318e1e31",
+"dir_9d7a45f240f7ee9093e307b8c3e3ccfc.html"
 ];
 
 var SYNCONMSG = '패널 동기화를 비활성화하기 위해 클릭하십시오';

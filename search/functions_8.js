@@ -12,7 +12,7 @@ var searchData=
   ['initializewithchart_9',['InitializeWithChart',['../classChartPlayer.html#aa186210a0e41de729a2dae6e8272a830',1,'ChartPlayer']]],
   ['inoutquad_10',['InOutQuad',['../classEaseUtil.html#aa3b7f1d3756fb3f27caaf24e1c205ee3',1,'EaseUtil']]],
   ['inputupdate_11',['InputUpdate',['../classSliderNote.html#a0c6edc363da0f3f6f7e756f9e6cf96f6',1,'SliderNote']]],
-  ['invalidatecache_12',['InvalidateCache',['../classSongScanner.html#a1c86d95327ae61b09137eb71bc6e6f92',1,'SongScanner']]],
+  ['invalidatecache_12',['invalidatecache',['../classLocalLeaderboardSaveService.html#a38b4f6b28eae46c1a0701b2bc87f40bd',1,'LocalLeaderboardSaveService.InvalidateCache()'],['../classSongScanner.html#a1c86d95327ae61b09137eb71bc6e6f92',1,'SongScanner.InvalidateCache()'],['../interfaceILeaderboardService.html#a068dbc1fb5375020cdbe56b9c43e4b79',1,'ILeaderboardService.InvalidateCache()']]],
   ['isexpired_13',['IsExpired',['../classCircleNote.html#a37a5dc83333b7b43185c30dfdd5b6c2b',1,'CircleNote']]],
   ['isghostcell_14',['IsGhostCell',['../classKeyboardInputManager.html#a448e22792b2b936af8b92f6ead339955',1,'KeyboardInputManager']]],
   ['isghostnow_15',['IsGhostNow',['../classNotes_1_1Lane_1_1LaneOccupancyProvider.html#a371ec12c6d25dfe5b933a5f4b8f67282',1,'Notes::Lane::LaneOccupancyProvider']]],
