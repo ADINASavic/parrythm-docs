@@ -89,6 +89,6 @@ var searchData=
   ['issued_86',['issued',['../classChartServerService_1_1PlayToken.html#aff56914f2a31f832029b23451d7ecbb1',1,'ChartServerService::PlayToken']]],
   ['istageendtrigger_87',['IStageEndTrigger',['../interfaceIStageEndTrigger.html',1,'']]],
   ['istageendtrigger_2ecs_88',['IStageEndTrigger.cs',['../IStageEndTrigger_8cs.html',1,'']]],
-  ['istrail_89',['istrail',['../classLevelChartData_1_1NoteEvent.html#ad5fb2ddd29dc178d881ff51d0cb7bc81',1,'LevelChartData.NoteEvent.isTrail'],['../classCircleNote.html#aebf93f5101c71e6b5817c652fa34ab02',1,'CircleNote.IsTrail']]],
+  ['istrail_89',['istrail',['../classCircleNote.html#aebf93f5101c71e6b5817c652fa34ab02',1,'CircleNote.IsTrail'],['../classLevelChartData_1_1NoteEvent.html#ad5fb2ddd29dc178d881ff51d0cb7bc81',1,'LevelChartData.NoteEvent.isTrail']]],
   ['iswithinrouterhitrange_90',['IsWithinRouterHitRange',['../classCircleNote.html#a64264207480052b8ef67e68c4ed81b22',1,'CircleNote']]]
 ];

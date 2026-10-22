@@ -7,7 +7,7 @@ var searchData=
   ['selection_4',['selection',['../classChartEditorThemeState_1_1WaveTokens.html#a84293699d8418585a3ac2ef2f7cdab3d',1,'ChartEditorThemeState::WaveTokens']]],
   ['selectionline_5',['selectionLine',['../classChartEditorThemeState_1_1WaveTokens.html#a14d43d7cf4945c52ebeee6373781f6e8',1,'ChartEditorThemeState::WaveTokens']]],
   ['settings_6',['Settings',['../classPreviewView.html#aaa4325bacabd6684b795c9f9c8c6ae7b',1,'PreviewView']]],
-  ['sfxvolume_7',['sfxvolume',['../classJudge.html#a357454720b722e014bd06a349da06f8f',1,'Judge.SFXVolume'],['../classPlayerPreferences.html#a862ab2e96780c9e87812bd31d4ba3527',1,'PlayerPreferences.sfxVolume']]],
+  ['sfxvolume_7',['sfxvolume',['../classPlayerPreferences.html#a862ab2e96780c9e87812bd31d4ba3527',1,'PlayerPreferences.sfxVolume'],['../classJudge.html#a357454720b722e014bd06a349da06f8f',1,'Judge.SFXVolume']]],
   ['showseconds_8',['showSeconds',['../classJudge.html#a155a0b9ce598c149580e1f045e7be3e5',1,'Judge']]],
   ['simultaneousleadfillcolor_9',['simultaneousleadfillcolor',['../classCircleNote.html#a016ce45049ca4fbd55eb9570dfc6542e',1,'CircleNote.simultaneousLeadFillColor'],['../classSliderNote.html#a366fc6bcc4b1e2844659af837a5558b6',1,'SliderNote.simultaneousLeadFillColor'],['../classSliderNoteVisual.html#a55f2a01490d164dbfd9b071e326ffef3',1,'SliderNoteVisual.simultaneousLeadFillColor']]],
   ['simultaneousnoteaccentcolor_10',['simultaneousNoteAccentColor',['../classDeveloperSettings.html#ae575747f56bea4584afc8f7018fccf19',1,'DeveloperSettings']]],
