@@ -8,5 +8,6 @@ var searchData=
   ['inoteinit_5',['INoteInit',['../interfaceINoteInit.html',1,'']]],
   ['inputrouter_6',['InputRouter',['../classInputRouter.html',1,'']]],
   ['inputtimemapper_7',['InputTimeMapper',['../classInputTimeMapper.html',1,'']]],
-  ['istageendtrigger_8',['IStageEndTrigger',['../interfaceIStageEndTrigger.html',1,'']]]
+  ['iratingleaderboardservice_8',['IRatingLeaderboardService',['../interfaceIRatingLeaderboardService.html',1,'']]],
+  ['istageendtrigger_9',['IStageEndTrigger',['../interfaceIStageEndTrigger.html',1,'']]]
 ];

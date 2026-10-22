@@ -75,6 +75,7 @@ var annotated_dup =
     [ "INoteInit", "interfaceINoteInit.html", "interfaceINoteInit" ],
     [ "InputRouter", "classInputRouter.html", "classInputRouter" ],
     [ "InputTimeMapper", "classInputTimeMapper.html", "classInputTimeMapper" ],
+    [ "IRatingLeaderboardService", "interfaceIRatingLeaderboardService.html", "interfaceIRatingLeaderboardService" ],
     [ "IStageEndTrigger", "interfaceIStageEndTrigger.html", "interfaceIStageEndTrigger" ],
     [ "Judge", "classJudge.html", "classJudge" ],
     [ "KeyboardInputManager", "classKeyboardInputManager.html", "classKeyboardInputManager" ],

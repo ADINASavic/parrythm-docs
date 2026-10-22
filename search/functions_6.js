@@ -19,8 +19,9 @@ var searchData=
   ['getplayerrating_16',['GetPlayerRating',['../classRatingService.html#afbc8b2657b7d513c8b1fb88ffb74372d',1,'RatingService']]],
   ['getplayerratingtext_17',['GetPlayerRatingText',['../classRatingService.html#ae00db2d668daea40319120278a7c7bc0',1,'RatingService']]],
   ['getprofileasync_18',['GetProfileAsync',['../classChartServerService.html#a345368b9ebdf814cf2c757323d2d29fb',1,'ChartServerService']]],
-  ['gettoprecordsasync_19',['gettoprecordsasync',['../interfaceILeaderboardService.html#a15c4f829625ae39fb3a4d4f68e95c88d',1,'ILeaderboardService.GetTopRecordsAsync()'],['../classLocalLeaderboardSaveService.html#aaac1d80c3b8e8152d2cb203df3c47ca0',1,'LocalLeaderboardSaveService.GetTopRecordsAsync()']]],
-  ['getviewportrectpixels_20',['GetViewportRectPixels',['../classFixed16x9Camera.html#aa3157be0b1a46f77db4dae4a31a5b568',1,'Fixed16x9Camera']]],
-  ['gobacktooutgamescene_21',['GoBackToOutgameScene',['../classResultScreenController.html#a2dd34d6113d23e4a4ca644b187afa1e8',1,'ResultScreenController']]],
-  ['gridnotehandler_22',['GridNoteHandler',['../classGridNoteHandler.html#a3663502dd1cfd9034f5460c000c43f64',1,'GridNoteHandler']]]
+  ['gettopratingrecordsasync_19',['GetTopRatingRecordsAsync',['../interfaceIRatingLeaderboardService.html#a6221d891aa1364f3879027436db3cda3',1,'IRatingLeaderboardService']]],
+  ['gettoprecordsasync_20',['gettoprecordsasync',['../interfaceILeaderboardService.html#a15c4f829625ae39fb3a4d4f68e95c88d',1,'ILeaderboardService.GetTopRecordsAsync()'],['../classLocalLeaderboardSaveService.html#aaac1d80c3b8e8152d2cb203df3c47ca0',1,'LocalLeaderboardSaveService.GetTopRecordsAsync()']]],
+  ['getviewportrectpixels_21',['GetViewportRectPixels',['../classFixed16x9Camera.html#aa3157be0b1a46f77db4dae4a31a5b568',1,'Fixed16x9Camera']]],
+  ['gobacktooutgamescene_22',['GoBackToOutgameScene',['../classResultScreenController.html#a2dd34d6113d23e4a4ca644b187afa1e8',1,'ResultScreenController']]],
+  ['gridnotehandler_23',['GridNoteHandler',['../classGridNoteHandler.html#a3663502dd1cfd9034f5460c000c43f64',1,'GridNoteHandler']]]
 ];

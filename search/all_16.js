@@ -13,6 +13,6 @@ var searchData=
   ['voiceeventhandler_10',['voiceeventhandler',['../classVoiceEventHandler.html',1,'VoiceEventHandler'],['../classVoiceEventHandler.html#af9505e10b0c24089e1d7ada57f3dadb4',1,'VoiceEventHandler.VoiceEventHandler()']]],
   ['voiceeventhandler_2ecs_11',['VoiceEventHandler.cs',['../VoiceEventHandler_8cs.html',1,'']]],
   ['voiceeventpath_12',['voiceEventPath',['../classLevelChartData_1_1NoteEvent.html#a1e13dbc7640d556913ecc376cb325a2c',1,'LevelChartData::NoteEvent']]],
-  ['volume_13',['volume',['../classChartEditorMusic.html#a002d23e5396c9cc749be2ef304c5d632',1,'ChartEditorMusic.Volume'],['../classLevelChartData_1_1NoteEvent.html#a13e070c06fc97f7ba208780ce58c90c8',1,'LevelChartData.NoteEvent.volume']]],
+  ['volume_13',['volume',['../classLevelChartData_1_1NoteEvent.html#a13e070c06fc97f7ba208780ce58c90c8',1,'LevelChartData.NoteEvent.volume'],['../classChartEditorMusic.html#a002d23e5396c9cc749be2ef304c5d632',1,'ChartEditorMusic.Volume']]],
   ['vstate_14',['VState',['../classNotes_1_1Square_1_1SquareVisualBase.html#a5f0d4c5e181a0bc3c681c3b588c41ca7',1,'Notes::Square::SquareVisualBase']]]
 ];

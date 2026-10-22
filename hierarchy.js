@@ -58,6 +58,7 @@ var hierarchy =
       [ "VoiceEventHandler", "classVoiceEventHandler.html", null ]
     ] ],
     [ "INoteInit< TInit >", "interfaceINoteInit.html", null ],
+    [ "IRatingLeaderboardService", "interfaceIRatingLeaderboardService.html", null ],
     [ "IStageEndTrigger", "interfaceIStageEndTrigger.html", [
       [ "ChartEndWatcher", "classChartEndWatcher.html", null ]
     ] ],
